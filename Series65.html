@@ -93,10 +93,26 @@
 			
 			let filteredDataKeys = Object.keys(filteredData);
 			
-			let next = () => {
-				let index = Math.floor(Math.random() * filteredDataKeys.length);
+			let randomDataKeys = [];
+			
+			while(filteredDataKeys.length) {
+				let tempIndex = Math.floor(Math.random() * filteredDataKeys.length);
 				
-				let qData = filteredData[filteredDataKeys[index]];
+				randomDataKeys.push(filteredDataKeys[tempIndex]);
+				
+				filteredDataKeys.splice(tempIndex, 1);
+			}
+			
+			let randomDataKeysIndex = 0;
+			
+			let next = () => {		
+				if(randomDataKeysIndex >= randomDataKeys.length) {
+					alert("Contratulations! You have reached the end of the questions. Please refresh the page to start over.");
+					return;
+				}
+				
+				let qData = filteredData[randomDataKeys[randomDataKeysIndex]];
+				randomDataKeysIndex++;
 				
 				document.getElementById("question").innerHTML = qData.settings.question_title;
 				
@@ -149,6 +165,8 @@
 					document.getElementById("result").style.color = "red";
 				}
 			};
+			
+			next();
         </script>
     </body>
 </html>
