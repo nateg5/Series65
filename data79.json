@@ -1048,6 +1048,5 @@ let data79 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the economy is headed downward, safety is the imperative and nothing is as safe (at least for exam purposes) as U.S. Treasuries. Gold, and most other commodities, are a hedge against inflation, not deflation. In \\\"down\\\" times, real estate, both residential and commercial, usually underperforms.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the economy is headed downward, safety is the imperative and nothing is as safe (at least for exam purposes) as U.S. Treasuries. Gold, and most other commodities, are a hedge against inflation, not deflation. In \"down\" times, real estate, both residential and commercial, usually underperforms.<br /><br />U8LO3</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

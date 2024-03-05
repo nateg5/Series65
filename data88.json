@@ -1048,6 +1048,5 @@ let data88 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The investor is in a low tax bracket, so the tax-exempt municipal bond is not a suitable investment. To maximize income, the best recommendation is the corporate bond which offers a higher yield than a government bond with a similar maturity.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The investor is in a low tax bracket, so the tax-exempt municipal bond is not a suitable investment. To maximize income, the best recommendation is the corporate bond which offers a higher yield than a government bond with a similar maturity.<br /><br />U19LO6</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

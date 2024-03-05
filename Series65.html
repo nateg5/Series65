@@ -76,10 +76,27 @@
 			};
 			let dataKeys = Object.keys(data);
 			
+			let filteredData = {};
+			
+			for(let i = 0; i < dataKeys.length; i++) {
+				let found = false;
+				for(let j = i + 1; j < dataKeys.length; j++) {
+					if(data[dataKeys[i]].settings.question_title === data[dataKeys[j]].settings.question_title) {
+						found = true;
+						break;
+					}
+				}
+				if(!found) {
+					filteredData[dataKeys[i]] = data[dataKeys[i]];
+				}
+			}
+			
+			let filteredDataKeys = Object.keys(filteredData);
+			
 			let next = () => {
-				let index = Math.floor(Math.random() * dataKeys.length);
+				let index = Math.floor(Math.random() * filteredDataKeys.length);
 				
-				let qData = data[dataKeys[index]];
+				let qData = filteredData[filteredDataKeys[index]];
 				
 				document.getElementById("question").innerHTML = qData.settings.question_title;
 				

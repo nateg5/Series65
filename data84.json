@@ -1048,6 +1048,5 @@ let data84 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investor who wants the safety of a fixed-income investment with the potential for capital gains would be most interested in purchasing a convertible bond. However, because convertible bonds can be exchanged for common stock, their market price tends to be more volatile during times of steady interest rates than other fixed-income securities.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investor who wants the safety of a fixed-income investment with the potential for capital gains would be most interested in purchasing a convertible bond. However, because convertible bonds can be exchanged for common stock, their market price tends to be more volatile during times of steady interest rates than other fixed-income securities.<br /><br />U13LO8</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

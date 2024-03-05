@@ -1048,6 +1048,5 @@ let data87 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Among the benefits of a revocable trust is that the grantor (settlor) retains all control over the assets. There are no tax benefits, and the grantor can be the beneficiary (and trustee) if the trust is set up that way.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Among the benefits of a revocable trust is that the grantor (settlor) retains all control over the assets. There are no tax benefits, and the grantor can be the beneficiary (and trustee) if the trust is set up that way.<br /><br />U18LO5</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

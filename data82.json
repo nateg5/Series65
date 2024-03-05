@@ -1048,6 +1048,5 @@ let data82 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. In order to trade in the U.S. markets, information about the foreign company must be available to investors. ADRs representing the best known companies typically trade on the NYSE or the Nasdaq Stock Market, while lesser companies trade OTC.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. In order to trade in the U.S. markets, information about the foreign company must be available to investors. ADRs representing the best known companies typically trade on the NYSE or the Nasdaq Stock Market, while lesser companies trade OTC.<br /><br />U12LO5</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

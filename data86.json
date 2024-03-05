@@ -1048,6 +1048,5 @@ let data86 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Effecting transactions without specific written authority from the beneficial owner of the account is prohibited. This customer cannot sign trading authorization on behalf of his spouse. The spouse must sign the authorization.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Effecting transactions without specific written authority from the beneficial owner of the account is prohibited. This customer cannot sign trading authorization on behalf of his spouse. The spouse must sign the authorization.<br /><br />U18LO4</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

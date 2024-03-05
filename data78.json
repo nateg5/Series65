@@ -1048,6 +1048,5 @@ let data78 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is during periods of economic contraction that interest rates tend to decline. They tend to rise during expansions.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is during periods of economic contraction that interest rates tend to decline. They tend to rise during expansions.<br /><br />U8LO2</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };

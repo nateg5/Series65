@@ -1048,6 +1048,5 @@ let data81 = {
             "file_upload_type": ""
         },
         "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"FNMA, FHLMC, and FICB are considered GSEs (government-sponsored enterprises), and although their securities are quite safe, they do not have the direct backing of the Treasury. It is important to remember for the exam that the only security without the word Treasury in its name that is backed by the U.S. government is a GNMA.\\n\\nU13LO1Q\"}\" data-sheets-userformat=\"{\"2\":12673,\"3\":{\"1\":4,\"2\":\"\\\"$\\\"#,##0.00\"},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">FNMA, FHLMC, and FICB are considered GSEs (government-sponsored enterprises), and although their securities are quite safe, they do not have the direct backing of the Treasury. It is important to remember for the exam that the only security without the word Treasury in its name that is backed by the U.S. government is a GNMA.<br /><br />U13LO1Q</span>"
-    },
-    "correct_answer_logic": ""
+    }
 };
