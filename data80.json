@@ -1,0 +1,1053 @@
+let data80 = {
+    "3268": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Foreign goods and services will become more expensive for Americans.",
+                0,
+                0
+            ],
+            [
+                "B) The risk of stagflation will increase.",
+                0,
+                0
+            ],
+            [
+                "C) Shares of foreign stock will be worth more in terms of American dollars.",
+                0,
+                0
+            ],
+            [
+                "D) Foreign goods and services will become less expensive for Americans.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements best describes what will happen when the value of the American dollar rises in relationship to foreign currencies?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the value of the dollar rises, it will buy more foreign money, making foreign goods and services less expensive for Americans. Because foreign securities are valued in foreign currencies, shares of foreign stock will be worth fewer American dollars when the value of the dollar increases.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the value of the dollar rises, it will buy more foreign money, making foreign goods and services less expensive for Americans. Because foreign securities are valued in foreign currencies, shares of foreign stock will be worth fewer American dollars when the value of the dollar increases.<br /><br />U8LO1</span>"
+    },
+    "3269": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Machine tool orders",
+                0,
+                0
+            ],
+            [
+                "B) Agricultural employment",
+                0,
+                0
+            ],
+            [
+                "C) Stock market prices as measured by the S&amp;P 500",
+                0,
+                0
+            ],
+            [
+                "D) Industrial production",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is a coincident economic indicator?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Industrial production is a coincident indicator. The stock indexes and manufacturing orders are leading indicators. Economists do not use agricultural employment as an indicator.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Industrial production is a coincident indicator. The stock indexes and manufacturing orders are leading indicators. Economists do not use agricultural employment as an indicator.<br /><br />U8LO3</span>"
+    },
+    "3270": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) real estate",
+                0,
+                0
+            ],
+            [
+                "B) gold",
+                0,
+                0
+            ],
+            [
+                "C) common stock",
+                0,
+                0
+            ],
+            [
+                "D) U.S. Treasury securities",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All the pundits are predicting bad times ahead - not only a recession but a period where prices actually fall (deflation). If they are right, the best place for your client would probably be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is times like this that the flight to safety has investors commit their funds to U.S. government securities. Gold (and other commodities) tends to increase in price during inflationary, not deflationary, periods. Both real estate and equities tend to rise when things are good, not during recessions.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is times like this that the flight to safety has investors commit their funds to U.S. government securities. Gold (and other commodities) tends to increase in price during inflationary, not deflationary, periods. Both real estate and equities tend to rise when things are good, not during recessions.<br /><br />U8LO3</span>"
+    },
+    "3271": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The average cost of goods and services (market basket) in domestic currency, compared to the cost of those same goods and services in another country",
+                0,
+                0
+            ],
+            [
+                "B) The average cost of goods and services (market basket) purchased by consumers, compared to those same goods and services purchased during a base period",
+                1,
+                1
+            ],
+            [
+                "C) The wholesale cost of goods and services purchased by manufacturers, compared to those same goods and services purchased during a base period",
+                0,
+                0
+            ],
+            [
+                "D) The average increase in the general price level over a defined period of time",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following CORRECTLY defines the Consumer Price Index (CPI)?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Consumer Price Index (CPI) is the average cost of goods and services (market basket) purchased by consumers as compared to those same goods and services purchased during a base period. The CPI compares price inflation in one country and does not reflect the relative price changes of goods and services in one country with those of another. CPI measures retail prices not wholesale costs.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Consumer Price Index (CPI) is the average cost of goods and services (market basket) purchased by consumers as compared to those same goods and services purchased during a base period. The CPI compares price inflation in one country and does not reflect the relative price changes of goods and services in one country with those of another. CPI measures retail prices not wholesale costs.<br /><br />U8LO3</span>"
+    },
+    "3272": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) higher unemployment",
+                1,
+                1
+            ],
+            [
+                "B) manufacturer's inventories to decline",
+                0,
+                0
+            ],
+            [
+                "C) bond prices fall",
+                0,
+                0
+            ],
+            [
+                "D) a rising CPI",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "During an economic downturn, one would expect to see",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the economy enters the contraction portion of the business cycle, employers cut costs by letting employees go, thus increasing the number of unemployed persons. With less money in the economy, the CPI will generally remain level or even decline. Manufacturing sales will slow, so their inventories will rise as it takes longer to move product and we can expect a reduction in interest rates, which will cause bond prices to rise.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the economy enters the contraction portion of the business cycle, employers cut costs by letting employees go, thus increasing the number of unemployed persons. With less money in the economy, the CPI will generally remain level or even decline. Manufacturing sales will slow, so their inventories will rise as it takes longer to move product and we can expect a reduction in interest rates, which will cause bond prices to rise.<br /><br />U8LO3</span>"
+    },
+    "3273": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the Consumer Price Index excluding energy and food prices",
+                1,
+                1
+            ],
+            [
+                "B) the total of the leading indicators, excluding stock prices",
+                0,
+                0
+            ],
+            [
+                "C) the figure used to determine annual increases, if any, to Social Security benefits",
+                0,
+                0
+            ],
+            [
+                "D) the Consumer Price Index excluding housing and automobiles",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your client calls you after reading a story in the business section of his local newspaper. It seems that the article focused on changes to the core CPI and the client wants to know how that is different from the normal CPI. You should explain that it is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because of their high volatility, economists exclude energy and food prices from core inflation figures. Social Security adjustments (and many others as well) are based upon the CPI itself, not the core.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because of their high volatility, economists exclude energy and food prices from core inflation figures. Social Security adjustments (and many others as well) are based upon the CPI itself, not the core.<br /><br />U8LO3</span>"
+    },
+    "3274": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) They act as the basis of ETFs.",
+                0,
+                0
+            ],
+            [
+                "B) They help in portfolio performance measurement.",
+                1,
+                1
+            ],
+            [
+                "C) They act as a market barometer.",
+                0,
+                0
+            ],
+            [
+                "D) They are a lagging indicator of an economy's corporate performance.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Stock market indices have a variety of uses. Which of the following is least accurate regarding the use of stock market indices?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The stock market and market indices are leading indicators of the economy's corporate and financial performance.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The stock market and market indices are leading indicators of the economy's corporate and financial performance.<br /><br />U8LO3</span>"
+    },
+    "3275": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Short-term securities are affected the most.",
+                0,
+                0
+            ],
+            [
+                "B) Coupon rates go up.",
+                0,
+                0
+            ],
+            [
+                "C) Yields go up.",
+                0,
+                0
+            ],
+            [
+                "D) Prices go up.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "What generally happens to outstanding fixed-income securities when the rate of inflation slows?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the rate of inflation slows and is expected to remain stable, coupons on new issue bonds will often decline to offer lower yields. The prices of outstanding bonds will go up to adjust to the lower yields on bonds of similar quality.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the rate of inflation slows and is expected to remain stable, coupons on new issue bonds will often decline to offer lower yields. The prices of outstanding bonds will go up to adjust to the lower yields on bonds of similar quality.<br /><br />U8LO3</span>"
+    },
+    "3276": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The CPI measures the increase or decrease in the level of consumer prices with respect to the level of wholesale prices upon which consumer prices depend.",
+                1,
+                1
+            ],
+            [
+                "B) The CPI measures the rate of increase or decrease in a broad range of prices, such as food, housing, medical care, and clothing.",
+                0,
+                0
+            ],
+            [
+                "C) The CPI measures the increase in the general price level of a basket of consumer goods.",
+                0,
+                0
+            ],
+            [
+                "D) The CPI is computed monthly.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements about the consumer price index (CPI) is NOT true?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The CPI does not measure the increase or decrease in the level of consumer prices with respect to the level of wholesale prices. The CPI only measures retail prices whether or not wholesale prices are passed through to the consumer.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The CPI does not measure the increase or decrease in the level of consumer prices with respect to the level of wholesale prices. The CPI only measures retail prices whether or not wholesale prices are passed through to the consumer.<br /><br />U8LO3</span>"
+    },
+    "3277": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the central bank views as acceptable.",
+                0,
+                0
+            ],
+            [
+                "B) for producers' raw materials.",
+                0,
+                0
+            ],
+            [
+                "C) that excludes certain volatile goods prices.",
+                1,
+                1
+            ],
+            [
+                "D) that includes food and energy prices.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Core inflation is best described as an inflation rate",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Core inflation is measured using a price index that excludes food and energy prices. The primary reason for that is the volatility of those two.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Core inflation is measured using a price index that excludes food and energy prices. The primary reason for that is the volatility of those two.<br /><br />U8LO3</span>"
+    },
+    "3278": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) trailing indicator.",
+                0,
+                0
+            ],
+            [
+                "B) lagging indicator.",
+                1,
+                1
+            ],
+            [
+                "C) coincident indicator.",
+                0,
+                0
+            ],
+            [
+                "D) leading indicator.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An economic indicator that has turning points which tend to occur after the turning points in the business cycle is classified as a",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Lagging indicators have turning points that occur after business cycle turning points. That is why they are called lagging indicators. Leading indicators are ahead of the cycle and coincident indicators parallel the cycle.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Lagging indicators have turning points that occur after business cycle turning points. That is why they are called lagging indicators. Leading indicators are ahead of the cycle and coincident indicators parallel the cycle.<br /><br />U8LO3</span>"
+    },
+    "3279": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the business cycle is heading toward a trough.",
+                0,
+                0
+            ],
+            [
+                "B) the current rate of inflation will remain at this level until economic shocks cause it to change.",
+                1,
+                1
+            ],
+            [
+                "C) the economy is about to enter a deflationary period.",
+                0,
+                0
+            ],
+            [
+                "D) prices are increasing at a steady rate.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A business reporter claims that we are suffering from inertial inflation. This means",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Inertial inflation means that a change in the inflation rate is not expected until some kind of economic event \\\"shakes things up\\\" and causes the rate to move up or down.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Inertial inflation means that a change in the inflation rate is not expected until some kind of economic event \"shakes things up\" and causes the rate to move up or down.<br /><br />U8LO3</span>"
+    },
+    "3280": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the Treasury Department",
+                0,
+                0
+            ],
+            [
+                "B) the prime rate",
+                0,
+                0
+            ],
+            [
+                "C) the primary dealers",
+                0,
+                0
+            ],
+            [
+                "D) the inflation rate",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In the secondary market, U.S.Treasury bond prices are most influenced by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"There are two major influences on the price of bonds in the secondary market. One of those is the amount of credit risk (chances that the issuer won't be able to pay the interest and/or principal). That is not considered a risk with U.S. Treasury securities. The other, and generally stronger influence, is the inflation rate. Inflation eats away at the fixed income and principal of bonds. To compensate, the bonds must offer a higher return. That is either in the form of a new bond carrying a higher coupon rate, or, as this question refers to, trading in the secondary market at a lower price. Remember the inverse relationship between interest rates and bond prices. Interest rates follow the inflation rate, so when inflation rises, so must the yield on bonds. The yield on outstanding bonds increases as the market price decreases.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">There are two major influences on the price of bonds in the secondary market. One of those is the amount of credit risk (chances that the issuer won't be able to pay the interest and/or principal). That is not considered a risk with U.S. Treasury securities. The other, and generally stronger influence, is the inflation rate. Inflation eats away at the fixed income and principal of bonds. To compensate, the bonds must offer a higher return. That is either in the form of a new bond carrying a higher coupon rate, or, as this question refers to, trading in the secondary market at a lower price. Remember the inverse relationship between interest rates and bond prices. Interest rates follow the inflation rate, so when inflation rises, so must the yield on bonds. The yield on outstanding bonds increases as the market price decreases.<br /><br />U8LO4</span>"
+    },
+    "3281": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the economy is weakening.",
+                1,
+                1
+            ],
+            [
+                "B) interest rates on Treasury bonds are increasing.",
+                0,
+                0
+            ],
+            [
+                "C) corporate bond prices are increasing.",
+                0,
+                0
+            ],
+            [
+                "D) corporate earnings are reaching record highs.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Ana is a bond analyst who notices a wider credit spread between Treasury bonds and AAA corporate debt. From this, she would be most likely to infer",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The reason the spread gets wider is that investors are getting out of corporate bonds and getting into Treasuries. Why would they do that? Because, as the industry says, \\\"it is an escape to quality.\\\" When there are economic clouds on the horizon, like a recession, you would much rather have your money invested in U.S. Treasuries because you know they will pay off. Higher corporate yields come from lower market prices.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The reason the spread gets wider is that investors are getting out of corporate bonds and getting into Treasuries. Why would they do that? Because, as the industry says, \"it is an escape to quality.\" When there are economic clouds on the horizon, like a recession, you would much rather have your money invested in U.S. Treasuries because you know they will pay off. Higher corporate yields come from lower market prices.<br /><br />U8LO4</span>"
+    },
+    "3282": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) decrease",
+                1,
+                1
+            ],
+            [
+                "B) change in unpredictable ways",
+                0,
+                0
+            ],
+            [
+                "C) increase",
+                0,
+                0
+            ],
+            [
+                "D) stay the same",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "As current interest rates go up, the market price of existing corporate bonds bearing lower interest rates will",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"There is an inverse relationship between interest rates and bond prices. This means that as current interest rates go up, the market price of existing bonds will go down.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">There is an inverse relationship between interest rates and bond prices. This means that as current interest rates go up, the market price of existing bonds will go down.<br /><br />U8LO4</span>"
+    },
+    "3283": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the closer the bond is to its maturity date, the higher the yield.",
+                1,
+                1
+            ],
+            [
+                "B) the closer the bond is to its maturity date, the lower the yield.",
+                0,
+                0
+            ],
+            [
+                "C) the further the bond is from its maturity date, the higher the yield.",
+                0,
+                0
+            ],
+            [
+                "D) bonds with intermediate maturities have the highest yields.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A bond analyst reports that there is currently an inverted yield curve. That would mean",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An inverted yield curve shows near-term maturities with higher yields than those of long-term maturities. Sometimes called a negative yield curve, it is usually an indication that interest rates are near a peak and the trend should soon reverse.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An inverted yield curve shows near-term maturities with higher yields than those of long-term maturities. Sometimes called a negative yield curve, it is usually an indication that interest rates are near a peak and the trend should soon reverse.<br /><br />U8LO4</span>"
+    },
+    "3284": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) bonds of varying quality of similar maturities.",
+                0,
+                0
+            ],
+            [
+                "B) bonds of a single issuer over varying maturities.",
+                1,
+                1
+            ],
+            [
+                "C) bonds of similar quality over varying maturities.",
+                0,
+                0
+            ],
+            [
+                "D) bonds of varying quality over a number of maturities.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Yield curve analysis plays an important role as a benchmarking and forecasting tool for the future direction of interest rates. In most cases, this analysis involves examining",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The most common yield curves are drawn using U.S. Treasury securities. The curve is plotted using maturities ranging from the short-term T-bills to the long bonds. There are other curves drawn with bonds from other sectors, such as corporate bonds, to show the \\\"yield spread\\\", but that is going beyond the scope of this question.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The most common yield curves are drawn using U.S. Treasury securities. The curve is plotted using maturities ranging from the short-term T-bills to the long bonds. There are other curves drawn with bonds from other sectors, such as corporate bonds, to show the \"yield spread\", but that is going beyond the scope of this question.<br /><br />U8LO4</span>"
+    },
+    "3285": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Yield spreads are widening.",
+                0,
+                0
+            ],
+            [
+                "B) Pessimism is spreading.",
+                0,
+                0
+            ],
+            [
+                "C) Airline stocks are in for a beating.",
+                0,
+                0
+            ],
+            [
+                "D) Yield spreads are narrowing.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "While listening to a commentator on cable TV, you hear the statement \"the flight to quality has ended.\" What would you expect the effect of this to be?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The term yield spread refers to the difference in yield between very-high-quality debt instruments, such as U.S. government bonds, and those with lower ratings. The spread compensates for the additional risk. When investors perceive that the risk has lessened, they won't demand as much in return from the lower-rated instruments.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The term yield spread refers to the difference in yield between very-high-quality debt instruments, such as U.S. government bonds, and those with lower ratings. The spread compensates for the additional risk. When investors perceive that the risk has lessened, they won't demand as much in return from the lower-rated instruments.<br /><br />U8LO4</span>"
+    },
+    "3286": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) declining interest rates",
+                0,
+                0
+            ],
+            [
+                "B) investors buying short-term bonds and selling long-term bonds",
+                0,
+                0
+            ],
+            [
+                "C) rising interest rates",
+                0,
+                0
+            ],
+            [
+                "D) investors buying long-term bonds and selling short-term bonds",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An inverted yield curve results in part by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The demand for longer-term bonds is higher than that of short-term bonds and causes a negative slope in the yield curve. If investors were buying short-term bonds in greater demand, the rates of short-term bonds would decline rather than rise.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The demand for longer-term bonds is higher than that of short-term bonds and causes a negative slope in the yield curve. If investors were buying short-term bonds in greater demand, the rates of short-term bonds would decline rather than rise.<br /><br />U8LO4</span>"
+    },
+    "3287": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Inverse spread",
+                0,
+                0
+            ],
+            [
+                "B) Calendar spread",
+                0,
+                0
+            ],
+            [
+                "C) Debit spread",
+                0,
+                0
+            ],
+            [
+                "D) Credit spread",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In the investment industry, the term spread has many different meanings. When used in a discussion about bonds, which of the following would be most appropriate?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A credit spread refers to the difference between yields of bonds with similar maturities but different ratings. For example, a bond analyst might compare the yield of a 10-year Treasury note with a AAArated bond with 10 years to maturity. Wider spreads generally indicate a concern about the economy (investors are seeking the safety of the Treasury issue) while narrow spreads generally indicate economic optimism. Debit spread and calendar spread refer to options (as does credit spread, but our question asks about bonds). Bond prices and interest rates have an inverse relationship, but that isn't called an inverse spread.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A credit spread refers to the difference between yields of bonds with similar maturities but different ratings. For example, a bond analyst might compare the yield of a 10-year Treasury note with a AAArated bond with 10 years to maturity. Wider spreads generally indicate a concern about the economy (investors are seeking the safety of the Treasury issue) while narrow spreads generally indicate economic optimism. Debit spread and calendar spread refer to options (as does credit spread, but our question asks about bonds). Bond prices and interest rates have an inverse relationship, but that isn't called an inverse spread.<br /><br />U8LO4</span>"
+    },
+    "3288": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) business cycle.",
+                0,
+                0
+            ],
+            [
+                "B) Consumer Price Index.",
+                0,
+                0
+            ],
+            [
+                "C) yield spread.",
+                1,
+                1
+            ],
+            [
+                "D) yield curve.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A common measurement used to evaluate attitudes regarding future economic conditions is the difference in yields between U.S. Treasury bonds and corporate bonds. This is known as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Many analysts compare the difference between yields on bonds with the same maturity, but different quality (rating) to get a sense of the market sentiment. A common example of that is comparing the difference between the yield on a U.S. Treasury bond and a highly-rated corporate bond. When investor sentiment is positive, the extra safety of the Treasury security is not considered as valuable so the spread is narrow. When there is \\\"gloom and doom\\\" ahead, investors flock to the safety of the Treasury causing the spread to widen. This spread is found by comparing the yield curves, but that doesn't answer the specific question which is dealing with the difference and a difference in this industry is called a spread.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Many analysts compare the difference between yields on bonds with the same maturity, but different quality (rating) to get a sense of the market sentiment. A common example of that is comparing the difference between the yield on a U.S. Treasury bond and a highly-rated corporate bond. When investor sentiment is positive, the extra safety of the Treasury security is not considered as valuable so the spread is narrow. When there is \"gloom and doom\" ahead, investors flock to the safety of the Treasury causing the spread to widen. This spread is found by comparing the yield curves, but that doesn't answer the specific question which is dealing with the difference and a difference in this industry is called a spread.<br /><br />U8LO4</span>"
+    },
+    "3289": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Bond prices",
+                1,
+                1
+            ],
+            [
+                "B) Interest rates",
+                0,
+                0
+            ],
+            [
+                "C) Inflation",
+                0,
+                0
+            ],
+            [
+                "D) Consumer confidence and profits",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "During an economic recession, which of the following items will most likely increase?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"During a recessionary period, inflation and interest rates generally decline. This causes bond prices to increase because they are inversely related to the change in interest rates. Consumer confidence and profits are declining at this point in the economic cycle.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">During a recessionary period, inflation and interest rates generally decline. This causes bond prices to increase because they are inversely related to the change in interest rates. Consumer confidence and profits are declining at this point in the economic cycle.<br /><br />U8LO4</span>"
+    },
+    "3290": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Gold",
+                0,
+                0
+            ],
+            [
+                "B) Oil stocks",
+                0,
+                0
+            ],
+            [
+                "C) Real estate",
+                0,
+                0
+            ],
+            [
+                "D) Corporate bonds",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would probably not be an attractive investment during periods of rising inflation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Interest rates tend to increase with inflation. Rising interest rates cause the values of all fixed-income securities to decline. That is why bonds are not an attractive investment during periods of inflation. Values of real estate, gold, and natural resources tend to rise with inflation.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Interest rates tend to increase with inflation. Rising interest rates cause the values of all fixed-income securities to decline. That is why bonds are not an attractive investment during periods of inflation. Values of real estate, gold, and natural resources tend to rise with inflation.<br /><br />U8LO4</span>"
+    },
+    "3291": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Real estate",
+                0,
+                0
+            ],
+            [
+                "B) Gold",
+                0,
+                0
+            ],
+            [
+                "C) Corporate bonds",
+                1,
+                1
+            ],
+            [
+                "D) Oil stocks",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would probably NOT be an attractive investment during periods of rising inflation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Interest rates tend to increase with inflation. Rising interest rates cause the values of all fixed-income securities to decline. That is why bonds are not an attractive investment during periods of inflation. Values of real estate, gold, and natural resources tend to rise with inflation.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Interest rates tend to increase with inflation. Rising interest rates cause the values of all fixed-income securities to decline. That is why bonds are not an attractive investment during periods of inflation. Values of real estate, gold, and natural resources tend to rise with inflation.<br /><br />U8LO4</span>"
+    },
+    "3292": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a normal yield curve",
+                0,
+                0
+            ],
+            [
+                "B) an algorithmic yield curve",
+                0,
+                0
+            ],
+            [
+                "C) an inverted yield curve",
+                1,
+                1
+            ],
+            [
+                "D) a positive yield curve",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A bond analyst is plotting a yield curve and notices that short-term maturities have higher yields than intermediate and long-term maturities. This is an example of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An inverted, or negative, yield curve is one that results when debt with short-term maturities has higher yields than those with maturities that are longer. A positive, or normal, yield curve results when the yields increase as maturities do.\\n\\nU8LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An inverted, or negative, yield curve is one that results when debt with short-term maturities has higher yields than those with maturities that are longer. A positive, or normal, yield curve results when the yields increase as maturities do.<br /><br />U8LO4</span>"
+    },
+    "correct_answer_logic": ""
+};

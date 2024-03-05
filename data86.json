@@ -1,0 +1,1053 @@
+let data86 = {
+    "3424": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the CIP requires a residence address for individuals while the regulatory bodies will accept a PO Box",
+                0,
+                0
+            ],
+            [
+                "B) the CIP only applies to individuals while the rules of the regulators apply to retail and institutional accounts",
+                0,
+                0
+            ],
+            [
+                "C) the CIP requires a statement of the customer's goals while the regulators only require current financial information",
+                0,
+                0
+            ],
+            [
+                "D) the CIP requires date of birth while the regulators only require proof of legal age",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One major difference between the customer identification program (CIP) and the new account opening rules of the regulatory bodies is that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The CIP requires the actual date of birth, not just proof of legal age. The CIP has no interest in the goals of the investor, just the identity. In both cases, a PO Box may only be used after supplying a physical residence address and both the CIP and the rules of the regulators apply to retail and institutional accounts.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The CIP requires the actual date of birth, not just proof of legal age. The CIP has no interest in the goals of the investor, just the identity. In both cases, a PO Box may only be used after supplying a physical residence address and both the CIP and the rules of the regulators apply to retail and institutional accounts.<br /><br />U18LO2</span>"
+    },
+    "3425": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the customer identification program",
+                1,
+                1
+            ],
+            [
+                "B) the \"know-your-customer rule\"",
+                0,
+                0
+            ],
+            [
+                "C) the Transportation Security Administration (TSA)",
+                0,
+                0
+            ],
+            [
+                "D) the requirement to obtain suitability information",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of the portions of the USA PATRIOT Act of 2001 that affects the opening of an account for a new customer is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The customer identification program (CIP) is mandated by the PATRIOT Act and requires that broker-dealers (and other financial institutions) obtain certain specified information about new customers. The \\\"know-your-customer\\\" rule was written many decades before the PATRIOT Act. The PATRIOT Act, through the CIP, is concerned with validating identity, not suitability.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The customer identification program (CIP) is mandated by the PATRIOT Act and requires that broker-dealers (and other financial institutions) obtain certain specified information about new customers. The \"know-your-customer\" rule was written many decades before the PATRIOT Act. The PATRIOT Act, through the CIP, is concerned with validating identity, not suitability.<br /><br />U18LO2</span>"
+    },
+    "3426": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) educational background",
+                1,
+                1
+            ],
+            [
+                "B) Social Security number",
+                0,
+                0
+            ],
+            [
+                "C) date of birth",
+                0,
+                0
+            ],
+            [
+                "D) physical address",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All the following information must be obtained from new individual customers EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A customer's educational background is not required to open a new account. In the case of an account opened in the name of a business, the business address and tax identification number are required.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A customer's educational background is not required to open a new account. In the case of an account opened in the name of a business, the business address and tax identification number are required.<br /><br />U18LO2</span>"
+    },
+    "3427": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) acceptable as long as she has her friend&#039;s permission to use the address",
+                0,
+                0
+            ],
+            [
+                "B) acceptable because the agent can do business only with those who have a residence address in those states in which he is registered",
+                0,
+                0
+            ],
+            [
+                "C) not acceptable because the other party does not know you are using the address",
+                0,
+                0
+            ],
+            [
+                "D) not acceptable because there are no circumstances under which you are permitted to use someone else&#039;s address as yours",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A woman wants to buy from an agent who is not registered in her state. She decides to use a friend's address in the state in which the agent is licensed. This action is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Use of a fictitious home address is not only a red flag, it is illegal under the federal customer identification program (CIP).\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Use of a fictitious home address is not only a red flag, it is illegal under the federal customer identification program (CIP).<br /><br />U18LO2</span>"
+    },
+    "3428": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) At or prior to the time the account is approved for options trading",
+                1,
+                1
+            ],
+            [
+                "B) With the confirmation of his first options transaction",
+                0,
+                0
+            ],
+            [
+                "C) Within 5 business days of the first options trade",
+                0,
+                0
+            ],
+            [
+                "D) Within 15 days of account approval",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When does a customer have to receive the OCC Options Disclosure Document?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When opening an account to trade options, the owner must be told about the risks involved with trading options. By providing the owner with an options disclosure document titled Understanding the Risks and Uses of Options, the broker-dealer satisfies the risk disclosure requirements. There are 2 alternatives for meeting the delivery requirement. It may be done before or at the time the broker-dealer approves that customer's options account or accepts the customer's first order to trade the listed options covered by the ODD.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When opening an account to trade options, the owner must be told about the risks involved with trading options. By providing the owner with an options disclosure document titled Understanding the Risks and Uses of Options, the broker-dealer satisfies the risk disclosure requirements. There are 2 alternatives for meeting the delivery requirement. It may be done before or at the time the broker-dealer approves that customer's options account or accepts the customer's first order to trade the listed options covered by the ODD.<br /><br />U18LO2</span>"
+    },
+    "3429": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) It is considered an entity apart from its owners.",
+                0,
+                0
+            ],
+            [
+                "B) Ownership interests are evidenced by shares of stock.",
+                0,
+                0
+            ],
+            [
+                "C) Owners have no personal liability for corporate debts.",
+                0,
+                0
+            ],
+            [
+                "D) Existence terminates when an owner dies.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is NOT a characteristic of a corporation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A corporation is an entity that has an existence separate from its owners. Therefore, the existence of a corporation does not terminate when an owner dies. Also, because the owners and the corporation are distinct entities, the owners are not personally liable for the corporation's debts.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A corporation is an entity that has an existence separate from its owners. Therefore, the existence of a corporation does not terminate when an owner dies. Also, because the owners and the corporation are distinct entities, the owners are not personally liable for the corporation's debts.<br /><br />U18LO3</span>"
+    },
+    "3430": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ensure that their respective shares go to their heirs instead of the surviving sister.",
+                1,
+                1
+            ],
+            [
+                "B) limit the right of each party to withdraw assets from the account.",
+                0,
+                0
+            ],
+            [
+                "C) provide for an undivided interest in the assets of the account.",
+                0,
+                0
+            ],
+            [
+                "D) allow the spouse of each sister to have access to the account.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Two sisters might wish to open an account as tenants in common (TIC) rather than JTWROS in order to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In a TIC account, when one of the cotenants dies, that individual's share of the account passes to her estate, not directly to the survivor (as is the case with JTWROS). For either kind of account, only the named cotenants have access to the account, not their spouses. In both types of accounts, there is an undivided interest in the account and any cotenant has full right to withdraw assets (but any certificates or checks must be in all names).\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In a TIC account, when one of the cotenants dies, that individual's share of the account passes to her estate, not directly to the survivor (as is the case with JTWROS). For either kind of account, only the named cotenants have access to the account, not their spouses. In both types of accounts, there is an undivided interest in the account and any cotenant has full right to withdraw assets (but any certificates or checks must be in all names).<br /><br />U18LO2</span>"
+    },
+    "3431": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) orders may be given by either party",
+                0,
+                0
+            ],
+            [
+                "B) mail may be sent to either party (with the permission of each party)",
+                0,
+                0
+            ],
+            [
+                "C) in the event of death, the decedent&#039;s interest in the account goes to the other party",
+                0,
+                0
+            ],
+            [
+                "D) checks may be drawn in the name of either party",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a new joint tenants with rights of survivorship account is opened by two related individuals, all of the following statements are true EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"While either party may enter an order, any money or securities delivered out of the account must be in the names of both owners.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">While either party may enter an order, any money or securities delivered out of the account must be in the names of both owners.<br /><br />U18LO2</span>"
+    },
+    "3432": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) cotenants can own unequal percentages of the assets in the account",
+                0,
+                0
+            ],
+            [
+                "B) each cotenant has an undivided interest in the entire account",
+                0,
+                0
+            ],
+            [
+                "C) upon the death of one of the cotenants, that individual's share of the account passes to the survivor(s)",
+                1,
+                1
+            ],
+            [
+                "D) this form of registration is less common for married couples than JTWROS",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All of the following statements relating to an account registered as tenants in common are true EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Unlike an account registered JTWROS, when a cotenant in a TIC account dies, that individual's share of the account passes to the individual's estate, not the other cotenant(s). That would be the case with JTWROS (which is why that form is far more popular with married couples instead of TIC). In a TIC account, each cotenant has an undivided interest (specific securities in the portfolio are not designated to each cotenant - they share ownership in the entire portfolio). This is not to be confused with the fact that the ownership interests can be unequal. For example, one investor can own 40% of the account and the other 60%.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Unlike an account registered JTWROS, when a cotenant in a TIC account dies, that individual's share of the account passes to the individual's estate, not the other cotenant(s). That would be the case with JTWROS (which is why that form is far more popular with married couples instead of TIC). In a TIC account, each cotenant has an undivided interest (specific securities in the portfolio are not designated to each cotenant - they share ownership in the entire portfolio). This is not to be confused with the fact that the ownership interests can be unequal. For example, one investor can own 40% of the account and the other 60%.<br /><br />U18LO2</span>"
+    },
+    "3433": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An S form of corporation",
+                0,
+                0
+            ],
+            [
+                "B) A general partnership",
+                0,
+                0
+            ],
+            [
+                "C) A limited liability company (LLC)",
+                1,
+                1
+            ],
+            [
+                "D) A sole proprietorship",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a businessowner's goal is to establish an entity that features ease in raising capital, which of these entities is the most appropriate?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If a businessowner's goal is ease in raising capital, the limited liability company (LLC) is preferable because it has no restrictions on the number or nationality of investors. While the regular or C corporate form is also preferable, the S form of corporation is limited to a maximum of 100 potential shareholders, none of whom may be a nonresident alien.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If a businessowner's goal is ease in raising capital, the limited liability company (LLC) is preferable because it has no restrictions on the number or nationality of investors. While the regular or C corporate form is also preferable, the S form of corporation is limited to a maximum of 100 potential shareholders, none of whom may be a nonresident alien.<br /><br />U18LO3</span>"
+    },
+    "3434": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) current employment status",
+                1,
+                1
+            ],
+            [
+                "B) a physical address",
+                0,
+                0
+            ],
+            [
+                "C) Social Security number",
+                0,
+                0
+            ],
+            [
+                "D) date of birth",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The customer identification program (CIP) requires that certain information relating to new customers be obtained. Included in that requirement for individual clients who are citizens of the United States are all of the following EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The 4 primary requirements of the CIP are the individual client's name, physical address, DOB, and SSN. Although current employment status would be asked as part of opening a new account, that is not a CIP requirement.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The 4 primary requirements of the CIP are the individual client's name, physical address, DOB, and SSN. Although current employment status would be asked as part of opening a new account, that is not a CIP requirement.<br /><br />U18LO2</span>"
+    },
+    "3435": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A proxy voting policy.",
+                0,
+                0
+            ],
+            [
+                "B) A restricted list.",
+                0,
+                0
+            ],
+            [
+                "C) A communications agreement.",
+                0,
+                0
+            ],
+            [
+                "D) An investment policy statement.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following documents would aid an investment adviser in its responsibility to fully understand the needs of a client when making investment recommendations?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The IPS is the key document that defines an investor's risk and return objectives and any constraints for their investment.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The IPS is the key document that defines an investor's risk and return objectives and any constraints for their investment.<br /><br />U18LO2</span>"
+    },
+    "3436": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) explain the taxable status of particular investments",
+                0,
+                0
+            ],
+            [
+                "B) draft tax and estate documents to ensure compliance with current law to provide substantial after-tax returns",
+                1,
+                1
+            ],
+            [
+                "C) discuss the tax implications of investments",
+                0,
+                0
+            ],
+            [
+                "D) consider tax implications as a way of improving a client&#039;s after-tax returns",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "With respect to taxation, an investment adviser representative should NOT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investment adviser representative must not draft legal documents; they should only be drafted by an attorney because doing so constitutes practicing law. An investment adviser representative should, however, discuss all relevant tax implications of recommended investments, including how the recommended investments might improve a client's after-tax returns.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investment adviser representative must not draft legal documents; they should only be drafted by an attorney because doing so constitutes practicing law. An investment adviser representative should, however, discuss all relevant tax implications of recommended investments, including how the recommended investments might improve a client's after-tax returns.<br /><br />U18LO4</span>"
+    },
+    "3437": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) recommend the client consult with a qualified attorney",
+                1,
+                1
+            ],
+            [
+                "B) refuse to discuss the trust with the client because the adviser is not an attorney",
+                0,
+                0
+            ],
+            [
+                "C) help the client draft the appropriate documents following a discussion of the advantages of the arrangement",
+                0,
+                0
+            ],
+            [
+                "D) urge the client to consult with an attorney who pays a referral fee to the investment adviser",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If an investment adviser's client wishes to save current income taxes by placing certain investments in a charitable trust, ethically, the investment adviser should",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Presuming the adviser is not a licensed attorney, he should recommend the client see a qualified attorney. However, it is ethical to discuss the nature of a charitable trust with the client.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Presuming the adviser is not a licensed attorney, he should recommend the client see a qualified attorney. However, it is ethical to discuss the nature of a charitable trust with the client.<br /><br />U18LO4</span>"
+    },
+    "3438": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a CPA who prepared the deceased's tax return",
+                0,
+                0
+            ],
+            [
+                "B) the spouse of the deceased",
+                0,
+                0
+            ],
+            [
+                "C) a person with durable power of attorney",
+                0,
+                0
+            ],
+            [
+                "D) the administrator in intestacy",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of your clients dies. You could legally take instructions regarding the individual's estate from",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If an individual dies without a will (intestate), the state will appoint an administrator in intestacy who, just as an executor for one who had a will, has control over the deceased's assets. A durable power of attorney, just like any other power, expires upon the death of either party to the power.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If an individual dies without a will (intestate), the state will appoint an administrator in intestacy who, just as an executor for one who had a will, has control over the deceased's assets. A durable power of attorney, just like any other power, expires upon the death of either party to the power.<br /><br />U18LO4</span>"
+    },
+    "3439": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Charitable lead trust",
+                0,
+                0
+            ],
+            [
+                "B) Simple trust",
+                0,
+                0
+            ],
+            [
+                "C) Complex trust",
+                1,
+                1
+            ],
+            [
+                "D) Charitable remainder trust",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A professional tennis player comes to you seeking advice on setting up a trust. She is interested in giving to charity and also wants discretion as to when income is distributed to the beneficiaries, her parents. Which trust do you advise she use?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Only a complex trust allows the two features that she requires. Simple trusts may not make charitable contributions, and they provide no discretion on income distribution. The two types of charitable trusts mentioned provide no ongoing discretion as to when income is distributed or who the beneficiaries are.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Only a complex trust allows the two features that she requires. Simple trusts may not make charitable contributions, and they provide no discretion on income distribution. The two types of charitable trusts mentioned provide no ongoing discretion as to when income is distributed or who the beneficiaries are.<br /><br />U18LO4</span>"
+    },
+    "3440": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) attorney with guardianship over the surviving children",
+                0,
+                0
+            ],
+            [
+                "B) investment adviser",
+                0,
+                0
+            ],
+            [
+                "C) estate's executor or administrator",
+                1,
+                1
+            ],
+            [
+                "D) estate creditors",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An estate account is opened with Family Asset Protectors (FAP) a registered investment adviser. Management decisions regarding the account must be made at the direction of the",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Only the estate executor (or administrator when the individual dies intestate) can make investment management and distribution decisions. This does not mean that the executor must make the investment decisions for the account, only that decisions as to who will do the management are within his purview. A guardian with authority over the children does not necessarily have power over the estate unless the guardian is also the administrator or the executor of the estate.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Only the estate executor (or administrator when the individual dies intestate) can make investment management and distribution decisions. This does not mean that the executor must make the investment decisions for the account, only that decisions as to who will do the management are within his purview. A guardian with authority over the children does not necessarily have power over the estate unless the guardian is also the administrator or the executor of the estate.<br /><br />U18LO4</span>"
+    },
+    "3441": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) dividends received.",
+                0,
+                0
+            ],
+            [
+                "B) interest received on municipal bonds.",
+                0,
+                0
+            ],
+            [
+                "C) interest received on corporate bonds.",
+                0,
+                0
+            ],
+            [
+                "D) realized capital gains.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The distributable net income (DNI) of a simple trust would not include",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is capital gains that are reinvested in the corpus (body) of a simple trust which are not part of DNI. Although the interest on municipal bonds in not taxable, it is still included as part of the DNI.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is capital gains that are reinvested in the corpus (body) of a simple trust which are not part of DNI. Although the interest on municipal bonds in not taxable, it is still included as part of the DNI.<br /><br />U18LO4</span>"
+    },
+    "3442": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) It is canceled on the death of either principal.",
+                1,
+                1
+            ],
+            [
+                "B) It remains in effect until the son cancels it.",
+                0,
+                0
+            ],
+            [
+                "C) It remains in effect until the executor of the estate cancels it.",
+                0,
+                0
+            ],
+            [
+                "D) It remains in effect only if the son is the sole heir to the estate.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a customer who has granted a durable power of attorney to her son dies, which of the following statements regarding the power of attorney is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the customer or her son dies, the power of attorney also expires. However, a durable power of attorney will survive a declaration of mental incompetence and is useful in those cases where a parent suffers from dementia.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the customer or her son dies, the power of attorney also expires. However, a durable power of attorney will survive a declaration of mental incompetence and is useful in those cases where a parent suffers from dementia.<br /><br />U18LO4</span>"
+    },
+    "3443": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) prepare the trust, transfer funds, and begin investing",
+                0,
+                0
+            ],
+            [
+                "B) explain to the customer that trusts cannot be traded",
+                0,
+                0
+            ],
+            [
+                "C) refer the customer to an attorney that can set up the trust",
+                1,
+                1
+            ],
+            [
+                "D) tell the customer to contact a tax specialist",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "As a registered investment adviser, you have managed $10 million of a customer's funds for several years. The customer asks you to prepare a trust for his children, to transfer $3 million of his funds into the trust, and to trade the trust with the same objectives as the existing account. You should",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The best choice is to have the customer contact a qualified attorney to set up a trust.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The best choice is to have the customer contact a qualified attorney to set up a trust.<br /><br />U18LO4</span>"
+    },
+    "3444": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) exchange, sales, and general.",
+                0,
+                0
+            ],
+            [
+                "B) exchange, sensitivity, and growth.",
+                0,
+                0
+            ],
+            [
+                "C) earnings, systematic, and governmental.",
+                0,
+                0
+            ],
+            [
+                "D) environmental, social, and governance.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Increasingly, many institutional investors, especially those in the philanthropic arena, are using ESG factors when considering where to invest their funds. Those factors are most accurately described as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The ESG business factors that should be considered when analyzing a firm are a company's environmental, social, and governance risk exposures.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The ESG business factors that should be considered when analyzing a firm are a company's environmental, social, and governance risk exposures.<br /><br />U18LO4</span>"
+    },
+    "3445": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) from the client's lawyer",
+                0,
+                0
+            ],
+            [
+                "B) from the client by getting a squeeze of the hand for a “yes”",
+                0,
+                0
+            ],
+            [
+                "C) from a person who has a written durable power of attorney over the account",
+                1,
+                1
+            ],
+            [
+                "D) from the client's spouse",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of your longtime advisory clients has been critically injured in an automobile accident. The client is in the ICU at the local hospital, unable to communicate. You would be able to accept orders for the account",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When a client is incapacitated, agents may transact business in the account only when they receive instructions from someone with proper authorization, in this case, a durable power of attorney.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When a client is incapacitated, agents may transact business in the account only when they receive instructions from someone with proper authorization, in this case, a durable power of attorney.<br /><br />U18LO4</span>"
+    },
+    "3446": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) TIC",
+                0,
+                0
+            ],
+            [
+                "B) testamentary account",
+                0,
+                0
+            ],
+            [
+                "C) JTWROS",
+                0,
+                0
+            ],
+            [
+                "D) TOD",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a client wishes the assets in her account to pass directly to specific beneficiaries after her death, her account should be titled",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"TOD (transfer on death) provides that, upon the death of the account holder, the assets pass to the named beneficiary or beneficiaries without going through probate.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">TOD (transfer on death) provides that, upon the death of the account holder, the assets pass to the named beneficiary or beneficiaries without going through probate.<br /><br />U18LO5</span>"
+    },
+    "3447": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a durable power of attorney (POA).",
+                0,
+                0
+            ],
+            [
+                "B) a Totten trust.",
+                1,
+                1
+            ],
+            [
+                "C) an irrevocable trust.",
+                0,
+                0
+            ],
+            [
+                "D) a Uniform Transfers to Minors Act (UTMA) account.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of your customers has a substantial savings account at the local S&L. The customer has several grandchildren and wants the flexibility of being able to change the beneficiary allocations as their financial conditions change. You should recommend that the customer investigate the use of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A Totten trust allows for the transfer of ownership of a bank account to a beneficiary or beneficiaries after the owner's death. It is the predecessor of today's POD (pay on death) and TOD (transfer on death) accounts. Beneficiary names and/or percentages can be changed at will. An irrevocable trust can't be changed; there is no flexibility. In an UTMA account, once the money is allocated, the decision is irrevocable (and who says the grandchildren are minors). The durable POA gives a designated person the authority to manage the affairs of the account, and this customer wants the control.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A Totten trust allows for the transfer of ownership of a bank account to a beneficiary or beneficiaries after the owner's death. It is the predecessor of today's POD (pay on death) and TOD (transfer on death) accounts. Beneficiary names and/or percentages can be changed at will. An irrevocable trust can't be changed; there is no flexibility. In an UTMA account, once the money is allocated, the decision is irrevocable (and who says the grandchildren are minors). The durable POA gives a designated person the authority to manage the affairs of the account, and this customer wants the control.<br /><br />U18LO5</span>"
+    },
+    "3448": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) This action is prohibited unless the customer signs a trading authorization on behalf of his spouse.",
+                0,
+                0
+            ],
+            [
+                "B) This practice is ordinary and acceptable.",
+                0,
+                0
+            ],
+            [
+                "C) This action is prohibited unless the spouse signs a trading authorization.",
+                1,
+                1
+            ],
+            [
+                "D) The agent could be liable if the stock declines in value.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of your existing clients wishes to open a new account in the name of his spouse and enter orders on her behalf.",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Effecting transactions without specific written authority from the beneficial owner of the account is prohibited. This customer cannot sign trading authorization on behalf of his spouse. The spouse must sign the authorization.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Effecting transactions without specific written authority from the beneficial owner of the account is prohibited. This customer cannot sign trading authorization on behalf of his spouse. The spouse must sign the authorization.<br /><br />U18LO4</span>"
+    },
+    "correct_answer_logic": ""
+};

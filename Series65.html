@@ -1,0 +1,137 @@
+<html>
+    <head>
+		<style>
+			body {
+				font-family: arial;
+			}
+			div, button {
+				margin: 10px;
+				font-size: 20px;
+			}
+		</style>
+		<script src="data17.json"></script>
+		<script src="data77.json"></script>
+		<script src="data78.json"></script>
+		<script src="data79.json"></script>
+		<script src="data80.json"></script>
+		<script src="data81.json"></script>
+		<script src="data82.json"></script>
+		<script src="data83.json"></script>
+		<script src="data84.json"></script>
+		<script src="data85.json"></script>
+		<script src="data86.json"></script>
+		<script src="data87.json"></script>
+		<script src="data88.json"></script>
+		<script src="data89.json"></script>
+		<script src="data90.json"></script>
+		<script src="data91.json"></script>
+		<script src="data92.json"></script>
+    </head>
+    <body>
+		<div id="question"></div>
+		<div>&nbsp;</div>
+		<div>
+			<input type="radio" id="radio1" name="answers" value="a" onclick="radioClicked(this)">
+			<label id="answer1" for="radio1"></label>
+		</div>
+		<div>
+			<input type="radio" id="radio2" name="answers" value="b" onclick="radioClicked(this)">
+			<label id="answer2" for="radio2"></label>
+		</div>
+		<div>
+			<input type="radio" id="radio3" name="answers" value="c" onclick="radioClicked(this)">
+			<label id="answer3" for="radio3"></label>
+		</div>
+		<div>
+			<input type="radio" id="radio4" name="answers" value="d" onclick="radioClicked(this)">
+			<label id="answer4" for="radio4"></label>
+		</div>
+		<div>&nbsp;</div>
+		<div id="result"></div>
+		<div>&nbsp;</div>
+		<button onclick="showExplanation()">Show Explanation</button>
+		<div>&nbsp;</div>
+		<div id="explanation"></div>
+		<div>&nbsp;</div>
+		<button onclick="next()">Next</button>
+        <script>
+			let data = {
+				...data17, 
+				...data77, 
+				...data78, 
+				...data79, 
+				...data80, 
+				...data81, 
+				...data82, 
+				...data83, 
+				...data84, 
+				...data85, 
+				...data86, 
+				...data87, 
+				...data88, 
+				...data89, 
+				...data90, 
+				...data91, 
+				...data92
+			};
+			let dataKeys = Object.keys(data);
+			
+			let next = () => {
+				let index = Math.floor(Math.random() * dataKeys.length);
+				
+				let qData = data[dataKeys[index]];
+				
+				document.getElementById("question").innerHTML = qData.settings.question_title;
+				
+				let answers = qData.answer_array.slice();
+				
+				let indexes = [0, 1, 2, 3];
+				
+				let randomIndexes = [];
+				
+				while(indexes.length) {
+					let tempIndex = Math.floor(Math.random() * indexes.length);
+					
+					randomIndexes.push(indexes[tempIndex]);
+					
+					indexes.splice(tempIndex, 1);
+				}
+				
+				document.getElementById("answer1").innerHTML = "A: " + answers[randomIndexes[0]][0].substring(3);
+				document.getElementById("answer2").innerHTML = "B: " + answers[randomIndexes[1]][0].substring(3);
+				document.getElementById("answer3").innerHTML = "C: " + answers[randomIndexes[2]][0].substring(3);
+				document.getElementById("answer4").innerHTML = "D: " + answers[randomIndexes[3]][0].substring(3);
+				
+				document.getElementById("radio1").value = answers[randomIndexes[0]][1];
+				document.getElementById("radio2").value = answers[randomIndexes[1]][1];
+				document.getElementById("radio3").value = answers[randomIndexes[2]][1];
+				document.getElementById("radio4").value = answers[randomIndexes[3]][1];
+				
+				document.getElementById("radio1").checked = false;
+				document.getElementById("radio2").checked = false;
+				document.getElementById("radio3").checked = false;
+				document.getElementById("radio4").checked = false;
+				
+				document.getElementById("result").innerHTML = "";
+				
+				document.getElementById("explanation").style.display = "none";
+				document.getElementById("explanation").innerHTML = qData.correct_info_text;
+			};
+			
+			let showExplanation = () => {
+				document.getElementById("explanation").style.display = "block";
+			};
+			
+			let radioClicked = (radio) => {
+				if(Number(radio.value)) {
+					document.getElementById("result").innerHTML = "Correct!";
+					document.getElementById("result").style.color = "green";
+					showExplanation();
+				} else {
+					document.getElementById("result").innerHTML = "Incorrect";
+					document.getElementById("result").style.color = "red";
+				}
+			};
+        </script>
+    </body>
+</html>

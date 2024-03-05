@@ -1,0 +1,1053 @@
+let data79 = {
+    "3242": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Steel company stock",
+                1,
+                1
+            ],
+            [
+                "B) Tobacco stock",
+                0,
+                0
+            ],
+            [
+                "C) Food chain stock",
+                0,
+                0
+            ],
+            [
+                "D) Utility company stock",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would NOT be considered a defensive security?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Steel is cyclical and is not considered defensive; defensive stocks are generally less affected by the business cycle.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Steel is cyclical and is not considered defensive; defensive stocks are generally less affected by the business cycle.<br /><br />U8LO2</span>"
+    },
+    "3243": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the exchange value of the dollar, as compared with major foreign currencies",
+                0,
+                0
+            ],
+            [
+                "B) the current dollar price of gold bullion",
+                0,
+                0
+            ],
+            [
+                "C) international depositary receipts",
+                0,
+                0
+            ],
+            [
+                "D) constant dollars",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "To determine the amount of change in the GDP from 1 year to another, both years' GDP should be converted into",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"To compare GDP from 1 year to another, and thus to compare the amount of actual economic activity, economists use constant dollars to eliminate distortions caused by inflation.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">To compare GDP from 1 year to another, and thus to compare the amount of actual economic activity, economists use constant dollars to eliminate distortions caused by inflation.<br /><br />U8LO2</span>"
+    },
+    "3244": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Manufacturing and trade sales (in constant dollars)",
+                0,
+                0
+            ],
+            [
+                "B) Average prime rate",
+                0,
+                0
+            ],
+            [
+                "C) Average duration of unemployment",
+                0,
+                0
+            ],
+            [
+                "D) Average weekly initial claims for unemployment insurance",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Conference Board, a nongovernmental nonprofit organization, regularly publishes a list of economic indicators. Which of the following would be included in their list of leading indicators?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Of these, the only one that is included in the list of leading indicators is the average weekly initial claims for unemployment insurance. Manufacturing and trade sales is a coincident indicator, and average duration of unemployment and average prime rate are lagging indicators.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Of these, the only one that is included in the list of leading indicators is the average weekly initial claims for unemployment insurance. Manufacturing and trade sales is a coincident indicator, and average duration of unemployment and average prime rate are lagging indicators.<br /><br />U8LO3</span>"
+    },
+    "3245": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) countercyclical.",
+                1,
+                1
+            ],
+            [
+                "B) cyclical.",
+                0,
+                0
+            ],
+            [
+                "C) income producing.",
+                0,
+                0
+            ],
+            [
+                "D) exchange traded.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor purchasing gold bullion is most likely looking for an investment that is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Countercyclical assets are those whose prices tend to move in the opposite direction of the overall economy. Historically, the price of precious metals, especially gold (and stock in gold mining companies), moves up when the economy enters the contraction phase and moves in the reverse direction during expansion. Cyclical stocks follow the cycle. There is no \\\"gold bullion exchange\\\". It is a dealer market with bullion dealers all over the world setting their own spreads. A bar of gold does not provide income.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Countercyclical assets are those whose prices tend to move in the opposite direction of the overall economy. Historically, the price of precious metals, especially gold (and stock in gold mining companies), moves up when the economy enters the contraction phase and moves in the reverse direction during expansion. Cyclical stocks follow the cycle. There is no \"gold bullion exchange\". It is a dealer market with bullion dealers all over the world setting their own spreads. A bar of gold does not provide income.<br /><br />U8LO2</span>"
+    },
+    "3246": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Nonagricultural employment",
+                0,
+                0
+            ],
+            [
+                "B) Manufacturers' new orders for consumer goods",
+                0,
+                0
+            ],
+            [
+                "C) Building permits (housing starts)",
+                1,
+                1
+            ],
+            [
+                "D) Average prime rate",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Conference Board releases information about the economy on a monthly basis. Included are a number of different indicators. Economic indicators can be leading, lagging, or coincidental, which indicates the timing of their changes relative to how the economy as a whole changes. Which of the following is a lagging economic indicator?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Both the S&P 500 and housing permits are leading economic indicators, as is the measure of hours worked because it reflects changes in the average workweek during the current period. The average prime rate is a lagging indicator because, in an economic downturn, the longer rates stay low, the quicker the recovery should be.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Both the S&P 500 and housing permits are leading economic indicators, as is the measure of hours worked because it reflects changes in the average workweek during the current period. The average prime rate is a lagging indicator because, in an economic downturn, the longer rates stay low, the quicker the recovery should be.<br /><br />U8LO3</span>"
+    },
+    "3247": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Peak to contraction",
+                0,
+                0
+            ],
+            [
+                "B) Contraction to trough",
+                0,
+                0
+            ],
+            [
+                "C) Recovery to trough",
+                0,
+                0
+            ],
+            [
+                "D) Expansion to peak",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If the Consumer Price Index (CPI) is up and consumer demand is also up, the economy is likely in which stage of the business cycle?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"As prices trend higher and consumer demand increases, the economy is moving from expansion to a peak. As demand continues to increase, assuming supply remains constant, upward pressure will be put on prices through the expansion to the peak.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">As prices trend higher and consumer demand increases, the economy is moving from expansion to a peak. As demand continues to increase, assuming supply remains constant, upward pressure will be put on prices through the expansion to the peak.<br /><br />U8LO2</span>"
+    },
+    "3248": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) balanced",
+                0,
+                0
+            ],
+            [
+                "B) cyclical",
+                0,
+                0
+            ],
+            [
+                "C) diversified",
+                0,
+                0
+            ],
+            [
+                "D) defensive",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a customer purchases a food company stock and a utility stock, the customer's portfolio is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Food company stocks and utilities are defensive investments. Defensive investments are those that tend to hold up well in economic downturns.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Food company stocks and utilities are defensive investments. Defensive investments are those that tend to hold up well in economic downturns.<br /><br />U8LO2</span>"
+    },
+    "3249": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) in a recovery",
+                0,
+                0
+            ],
+            [
+                "B) lagging",
+                0,
+                0
+            ],
+            [
+                "C) in a depression",
+                0,
+                0
+            ],
+            [
+                "D) in a recession",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The economy has gone through 3 consecutive quarters of economic decline with no immediate end in sight, and therefore could be said to be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Recession is defined as 2 or more consecutive quarters of economic decline. It would have to be at least 6 quarters to be considered a depression.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Recession is defined as 2 or more consecutive quarters of economic decline. It would have to be at least 6 quarters to be considered a depression.<br /><br />U8LO2</span>"
+    },
+    "3250": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The CPI is the most commonly used indicator of the inflation (or deflation) rate in the United States.",
+                0,
+                0
+            ],
+            [
+                "B) The CPI measures the increase or decrease in the level of consumer prices with respect to the level of wholesale prices on which consumer prices depend.",
+                1,
+                1
+            ],
+            [
+                "C) The CPI is computed monthly.",
+                0,
+                0
+            ],
+            [
+                "D) The CPI measures the rate of increase or decrease in a broad range of prices, such as food, housing, medical care, and clothing.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements about the Consumer Price Index (CPI) is NOT true?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The CPI does not measure the increase or decrease in the level of consumer prices with respect to the level of wholesale prices. The CPI only measures retail prices, not whether wholesale prices are passed through to the consumer. It is the most common reference when discussing the inflation or deflation rate.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The CPI does not measure the increase or decrease in the level of consumer prices with respect to the level of wholesale prices. The CPI only measures retail prices, not whether wholesale prices are passed through to the consumer. It is the most common reference when discussing the inflation or deflation rate.<br /><br />U8LO3</span>"
+    },
+    "3251": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) price controls.",
+                0,
+                0
+            ],
+            [
+                "B) stagnation.",
+                0,
+                0
+            ],
+            [
+                "C) stagflation.",
+                0,
+                0
+            ],
+            [
+                "D) inertial inflation.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An economic condition where the rate of price increases reaches a stable equilibrium and stays there until a shock to the system occurs, at which time, the rate of inflation changes is known as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is a definition of inertial inflation. Just like it sometimes takes a \\\"shock\\\" to get people moving (lack of inertia), it can require a shock to move the economy. It is unlikely that any of the other terms shown here will appear as a correct answer on your exam.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is a definition of inertial inflation. Just like it sometimes takes a \"shock\" to get people moving (lack of inertia), it can require a shock to move the economy. It is unlikely that any of the other terms shown here will appear as a correct answer on your exam.<br /><br />U8LO3</span>"
+    },
+    "3252": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Contraction",
+                0,
+                0
+            ],
+            [
+                "B) Expansion",
+                0,
+                0
+            ],
+            [
+                "C) Trough",
+                1,
+                1
+            ],
+            [
+                "D) Peak",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following best describes the economic phase in which unemployment increases and businesses operate at their lowest capacity levels?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A trough in a business cycle occurs at the end of a contraction phase when businesses are operating at their lowest capacity levels.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A trough in a business cycle occurs at the end of a contraction phase when businesses are operating at their lowest capacity levels.<br /><br />U8LO2</span>"
+    },
+    "3253": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) higher consumer debt, rising inventories",
+                0,
+                0
+            ],
+            [
+                "B) increasing college enrollments and enlistment in military service",
+                0,
+                0
+            ],
+            [
+                "C) increasing consumer demand for goods and services, increasing industrial production, and rising stock markets and property values",
+                1,
+                1
+            ],
+            [
+                "D) increase in want ads in newspapers, decrease in nonfarm jobs",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Expansions in the business cycle are characterized by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Expansions in the business cycle are characterized by increasing consumer demand for goods and services, increasing industrial production, and rising stock markets and property values. Simply stated, business activity is expanding.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Expansions in the business cycle are characterized by increasing consumer demand for goods and services, increasing industrial production, and rising stock markets and property values. Simply stated, business activity is expanding.<br /><br />U8LO2</span>"
+    },
+    "3254": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) to include bank reserves",
+                0,
+                0
+            ],
+            [
+                "B) for inflation",
+                1,
+                1
+            ],
+            [
+                "C) to match foreign GDP",
+                0,
+                0
+            ],
+            [
+                "D) downward by the balance of payments",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "To reflect a more accurate picture of economic results, gross domestic product is adjusted",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"By adjusting GDP for inflation, one can measure economic activity with less distortion. A constant dollar adjustment is made to remove the effects of inflation.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">By adjusting GDP for inflation, one can measure economic activity with less distortion. A constant dollar adjustment is made to remove the effects of inflation.<br /><br />U8LO2</span>"
+    },
+    "3255": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Nonagricultural employment",
+                0,
+                0
+            ],
+            [
+                "B) Prime interest rate",
+                1,
+                1
+            ],
+            [
+                "C) Manufacturers&#039; new orders for consumer goods",
+                0,
+                0
+            ],
+            [
+                "D) Building permits (housing starts)",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Conference Board releases information about the economy on a monthly basis. Included are a number of different indicators. Economic indicators can be leading, lagging, or coincidental, which indicates the timing of their changes relative to how the economy as a whole changes. Which of the following is a lagging economic indicator?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Both the S&P 500 and housing permits are leading economic indicators, as is the measure of hours worked because it reflects changes in the average workweek during the current period. The average prime rate is a lagging indicator because, in an economic downturn, the longer rates stay low, the quicker the recovery should be.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Both the S&P 500 and housing permits are leading economic indicators, as is the measure of hours worked because it reflects changes in the average workweek during the current period. The average prime rate is a lagging indicator because, in an economic downturn, the longer rates stay low, the quicker the recovery should be.<br /><br />U8LO3</span>"
+    },
+    "3256": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the economy is about to enter a deflationary period.",
+                0,
+                0
+            ],
+            [
+                "B) the current rate of inflation will remain at this level until economic shocks cause it to change.",
+                1,
+                1
+            ],
+            [
+                "C) the business cycle is heading towards a trough.",
+                0,
+                0
+            ],
+            [
+                "D) prices are increasing at a steady rate.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A business reporter claims that we are suffering from inertial inflation. This means",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Inertial inflation means that there is not expected to be a change in the inflation rate until some kind of economic event \\\"shakes things up\\\" and causes the rate to move up or down.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Inertial inflation means that there is not expected to be a change in the inflation rate until some kind of economic event \"shakes things up\" and causes the rate to move up or down.<br /><br />U8LO3</span>"
+    },
+    "3257": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Levels of inventories",
+                0,
+                0
+            ],
+            [
+                "B) Corporate profits",
+                0,
+                0
+            ],
+            [
+                "C) Personal incomes",
+                0,
+                0
+            ],
+            [
+                "D) Building permits",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Increases in which of the following indicators are regarded as predictors of the level of business activity?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Increases in building permits are indicative of increased future business activity and therefore are considered a leading economic indicator. Increases in personal income reflect current, not future, activity and is therefore considered a coincident indicator. Increases in inventories indicate that goods are not being sold in anticipated quantities and functions as a disincentive to manufacturing. Buildup in inventories is a lagging economic indicator. Corporate profits are not included in the Conference Board's list of economic indicators.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Increases in building permits are indicative of increased future business activity and therefore are considered a leading economic indicator. Increases in personal income reflect current, not future, activity and is therefore considered a coincident indicator. Increases in inventories indicate that goods are not being sold in anticipated quantities and functions as a disincentive to manufacturing. Buildup in inventories is a lagging economic indicator. Corporate profits are not included in the Conference Board's list of economic indicators.<br /><br />U8LO3</span>"
+    },
+    "3258": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Food producers",
+                1,
+                1
+            ],
+            [
+                "B) Automobile manufacturing",
+                0,
+                0
+            ],
+            [
+                "C) Trucking",
+                0,
+                0
+            ],
+            [
+                "D) Real estate construction",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of these industries would be considered defensive in the face of a recession?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Defensive industries are least affected by normal business cycles. Companies in defensive industries generally produce nondurable consumer goods, such as food, pharmaceuticals, tobacco, and energy. Public consumption of such goods remains fairly steady throughout the business cycle. During recessions and bear markets, stocks in defensive industries generally decline less than stocks in other industries.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Defensive industries are least affected by normal business cycles. Companies in defensive industries generally produce nondurable consumer goods, such as food, pharmaceuticals, tobacco, and energy. Public consumption of such goods remains fairly steady throughout the business cycle. During recessions and bear markets, stocks in defensive industries generally decline less than stocks in other industries.<br /><br />U8LO2</span>"
+    },
+    "3259": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) prices tend to remain the same until the system receives an economic shock.",
+                0,
+                0
+            ],
+            [
+                "B) inflation and deflation alternate at regular intervals.",
+                0,
+                0
+            ],
+            [
+                "C) core inflation is a better measure of the actual inflation rate than the CPI.",
+                0,
+                0
+            ],
+            [
+                "D) prices tend to increase at a steady rate until the system receives an economic shock.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the concept of inertial inflation,",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Inertial inflation is an economic condition where the rate of price increases reaches a stable equilibrium and stays there until a shock to the system occurs, at which time, the rate of inflation changes. It is true that most economists view the core inflation rate as a more accurate measure of true inflation than the CPI, but that has nothing to do with inertial inflation.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Inertial inflation is an economic condition where the rate of price increases reaches a stable equilibrium and stays there until a shock to the system occurs, at which time, the rate of inflation changes. It is true that most economists view the core inflation rate as a more accurate measure of true inflation than the CPI, but that has nothing to do with inertial inflation.<br /><br />U8LO3</span>"
+    },
+    "3260": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Orders for durable goods",
+                0,
+                0
+            ],
+            [
+                "B) New housing permits",
+                0,
+                0
+            ],
+            [
+                "C) Duration of unemployment",
+                1,
+                1
+            ],
+            [
+                "D) Money supply",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is a NOT a leading economic indicator?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The average amount of time it takes for an unemployed person to find a new job is a lagging indicator, not a leading one. Employment is usually one of the last things to pick up as the economy enters a period of expansion. Layoffs are one of the last resorts for companies when the economy turns down.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The average amount of time it takes for an unemployed person to find a new job is a lagging indicator, not a leading one. Employment is usually one of the last things to pick up as the economy enters a period of expansion. Layoffs are one of the last resorts for companies when the economy turns down.<br /><br />U8LO3</span>"
+    },
+    "3261": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the national debt",
+                0,
+                0
+            ],
+            [
+                "B) the sum of all consumer goods, capital goods, and services produced in the United States and net exports to other countries",
+                1,
+                1
+            ],
+            [
+                "C) the sum of all goods and services, imports, and foreign investment",
+                0,
+                0
+            ],
+            [
+                "D) the balance of payments",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The gross domestic product (GDP) for the United States is composed of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The (GDP) comprises all consumer goods, capital goods, services produced in the United States, and net U.S. exports (exports minus imports).\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The (GDP) comprises all consumer goods, capital goods, services produced in the United States, and net U.S. exports (exports minus imports).<br /><br />U8LO2</span>"
+    },
+    "3262": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) stock prices as measured by the S&amp;P 500 index",
+                0,
+                0
+            ],
+            [
+                "B) orders for durable goods",
+                0,
+                0
+            ],
+            [
+                "C) average weekly initial claims for state unemployment compensation",
+                0,
+                0
+            ],
+            [
+                "D) average prime rate",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All of the following are leading indicators for economic growth EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The average prime rate is a lagging indicator. The duration of unemployment is also a lagging indicator, but the number of initial unemployment claims is a leading indicator. The S&P 500 index and orders for durable goods are leading economic indicators.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The average prime rate is a lagging indicator. The duration of unemployment is also a lagging indicator, but the number of initial unemployment claims is a leading indicator. The S&P 500 index and orders for durable goods are leading economic indicators.<br /><br />U8LO3</span>"
+    },
+    "3263": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An increase in purchasing power",
+                0,
+                0
+            ],
+            [
+                "B) An increase in the value of the dollar",
+                0,
+                0
+            ],
+            [
+                "C) A decrease in the value of the monetary unit",
+                1,
+                1
+            ],
+            [
+                "D) A decrease in consumer demand",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of these is a definition of inflation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"We tend to think solely in terms of our dollar, but inflation can occur worldwide and leads to a decrease in the purchasing power (or value) of the monetary unit in use in any particular jurisdiction. Inflation is commonly caused by increased consumer demand, not a decrease.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">We tend to think solely in terms of our dollar, but inflation can occur worldwide and leads to a decrease in the purchasing power (or value) of the monetary unit in use in any particular jurisdiction. Inflation is commonly caused by increased consumer demand, not a decrease.<br /><br />U8LO3</span>"
+    },
+    "3264": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Stock market prices as measured by the S&amp;P 500",
+                0,
+                0
+            ],
+            [
+                "B) Industrial production",
+                1,
+                1
+            ],
+            [
+                "C) Machine tool orders",
+                0,
+                0
+            ],
+            [
+                "D) Agricultural employment",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Conference Board releases information about the economy on a monthly basis. Included are a number of different indicators. Economic indicators can be leading, lagging, or coincidental, which indicates the timing of their changes relative to how the economy as a whole changes. Which of the following is a coincident economic indicator?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Industrial production is a coincident indicator. The stock indices and manufacturing orders are leading indicators; economists do not use agricultural employment as an indicator.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Industrial production is a coincident indicator. The stock indices and manufacturing orders are leading indicators; economists do not use agricultural employment as an indicator.<br /><br />U8LO3</span>"
+    },
+    "3265": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Industrial production",
+                0,
+                0
+            ],
+            [
+                "B) CPI for services",
+                0,
+                0
+            ],
+            [
+                "C) Stock prices as measured by a broad index such as the S&amp;P 500",
+                1,
+                1
+            ],
+            [
+                "D) Gross domestic product",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Conference Board releases information about the economy on a periodic basis. Included are a number of different indicators. These indicators can be used to predict how the economy as a whole might change. Which of the following would be considered a leading indicator?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The stock market, which anticipates economy activity, is a leading economic indicator. Industrial production is a coincident, or current, economic indicator. CPI for services is a lagging indicator. GDP is not included in the Conference Board's list of economic indicators.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The stock market, which anticipates economy activity, is a leading economic indicator. Industrial production is a coincident, or current, economic indicator. CPI for services is a lagging indicator. GDP is not included in the Conference Board's list of economic indicators.<br /><br />U8LO3</span>"
+    },
+    "3266": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) U.S. Treasury bonds",
+                1,
+                1
+            ],
+            [
+                "B) common stock",
+                0,
+                0
+            ],
+            [
+                "C) commercial real estate",
+                0,
+                0
+            ],
+            [
+                "D) gold",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor regularly reads financial blogs on the Internet and they are filled with articles suggesting that the economy is headed for a slump. Some are even saying that there will be price deflation. If these projections are accurate, the best place for the investor to place funds would probably be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the economy is headed downward, safety is the imperative and nothing is as safe (at least for exam purposes) as U.S. Treasuries. Gold, and most other commodities, are a hedge against inflation, not deflation. In \\\"down\\\" times, real estate, both residential and commercial, usually underperforms.\\n\\nU8LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the economy is headed downward, safety is the imperative and nothing is as safe (at least for exam purposes) as U.S. Treasuries. Gold, and most other commodities, are a hedge against inflation, not deflation. In \"down\" times, real estate, both residential and commercial, usually underperforms.<br /><br />U8LO3</span>"
+    },
+    "correct_answer_logic": ""
+};

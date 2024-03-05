@@ -1,0 +1,1053 @@
+let data77 = {
+    "3190": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) domestic goods will become too expensive for foreigners to buy",
+                0,
+                0
+            ],
+            [
+                "B) the country&#039;s exports will exceed its imports",
+                0,
+                0
+            ],
+            [
+                "C) the money supply will decrease",
+                0,
+                0
+            ],
+            [
+                "D) the country&#039;s imports will exceed exports creating selling pressure on its currency",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Over time, a country's trade deficit will lead to a decline in the value of its currency because",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When a country's imports exceed its exports, a trade deficit will occur, which causes selling pressure on the country's currency, therefore lowering its exchange rate against other currencies. When a country's currency declines in price relative to other currencies, exports tend to increase over time because they become less expensive in terms of foreign currency, thus reversing the trade deficit.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When a country's imports exceed its exports, a trade deficit will occur, which causes selling pressure on the country's currency, therefore lowering its exchange rate against other currencies. When a country's currency declines in price relative to other currencies, exports tend to increase over time because they become less expensive in terms of foreign currency, thus reversing the trade deficit.<br /><br />U8LO1</span>"
+    },
+    "3191": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the free trade agreement will be abrogated",
+                0,
+                0
+            ],
+            [
+                "B) Country A's exports to Country B will increase",
+                0,
+                0
+            ],
+            [
+                "C) Country A's imports from Country B will increase",
+                1,
+                1
+            ],
+            [
+                "D) Country B's imports from Country A will increase",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A free trade agreement is entered into between Country A and Country B. As time goes on, the value of Country A's currency increases while that of Country B's decreases. The effect of this will likely be that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"As a country's currency increases in value, its exports become more expensive, so they will fall. On the other hand, with a stronger currency, the country's citizens will have a greater buying power, and this will cause imports to increase.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">As a country's currency increases in value, its exports become more expensive, so they will fall. On the other hand, with a stronger currency, the country's citizens will have a greater buying power, and this will cause imports to increase.<br /><br />U8LO1</span>"
+    },
+    "3192": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The dollar buys more foreign currency.",
+                0,
+                0
+            ],
+            [
+                "B) Foreign securities denominated in their domestic currency decrease in value to the U.S. investor.",
+                0,
+                0
+            ],
+            [
+                "C) An increase in U.S. interest rates might strengthen the dollar.",
+                1,
+                1
+            ],
+            [
+                "D) U.S. exports become less competitive.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If the dollar weakens, which of the following statements is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When U.S. interest rates rise, foreign investors invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When U.S. interest rates rise, foreign investors invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.<br /><br />U8LO1</span>"
+    },
+    "3193": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) U.S. foreign aid",
+                0,
+                0
+            ],
+            [
+                "B) investments by U.S. firms abroad",
+                0,
+                0
+            ],
+            [
+                "C) Americans buying Japanese cars",
+                0,
+                0
+            ],
+            [
+                "D) purchase by foreigners of U.S. securities",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All of the following actions will increase the deficit in the U.S. balance of payments EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A debit in the U.S. balance of payments occurs when the country pays out more abroad than it takes in. This occurs when the U.S. imports more than it exports, invests money abroad, or sends money to foreign countries in the form of foreign aid.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A debit in the U.S. balance of payments occurs when the country pays out more abroad than it takes in. This occurs when the U.S. imports more than it exports, invests money abroad, or sends money to foreign countries in the form of foreign aid.<br /><br />U8LO1</span>"
+    },
+    "3194": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) No effect",
+                0,
+                0
+            ],
+            [
+                "B) Fluctuation both ways",
+                0,
+                0
+            ],
+            [
+                "C) Weaken",
+                1,
+                1
+            ],
+            [
+                "D) Strengthen",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A significant increase in the importing of goods into the United States would likely have what effect on the strength of the U.S. dollar?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Currency rates tend to ebb and flow as the balance of payments shift from positive to negative. A significant increase in imports represents a large outflow of U.S. dollars which results in a negative trade balance. As this builds, the value of the dollar falls against those currencies who have a positive trade balance.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Currency rates tend to ebb and flow as the balance of payments shift from positive to negative. A significant increase in imports represents a large outflow of U.S. dollars which results in a negative trade balance. As this builds, the value of the dollar falls against those currencies who have a positive trade balance.<br /><br />U8LO1</span>"
+    },
+    "3195": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) short-term flows are greater than long-term flows.",
+                0,
+                0
+            ],
+            [
+                "B) tax payments are greater than tax receipts.",
+                0,
+                0
+            ],
+            [
+                "C) net exports are greater than zero.",
+                0,
+                0
+            ],
+            [
+                "D) imports are greater than exports.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a country's current account shows a trade deficit, it is most likely that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A trade deficit occurs when imports are greater than exports.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A trade deficit occurs when imports are greater than exports.<br /><br />U8LO1</span>"
+    },
+    "3196": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) carry out monetary policy.",
+                1,
+                1
+            ],
+            [
+                "B) implement fiscal policy.",
+                0,
+                0
+            ],
+            [
+                "C) manage the revenues and expenditures of the federal government.",
+                0,
+                0
+            ],
+            [
+                "D) issue bonds to the general public.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The primary function of the Federal Reserve System (the Fed) is to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Federal Reserve controls the money supply, enabling it to significantly affect interest rates. The Fed will follow a loose, or easy, monetary policy when it wants to increase the money supply to expand the levels of income and employment. In times of inflation, when it wants to constrict the money supply, the Fed will follow a tight monetary policy. The U.S. Treasury issues bonds to the general public to finance the budget deficits of the federal government.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Federal Reserve controls the money supply, enabling it to significantly affect interest rates. The Fed will follow a loose, or easy, monetary policy when it wants to increase the money supply to expand the levels of income and employment. In times of inflation, when it wants to constrict the money supply, the Fed will follow a tight monetary policy. The U.S. Treasury issues bonds to the general public to finance the budget deficits of the federal government.<br /><br />U8LO1</span>"
+    },
+    "3197": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) fundamental analysis",
+                0,
+                0
+            ],
+            [
+                "B) bottom-up analysis",
+                1,
+                1
+            ],
+            [
+                "C) top-down analysis",
+                0,
+                0
+            ],
+            [
+                "D) sector analysis",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A research analyst studying the performance of ABC Industries compares that with reports from other analysts reviewing other companies in other industries. This is known as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Bottom-up analysis starts by attempting to find superior performing companies, regardless of the industry. Those analysts believe that these companies will provide attractive returns even if they are in an industry sector that is in a negative position in the economic cycle.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Bottom-up analysis starts by attempting to find superior performing companies, regardless of the industry. Those analysts believe that these companies will provide attractive returns even if they are in an industry sector that is in a negative position in the economic cycle.<br /><br />U8LO1</span>"
+    },
+    "3198": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a debit to the current account of the United States",
+                0,
+                0
+            ],
+            [
+                "B) no effect on the balance of trade",
+                0,
+                0
+            ],
+            [
+                "C) a credit to the current account of the United States",
+                1,
+                1
+            ],
+            [
+                "D) a credit to the current account of Japan",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "XYZ Aircraft Manufacturing Corporation, based in the United States, announces a multibillion dollar order for its new jumbo jet from Fly Airlines, a Japanese-based carrier. When the sale is completed, there will be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Whenever money from a foreign source enters the United States, it becomes a credit item in the U.S. balance of payments.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Whenever money from a foreign source enters the United States, it becomes a credit item in the U.S. balance of payments.<br /><br />U8LO1</span>"
+    },
+    "3199": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the federal funds rate",
+                1,
+                1
+            ],
+            [
+                "B) the call loan rate",
+                0,
+                0
+            ],
+            [
+                "C) the discount rate",
+                0,
+                0
+            ],
+            [
+                "D) the prime rate",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When a bank that is a member of the Federal Reserve System borrows from another member bank, the rate that is charged is known as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Loans between banks, usually on an overnight basis, are made at the federal funds rate. It is the most volatile of the money market rates. The discount rate is the rate charged when banks borrow directly from the Federal Reserve.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Loans between banks, usually on an overnight basis, are made at the federal funds rate. It is the most volatile of the money market rates. The discount rate is the rate charged when banks borrow directly from the Federal Reserve.<br /><br />U8LO1</span>"
+    },
+    "3200": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the bottom-up approach.",
+                0,
+                0
+            ],
+            [
+                "B) the optimal portfolio approach",
+                0,
+                0
+            ],
+            [
+                "C) the top-down approach.",
+                3,
+                1
+            ],
+            [
+                "D) the business cycle approach.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A securities analyst's approach is to look at the overall economy and try to forecast which industry will outperform. Then, the analyst searches for those individual companies within that industry that appear to have the best expected return and add those to the recommended list. In so doing, this analyst is using",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is the basic approach of top-down analysis - start with the \\\"big picture\\\" and narrow it down to the most attractive individual stocks.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is the basic approach of top-down analysis - start with the \"big picture\" and narrow it down to the most attractive individual stocks.<br /><br />U8LO1</span>"
+    },
+    "3201": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a government decreasing government spending to slow down economic activity.",
+                0,
+                0
+            ],
+            [
+                "B) a government operating a balanced budget.",
+                0,
+                0
+            ],
+            [
+                "C) a government increasing government spending to stimulate economic activity.",
+                1,
+                1
+            ],
+            [
+                "D) a government increasing taxes in the economy.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An expansionary fiscal policy would usually result in",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An expansionary fiscal policy is one that is deliberately implemented to boost demand. Increased spending would be an expansionary policy.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An expansionary fiscal policy is one that is deliberately implemented to boost demand. Increased spending would be an expansionary policy.<br /><br />U8LO1</span>"
+    },
+    "3202": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the business cycle approach.",
+                0,
+                0
+            ],
+            [
+                "B) the top-down approach.",
+                0,
+                0
+            ],
+            [
+                "C) the optimal portfolio approach.",
+                0,
+                0
+            ],
+            [
+                "D) the bottom-up approach.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A securities analyst's stock selection method is to begin by looking for superior companies, regardless of their industry sector or the condition of the overall economy. In so doing, this analyst is using",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is the basic approach of bottom-up analysis. Rather than focusing the attention on the overall market (the \\\"macro\\\" view of the economy) or the sectors that are likely to outperform, this approach seeks to identify, usually based on the company's fundamentals, the most attractive individual stocks.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is the basic approach of bottom-up analysis. Rather than focusing the attention on the overall market (the \"macro\" view of the economy) or the sectors that are likely to outperform, this approach seeks to identify, usually based on the company's fundamentals, the most attractive individual stocks.<br /><br />U8LO1</span>"
+    },
+    "3203": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The discount rate",
+                0,
+                0
+            ],
+            [
+                "B) The prime rate",
+                1,
+                1
+            ],
+            [
+                "C) The activities of the Federal Open Market Committee",
+                0,
+                0
+            ],
+            [
+                "D) The reserve requirements",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Among the responsibilities of the Federal Reserve (the Fed) is influencing the supply of money and credit in the economy. When performing this function, adjusting which of the following is not a tool at its disposal?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The prime rate is set by the banks. All of the others are under the control of the Fed.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The prime rate is set by the banks. All of the others are under the control of the Fed.<br /><br />U8LO1</span>"
+    },
+    "3204": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) bottom-up approach.",
+                0,
+                0
+            ],
+            [
+                "B) top-down approach.",
+                1,
+                1
+            ],
+            [
+                "C) optimal portfolio approach.",
+                0,
+                0
+            ],
+            [
+                "D) business cycle approach.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A securities analyst's approach is to look at the overall economy and try to forecast which industry will outperform. Then, the analyst searches for those individual companies within that industry that appear to have the best expected return and add those to their recommended list. In so doing, this analyst is using the",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is the basic approach of top-down analysis – start with the \\\"big picture\\\" and narrow it down to the most attractive individual stocks.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is the basic approach of top-down analysis – start with the \"big picture\" and narrow it down to the most attractive individual stocks.<br /><br />U8LO1</span>"
+    },
+    "3205": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A rise in U.S. interest rates might strengthen the dollar.",
+                1,
+                1
+            ],
+            [
+                "B) U.S. exports will fall.",
+                0,
+                0
+            ],
+            [
+                "C) Foreign securities denominated in their domestic currency decrease in value to the U.S. investor.",
+                0,
+                0
+            ],
+            [
+                "D) The dollar buys more foreign currency.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If the dollar weakens, which of the following statements is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When U.S. interest rates rise, foreign investors invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When U.S. interest rates rise, foreign investors invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.<br /><br />U8LO1</span>"
+    },
+    "3206": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the president",
+                0,
+                0
+            ],
+            [
+                "B) the Conference of Governors",
+                0,
+                0
+            ],
+            [
+                "C) the Congress",
+                1,
+                1
+            ],
+            [
+                "D) the Cabinet",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Final approval of the annual operating budget for the United States is given by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The United States Congress is responsible for voting approval of the budget submitted by the president.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The United States Congress is responsible for voting approval of the budget submitted by the president.<br /><br />U8LO1</span>"
+    },
+    "3207": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) efficient frontier",
+                0,
+                0
+            ],
+            [
+                "B) bottom-up",
+                1,
+                1
+            ],
+            [
+                "C) capital asset pricing model",
+                0,
+                0
+            ],
+            [
+                "D) top-down",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An analyst uses a stock selection method that involves analyzing a specific corporation, followed by evaluating where it fits in its industry and then viewing the overall economy. The term that best describes this method is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The bottom-up method of stock selection goes from micro to macro - that is, identify the specific company and then working up through the overall economy. It is the opposite of top-down.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The bottom-up method of stock selection goes from micro to macro - that is, identify the specific company and then working up through the overall economy. It is the opposite of top-down.<br /><br />U8LO1</span>"
+    },
+    "3208": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a trade surplus for Country A",
+                1,
+                1
+            ],
+            [
+                "B) a trade deficit for Country A",
+                0,
+                0
+            ],
+            [
+                "C) an increase in the income tax rates of Country A",
+                0,
+                0
+            ],
+            [
+                "D) a decrease in the value of the currency of Country A",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Country A develops a new product that is in high demand around the world. The likely effect of this would be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When exports exceed imports (the likely case here), it leads to a trade surplus. Invariably, that causes a positive balance of payments, which has the tendency to increase the value of that country's currency relative to others. There is no way to know how this new product will impact the tax legislation of Country A.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When exports exceed imports (the likely case here), it leads to a trade surplus. Invariably, that causes a positive balance of payments, which has the tendency to increase the value of that country's currency relative to others. There is no way to know how this new product will impact the tax legislation of Country A.<br /><br />U8LO1</span>"
+    },
+    "3209": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) optimal portfolio approach.",
+                0,
+                0
+            ],
+            [
+                "B) bottom-up approach.",
+                1,
+                1
+            ],
+            [
+                "C) top-down approach.",
+                0,
+                0
+            ],
+            [
+                "D) business cycle approach.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A securities analyst's stock selection method is to begin by looking for superior companies, regardless of their industry sector or the condition of the overall economy. In so doing, this analyst is using the",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is the basic approach of bottom-up analysis. Rather than focusing the attention on the overall market (the \\\"macro\\\" view of the economy) or the sectors that are likely to outperform, this approach seeks to identify, usually based on the company's fundamentals, the most attractive individual stocks.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is the basic approach of bottom-up analysis. Rather than focusing the attention on the overall market (the \"macro\" view of the economy) or the sectors that are likely to outperform, this approach seeks to identify, usually based on the company's fundamentals, the most attractive individual stocks.<br /><br />U8LO1</span>"
+    },
+    "3210": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Foreign goods and services will become more expensive for Americans.",
+                0,
+                0
+            ],
+            [
+                "B) The risk of stagflation will increase.",
+                0,
+                0
+            ],
+            [
+                "C) Shares of foreign stock will be worth more in terms of American dollars.",
+                0,
+                0
+            ],
+            [
+                "D) Foreign goods and services will become less expensive for Americans.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements best describes what will happen when the value of the American dollar rises in relationship to foreign currencies?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the value of the dollar rises, it will buy more foreign money, making foreign goods and services less expensive for Americans. Because foreign securities are valued in foreign currencies, shares of foreign stock will be worth fewer American dollars when the value of the dollar increases.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the value of the dollar rises, it will buy more foreign money, making foreign goods and services less expensive for Americans. Because foreign securities are valued in foreign currencies, shares of foreign stock will be worth fewer American dollars when the value of the dollar increases.<br /><br />U8LO1</span>"
+    },
+    "3211": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the discount rate",
+                0,
+                0
+            ],
+            [
+                "B) the federal funds rate",
+                1,
+                1
+            ],
+            [
+                "C) the prime rate",
+                0,
+                0
+            ],
+            [
+                "D) the call loan rate",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Overnight loans between banks are made at",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When a bank borrows from another bank on an overnight basis, it is at the federal funds rate. When a bank borrows from the Federal Reserve, it does do at the discount rate. The prime rate is charged by the banks to their stronger borrowers, and the call loan rate is what broker-dealers pay on stock market collateral pledged for margin accounts.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When a bank borrows from another bank on an overnight basis, it is at the federal funds rate. When a bank borrows from the Federal Reserve, it does do at the discount rate. The prime rate is charged by the banks to their stronger borrowers, and the call loan rate is what broker-dealers pay on stock market collateral pledged for margin accounts.<br /><br />U8LO1</span>"
+    },
+    "3212": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The amount of money in the economy determines the overall price level over time, therefore the Federal Reserve should control the growth in the amount of money in the economy in a gradual and predictable way.",
+                1,
+                1
+            ],
+            [
+                "B) The amount of money in the economy is not significant because economic activity reflects the value of real goods and services, therefore the Federal Reserve should not attempt to manage the money supply.",
+                0,
+                0
+            ],
+            [
+                "C) The total amount of money in the economy is the result of the level of interest rates.",
+                0,
+                0
+            ],
+            [
+                "D) The best way to control the money supply is to raise taxes which will reduce the amount of money in the economy and lower prices.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements reflects the monetarist economic position?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Monetarists believe that the economy and inflation are best controlled through the management of the money supply rather than through fiscal policy stimulation.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Monetarists believe that the economy and inflation are best controlled through the management of the money supply rather than through fiscal policy stimulation.<br /><br />U8LO1</span>"
+    },
+    "3213": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Charge on loans to depositary institutions by the New York FRB",
+                0,
+                0
+            ],
+            [
+                "B) Rate charged on reserves traded among commercial banks for overnight use in amounts of $1 million or more",
+                1,
+                1
+            ],
+            [
+                "C) Charge on loans to brokers on stock exchange collateral",
+                0,
+                0
+            ],
+            [
+                "D) Base rate on corporate loans at large U.S. money center commercial banks",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements describes the federal funds rate?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The federal funds rate represents the interest charge on reserves, traded among commercial banks for overnight use, in amounts of $1 million or more.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The federal funds rate represents the interest charge on reserves, traded among commercial banks for overnight use, in amounts of $1 million or more.<br /><br />U8LO1</span>"
+    },
+    "3214": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Taxes and budgeting",
+                1,
+                1
+            ],
+            [
+                "B) Money supply",
+                0,
+                0
+            ],
+            [
+                "C) Reserve requirements",
+                0,
+                0
+            ],
+            [
+                "D) Discount rate",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is a component of U.S. fiscal policy?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"U.S. fiscal policy is determined by the president and Congress through budgeting and taxation. The other 3 choices are monetary policies employed by the Fed.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">U.S. fiscal policy is determined by the president and Congress through budgeting and taxation. The other 3 choices are monetary policies employed by the Fed.<br /><br />U8LO1</span>"
+    },
+    "correct_answer_logic": ""
+};

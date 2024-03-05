@@ -1,0 +1,1053 @@
+let data82 = {
+    "3320": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the receipt of dividends, if declared by the board of directors",
+                0,
+                0
+            ],
+            [
+                "B) electing the board of directors",
+                0,
+                0
+            ],
+            [
+                "C) the right to determine the par value of the stock",
+                1,
+                1
+            ],
+            [
+                "D) preemptive rights",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A common stockholder's rights include all of the following EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Par value is an accounting decision made by the company when the stock is first issued and is not something voted on by shareholders. Common stockholders are the owners of a corporation. This basic form of ownership entitles them to all of the privileges discussed here. It also allows them to transfer their ownership, inspect company records, vote on corporate objectives, and lay claim to any residual assets in the event of a liquidation.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Par value is an accounting decision made by the company when the stock is first issued and is not something voted on by shareholders. Common stockholders are the owners of a corporation. This basic form of ownership entitles them to all of the privileges discussed here. It also allows them to transfer their ownership, inspect company records, vote on corporate objectives, and lay claim to any residual assets in the event of a liquidation.<br /><br />U12LO2</span>"
+    },
+    "3321": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) there is a maximum 10-year limit for exercising an ISO; no such time limit exists for an NSO.",
+                0,
+                0
+            ],
+            [
+                "B) the holder of an ISO can recognize capital gain (loss) as a result of exercise, whereas ordinary income (loss) is the result with an NSO.",
+                0,
+                0
+            ],
+            [
+                "C) ISOs may only be granted to employees while NSOs may be given to virtually anyone.",
+                0,
+                0
+            ],
+            [
+                "D) the recipient of the grant of the ISO has no income tax consequences at the time of the grant.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Corporations have found that one way to increase employee motivation is to grant options to purchase stock in the company. Incentive (qualified) options differ from nonqualified options in all of the following respects except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Whether the grant is of an ISO (qualified) or an NSO (nonqualified), there are no tax consequences to the recipient at the time of the grant. It is only after exercise (NSO) and sale after exercise (ISO) that the recipient of the grant has tax consequences. Each of the other choices represents a difference. ISOs can only be granted to employees while the NSO can also be granted to members of the board of directors and even to vendors. With an ISO, capital gain (loss) treatment is available upon the sale of the stock if the recipient holds the stock purchased through exercise at least 1 year from the date of exercise and at least 2 years from the date of the grant. With an NSO, the recipient can only have ordinary income (loss) based on the difference between the exercise price and the market value when the option is exercised. Finally, if the recipient of an ISO does not exercise the option within 10 years of the grant, it is treated as an NSO for tax purposes.\\n\\nU12LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Whether the grant is of an ISO (qualified) or an NSO (nonqualified), there are no tax consequences to the recipient at the time of the grant. It is only after exercise (NSO) and sale after exercise (ISO) that the recipient of the grant has tax consequences. Each of the other choices represents a difference. ISOs can only be granted to employees while the NSO can also be granted to members of the board of directors and even to vendors. With an ISO, capital gain (loss) treatment is available upon the sale of the stock if the recipient holds the stock purchased through exercise at least 1 year from the date of exercise and at least 2 years from the date of the grant. With an NSO, the recipient can only have ordinary income (loss) based on the difference between the exercise price and the market value when the option is exercised. Finally, if the recipient of an ISO does not exercise the option within 10 years of the grant, it is treated as an NSO for tax purposes.<br /><br />U12LO3</span>"
+    },
+    "3322": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Government bonds",
+                0,
+                0
+            ],
+            [
+                "B) Fixed annuities",
+                0,
+                0
+            ],
+            [
+                "C) Corporate bonds",
+                0,
+                0
+            ],
+            [
+                "D) Common stock",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Investments in which of the following offer the best long-term protection against inflation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Common stocks have historically offered returns that outpace inflation over the long term.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Common stocks have historically offered returns that outpace inflation over the long term.<br /><br />U12LO2</span>"
+    },
+    "3323": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) determined by its board of directors",
+                1,
+                1
+            ],
+            [
+                "B) voted on by shareholders",
+                0,
+                0
+            ],
+            [
+                "C) specified in the company charter",
+                0,
+                0
+            ],
+            [
+                "D) mandatory if the company is profitable",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A company's dividend on its common stock is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A common stock's dividend payment and amount are determined by the company's board of directors.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A common stock's dividend payment and amount are determined by the company's board of directors.<br /><br />U12LO2</span>"
+    },
+    "3324": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) $16.00",
+                0,
+                0
+            ],
+            [
+                "B) $8.00",
+                0,
+                0
+            ],
+            [
+                "C) $24.00",
+                1,
+                1
+            ],
+            [
+                "D) $0.00",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A customer owns cumulative preferred stock (par value of $100) that pays an 8% dividend. The dividend has not been paid this year or for the 2 previous years. How much must the company pay the customer per share before it may pay dividends to the common stockholders?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If the company is going to pay a common stock dividend, it must pay the preferred dividends first. A cumulative preferred stockholder must also receive all dividends in arrears. There are $16 due in back dividends, in addition to $8 this year, for a total of $24.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If the company is going to pay a common stock dividend, it must pay the preferred dividends first. A cumulative preferred stockholder must also receive all dividends in arrears. There are $16 due in back dividends, in addition to $8 this year, for a total of $24.<br /><br />U12LO2</span>"
+    },
+    "3325": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) giving those shareholders an opportunity to participate in the future success of the company",
+                1,
+                1
+            ],
+            [
+                "B) giving those shareholders the ability to convert into the issuer&#039;s bonds",
+                0,
+                0
+            ],
+            [
+                "C) a lower cost to the issuer than would be incurred by the issuance of convertible bonds",
+                0,
+                0
+            ],
+            [
+                "D) tax savings to the issuer",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Reasons why a corporation might issue a convertible preferred stock would include",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The benefit of any convertible security, bond or preferred stock, is that the ability to convert into the issuer's common stock allows those investors to participate in the potential future growth of the company. One does not convert into a bond, and because preferred dividends are an after-tax outlay, there are no tax savings, as there would be with bond interest. Because stock is lower in claim than bonds, the dividend rate would have to be higher than the interest rate on bonds.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The benefit of any convertible security, bond or preferred stock, is that the ability to convert into the issuer's common stock allows those investors to participate in the potential future growth of the company. One does not convert into a bond, and because preferred dividends are an after-tax outlay, there are no tax savings, as there would be with bond interest. Because stock is lower in claim than bonds, the dividend rate would have to be higher than the interest rate on bonds.<br /><br />U12LO2</span>"
+    },
+    "3326": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Cash",
+                0,
+                0
+            ],
+            [
+                "B) Common stock.",
+                1,
+                1
+            ],
+            [
+                "C) Fixed annuity",
+                0,
+                0
+            ],
+            [
+                "D) Preferred stock",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following has the least exposure to inflation risk?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The returns on common stock have historically outperformed inflation, making them less vulnerable to loss of purchasing power among the choices presented. Cash is a store of present purchasing power that inflation will erode. Fixed annuities have more exposure to inflation than common stock because their payments are fixed in nominal dollars. Preferred stock has the same exposure to inflation risk as do all fixed income instruments.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The returns on common stock have historically outperformed inflation, making them less vulnerable to loss of purchasing power among the choices presented. Cash is a store of present purchasing power that inflation will erode. Fixed annuities have more exposure to inflation than common stock because their payments are fixed in nominal dollars. Preferred stock has the same exposure to inflation risk as do all fixed income instruments.<br /><br />U12LO2</span>"
+    },
+    "3327": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) $15.00",
+                0,
+                0
+            ],
+            [
+                "B) $10.00",
+                1,
+                1
+            ],
+            [
+                "C) $5.00",
+                0,
+                0
+            ],
+            [
+                "D) $25.00",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "ABC Corporation has a 10% noncumulative preferred stock outstanding at $100 par value. Two years ago, ABC omitted its preferred dividend, and last year, it paid a dividend of $5 per share. To pay a dividend to common shareholders this year, each preferred share must be paid a dividend of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This stock has a par value of $100 and a dividend rate of 10%. That means the annual dividend will be 10% of the $100 par, or $10. Because this is noncumulative preferred stock, the company must pay only this year's full stated dividend of $10 per share before paying dividends to the common shareholders. Any dividends from previous years that were not paid are ignored. If this had been a cumulative preferred stock, all of the dividends in arrears (past unpaid) would have to be paid before the common shareholders could get a dividend. In that case, it would have been $10 for two years ago, $5 for the balance of last year's dividend, and $10 for this year's (a total of $25).\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This stock has a par value of $100 and a dividend rate of 10%. That means the annual dividend will be 10% of the $100 par, or $10. Because this is noncumulative preferred stock, the company must pay only this year's full stated dividend of $10 per share before paying dividends to the common shareholders. Any dividends from previous years that were not paid are ignored. If this had been a cumulative preferred stock, all of the dividends in arrears (past unpaid) would have to be paid before the common shareholders could get a dividend. In that case, it would have been $10 for two years ago, $5 for the balance of last year's dividend, and $10 for this year's (a total of $25).<br /><br />U12LO2</span>"
+    },
+    "3328": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the stockholder must be a natural person",
+                0,
+                0
+            ],
+            [
+                "B) the company must be current on its dividends to preferred stockholders",
+                0,
+                0
+            ],
+            [
+                "C) the stock must be paid for in full before the annual meeting",
+                0,
+                0
+            ],
+            [
+                "D) ownership must be established by the record date",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of the rights of those owning common stock is the opportunity to vote on issues brought up at the corporation's annual meeting. To be eligible to cast a vote,",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Only stockholders who are on the company's books by the record date are eligible to vote.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Only stockholders who are on the company's books by the record date are eligible to vote.<br /><br />U12LO2</span>"
+    },
+    "3329": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) listed stock options",
+                0,
+                0
+            ],
+            [
+                "B) non-qualified stock options",
+                0,
+                0
+            ],
+            [
+                "C) incentive stock options",
+                1,
+                1
+            ],
+            [
+                "D) portable stock options",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An employee wishing to obtain long-term capital gain treatment would prefer the employer to offer",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Assuming the time limit conditions are met, exercise of an ISO can result in long-term capital gains while non-qualified options are always treated as ordinary income.\\n\\nU12LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Assuming the time limit conditions are met, exercise of an ISO can result in long-term capital gains while non-qualified options are always treated as ordinary income.<br /><br />U12LO3</span>"
+    },
+    "3330": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Only those who are owners of the stock on the record date will receive dividends",
+                0,
+                0
+            ],
+            [
+                "B) Corporations are contractually obligated to pay dividends to their shareholders each year",
+                1,
+                1
+            ],
+            [
+                "C) Dividends represent a pro rata distribution of corporate profits to shareholders",
+                0,
+                0
+            ],
+            [
+                "D) Dividends may be paid in cash, property, or stock",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements about dividends on common stock is NOT true?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Dividends are the share of a corporation's profits that the corporation pays to shareholders as owners of the corporation. Dividends are not paid to shareholders automatically, and shareholders have no contractual right to receive dividends. Instead, dividends must be declared by the corporation's board of directors. The board of directors may elect to pay a dividend in cash, property, or stock.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Dividends are the share of a corporation's profits that the corporation pays to shareholders as owners of the corporation. Dividends are not paid to shareholders automatically, and shareholders have no contractual right to receive dividends. Instead, dividends must be declared by the corporation's board of directors. The board of directors may elect to pay a dividend in cash, property, or stock.<br /><br />U12LO2</span>"
+    },
+    "3331": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a proportionately decreased interest in the company",
+                0,
+                0
+            ],
+            [
+                "B) greater exposure",
+                0,
+                0
+            ],
+            [
+                "C) no effective change in the value of the position",
+                1,
+                1
+            ],
+            [
+                "D) a proportionately increased interest in the company",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client has 100 shares of GHI when the stock undergoes a split. After the split, the client has",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When a stock splits, the number of shares each stockholder has either increases or decreases (in the case of a reverse split). The customer experiences no effective change in position because the proportionate interest in the company remains the same.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When a stock splits, the number of shares each stockholder has either increases or decreases (in the case of a reverse split). The customer experiences no effective change in position because the proportionate interest in the company remains the same.<br /><br />U12LO2</span>"
+    },
+    "3332": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the owner has the opportunity to convert the stock into the issuer's bonds",
+                0,
+                0
+            ],
+            [
+                "B) the holder is able to select the conversion price",
+                0,
+                0
+            ],
+            [
+                "C) the dividend is paid ahead of all other securities",
+                0,
+                0
+            ],
+            [
+                "D) the owner has the opportunity to participate in the growth of the company",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of the features of convertible preferred stock is that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Any convertible security, preferred stock or debenture, is convertible into the issuer's common stock. As a result, if the business is successful, the common stock's price will rise to the point where conversion is a wise idea. Although the investor can generally select when to convert, the conversion price or ratio is set at the time of issuance. Interest on debt securities is paid before the dividends on any stock. When it comes to preferred stock, there is frequently a \\\"pecking order\\\", such as a prior lien preferred or first preference preferred that would come ahead of the other preferred shares.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Any convertible security, preferred stock or debenture, is convertible into the issuer's common stock. As a result, if the business is successful, the common stock's price will rise to the point where conversion is a wise idea. Although the investor can generally select when to convert, the conversion price or ratio is set at the time of issuance. Interest on debt securities is paid before the dividends on any stock. When it comes to preferred stock, there is frequently a \"pecking order\", such as a prior lien preferred or first preference preferred that would come ahead of the other preferred shares.<br /><br />U12LO2</span>"
+    },
+    "3333": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Owners have a continuing claim to their dividends, and all arrears must be paid before any dividends can be paid on common stock.",
+                1,
+                1
+            ],
+            [
+                "B) Owners lose any claim to dividends that are not paid in any one year.",
+                0,
+                0
+            ],
+            [
+                "C) Owners are allowed to vote for directors using the cumulative voting procedures.",
+                0,
+                0
+            ],
+            [
+                "D) Owners receive an extra dividend, along with common shareholders, in addition to the preferred dividend.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements best describes cumulative preferred stock?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Owners of cumulative preferred stock have a continuing claim to their dividends, even when the directors pass a dividend. Their claim accumulates, which means that all past dividends (arrears), as well as current dividends, must be paid before any dividend can be paid on common stock. By contrast, the owners of noncumulative preferred stock lose their claim to dividends that are not paid in any one year.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Owners of cumulative preferred stock have a continuing claim to their dividends, even when the directors pass a dividend. Their claim accumulates, which means that all past dividends (arrears), as well as current dividends, must be paid before any dividend can be paid on common stock. By contrast, the owners of noncumulative preferred stock lose their claim to dividends that are not paid in any one year.<br /><br />U12LO2</span>"
+    },
+    "3334": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Both common and preferred stockholders have the right to subscribe to a rights offering.",
+                0,
+                0
+            ],
+            [
+                "B) Common stockholders do not have the right to subscribe to a rights offering.",
+                0,
+                0
+            ],
+            [
+                "C) Preferred stockholders do not have the right to subscribe to a rights offering.",
+                1,
+                1
+            ],
+            [
+                "D) Neither common nor preferred stockholders have the right to subscribe to a rights offering.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements regarding preemptive rights is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Preferred stockholders have a preference as to liquidation and distribution of dividends, but the right to maintain a proportionate interest in the company only applies to common stock.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Preferred stockholders have a preference as to liquidation and distribution of dividends, but the right to maintain a proportionate interest in the company only applies to common stock.<br /><br />U12LO2</span>"
+    },
+    "3335": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The spouse is not an affiliate and Rule 144 does not apply.",
+                0,
+                0
+            ],
+            [
+                "B) The spouse is an affiliate and Rule 144 does not apply.",
+                0,
+                0
+            ],
+            [
+                "C) The spouse is not an affiliate and Rule 144 applies.",
+                0,
+                0
+            ],
+            [
+                "D) The spouse is an affiliate and Rule 144 applies.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a customer owns 7% of a publicly-traded company's stock and his spouse owns 6% and wants to sell her shares, which of the following statements is true?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Together, the client and wife own 13% of the company's stock, so the spouse is considered an affiliate and is bound by Rule 144. If there is a 10% or more ownership interest among members of an immediate family living at the same residence, then all members are considered control persons (affiliates) subject to Rule 144. For exam purposes, assume that spouses share the same residence.\\n\\nU12LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Together, the client and wife own 13% of the company's stock, so the spouse is considered an affiliate and is bound by Rule 144. If there is a 10% or more ownership interest among members of an immediate family living at the same residence, then all members are considered control persons (affiliates) subject to Rule 144. For exam purposes, assume that spouses share the same residence.<br /><br />U12LO4</span>"
+    },
+    "3336": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the bargain element of the ISO is an AMT preference item.",
+                1,
+                1
+            ],
+            [
+                "B) the bargain element of the ISO is reported as wages on the tax returns of the employer and the employee.",
+                0,
+                0
+            ],
+            [
+                "C) there is a maximum 5-year limit for exercise on the ISO while the time limit on the NQSO is 10 years.",
+                0,
+                0
+            ],
+            [
+                "D) gains on an ISO are always short-term while those on an NQSO are long-term.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One way in which incentive stock options (ISOs) differ from nonqualified stock options (NQSOs) is that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The only true statement here is that the bargain element (the difference between the current market price at the time of exercise and the strike price) of the ISO (but not the NQSO) is one of the preference items for the alternative minimum tax. It is the bargain element of the NQSO which is reported as wages and it is possible, although difficult, to have long-term capital gains on both. Only the ISO has a maximum time limit and it is 10 years, not 5.\\n\\nU12LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The only true statement here is that the bargain element (the difference between the current market price at the time of exercise and the strike price) of the ISO (but not the NQSO) is one of the preference items for the alternative minimum tax. It is the bargain element of the NQSO which is reported as wages and it is possible, although difficult, to have long-term capital gains on both. Only the ISO has a maximum time limit and it is 10 years, not 5.<br /><br />U12LO3</span>"
+    },
+    "3337": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) voting-trust certificates",
+                0,
+                0
+            ],
+            [
+                "B) employee stock options",
+                1,
+                1
+            ],
+            [
+                "C) subordinated debentures",
+                0,
+                0
+            ],
+            [
+                "D) preemptive rights",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A corporation would like to offer their employees an opportunity to participate in the future growth of the company. Among the methods you might suggest are",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"One of the most popular ways to give employees the chance to benefit from an increase in the value of the employer's stock is through employee stock options.\\n\\nU12LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">One of the most popular ways to give employees the chance to benefit from an increase in the value of the employer's stock is through employee stock options.<br /><br />U12LO3</span>"
+    },
+    "3338": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Preferred stock",
+                1,
+                1
+            ],
+            [
+                "B) Common stock acquired in a private placement",
+                0,
+                0
+            ],
+            [
+                "C) Control stock",
+                0,
+                0
+            ],
+            [
+                "D) Common stock",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor holding which of the following equity securities would NOT expect to have preemptive rights?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Preferred stockholders do not have preemptive rights. Preemptive rights allow common stockholders to subscribe to additional issues of shares before they are offered to the public, to maintain their percentage ownership.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Preferred stockholders do not have preemptive rights. Preemptive rights allow common stockholders to subscribe to additional issues of shares before they are offered to the public, to maintain their percentage ownership.<br /><br />U12LO2</span>"
+    },
+    "3339": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Because ADRs are traded on the exchanges, they are relatively liquid and marketable investments.",
+                0,
+                0
+            ],
+            [
+                "B) ADR holders may surrender ADRs in exchange for receiving the shares of the non-U.S. company.",
+                0,
+                0
+            ],
+            [
+                "C) Dividends are declared in the foreign currency, so exchange rate, or currency, risk is completely eliminated.",
+                1,
+                1
+            ],
+            [
+                "D) ADRs are denominated and pay dividends in U.S. dollars, not foreign currencies, thus saving the investor transaction costs with respect to converting currencies.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is not a characteristic of American depositary receipts (ADRs)?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"ADRs are receipts issued by a U.S. bank for shares of a foreign company purchased and held by a foreign branch of the bank. Dividends are declared in the local currency, so exchange rate, or currency, risk is not completely eliminated. They are generally traded on one of the major exchanges ensuring liquidity. They are an alternative to investing directly in foreign companies or foreign mutual funds. If the investor desires the foreign shares, the ADR may be surrendered and the exchange made.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">ADRs are receipts issued by a U.S. bank for shares of a foreign company purchased and held by a foreign branch of the bank. Dividends are declared in the local currency, so exchange rate, or currency, risk is not completely eliminated. They are generally traded on one of the major exchanges ensuring liquidity. They are an alternative to investing directly in foreign companies or foreign mutual funds. If the investor desires the foreign shares, the ADR may be surrendered and the exchange made.<br /><br />U12LO5</span>"
+    },
+    "3340": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the ex-dividend date.",
+                0,
+                0
+            ],
+            [
+                "B) the last day of the company's fiscal year.",
+                0,
+                0
+            ],
+            [
+                "C) the record date.",
+                1,
+                1
+            ],
+            [
+                "D) the election date.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of the rights of being a stockholder is the ability to vote on important corporate matters, such as the election of members to the board of directors. The date that determines which shareholders are eligible to votes is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The record date is a date announced by the company as the official date you must be an owner on the company's records in order to participate in the annual meeting and corporate election. A fact not tested is there is no standard regarding how far in advance of the voting date this should be other than it must be at least the normal settlement period, currently 2 business days.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The record date is a date announced by the company as the official date you must be an owner on the company's records in order to participate in the annual meeting and corporate election. A fact not tested is there is no standard regarding how far in advance of the voting date this should be other than it must be at least the normal settlement period, currently 2 business days.<br /><br />U12LO2</span>"
+    },
+    "3341": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ADRs are traded on exchanges and the OTC markets.",
+                0,
+                0
+            ],
+            [
+                "B) They are not subject to exchange rate, or currency, risk.",
+                1,
+                1
+            ],
+            [
+                "C) ADRs are denominated in and pay dividends in U.S. dollars.",
+                0,
+                0
+            ],
+            [
+                "D) Information regarding the foreign company is easily attainable.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client is considering the purchase of American depositary receipts (ADRs). She is looking to further diversify her portfolio. Which of the following is not a feature of this type of investment vehicle?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. In order to trade in the U.S. markets, information about the foreign company must be available to investors. ADRs representing the best known companies typically trade on the NYSE or the Nasdaq stock market while lesser companies trade OTC.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. In order to trade in the U.S. markets, information about the foreign company must be available to investors. ADRs representing the best known companies typically trade on the NYSE or the Nasdaq stock market while lesser companies trade OTC.<br /><br />U12LO5</span>"
+    },
+    "3342": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An international investor faces the additional risks of foreign currency risk and country risk.",
+                0,
+                0
+            ],
+            [
+                "B) An emerging market is a market in a highly-developed foreign economy with stable political and social institutions.",
+                1,
+                1
+            ],
+            [
+                "C) One method to engage in international investing is through American depositary receipts.",
+                0,
+                0
+            ],
+            [
+                "D) International investing offers diversification and potentially higher returns.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements regarding international investing is not correct?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Emerging markets are markets in lesser-developed countries. As a result, the political risk tends to be higher than with developed economies. Whether it is emerging or developed, a U.S.-based investor will always face currency risk and all countries have some degree of country risk. A way to simplify things is to invest in ADRs rather than the foreign stock itself. International equity is a subclass of equities when allocating assets, and the addition of them tends to offer diversification and potentially higher returns because foreign markets are not necessarily correlated to the U.S. ones.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Emerging markets are markets in lesser-developed countries. As a result, the political risk tends to be higher than with developed economies. Whether it is emerging or developed, a U.S.-based investor will always face currency risk and all countries have some degree of country risk. A way to simplify things is to invest in ADRs rather than the foreign stock itself. International equity is a subclass of equities when allocating assets, and the addition of them tends to offer diversification and potentially higher returns because foreign markets are not necessarily correlated to the U.S. ones.<br /><br />U12LO5</span>"
+    },
+    "3343": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) has a capital gain of $10 per share",
+                0,
+                0
+            ],
+            [
+                "B) is taxed on $30 per share as if it were salary",
+                0,
+                0
+            ],
+            [
+                "C) is taxed on $20 per share as if it were salary",
+                0,
+                0
+            ],
+            [
+                "D) is taxed on $10 per share as if it were salary",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An employee is offered a nonqualified stock option with an exercise price of $20 per share. If the option is exercised when the current market value of the stock is $30, the employee",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In the case of NSOs, the difference between the exercise (or strike) price and the current market value is considered salary to the employee.\\n\\nU12LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In the case of NSOs, the difference between the exercise (or strike) price and the current market value is considered salary to the employee.<br /><br />U12LO3</span>"
+    },
+    "3344": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ADRs are traded on exchanges and the OTC markets.",
+                0,
+                0
+            ],
+            [
+                "B) Information regarding the foreign company is easily attainable.",
+                0,
+                0
+            ],
+            [
+                "C) They are not subject to exchange rate, or currency, risk.",
+                1,
+                1
+            ],
+            [
+                "D) ADRs are denominated in and pay dividends in U.S. dollars.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client is considering the purchase of American depositary receipts (ADRs). She is looking to further diversify her portfolio. Which of the following is NOT a feature of this type of investment vehicle?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. In order to trade in the U.S. markets, information about the foreign company must be available to investors. ADRs representing the best known companies typically trade on the NYSE or the Nasdaq Stock Market, while lesser companies trade OTC.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. In order to trade in the U.S. markets, information about the foreign company must be available to investors. ADRs representing the best known companies typically trade on the NYSE or the Nasdaq Stock Market, while lesser companies trade OTC.<br /><br />U12LO5</span>"
+    },
+    "correct_answer_logic": ""
+};

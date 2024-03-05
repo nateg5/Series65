@@ -1,0 +1,1053 @@
+let data89 = {
+    "3502": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a broker-dealer",
+                0,
+                0
+            ],
+            [
+                "B) an investment adviser",
+                1,
+                1
+            ],
+            [
+                "C) a journalist",
+                0,
+                0
+            ],
+            [
+                "D) an agent",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, a person whose business model is selling reports on a subscription basis concerning specific securities to investors based on their individual objectives will be defined as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The definition of investment adviser includes any person who for compensation engages in the business of advising others as to the value of securities or the advisability of buying, selling, or investing in securities or who, as a part of a regular business, publishes securities analyses or securities reports for individual investors on a paid subscription basis.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The definition of investment adviser includes any person who for compensation engages in the business of advising others as to the value of securities or the advisability of buying, selling, or investing in securities or who, as a part of a regular business, publishes securities analyses or securities reports for individual investors on a paid subscription basis.<br /><br />U1LO1</span>"
+    },
+    "3503": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) MBAs.",
+                0,
+                0
+            ],
+            [
+                "B) CLUs.",
+                0,
+                0
+            ],
+            [
+                "C) CPAs.",
+                0,
+                0
+            ],
+            [
+                "D) CFP&reg;s.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "There are waivers from the Series 65 exam requirement for certain professional designations. Among those qualifying for the waiver are individuals who are",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is tricky. CFPs do qualify for the waiver. ChFCs (not CLUs) also qualify and those with the PFS - Personal Financial Specialist (granted by the American Institute of Certified Public Accountants), but not solely a CPA, qualify. MBA is not a professional designation. In general, the following designations allow for a waiver of the exam requirement:\\n\\nCFP&reg; - CERTIFIED FINANCIAL PLANNER™ (granted by the CFP Board of Standards);\\n\\nCIC - Chartered Investment Counselor (granted by the Investment Adviser Association);\\n\\nChFC&reg; - Chartered Financial Consultant&reg; (granted by the American College of Financial Services);\\n\\nPFS - Personal Financial Specialist (granted by the American Institute of Certified Public Accountants); and\\n\\nCFA&reg; - Chartered Financial Analyst&reg; (granted by the Chartered Financial Analyst Institute).\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is tricky. CFPs do qualify for the waiver. ChFCs (not CLUs) also qualify and those with the PFS - Personal Financial Specialist (granted by the American Institute of Certified Public Accountants), but not solely a CPA, qualify. MBA is not a professional designation. In general, the following designations allow for a waiver of the exam requirement:<br /><br />CFP&reg; - CERTIFIED FINANCIAL PLANNER™ (granted by the CFP Board of Standards);<br /><br />CIC - Chartered Investment Counselor (granted by the Investment Adviser Association);<br /><br />ChFC&reg; - Chartered Financial Consultant&reg; (granted by the American College of Financial Services);<br /><br />PFS - Personal Financial Specialist (granted by the American Institute of Certified Public Accountants); and<br /><br />CFA&reg; - Chartered Financial Analyst&reg; (granted by the Chartered Financial Analyst Institute).<br /><br />U1LO1</span>"
+    },
+    "3504": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) FINRA",
+                0,
+                0
+            ],
+            [
+                "B) the Administrator",
+                0,
+                0
+            ],
+            [
+                "C) the Investment Advisers Association (IAA)",
+                0,
+                0
+            ],
+            [
+                "D) the SEC",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The responsibility for administering the Investment Advisers Act of 1940 lies with",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Investment Advisers Act of 1940 is federal law, and that comes under the jurisdiction of the SEC.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Investment Advisers Act of 1940 is federal law, and that comes under the jurisdiction of the SEC.<br /><br />U1LO1</span>"
+    },
+    "3505": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Advisers may use the term without restriction as long as they are registered.",
+                0,
+                0
+            ],
+            [
+                "B) The use of the term is prohibited under any circumstances.",
+                0,
+                0
+            ],
+            [
+                "C) Advisers may use the term only if their principal business is acting as an investment adviser and a substantial part of their business consists of providing continuous advice based on a client&#039;s individual needs.",
+                1,
+                1
+            ],
+            [
+                "D) Advisers may use the term only if they are attorneys.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Investment Advisers Act of 1940, which of the following is TRUE about the use of the term \"investment counsel\" by investment advisers?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Advisers may use the term \\\"investment counsel\\\" only if two conditions are met: rendering investment advice must be their principal business and a substantial part of that business must be providing investment supervisory services - that is, continuous advice based on the individual needs of each client.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Advisers may use the term \"investment counsel\" only if two conditions are met: rendering investment advice must be their principal business and a substantial part of that business must be providing investment supervisory services - that is, continuous advice based on the individual needs of each client.<br /><br />U1LO1</span>"
+    },
+    "3506": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A professional providing a market timing service with an annual subscription fee of $995, with this service attempting to maximize profits by suggesting entry and exit points for over 100 listed stocks",
+                0,
+                0
+            ],
+            [
+                "B) An investment adviser who has been admitted to the bar in the state in which the firm&#039;s principal office is located",
+                0,
+                0
+            ],
+            [
+                "C) A financial planner offering a wide range of services to his clients, including tax planning, estate planning, insurance planning, and investment advice",
+                0,
+                0
+            ],
+            [
+                "D) A firm whose exclusive business is placing clients&#039; assets into model portfolios",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following investment advisers would be permitted to use the term \"investment counsel\"?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In order for the term \\\"investment counsel\\\" to be used, two criteria must be met. First, the principal business of the adviser must be the rendering of investment advice. Second, the nature of the advice must meet the definition of investment supervisory service. That means giving continuous investment advice to clients based on their individual needs. That is frequently accomplished by selecting model portfolios most appropriate to the client's needs. The financial planner clearly is not principally in the business of offering investment advice because he describes his service as offering a wide range of services, of which advice is only a part. The exam frequently uses that wording to indicate that advice is not the principal activity. While the publisher's principal business activity may be offering advice, nothing about the description indicates that individual client accounts are being monitored.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In order for the term \"investment counsel\" to be used, two criteria must be met. First, the principal business of the adviser must be the rendering of investment advice. Second, the nature of the advice must meet the definition of investment supervisory service. That means giving continuous investment advice to clients based on their individual needs. That is frequently accomplished by selecting model portfolios most appropriate to the client's needs. The financial planner clearly is not principally in the business of offering investment advice because he describes his service as offering a wide range of services, of which advice is only a part. The exam frequently uses that wording to indicate that advice is not the principal activity. While the publisher's principal business activity may be offering advice, nothing about the description indicates that individual client accounts are being monitored.<br /><br />U1LO1</span>"
+    },
+    "3507": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) XYZ Dry Cleaners, Inc., whose shareholders all work on the premises and also offer financial advice to customers who request it.",
+                0,
+                0
+            ],
+            [
+                "B) A small unincorporated investment club.",
+                0,
+                0
+            ],
+            [
+                "C) A child prodigy for whom his mother, as custodian, opened an account at a major securities firm.",
+                1,
+                1
+            ],
+            [
+                "D) Guelph, a small city outside of Toronto, Ontario, that maintains an investment account at a brokerage house to invest surplus funds.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is NOT a person as defined by the Uniform Securities Act?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Under the Uniform Securities Act, the term \\\"person\\\" has a specific meaning. \\\"Person\\\" refers to an individual, corporation, association, joint-stock company, trust, unincorporated organization, government, or political subdivision of a government. A minor child, is not a person legally capable of entering into contracts. Adults must open custodial accounts on behalf of minor children.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Under the Uniform Securities Act, the term \"person\" has a specific meaning. \"Person\" refers to an individual, corporation, association, joint-stock company, trust, unincorporated organization, government, or political subdivision of a government. A minor child, is not a person legally capable of entering into contracts. Adults must open custodial accounts on behalf of minor children.<br /><br />U1LO1</span>"
+    },
+    "3508": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) who are registered with the SEC under the Investment Advisers Act of 1940",
+                0,
+                0
+            ],
+            [
+                "B) who are also attorneys",
+                0,
+                0
+            ],
+            [
+                "C) who are also registered as broker-dealers",
+                0,
+                0
+            ],
+            [
+                "D) with a primary business of rendering investment advice",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The term \"investment counsel\" can be used by investment advisers",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"While this choice is only half correct, under the Investment Advisers Act of 1940, the term \\\"investment counsel\\\" may be used by any adviser that meets two standards: the adviser performs investment supervisory services, and the adviser provides advice as the primary business of the firm. No other special qualifications or registrations are needed.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">While this choice is only half correct, under the Investment Advisers Act of 1940, the term \"investment counsel\" may be used by any adviser that meets two standards: the adviser performs investment supervisory services, and the adviser provides advice as the primary business of the firm. No other special qualifications or registrations are needed.<br /><br />U1LO1</span>"
+    },
+    "3509": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Types of investments made by the adviser",
+                0,
+                0
+            ],
+            [
+                "B) A description of how the adviser is compensated",
+                0,
+                0
+            ],
+            [
+                "C) Investment policy of the adviser",
+                0,
+                0
+            ],
+            [
+                "D) States in which the investment adviser is registered or intends to register",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is NOT included in Form ADV Part 2A?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"ADV Part 2A is the brochure that investment advisers must deliver to clients; it describes the investment adviser's fees, investment policies, and types of investments made. The states in which the adviser is registered or intends to be registered are not contained in ADV Part 2A. If the IA is registering with the SEC, on Part 1A, it lists only the largest 5 offices (in terms of numbers of employees). If state-registered, it lists each state it will be registering in or is already registered in.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">ADV Part 2A is the brochure that investment advisers must deliver to clients; it describes the investment adviser's fees, investment policies, and types of investments made. The states in which the adviser is registered or intends to be registered are not contained in ADV Part 2A. If the IA is registering with the SEC, on Part 1A, it lists only the largest 5 offices (in terms of numbers of employees). If state-registered, it lists each state it will be registering in or is already registered in.<br /><br />U1LO5</span>"
+    },
+    "3510": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ministerial personnel of the firm.",
+                0,
+                0
+            ],
+            [
+                "B) an investment adviser representative of the firm.",
+                0,
+                0
+            ],
+            [
+                "C) an agent registered with an affiliated broker-dealer.",
+                1,
+                1
+            ],
+            [
+                "D) supervisory personnel of the firm.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The chief compliance officer (CCO) of a registered investment adviser would generally not have responsibility for the actions of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The CCO of an investment adviser is responsible for compliance with all relevant rules and procedures applying to all personnel of the investment adviser. Agents with an affiliated broker-dealer come under the supervisory jurisdiction of the compliance officer of that BD.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The CCO of an investment adviser is responsible for compliance with all relevant rules and procedures applying to all personnel of the investment adviser. Agents with an affiliated broker-dealer come under the supervisory jurisdiction of the compliance officer of that BD.<br /><br />U1LO6</span>"
+    },
+    "3511": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a substantial part of his business is providing investment supervisory services",
+                1,
+                1
+            ],
+            [
+                "B) it maintains custody of customer funds and/or securities",
+                0,
+                0
+            ],
+            [
+                "C) it maintains its registration by filing an updating amendment to its Form ADV annually",
+                0,
+                0
+            ],
+            [
+                "D) it receives SEC approval to use the definition",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A federal covered registered investment adviser who receives compensation for advice and whose business is primarily as an investment adviser may describe its business as investment counsel if",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Investment Advisers Act of 1940 prohibits the use of the term \\\"investment counsel,\\\" unless the principal business of the person is as an investment adviser and a substantial part of the business is providing investment supervisory services (i.e., continuous advice for individual client portfolios).\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Investment Advisers Act of 1940 prohibits the use of the term \"investment counsel,\" unless the principal business of the person is as an investment adviser and a substantial part of the business is providing investment supervisory services (i.e., continuous advice for individual client portfolios).<br /><br />U1LO1</span>"
+    },
+    "3512": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 45",
+                1,
+                1
+            ],
+            [
+                "B) 90",
+                0,
+                0
+            ],
+            [
+                "C) 60",
+                0,
+                0
+            ],
+            [
+                "D) 30",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "According to the Investment Advisers Act of 1940, the SEC must either grant investment adviser registration or begin proceedings to determine whether registration should be denied within how many days of filing?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The SEC is required by the Investment Advisers Act of 1940 to either grant an adviser registration or begin proceedings to determine whether the registration should be denied within 45 days of application.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The SEC is required by the Investment Advisers Act of 1940 to either grant an adviser registration or begin proceedings to determine whether the registration should be denied within 45 days of application.<br /><br />U1LO5</span>"
+    },
+    "3513": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 3 years after the dissolution",
+                1,
+                1
+            ],
+            [
+                "B) 5 years after the dissolution",
+                0,
+                0
+            ],
+            [
+                "C) 5 years from the date of organization",
+                0,
+                0
+            ],
+            [
+                "D) the lifetime of the firm",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Included in the Investment Advisers Act of 1940 are a number of different recordkeeping requirements. Wealth Preservation Specialists is a covered adviser that is organized as a partnership. If the firm were to dissolve, partnership agreements must be kept for",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"​Both ​​the Investment Company Act of 1940 ​(applicable here because this is a covered adviser) and the NASAA Model Rule on Recordkeeping ​require that investment advisers maintain certain records, such as partnership agreements and corporate articles of incorporation, for a period of no less than 3 years after dissolution.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">​Both ​​the Investment Company Act of 1940 ​(applicable here because this is a covered adviser) and the NASAA Model Rule on Recordkeeping ​require that investment advisers maintain certain records, such as partnership agreements and corporate articles of incorporation, for a period of no less than 3 years after dissolution.<br /><br />U1LO5</span>"
+    },
+    "3514": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) gold coins",
+                0,
+                0
+            ],
+            [
+                "B) apartments undergoing a conversion to condominiums",
+                0,
+                0
+            ],
+            [
+                "C) convertible bonds",
+                1,
+                1
+            ],
+            [
+                "D) rare convertible automobiles",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Registration as an investment adviser is required for any firm in the business of giving advice on the purchase of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Only those individuals in the business of giving advice on securities are required to register as investment advisers; only the convertible bonds are securities.\\n\\nU1LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Only those individuals in the business of giving advice on securities are required to register as investment advisers; only the convertible bonds are securities.<br /><br />U1LO1</span>"
+    },
+    "3515": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) MAS's CCO.",
+                0,
+                0
+            ],
+            [
+                "B) SSC's CCO.",
+                1,
+                1
+            ],
+            [
+                "C) John Law.",
+                0,
+                0
+            ],
+            [
+                "D) the SEC.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "John Law is the owner of Mississippi Advisory Services (MAS), an independent financial planning organization. Law is registered as an investment adviser representative of SSC Securities and Investments, registered as a broker-dealer, and an investment adviser with the SEC. Supervision over Law's advisory activities is the responsibility of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is common for independent financial planners to establish their own business entity and \\\"hang\\\" their registration as an IAR with another firm (as is the case in this question). The rules emphasize that these independent contractors are under the supervision of the carrying firm's CCO in the same way that inhouse IARs are.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is common for independent financial planners to establish their own business entity and \"hang\" their registration as an IAR with another firm (as is the case in this question). The rules emphasize that these independent contractors are under the supervision of the carrying firm's CCO in the same way that inhouse IARs are.<br /><br />U1LO6</span>"
+    },
+    "3516": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) clerical and ministerial employees of the firm",
+                0,
+                0
+            ],
+            [
+                "B) investment adviser representatives employed by the firm",
+                0,
+                0
+            ],
+            [
+                "C) a nonaffiliated broker-dealer through whom the majority of the firms trades are executed",
+                1,
+                1
+            ],
+            [
+                "D) investment adviser representatives who are independent contractors",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Investment Advisers Act of 1940 requires every registered investment adviser to have a chief compliance officer (CCO). This individual would be responsible for ensuring compliance with the firm's Code of Ethics by all of these EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The CCO is responsible for compliance with the firm's Code of Ethic by every employee, registered or not, and any nonemployee who is registered with the firm, such as independent contractors. Broker-dealers the investment advisory firm uses for trade execution are beyond the scope of the IA's supervision.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The CCO is responsible for compliance with the firm's Code of Ethic by every employee, registered or not, and any nonemployee who is registered with the firm, such as independent contractors. Broker-dealers the investment advisory firm uses for trade execution are beyond the scope of the IA's supervision.<br /><br />U1LO6</span>"
+    },
+    "3517": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The IAR was found guilty of first degree murder.",
+                0,
+                0
+            ],
+            [
+                "B) The IAR failed to make full disclosure of a previous felony conviction on the Form U4.",
+                0,
+                0
+            ],
+            [
+                "C) The firm supplied the IAR with a copy of its Code of Ethics and administered regular training on its contents.",
+                0,
+                0
+            ],
+            [
+                "D) The firm was found guilty of failure to supervise.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In which of the following cases could revocation of the registration of an IAR lead to disciplinary action against the investment adviser employing that individual?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In most cases, disciplinary action against an investment adviser representative (unless the individual is filling an executive position) will not have a direct impact on the investment advisory firm. The major exception is when the IAR's actions leading to the revocation can be shown to have be aided by the firm's failure to supervise.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In most cases, disciplinary action against an investment adviser representative (unless the individual is filling an executive position) will not have a direct impact on the investment advisory firm. The major exception is when the IAR's actions leading to the revocation can be shown to have be aided by the firm's failure to supervise.<br /><br />U1LO6</span>"
+    },
+    "3518": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) be immune from State W's Administrator's jurisdiction because it is a federal covered adviser.",
+                0,
+                0
+            ],
+            [
+                "B) claim that IFS is a separate entity over which FV has no responsibility.",
+                0,
+                0
+            ],
+            [
+                "C) be subject to possible disciplinary action brought by the State W Administrator if it could be shown that FV failed to supervise Leslie's activities.",
+                1,
+                1
+            ],
+            [
+                "D) possibly have its State W registration suspended.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Leslie is an IAR with Financial Visions (FV), a federal covered investment adviser. Leslie operates Innovative Financial Solutions (IFS), a separate financial planning company with its own office in State W. Should Leslie be found guilty of fraudulent business activities, FV would",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Under the doctrine of respondeat superior, an investment adviser is responsible for the actions of any of its registered IARs, even those who operate an independent financial planning firm (independent contractors). Although, as a federal covered adviser, FV doesn't have a registration that can be suspended, state administrators do have jurisdiction over covered advisers when fraud is involved.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Under the doctrine of respondeat superior, an investment adviser is responsible for the actions of any of its registered IARs, even those who operate an independent financial planning firm (independent contractors). Although, as a federal covered adviser, FV doesn't have a registration that can be suspended, state administrators do have jurisdiction over covered advisers when fraud is involved.<br /><br />U1LO6</span>"
+    },
+    "3519": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) If it is determined that an investment adviser is insolvent, the SEC may revoke the registration.",
+                0,
+                0
+            ],
+            [
+                "B) An investment adviser receiving substantial prepayment of fees from 50% of its clients that fails to include a copy of its balance sheet in its brochure delivered to all clients would give the SEC cause for beginning revocation proceedings.",
+                0,
+                0
+            ],
+            [
+                "C) Revocation would occur, with appropriate notice, when a firm's annual updating amendment was received by the SEC 120 days after the end of the registrant's fiscal year.",
+                0,
+                0
+            ],
+            [
+                "D) Failure to adequately supervise a person associated with the adviser could be cause for the SEC to revoke the firm's registration.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements regarding the SEC's power to revoke the registration of an investment adviser is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Failure to supervise, if proven, is one of the most common causes for disciplinary action against a broker-dealer or investment adviser. Insolvency is not a cause for revocation under the Investment Advisers Act of 1940, but it is for a state-registered investment adviser (it's tough to keep these straight; please see Appendix A). A late ADV annual updating amendment might be cause for some action but almost certainly not a revocation; it is not that serious an offense. The balance sheet would only have to be part of the disclosure statement (brochure) given to those from whom substantial prepayment of fees is received.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Failure to supervise, if proven, is one of the most common causes for disciplinary action against a broker-dealer or investment adviser. Insolvency is not a cause for revocation under the Investment Advisers Act of 1940, but it is for a state-registered investment adviser (it's tough to keep these straight; please see Appendix A). A late ADV annual updating amendment might be cause for some action but almost certainly not a revocation; it is not that serious an offense. The balance sheet would only have to be part of the disclosure statement (brochure) given to those from whom substantial prepayment of fees is received.<br /><br />U1LO6</span>"
+    },
+    "3520": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Tom writes a newspaper column that analyzes and recommends securities.",
+                0,
+                0
+            ],
+            [
+                "B) Jane advises customers regarding the value of gold and silver coins.",
+                0,
+                0
+            ],
+            [
+                "C) The Trust Department of ABC Bank provides investment advice to its clients.",
+                0,
+                0
+            ],
+            [
+                "D) Jill is an attorney specializing in estate planning who, as a side job, structures portfolios for the beneficiaries of her deceased clients at a reduced fee.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, which of the following is an investment adviser?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A firm with no office in the state that provides investment advice is an investment adviser in the state if its clients exceed the de minimis level of five noninstitutional (retail) clients within the state in the past 12 months. Providing investment advice to 10 retail clients makes this firm an investment adviser and requires registration in the state. A broker-dealer is not required to register as an investment adviser unless it receives special compensation for providing investment advice. Individuals who publish general advice (no specific recommendations to individual clients) in hard copy form, electronic communications, or otherwise are not required to register as investment advisers. Investment adviser representatives work for investment advisers and are specifically excluded from the definition.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A firm with no office in the state that provides investment advice is an investment adviser in the state if its clients exceed the de minimis level of five noninstitutional (retail) clients within the state in the past 12 months. Providing investment advice to 10 retail clients makes this firm an investment adviser and requires registration in the state. A broker-dealer is not required to register as an investment adviser unless it receives special compensation for providing investment advice. Individuals who publish general advice (no specific recommendations to individual clients) in hard copy form, electronic communications, or otherwise are not required to register as investment advisers. Investment adviser representatives work for investment advisers and are specifically excluded from the definition.<br /><br />U1LO5</span>"
+    },
+    "3521": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the appropriate fees.",
+                0,
+                0
+            ],
+            [
+                "B) a consent to service of process.",
+                0,
+                0
+            ],
+            [
+                "C) any information to be furnished or disseminated to any client or prospective client.",
+                0,
+                0
+            ],
+            [
+                "D) a copy of the articles of incorporation for the business.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "To register a sole proprietorship as an investment adviser in a state, the application for initial registration (Form ADV) must be filed with the appropriate party. This application must include all of the following except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Articles of incorporation only apply to corporations. Sole proprietorships are not incorporated. To register as an investment adviser in a state, Form ADV is filed with the Administrator or with a central registration depository designated by the Administrator. The application must include, among other things, a consent to service of process, appropriate fees, and the brochure or any other information that will be used to solicit clients.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Articles of incorporation only apply to corporations. Sole proprietorships are not incorporated. To register as an investment adviser in a state, Form ADV is filed with the Administrator or with a central registration depository designated by the Administrator. The application must include, among other things, a consent to service of process, appropriate fees, and the brochure or any other information that will be used to solicit clients.<br /><br />U1LO5</span>"
+    },
+    "3522": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An agent who offers incidental advice on securities as part of his sales commissions",
+                0,
+                0
+            ],
+            [
+                "B) An individual who renders fee-based advice on precious metals",
+                0,
+                0
+            ],
+            [
+                "C) A solicitor for an investment advisory firm who is paid a fee for his services",
+                1,
+                1
+            ],
+            [
+                "D) An employee, although highly skilled in evaluating securities, solely performs administrative or clerical functions for an investment adviser",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, which of the following qualifies as an investment adviser representative?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If the goal is obtaining clients for the investment adviser, a solicitor is considered an investment adviser representative under the Uniform Securities Act. An employee who performs clerical or administrative functions only is not an investment adviser representative. Precious metals are not securities, and a person advising on them is not considered an IAR. An agent is a representative of a broker-dealer.\\n\\nU2LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If the goal is obtaining clients for the investment adviser, a solicitor is considered an investment adviser representative under the Uniform Securities Act. An employee who performs clerical or administrative functions only is not an investment adviser representative. Precious metals are not securities, and a person advising on them is not considered an IAR. An agent is a representative of a broker-dealer.<br /><br />U2LO1</span>"
+    },
+    "3523": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the managing principal.",
+                0,
+                0
+            ],
+            [
+                "B) the Administrator.",
+                0,
+                0
+            ],
+            [
+                "C) the chief compliance officer.",
+                1,
+                1
+            ],
+            [
+                "D) each investment adviser representative's immediate supervisor.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The final responsibility for ensuring that investment adviser representatives are adequately supervised is that of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is the CCO who has the ultimate responsibility for ensuring that the firm has, and properly implements, adequate supervisory procedures. The immediate supervisor has the \\\"first-line\\\" responsibility, but the \\\"buck stops\\\" with the CCO.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is the CCO who has the ultimate responsibility for ensuring that the firm has, and properly implements, adequate supervisory procedures. The immediate supervisor has the \"first-line\" responsibility, but the \"buck stops\" with the CCO.<br /><br />U1LO6</span>"
+    },
+    "3524": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) When the Administrator so orders, but not to exceed 90 days",
+                0,
+                0
+            ],
+            [
+                "B) When the Administrator so orders, but not to exceed 30 days",
+                1,
+                1
+            ],
+            [
+                "C) No sooner than 15 days",
+                0,
+                0
+            ],
+            [
+                "D) 60 days after application or an amendment is filed",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, if no denial or proceedings are pending, when does an investment adviser registration become effective?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Registrations become effective at noon on the 30th calendar day after the date of filing if there are no denial orders or pending proceedings.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Registrations become effective at noon on the 30th calendar day after the date of filing if there are no denial orders or pending proceedings.<br /><br />U1LO5</span>"
+    },
+    "3525": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) January 31, 2020",
+                0,
+                0
+            ],
+            [
+                "B) January 31, 2017",
+                0,
+                0
+            ],
+            [
+                "C) December 31, 2017",
+                0,
+                0
+            ],
+            [
+                "D) December 31, 2020",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Kapco Advisers, a federal covered investment adviser operating on a calendar-year basis, published a list of recommended securities in January 2015. A copy of this must be maintained until at least",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Investment adviser records, including copies of advertisements, must be kept for at least 5 years from the end of the fiscal year in which the record originated - in this case, 5 years from the end of 2015.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Investment adviser records, including copies of advertisements, must be kept for at least 5 years from the end of the fiscal year in which the record originated - in this case, 5 years from the end of 2015.<br /><br />U1LO5</span>"
+    },
+    "3526": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the investment adviser representative",
+                0,
+                0
+            ],
+            [
+                "B) the investment adviser the IAR represents",
+                1,
+                1
+            ],
+            [
+                "C) the SEC",
+                0,
+                0
+            ],
+            [
+                "D) the Administrator",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The primary responsibility for supervising the activities of an investment adviser representative who is affiliated with a federal covered investment adviser lies with",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is the obligation of every registered investment adviser, whether SEC or state-registered, to supervise its representatives.\\n\\nU1LO6\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is the obligation of every registered investment adviser, whether SEC or state-registered, to supervise its representatives.<br /><br />U1LO6</span>"
+    },
+    "correct_answer_logic": ""
+};

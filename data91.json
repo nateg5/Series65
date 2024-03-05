@@ -1,0 +1,1053 @@
+let data91 = {
+    "3554": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 6 months",
+                0,
+                0
+            ],
+            [
+                "B) 12 months",
+                1,
+                1
+            ],
+            [
+                "C) 30 days",
+                0,
+                0
+            ],
+            [
+                "D) 2 years",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, investment advisers are exempt from registration in a state where they have no office if they direct business communications with no more than 5 retail clients within",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If investment advisers have no office in a state, they are not defined as investment advisers and are exempt from registration if either of the following conditions applies: their only clients within the state are other investment advisers or broker-dealers, financial institutions (banks, savings and loans, trusts), institutional investors (certain pension funds, insurance companies, investment companies), or government agencies or other political entities; and they have no more than 5 clients within the state in a 12-month period (de minimis exemption).\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If investment advisers have no office in a state, they are not defined as investment advisers and are exempt from registration if either of the following conditions applies: their only clients within the state are other investment advisers or broker-dealers, financial institutions (banks, savings and loans, trusts), institutional investors (certain pension funds, insurance companies, investment companies), or government agencies or other political entities; and they have no more than 5 clients within the state in a 12-month period (de minimis exemption).<br /><br />U1LO3</span>"
+    },
+    "3555": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) when an adviser only provides investment advice to 401(k) plans with assets of $250,000 or more",
+                0,
+                0
+            ],
+            [
+                "B) when an adviser only provides advice to registered investment companies",
+                1,
+                1
+            ],
+            [
+                "C) when an adviser has maintained assets of $100 million or more for 7 out of the last 10 years",
+                0,
+                0
+            ],
+            [
+                "D) when an adviser with numerous clients in the state has not been subject to disciplinary action within any state within the last 10 years",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under all of the following circumstances, the USA requires investment advisers with no place of business in the state to register EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An adviser that only provides investment advice to investment companies registered under the Investment Company Act of 1940 is federal covered and does not have to register in a state, regardless of whether or not it has a place of business there. An adviser that provides advice only to 401(k) plans or other tax qualified employee benefit plans with $1 million in assets (not $250,000) is not required to register in a state in which it does not have a place of business. The assets of the adviser is not what determines becoming a federal covered adviser; it is assets under management and the determining factor is the AUM now, not the range over the previous 10 years.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An adviser that only provides investment advice to investment companies registered under the Investment Company Act of 1940 is federal covered and does not have to register in a state, regardless of whether or not it has a place of business there. An adviser that provides advice only to 401(k) plans or other tax qualified employee benefit plans with $1 million in assets (not $250,000) is not required to register in a state in which it does not have a place of business. The assets of the adviser is not what determines becoming a federal covered adviser; it is assets under management and the determining factor is the AUM now, not the range over the previous 10 years.<br /><br />U1LO3</span>"
+    },
+    "3556": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Issuer",
+                0,
+                0
+            ],
+            [
+                "B) Registrar",
+                0,
+                0
+            ],
+            [
+                "C) Transfer agent",
+                0,
+                0
+            ],
+            [
+                "D) Administrator",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "What is the official designation of the person or agency that enforces the USA in each state?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The USA specifies that a state's securities Administrator has the authority to enforce the act in that state. A transfer agent is the person or corporation responsible for recording the names and holdings of registered security owners.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The USA specifies that a state's securities Administrator has the authority to enforce the act in that state. A transfer agent is the person or corporation responsible for recording the names and holdings of registered security owners.<br /><br />U1LO3</span>"
+    },
+    "3557": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A publisher of a bona fide newspaper, news magazine, or business or financial publication of general and regular circulation",
+                0,
+                0
+            ],
+            [
+                "B) A financial planner or other person that provides investment advisory services to others for compensation",
+                0,
+                0
+            ],
+            [
+                "C) A bank whose deposits are insured by the FDIC",
+                0,
+                0
+            ],
+            [
+                "D) Any person that the Administrator excludes by rule or order",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following persons are included in the definition of investment adviser?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A financial planning firm or other person that, as an integral component of other financially related services, provides investment advisory services for compensation is an investment adviser. A publisher of a bona fide newspaper, news magazine, or business or financial publication of general and regular circulation, a bank, or any other person that the Administrator specifies by rule or order are excluded from the definition of an investment adviser.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A financial planning firm or other person that, as an integral component of other financially related services, provides investment advisory services for compensation is an investment adviser. A publisher of a bona fide newspaper, news magazine, or business or financial publication of general and regular circulation, a bank, or any other person that the Administrator specifies by rule or order are excluded from the definition of an investment adviser.<br /><br />U1LO3</span>"
+    },
+    "3558": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An accountant who conducts seminars on the tax benefits of contributing to IRAs, both traditional and Roth",
+                0,
+                0
+            ],
+            [
+                "B) A lawyer who charges an hourly fee for preparing trust documents for individuals referred to her by an investment adviser",
+                0,
+                0
+            ],
+            [
+                "C) A teacher at the local high school who receives nominal compensation for giving investment advice to engineers",
+                1,
+                1
+            ],
+            [
+                "D) A financial planner who conducts seminars for the local PTA, where he presents the benefits of term life insurance",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "There are a number of exclusions from the definition of investment adviser. Which of the following would NOT qualify for an exclusion under the Uniform Securities Act?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The LATE exclusion applies when advice is given by one of the listed professionals on an incidental basis. When a teacher (or any of the others) is compensated specifically for giving advice, regardless of the amount, the exclusion is lost. To be defined as an investment adviser, one must give advice on securities; term life insurance is not a security. Similarly, preparing trust documents is not securities advice, even if the clients are referred by an investment adviser. Finally, one of the roles of an accountant is giving tax advice, and IRAs are not securities.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The LATE exclusion applies when advice is given by one of the listed professionals on an incidental basis. When a teacher (or any of the others) is compensated specifically for giving advice, regardless of the amount, the exclusion is lost. To be defined as an investment adviser, one must give advice on securities; term life insurance is not a security. Similarly, preparing trust documents is not securities advice, even if the clients are referred by an investment adviser. Finally, one of the roles of an accountant is giving tax advice, and IRAs are not securities.<br /><br />U1LO3</span>"
+    },
+    "3559": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An investment adviser representative of an advisory firm who makes securities recommendations on a regular basis for compensation",
+                0,
+                0
+            ],
+            [
+                "B) Any person who is a federal covered investment adviser",
+                0,
+                0
+            ],
+            [
+                "C) A person who, on a regular basis for compensation, offers specific investment advice to clients as to the value of securities",
+                1,
+                1
+            ],
+            [
+                "D) A temporary employee hired to assist in administrative responsibilities of an advisory firm",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Uniform Securities Act's definition of investment adviser would include",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A person who, on a regular basis for compensation, offers specific investment advice to clients as to the value of securities meets the 3-prong test as an investment adviser.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A person who, on a regular basis for compensation, offers specific investment advice to clients as to the value of securities meets the 3-prong test as an investment adviser.<br /><br />U1LO3</span>"
+    },
+    "3560": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An agent of a broker-dealer who gives investment advice within the course of his duties with the firm for which a fee is charged",
+                0,
+                0
+            ],
+            [
+                "B) A broker-dealer who gives advice for which he charges a specific fee",
+                1,
+                1
+            ],
+            [
+                "C) A broker-dealer who gives investment advice that is incidental to the course of its business and for which no special compensation is received",
+                0,
+                0
+            ],
+            [
+                "D) An attorney who writes a legal opinion for a municipal bond indenture",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, which of the following persons has to register as an investment adviser?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Broker-dealers need not register as investment advisers unless they charge a separate fee for providing investment advice. If the advice is strictly incidental and without a separate charge, the BD is not an investment advisor. Attorneys are not investment advisers provided their investment advice is incidental to their practice. Giving a legal opinion on a municipal security indenture is not investment advice. Agents giving advice for which a fee is charged must register as investment adviser representatives and their BDs as investment advisers.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Broker-dealers need not register as investment advisers unless they charge a separate fee for providing investment advice. If the advice is strictly incidental and without a separate charge, the BD is not an investment advisor. Attorneys are not investment advisers provided their investment advice is incidental to their practice. Giving a legal opinion on a municipal security indenture is not investment advice. Agents giving advice for which a fee is charged must register as investment adviser representatives and their BDs as investment advisers.<br /><br />U1LO3</span>"
+    },
+    "3561": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A retired aeronautical engineer who charges a nominal fee for holding seminars on opportunities in aerospace stocks",
+                1,
+                1
+            ],
+            [
+                "B) An accountant who advises clients about investments as an incidental part of services",
+                0,
+                0
+            ],
+            [
+                "C) An economics professor who occasionally gives a lecture to business groups about the stock market",
+                0,
+                0
+            ],
+            [
+                "D) A trust company",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would have to register as an investment adviser under the Uniform Securities Act?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Excluded from the definition are banks, publishers of general paid circulation publications (newspapers or magazines), investment adviser representatives, and certain professionals (lawyers, accountants, engineers, teachers) if the advice is incidental to their profession and no additional compensation is charged. In the case of the engineer, the advice is not incidental and is being given for compensation.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Excluded from the definition are banks, publishers of general paid circulation publications (newspapers or magazines), investment adviser representatives, and certain professionals (lawyers, accountants, engineers, teachers) if the advice is incidental to their profession and no additional compensation is charged. In the case of the engineer, the advice is not incidental and is being given for compensation.<br /><br />U1LO3</span>"
+    },
+    "3562": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the firm does not have to register because it has no place of business in the state and its only clients are registered financial institutions",
+                1,
+                1
+            ],
+            [
+                "B) the Administrator is correct and the firm must register",
+                0,
+                0
+            ],
+            [
+                "C) as long as the IA does not have an office in Colorado, there are no conditions that would mandate registration there",
+                0,
+                0
+            ],
+            [
+                "D) this firm would be exempt from registration with the Colorado Administrator because it is doing business in more than one state",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment adviser has its home office in Wisconsin. Its only business is with trust companies, large employee benefit plans, and insurance companies. It has no place of business in Colorado but provides investment advice to two Denver banks, both chartered under Colorado banking laws. There is a new Administrator in Colorado, and it is his opinion that this IA should be required to register in his state. A careful reading of Section 201 of the Uniform Securities Act would indicate that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Section 201 of the Uniform Securities Act specifies the conditions under which one is an investment adviser in the state. Specifically excluded are those IAs with no place of business in the state who confine their advisory activities in the state to other investment advisers, federal covered advisers, broker-dealers, banks, trust companies, savings and loan associations, insurance companies, employee benefit plans with assets of not less than one million dollars ($1,000,000), and governmental agencies or instrumentalities. If, however, in addition to the two banks, the firm did advisory business with more than 5 retail clients who were residents of Colorado, then even with no place of business in the state, it would have to register.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Section 201 of the Uniform Securities Act specifies the conditions under which one is an investment adviser in the state. Specifically excluded are those IAs with no place of business in the state who confine their advisory activities in the state to other investment advisers, federal covered advisers, broker-dealers, banks, trust companies, savings and loan associations, insurance companies, employee benefit plans with assets of not less than one million dollars ($1,000,000), and governmental agencies or instrumentalities. If, however, in addition to the two banks, the firm did advisory business with more than 5 retail clients who were residents of Colorado, then even with no place of business in the state, it would have to register.<br /><br />U1LO3</span>"
+    },
+    "3563": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) has no place of business in the state and limits clientele to banks and insurance companies",
+                0,
+                0
+            ],
+            [
+                "B) has no place of business in the state and limits clientele to broker-dealers",
+                0,
+                0
+            ],
+            [
+                "C) is an out-of-state investment adviser and directed business communications to fewer than 12 clients in the state in the past 12-month period",
+                1,
+                1
+            ],
+            [
+                "D) has no place of business in the state and limits clientele to other investment advisers",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The Uniform Securities Act would NOT provide an exemption from registration as an investment adviser to an investment adviser who",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An adviser is exempt from state registration if it has no place of business in the state and limits clientele to other investment advisers, banks and insurance companies, or broker-dealers. There is a de minimis exemption, but it is for no more than 5 (not 12) clients during a 12-month period.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An adviser is exempt from state registration if it has no place of business in the state and limits clientele to other investment advisers, banks and insurance companies, or broker-dealers. There is a de minimis exemption, but it is for no more than 5 (not 12) clients during a 12-month period.<br /><br />U1LO3</span>"
+    },
+    "3564": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) not required to be a registered investment adviser in the state",
+                1,
+                1
+            ],
+            [
+                "B) required to be a registered investment adviser representative in the state",
+                0,
+                0
+            ],
+            [
+                "C) required to be a registered agent in the state",
+                0,
+                0
+            ],
+            [
+                "D) required to be a registered investment adviser in the state",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the USA, a person who is in the business of providing advice on trading futures contracts in addition to advising clients on securities issued or guaranteed by the U.S. government is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This question is referring to a federal covered adviser. The futures contracts are not securities, but, of course, the U.S. government securities are. However, the Investment Advisers Act of 1940 specifically excludes from the definition of \\\"investment adviser\\\" a person whose securities advice is confined to securities issued or guaranteed by the Treasury. The fact that this person is excluded under the Investment Advisers Act of 1940 makes that person federal covered under the NSMIA and not subject to state regulation as an investment adviser.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This question is referring to a federal covered adviser. The futures contracts are not securities, but, of course, the U.S. government securities are. However, the Investment Advisers Act of 1940 specifically excludes from the definition of \"investment adviser\" a person whose securities advice is confined to securities issued or guaranteed by the Treasury. The fact that this person is excluded under the Investment Advisers Act of 1940 makes that person federal covered under the NSMIA and not subject to state regulation as an investment adviser.<br /><br />U1LO3</span>"
+    },
+    "3565": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) He is not required to register as an investment adviser in that state.",
+                1,
+                1
+            ],
+            [
+                "B) He is not liable for violations of the antifraud provisions.",
+                0,
+                0
+            ],
+            [
+                "C) He is exempt from the advertising requirements in the state.",
+                0,
+                0
+            ],
+            [
+                "D) He must file a consent to service of process.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, which of the following statements is TRUE about an investment adviser who does not have an office in a state and solicits no more than 5 clients in that state?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Investment advisers who have no place of business within the state are not defined under the act as investment advisers if they have no more than 5 clients within the state in a 12-month period. This is known as the de minimis exemption.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Investment advisers who have no place of business within the state are not defined under the act as investment advisers if they have no more than 5 clients within the state in a 12-month period. This is known as the de minimis exemption.<br /><br />U1LO3</span>"
+    },
+    "3566": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) is registered as a broker-dealer",
+                0,
+                0
+            ],
+            [
+                "B) had no more than 5 clients in that state within the past 12 months",
+                1,
+                1
+            ],
+            [
+                "C) had no more than 10 clients in that state within the past 12 months",
+                0,
+                0
+            ],
+            [
+                "D) had no more than 15 clients in that state within the past 12 months",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, an investment adviser would be exempt from registration in a state in which he has no place of business if he",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An adviser who had no more than 5 clients in a state within the prior 12-month period or deals exclusively with institutions is not required to register in a state in which he has no place of business.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An adviser who had no more than 5 clients in a state within the prior 12-month period or deals exclusively with institutions is not required to register in a state in which he has no place of business.<br /><br />U1LO3</span>"
+    },
+    "3567": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An investment adviser who only serves institutional clients and whose only office is in this state",
+                1,
+                1
+            ],
+            [
+                "B) An accountant who makes no pretense of providing investment advisory services but gives incidental advice to clients as a small part of accounting services provided",
+                0,
+                0
+            ],
+            [
+                "C) An investment adviser representative with no place of business in the state who has dealt with 7 retail clients during the most recent 12 month period",
+                0,
+                0
+            ],
+            [
+                "D) An investment adviser whose advice is limited to securities issued or guaranteed by the U.S. government and who has 3 places of business in the state",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following persons must register as an investment adviser under the Uniform Securities Act?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Uniform Securities Act requires those defined as investment advisers to register with the state. Accountants are excluded when their advice is incidental to their profession and no additional compensation is charged. Advisers whose only advice is on securities issued or guaranteed by the government are excluded from the definition of investment adviser under the Investment Advisers Act of 1940. This means they are federal covered investment advisers, not required to register with the Administrator even with offices in the state. As long as there is an office in the state, unless the adviser is federal covered (as described in the previous sentence), there is no exemption from registration in that state. The IAR has exceeded the de minimis limits and would have to register in the state, but as an IAR, not as an IA.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Uniform Securities Act requires those defined as investment advisers to register with the state. Accountants are excluded when their advice is incidental to their profession and no additional compensation is charged. Advisers whose only advice is on securities issued or guaranteed by the government are excluded from the definition of investment adviser under the Investment Advisers Act of 1940. This means they are federal covered investment advisers, not required to register with the Administrator even with offices in the state. As long as there is an office in the state, unless the adviser is federal covered (as described in the previous sentence), there is no exemption from registration in that state. The IAR has exceeded the de minimis limits and would have to register in the state, but as an IAR, not as an IA.<br /><br />U1LO3</span>"
+    },
+    "3568": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Both the SEC and State X",
+                0,
+                0
+            ],
+            [
+                "B) SEC only",
+                0,
+                0
+            ],
+            [
+                "C) State X only",
+                1,
+                1
+            ],
+            [
+                "D) Neither the SEC nor State X",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Alpha-Beta Advisers (ABA) has its principal office in State X. ABA limits its clientele to insurance companies that are authorized to do business in State X. Which of the following best describes the registration requirements for ABA?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Dealing exclusively with insurance companies makes this advisory firm exempt from registering with the SEC. However, unlike those who are excluded from the definition of investment adviser, being exempt does not make ABA a federal covered adviser. Although advisers dealing solely with institutions, such as insurance companies, are not deemed to be investment advisers in the state, that only applies when there is no place of business in the state. Obviously, with its home office in State X, that does not apply to ABA, so it would have to register in that state.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Dealing exclusively with insurance companies makes this advisory firm exempt from registering with the SEC. However, unlike those who are excluded from the definition of investment adviser, being exempt does not make ABA a federal covered adviser. Although advisers dealing solely with institutions, such as insurance companies, are not deemed to be investment advisers in the state, that only applies when there is no place of business in the state. Obviously, with its home office in State X, that does not apply to ABA, so it would have to register in that state.<br /><br />U1LO3</span>"
+    },
+    "3569": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) manages $13 million in assets for 4 clients",
+                1,
+                1
+            ],
+            [
+                "B) only gives advice on securities issued by or guaranteed by the government of the United States",
+                0,
+                0
+            ],
+            [
+                "C) manages the portfolio of the KPF Balanced Fund, a registered open-end investment company with $22 million in net assets",
+                0,
+                0
+            ],
+            [
+                "D) serves as a pension consultant to the XYZ Employees Retirement Plan, covering 1,200 employees with total assets of $278 million",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Registration with the state as an investment adviser would be required for a person with an office in this state who",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Under the Dodd-Frank Bill, investment advisers with less than $100 million in assets under management must register with the states. If the adviser manages a registered investment company, the adviser must be federal covered. If the person serves as a pension consultant with $200 million or more in AUM, the person has the option of registering with the SEC. A person whose sole advice deals with U.S. government securities is excluded from the federal definition of investment adviser and, therefore, under the NSMIA, is considered a federal covered adviser.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Under the Dodd-Frank Bill, investment advisers with less than $100 million in assets under management must register with the states. If the adviser manages a registered investment company, the adviser must be federal covered. If the person serves as a pension consultant with $200 million or more in AUM, the person has the option of registering with the SEC. A person whose sole advice deals with U.S. government securities is excluded from the federal definition of investment adviser and, therefore, under the NSMIA, is considered a federal covered adviser.<br /><br />U1LO5</span>"
+    },
+    "3570": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An adviser, with total AUM of $125 million, specializing in stocks listed on the New York Stock Exchange, whose only place of business is in State F and whose only clients are 110 State F resident individuals",
+                1,
+                1
+            ],
+            [
+                "B) An adviser to seven private funds with total assets under management in the U.S. of $125 million",
+                0,
+                0
+            ],
+            [
+                "C) An adviser whose clientele consists solely of insurance companies",
+                0,
+                0
+            ],
+            [
+                "D) An adviser whose only office is in State G who deals only with State G residents, none of whom is a private fund, and does not deal in securities listed on any national securities exchange",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Who of the following is not exempt from registration as an investment adviser under the Investment Advisers Act of 1940?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The intrastate exemption has no numerical limitation, only that all of the clients be residents of the state and none of the clients can be private funds. However, no advice may be given on securities traded on a national stock exchange which causes this State F adviser to lose the exemption. Furthermore, with $125 million in AUM, this IA would need to register with the SEC as a federal covered investment adviser. Under the federal law, an exemption from registration applies if the adviser's only clients are insurance companies. And, if an adviser's only clients are private funds (regardless of how many) and AUM in the United States is less than $150 million, that adviser is exempt as well. Please note that the adviser in State G would likely have to register in that state, but this question deals with the requirements of the federal law.\\n\\nU1LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The intrastate exemption has no numerical limitation, only that all of the clients be residents of the state and none of the clients can be private funds. However, no advice may be given on securities traded on a national stock exchange which causes this State F adviser to lose the exemption. Furthermore, with $125 million in AUM, this IA would need to register with the SEC as a federal covered investment adviser. Under the federal law, an exemption from registration applies if the adviser's only clients are insurance companies. And, if an adviser's only clients are private funds (regardless of how many) and AUM in the United States is less than $150 million, that adviser is exempt as well. Please note that the adviser in State G would likely have to register in that state, but this question deals with the requirements of the federal law.<br /><br />U1LO4</span>"
+    },
+    "3571": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A CPA who manages investment accounts for 50 clients and charges hourly fees for the service",
+                1,
+                1
+            ],
+            [
+                "B) Dow Jones, Inc., publisher of The Wall Street Journal",
+                0,
+                0
+            ],
+            [
+                "C) An expert in fixed-income securities whose only clients are individuals and whose only recommendations deal with securities issued or guaranteed by the U.S. Treasury",
+                0,
+                0
+            ],
+            [
+                "D) The trust department of Citibank, which handles billions of dollars in trust assets",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following parties is most likely to be considered an investment adviser under the Investment Advisers Act of 1940?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Investment Advisers Act of 1940 excludes accountants providing investment advice from the definition of investment adviser only when the advice is given on an incidental basis and with no specific compensation. A publisher of periodicals of general circulation, whether or not the publication covers financial matters, is excluded from the definition, as is an adviser whose advice is exclusively limited to U.S. government securities. Banks are also excluded from the definition of investment adviser under the act.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Investment Advisers Act of 1940 excludes accountants providing investment advice from the definition of investment adviser only when the advice is given on an incidental basis and with no specific compensation. A publisher of periodicals of general circulation, whether or not the publication covers financial matters, is excluded from the definition, as is an adviser whose advice is exclusively limited to U.S. government securities. Banks are also excluded from the definition of investment adviser under the act.<br /><br />U1LO3</span>"
+    },
+    "3572": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) advisers who deal exclusively with federal covered investment advisers located in the state",
+                0,
+                0
+            ],
+            [
+                "B) advisers who deal exclusively with savings banks located in the state",
+                0,
+                0
+            ],
+            [
+                "C) advisers who deal exclusively with investment companies registered under the Investment Company Act of 1940",
+                0,
+                0
+            ],
+            [
+                "D) advisers who have conducted business with no more than 6 individual clients in the state within the last 12 months",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, all of the following persons with no place of business in the state are exempt from registration as an investment advisers EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The de minimis rule for a registered investment adviser who has no place of business in the state is fewer than 6 clients. Doing business with 6 clients within the last 12 months exceeds this de minimis amount, and therefore, the exemption from registration does not exist. All others listed as possible answers are institutional or professional types of investment client. If a registered investment adviser works only with this type of client, an exemption from registration in that state exists as long as the registered investment adviser has no place of business in that state.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The de minimis rule for a registered investment adviser who has no place of business in the state is fewer than 6 clients. Doing business with 6 clients within the last 12 months exceeds this de minimis amount, and therefore, the exemption from registration does not exist. All others listed as possible answers are institutional or professional types of investment client. If a registered investment adviser works only with this type of client, an exemption from registration in that state exists as long as the registered investment adviser has no place of business in that state.<br /><br />U1LO3</span>"
+    },
+    "3573": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) an engineer",
+                0,
+                0
+            ],
+            [
+                "B) a lawyer",
+                0,
+                0
+            ],
+            [
+                "C) an economist",
+                1,
+                1
+            ],
+            [
+                "D) a teacher",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, all of the following persons may provide investment advice incidental to their normal business without requiring registration as an investment adviser EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The Uniform Securities Act does not grant an economist exemption from registration, but it does offer an exemption to teachers, lawyers, and engineers if the investment advice is incidental to their business; thus the acronym LATE for lawyers, accountants, teachers, and engineers.\\n\\nU1LO3\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The Uniform Securities Act does not grant an economist exemption from registration, but it does offer an exemption to teachers, lawyers, and engineers if the investment advice is incidental to their business; thus the acronym LATE for lawyers, accountants, teachers, and engineers.<br /><br />U1LO3</span>"
+    },
+    "3574": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Gold and Sylver will not have to amend their Form ADV Part 1 until the filing of their annual updating amendment.",
+                0,
+                0
+            ],
+            [
+                "B) Gold and Sylver must notify all clients of LTFSI that their advisory contracts have been assigned.",
+                0,
+                0
+            ],
+            [
+                "C) LTFSI is responsible for ensuring that a copy of the LTFSI corporate charter is preserved for at least three years after the acquisition.",
+                1,
+                1
+            ],
+            [
+                "D) As the successor firm, Gold and Sylver Advisers must keep copies of the LTFSI corporate charter for at least three years after LTFSI's acquisition.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Long-Term Financial Solutions, Inc. (LTFSI), an investment adviser registered in five states, files a Form ADV-W indicating the business is closing. It is being acquired by another federal covered adviser, Gold and Sylver Advisers, LLC. Which of the following statements is correct?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When an investment adviser ceases to exist, either through going out of business or being succeeded by another firm (as is the case here), it is their responsibility to ensure that articles of incorporation, charters, minute books, and stock certificate books of the investment adviser and of any predecessor be preserved until at least three years after termination of the enterprise. Although it is true the contracts have been assigned to the successor firm (Gold and Sylver), the consent for that had to be obtained by LTFSI. A change of this nature requires prompt amendment to the Form ADV Part 1.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When an investment adviser ceases to exist, either through going out of business or being succeeded by another firm (as is the case here), it is their responsibility to ensure that articles of incorporation, charters, minute books, and stock certificate books of the investment adviser and of any predecessor be preserved until at least three years after termination of the enterprise. Although it is true the contracts have been assigned to the successor firm (Gold and Sylver), the consent for that had to be obtained by LTFSI. A change of this nature requires prompt amendment to the Form ADV Part 1.<br /><br />U1LO5</span>"
+    },
+    "3575": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) all investors must be qualified clients.",
+                1,
+                1
+            ],
+            [
+                "B) private fund assets under management cannot exceed $110 million.",
+                0,
+                0
+            ],
+            [
+                "C) all investors must be accredited.",
+                0,
+                0
+            ],
+            [
+                "D) there can be no more than 10 investors during any 12-month period.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Reticent Asset Management (RAM) is claiming an exemption from registration with the state because it is an adviser to private funds. One of the requirements to qualify for this exemption is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"On the state level, the exemption requires that all investors meet the USA's definition of qualified client. That means the investor must have a net worth of at least $2.1 million dollars or at least $1 million in assets under management with the adviser. This is a more stringent test than that for accredited investors. In addition, accredited investor is a federal term, and this question is about state law. There is no limit placed on the number of investors (don't confuse this with the private placement exemption for registration of the security). The limit on AUM is $150 million (this is not to be confused with the AUM limits on becoming registered with the SEC).\\n\\nU1LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">On the state level, the exemption requires that all investors meet the USA's definition of qualified client. That means the investor must have a net worth of at least $2.1 million dollars or at least $1 million in assets under management with the adviser. This is a more stringent test than that for accredited investors. In addition, accredited investor is a federal term, and this question is about state law. There is no limit placed on the number of investors (don't confuse this with the private placement exemption for registration of the security). The limit on AUM is $150 million (this is not to be confused with the AUM limits on becoming registered with the SEC).<br /><br />U1LO4</span>"
+    },
+    "3576": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The investment adviser must notify the Administrator promptly.",
+                0,
+                0
+            ],
+            [
+                "B) The ​investment adviser ​must increase its surety bond to make up the deficiency.",
+                0,
+                0
+            ],
+            [
+                "C) The​ ​investment adviser must notify the Administrator​ by the close of business on the following business day​.",
+                1,
+                1
+            ],
+            [
+                "D) The ​investment adviser is not required to file​ ​an amendment to its registration with the Administrator.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A state-registered investment adviser suddenly incurs a liability that materially affects its net worth, causing it to drop below the required minimum. Which of the following statements is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Although most notifications involving emergency type situations require prompt notification, when an investment adviser's net worth is below the requirement, the NASAA Model Rule is a bit different. Unless otherwise exempted, as a condition of the right to transact business in the state, every investment adviser registered with the state shall, by the close of business on the next business day, notify the Administrator if such investment adviser's net worth is less than the minimum required. After transmitting such notice, each investment adviser shall file by the close of business on the next business day after that, a report with the Administrator of its financial condition.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Although most notifications involving emergency type situations require prompt notification, when an investment adviser's net worth is below the requirement, the NASAA Model Rule is a bit different. Unless otherwise exempted, as a condition of the right to transact business in the state, every investment adviser registered with the state shall, by the close of business on the next business day, notify the Administrator if such investment adviser's net worth is less than the minimum required. After transmitting such notice, each investment adviser shall file by the close of business on the next business day after that, a report with the Administrator of its financial condition.<br /><br />U1LO5</span>"
+    },
+    "3577": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) An adviser rendering advice to no more than 10 individual clients within a 12-month period",
+                1,
+                1
+            ],
+            [
+                "B) An adviser rendering advice solely to broker-dealers",
+                0,
+                0
+            ],
+            [
+                "C) An adviser rendering advice to employee benefit plans with at least $1 million in assets",
+                0,
+                0
+            ],
+            [
+                "D) An adviser managing more than $110 million in assets",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the Uniform Securities Act, which of the following investment advisers with no place of business in the state must register with the state as an investment adviser?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investment adviser with no office in the state would be exempt from registration in the state if the adviser renders advice to no more than 5 noninstitutional clients (not 10) in a 12-month period. If an investment adviser has no office in the state, and renders advice solely to broker-dealers, insurance companies, banks, investment companies, governmental agencies, or employee benefit plans with assets of $1 million or more, the adviser is exempt from registration with the state. If the adviser manages assets of $110 million or more, the adviser would be required to register with the SEC, not the state.\\n\\nU1LO5\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investment adviser with no office in the state would be exempt from registration in the state if the adviser renders advice to no more than 5 noninstitutional clients (not 10) in a 12-month period. If an investment adviser has no office in the state, and renders advice solely to broker-dealers, insurance companies, banks, investment companies, governmental agencies, or employee benefit plans with assets of $1 million or more, the adviser is exempt from registration with the state. If the adviser manages assets of $110 million or more, the adviser would be required to register with the SEC, not the state.<br /><br />U1LO5</span>"
+    },
+    "3605": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) SEC-registered advisers with at least $150 million in private fund assets under management",
+                1,
+                1
+            ],
+            [
+                "B) SEC-exempt reporting advisers",
+                0,
+                0
+            ],
+            [
+                "C) SEC-registered advisers with no more than $150 million in private fund assets under management",
+                0,
+                0
+            ],
+            [
+                "D) state-registered private fund managers, regardless of the amount of assets under management",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Form PF must be filed by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Form PF is the form used by those private fund managers who are registered with the SEC and whose private fund AUM reaches or exceeds the $150 million threshold. Exempt reporting advisers are, as the term implies, exempt from reporting. State-registered advisers don't report on the form because, among other things, if they reached the $150 million mark, they'd have to register with the SEC.\\n\\nU1LO4\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Form PF is the form used by those private fund managers who are registered with the SEC and whose private fund AUM reaches or exceeds the $150 million threshold. Exempt reporting advisers are, as the term implies, exempt from reporting. State-registered advisers don't report on the form because, among other things, if they reached the $150 million mark, they'd have to register with the SEC.<br /><br />U1LO4</span>"
+    },
+    "correct_answer_logic": ""
+};

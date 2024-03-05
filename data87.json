@@ -1,0 +1,1053 @@
+let data87 = {
+    "3450": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the C corporation is limited to a maximum of 100 shareholders while no such limit exists for the S corporation",
+                0,
+                0
+            ],
+            [
+                "B) limited liability",
+                0,
+                0
+            ],
+            [
+                "C) simplicity when raising capital through a public offering",
+                0,
+                0
+            ],
+            [
+                "D) avoiding double taxation",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An advantage of structuring a business operation as an S corporation rather than a C corporation would be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because an S corporation is taxed like a partnership, all earnings (or losses) flow directly through to the shareholders. This avoids the double taxation inherent in receiving a share of the profits (through dividends) from a C corporation. It is the S corporation that is limited to 100 shareholders. That is why it is not suitable for raising capital through a public offering. The shareholders of both S and C corporations enjoy the benefit of limited liability.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because an S corporation is taxed like a partnership, all earnings (or losses) flow directly through to the shareholders. This avoids the double taxation inherent in receiving a share of the profits (through dividends) from a C corporation. It is the S corporation that is limited to 100 shareholders. That is why it is not suitable for raising capital through a public offering. The shareholders of both S and C corporations enjoy the benefit of limited liability.<br /><br />U18LO3</span>"
+    },
+    "3451": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Sole proprietorship",
+                0,
+                0
+            ],
+            [
+                "B) Limited partnership",
+                1,
+                1
+            ],
+            [
+                "C) C corporation",
+                0,
+                0
+            ],
+            [
+                "D) General partnership",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A feature of which of the following business entities is limited liability for owners, as well as flow-through of income?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Limited partnership interests offer both flow-through of income (or loss) along with limited liability. The general partnership has full liability, as does the sole proprietorship. C corporations have limited liability, but no flow-through.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Limited partnership interests offer both flow-through of income (or loss) along with limited liability. The general partnership has full liability, as does the sole proprietorship. C corporations have limited liability, but no flow-through.<br /><br />U18LO3</span>"
+    },
+    "3452": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a discretionary account",
+                0,
+                0
+            ],
+            [
+                "B) an IRA",
+                0,
+                0
+            ],
+            [
+                "C) a margin account",
+                0,
+                0
+            ],
+            [
+                "D) an options account",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Although all new accounts must be approved by a designated supervisor before any trading activity may take place, there is one type of account that must be approved by a specially qualified supervisor. That would be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because trading options (puts and calls) generally involves a higher degree of risk than stocks, bonds, or mutual funds, a designated supervisory person with knowledge about options must approve the account opening.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because trading options (puts and calls) generally involves a higher degree of risk than stocks, bonds, or mutual funds, a designated supervisory person with knowledge about options must approve the account opening.<br /><br />U18LO2</span>"
+    },
+    "3453": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Assure that an options agreement has been signed prior to the first trade taking place",
+                0,
+                0
+            ],
+            [
+                "B) Provide an options disclosure document no later than 15 days after the first trade",
+                0,
+                0
+            ],
+            [
+                "C) Review with the client the risks involved when trading options before the first options trade",
+                1,
+                1
+            ],
+            [
+                "D) Obtain approval from the designated options supervisor to open the account no later than 1 business day after the first options trade",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following actions should be taken by an agent when a client decides to open an options account?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is imperative that suitability and risk be addressed with the client before allowing option trading to take place. The ODD must be delivered no later than with account opening, and the options agreement must be returned no later than 15 days after the account opening. An options account must be approved by a designated supervisor prior to any trading takes place in the account.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is imperative that suitability and risk be addressed with the client before allowing option trading to take place. The ODD must be delivered no later than with account opening, and the options agreement must be returned no later than 15 days after the account opening. An options account must be approved by a designated supervisor prior to any trading takes place in the account.<br /><br />U18LO2</span>"
+    },
+    "3454": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Mr. Hawkins as the donor",
+                1,
+                1
+            ],
+            [
+                "B) the trust because it is a separate legal entity",
+                0,
+                0
+            ],
+            [
+                "C) Mrs. Hawkins as the contingent beneficiary",
+                0,
+                0
+            ],
+            [
+                "D) Madeleine as the primary beneficiary",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Mr. Hawkins sets up a revocable trust for the benefit of his adult daughter, Madeleine. His wife may draw from it only if she needs to. Income on the trust will be taxed to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because Mrs. Hawkins has an economic interest, this is a grantor trust. Thus, all income will be taxed to the donor, Mr. Hawkins.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because Mrs. Hawkins has an economic interest, this is a grantor trust. Thus, all income will be taxed to the donor, Mr. Hawkins.<br /><br />U18LO4</span>"
+    },
+    "3455": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) at or before the mailing of the confirmation representing the first options trade",
+                0,
+                0
+            ],
+            [
+                "B) at or before the mailing of the next monthly statement",
+                0,
+                0
+            ],
+            [
+                "C) within 15 days of account approval",
+                0,
+                0
+            ],
+            [
+                "D) at or before account approval",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under industry rules, customers who wish to trade options must receive a copy of the options disclosure document (ODD)",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"All prospective options customers must receive a copy of the ODD at or before the time the account is approved to trade options. It is the options account agreement that must be signed and returned to the broker-dealer within 15 days of account approval.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">All prospective options customers must receive a copy of the ODD at or before the time the account is approved to trade options. It is the options account agreement that must be signed and returned to the broker-dealer within 15 days of account approval.<br /><br />U18LO2</span>"
+    },
+    "3456": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Business colleagues",
+                0,
+                0
+            ],
+            [
+                "B) Parent and a minor",
+                1,
+                1
+            ],
+            [
+                "C) Two spouses",
+                0,
+                0
+            ],
+            [
+                "D) Three sisters",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following individuals may NOT open a joint account?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Any 2 or more persons can have a joint account, but a minor is specifically excluded from the definition of a person.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Any 2 or more persons can have a joint account, but a minor is specifically excluded from the definition of a person.<br /><br />U18LO2</span>"
+    },
+    "3457": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) receipt of a completed options agreement",
+                1,
+                1
+            ],
+            [
+                "B) delivery of the options disclosure document (ODD)",
+                0,
+                0
+            ],
+            [
+                "C) approval by a designated options supervisor",
+                0,
+                0
+            ],
+            [
+                "D) completion of the new account form",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All of the following actions must be completed prior to customers entering their first option trade EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\" data-sheets-userformat=\"{\">Customers do not have to complete (sign) the options agreement prior to entering an order; under current rules, the agreement must be signed and returned by the customer within 15 days of account approval.<br /><br />U18LO2</span>"
+    },
+    "3458": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) date of birth",
+                0,
+                0
+            ],
+            [
+                "B) a PO Box, instead of a physical address, if it is the primary mailing address",
+                1,
+                1
+            ],
+            [
+                "C) name",
+                0,
+                0
+            ],
+            [
+                "D) taxpayer identification number",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Obtaining all of the following complies with the regulations regarding customer identification programs (CIPs) EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A PO Box is never acceptable without a physical address.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A PO Box is never acceptable without a physical address.<br /><br />U18LO2</span>"
+    },
+    "3459": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Avoidance of foreign securities",
+                0,
+                0
+            ],
+            [
+                "B) Lower than average expenses",
+                0,
+                0
+            ],
+            [
+                "C) Higher-than-average returns",
+                0,
+                0
+            ],
+            [
+                "D) Ethical and moral investing",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would likely be stressed in a socially responsible fund?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Socially responsible investing (SRI) is an impact investment strategy which seeks to consider both financial return and social good. In general, socially responsible investors encourage highly ethical corporate practices that promote environmental stewardship, consumer protection, human rights, and diversity.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Socially responsible investing (SRI) is an impact investment strategy which seeks to consider both financial return and social good. In general, socially responsible investors encourage highly ethical corporate practices that promote environmental stewardship, consumer protection, human rights, and diversity.<br /><br />U18LO4</span>"
+    },
+    "3460": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a Q-tip trust",
+                0,
+                0
+            ],
+            [
+                "B) a revocable trust",
+                0,
+                0
+            ],
+            [
+                "C) a living trust",
+                0,
+                0
+            ],
+            [
+                "D) a testamentary trust",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The type of trust created by a will that becomes operative at death is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"As in \\\"last will and testament.\\\"\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">As in \"last will and testament.\"<br /><br />U18LO4</span>"
+    },
+    "3461": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) S corporations",
+                1,
+                1
+            ],
+            [
+                "B) Q corporations",
+                0,
+                0
+            ],
+            [
+                "C) R corporations",
+                0,
+                0
+            ],
+            [
+                "D) C corporations",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Small corporations that satisfy certain criteria can elect not to pay income tax at the corporate level but instead pass their earnings through to their shareholders. These corporations are known as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The type of small corporation that can elect not to be taxed at the corporate level but to pass its earnings through to its shareholders is an S corporation. The term \\\"S corporation\\\" comes from the subchapter of the Internal Revenue Code that governs these corporations (Subchapter S). The other type of corporation - the C corporation - is one that has not elected to be treated under Subchapter S. Its earnings are taxed at the corporate level and again at the individual level when they are paid out as dividends.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The type of small corporation that can elect not to be taxed at the corporate level but to pass its earnings through to its shareholders is an S corporation. The term \"S corporation\" comes from the subchapter of the Internal Revenue Code that governs these corporations (Subchapter S). The other type of corporation - the C corporation - is one that has not elected to be treated under Subchapter S. Its earnings are taxed at the corporate level and again at the individual level when they are paid out as dividends.<br /><br />U18LO3</span>"
+    },
+    "3462": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) may retain income.",
+                0,
+                0
+            ],
+            [
+                "B) may make distributions from the corpus of the trust.",
+                0,
+                0
+            ],
+            [
+                "C) must distribute their distributable net income each year.",
+                1,
+                1
+            ],
+            [
+                "D) are easier to prepare.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of the ways in which a simple trust differs from a complex trust is that simple trusts",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Unlike complex trusts, simple trusts must distribute their DNI on an annual basis. Unlike complex trusts, simple trusts may not make distributions from the corpus (body) of the trust nor may they retain income. The terms \\\"simple\\\" and \\\"complex\\\" do not refer to the simplicity of the trust preparation.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Unlike complex trusts, simple trusts must distribute their DNI on an annual basis. Unlike complex trusts, simple trusts may not make distributions from the corpus (body) of the trust nor may they retain income. The terms \"simple\" and \"complex\" do not refer to the simplicity of the trust preparation.<br /><br />U18LO4</span>"
+    },
+    "3463": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Beneficiary",
+                0,
+                0
+            ],
+            [
+                "B) Trustee and beneficiary",
+                1,
+                1
+            ],
+            [
+                "C) As the grantor, no other roles may be taken",
+                0,
+                0
+            ],
+            [
+                "D) Trustee",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of your clients approaches you about setting up a trust. If your client assumes the role of grantor, what additional roles may be taken?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Under trust law, the grantor of a trust, sometimes referred to as the settlor, may also be the beneficiary and the trustee.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Under trust law, the grantor of a trust, sometimes referred to as the settlor, may also be the beneficiary and the trustee.<br /><br />U18LO4</span>"
+    },
+    "3464": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) contact the grantor of the trust.",
+                0,
+                0
+            ],
+            [
+                "B) amend the IPS and process the order.",
+                0,
+                0
+            ],
+            [
+                "C) follow the beneficiary's instructions.",
+                0,
+                0
+            ],
+            [
+                "D) follow the trust's IPS and refuse the order.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "As with all investors, it is important that trusts have an investment policy statement (IPS). If the beneficiary of a trust requests that the trustee use trust assets to enter an order that is considered a prohibited transaction under the IPS, the trustee should",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A trustee is the classic example of a fiduciary – one responsible for handling the assets of another person. Construction of the IPS for a trust is generally done with the consent of the grantor of the trust to make sure that the grantor's wishes are met. Therefore, it would be considered imprudent for the trustee to engage in any transaction specifically prohibited by the IPS.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A trustee is the classic example of a fiduciary – one responsible for handling the assets of another person. Construction of the IPS for a trust is generally done with the consent of the grantor of the trust to make sure that the grantor's wishes are met. Therefore, it would be considered imprudent for the trustee to engage in any transaction specifically prohibited by the IPS.<br /><br />U18LO4</span>"
+    },
+    "3465": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A testamentary trust",
+                0,
+                0
+            ],
+            [
+                "B) A living will",
+                1,
+                1
+            ],
+            [
+                "C) A living trust",
+                0,
+                0
+            ],
+            [
+                "D) A revocable trust",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is most commonly used when the author wants to express end of life wishes?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Sometimes referred to as a medical directive or advanced care directive, a living will is used to express the author's end-of-life wishes such as organ donation, when to withdraw life-prolonging treatment, and so forth.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Sometimes referred to as a medical directive or advanced care directive, a living will is used to express the author's end-of-life wishes such as organ donation, when to withdraw life-prolonging treatment, and so forth.<br /><br />U18LO4</span>"
+    },
+    "3466": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The amount of tax will depend on your late husband&#039;s tax bracket.",
+                0,
+                0
+            ],
+            [
+                "B) The amount of tax will depend on the size of the estate to be transferred.",
+                0,
+                0
+            ],
+            [
+                "C) Consult a qualified tax specialist.",
+                1,
+                1
+            ],
+            [
+                "D) The amount may be prorated over the next 4 years.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A customer has just died. If his wife asks you what amount of federal estate tax will be imposed on the transfer of their personal property to her name, which of the following responses would be best?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Specific tax advice should be referred to a qualified tax adviser such as an accountant or tax attorney. No federal estate tax is imposed as a result of the marital exclusion as long as the spouse is a U.S. citizen.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Specific tax advice should be referred to a qualified tax adviser such as an accountant or tax attorney. No federal estate tax is imposed as a result of the marital exclusion as long as the spouse is a U.S. citizen.<br /><br />U18LO4</span>"
+    },
+    "3467": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) eliminate, or at least reduce, estate taxes.",
+                0,
+                0
+            ],
+            [
+                "B) ensure that the author's assets are properly distributed after death.",
+                0,
+                0
+            ],
+            [
+                "C) express the author's end-of-life wishes.",
+                1,
+                1
+            ],
+            [
+                "D) avoid the cost and time of probate.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A living will is used to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Sometimes referred to as a medical directive or advanced care directive, a living will is used to express the author's end-of-life wishes, such as organ donation, \\\"pulling the plug,\\\" and so forth. It has nothing to do with a last will and testament describing the distribution of assets after death.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Sometimes referred to as a medical directive or advanced care directive, a living will is used to express the author's end-of-life wishes, such as organ donation, \"pulling the plug,\" and so forth. It has nothing to do with a last will and testament describing the distribution of assets after death.<br /><br />U18LO4</span>"
+    },
+    "3468": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) asset allocation",
+                0,
+                0
+            ],
+            [
+                "B) program-related investing",
+                0,
+                0
+            ],
+            [
+                "C) engineered investing",
+                0,
+                0
+            ],
+            [
+                "D) impact investing",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When advisory clients wish to structure their portfolios to support companies that engage in social or environmental policies that they agree with, it is known as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Impact investing can be defined as the intentional allocation of capital to generate a positive social or environmental impact.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Impact investing can be defined as the intentional allocation of capital to generate a positive social or environmental impact.<br /><br />U18LO4</span>"
+    },
+    "3469": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) demand deposit account (DDA)",
+                0,
+                0
+            ],
+            [
+                "B) Totten trust",
+                1,
+                1
+            ],
+            [
+                "C) revocable trust",
+                0,
+                0
+            ],
+            [
+                "D) passbook savings account",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In the banking industry, the term POD refers to an account similar to the TOD designation used by broker-dealers. An old, but sometimes still used term to describe this kind of account, is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The name comes from a 1904 decision in a New York case called In re Totten. The court ruled that someone could open a bank account as a trustee for another person, who had no right to the money until the account owner died. The account owner is the trustee, in control of money that will eventually go to the trust beneficiary, and could change beneficiaries as desired. But whether the arrangement is called a Totten trust or a POD account, the result is the same.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The name comes from a 1904 decision in a New York case called In re Totten. The court ruled that someone could open a bank account as a trustee for another person, who had no right to the money until the account owner died. The account owner is the trustee, in control of money that will eventually go to the trust beneficiary, and could change beneficiaries as desired. But whether the arrangement is called a Totten trust or a POD account, the result is the same.<br /><br />U18LO5</span>"
+    },
+    "3470": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A proxy voting policy.",
+                0,
+                0
+            ],
+            [
+                "B) A restricted list.",
+                0,
+                0
+            ],
+            [
+                "C) A communications agreement.",
+                0,
+                0
+            ],
+            [
+                "D) An investment policy statement.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following documents would aid an investment adviser in its responsibility to fully understand the needs of a client when making investment recommendations?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The IPS is the key document that defines an investor's risk and return objectives and any constraints for their investment.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The IPS is the key document that defines an investor's risk and return objectives and any constraints for their investment.<br /><br />U18LO2</span>"
+    },
+    "3471": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) No tax is due if the grantor should die during the term of the trust.",
+                0,
+                0
+            ],
+            [
+                "B) The original value plus any appreciation passes to the beneficiaries but is subject to gift tax.",
+                0,
+                0
+            ],
+            [
+                "C) The original value plus any appreciation is taxed as part of the grantor's estate.",
+                1,
+                1
+            ],
+            [
+                "D) The original value plus any appreciation passes to the beneficiaries and is taxed as ordinary income.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A wealthy individual has set up a GRAT. Should she die during the time the trust is active, how are the remaining assets in the trust taxed?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"One of the risks in setting up a GRAT is that if the grantor dies during the term of the trust (usually 3–10 years), the assets put in the GRAT, plus any appreciation, are included in her estate.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">One of the risks in setting up a GRAT is that if the grantor dies during the term of the trust (usually 3–10 years), the assets put in the GRAT, plus any appreciation, are included in her estate.<br /><br />U18LO5</span>"
+    },
+    "3472": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the trustee in intestacy.",
+                1,
+                1
+            ],
+            [
+                "B) an individual with a durable power of attorney.",
+                0,
+                0
+            ],
+            [
+                "C) the deceased client's spouse.",
+                0,
+                0
+            ],
+            [
+                "D) the deceased client's children.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One of the situations that investment adviser representatives may encounter is the death of a client. When that happens, orders may be accepted from",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In most cases, your clients will have a will. (Editorial comment – not on the exam, but you are acting in your clients' best interest when you strongly urge them to prepare a proper will.) When the deceased has not written a will, he is considered to have died intestate. The appointment of the person who will administer the estate is based on state law. That person may be called the administrator of the estate or the trustee in intestacy. The spouse may be appointed to that role, but would be acting as the trustee, not as the spouse and same is true of the children. A durable power of attorney is dissolved upon the death of either principal to the power.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In most cases, your clients will have a will. (Editorial comment – not on the exam, but you are acting in your clients' best interest when you strongly urge them to prepare a proper will.) When the deceased has not written a will, he is considered to have died intestate. The appointment of the person who will administer the estate is based on state law. That person may be called the administrator of the estate or the trustee in intestacy. The spouse may be appointed to that role, but would be acting as the trustee, not as the spouse and same is true of the children. A durable power of attorney is dissolved upon the death of either principal to the power.<br /><br />U18LO5</span>"
+    },
+    "3473": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the property is divided into as many equal shares as there are surviving children of the designated ancestor and deceased children who left surviving descendants",
+                1,
+                1
+            ],
+            [
+                "B) the property is divided into as many equal shares as there are surviving children and grandchildren of the designated ancestor",
+                0,
+                0
+            ],
+            [
+                "C) all living descendants of the ancestor receive equal shares in the property remaining after all estate expenses are paid",
+                0,
+                0
+            ],
+            [
+                "D) the property is divided into as many equal shares as there are surviving children of the designated ancestor, with nothing going to surviving descendants of deceased children",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When a will calls for property to be distributed per stirpes, it means that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When a will calls for a per stirpes distribution of assets, it provides that if any named beneficiary predeceases the testator (the maker of the will), surviving children of that individual share in the share that the individual would have received. For example, if the testator had 3 children and 1 of them died first, any children of the deceased would share in their parent's portion (they would split one-third of the estate between them).\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When a will calls for a per stirpes distribution of assets, it provides that if any named beneficiary predeceases the testator (the maker of the will), surviving children of that individual share in the share that the individual would have received. For example, if the testator had 3 children and 1 of them died first, any children of the deceased would share in their parent's portion (they would split one-third of the estate between them).<br /><br />U18LO5</span>"
+    },
+    "3474": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the settlor cannot also be the beneficiary.",
+                0,
+                0
+            ],
+            [
+                "B) the grantor retains control of the assets.",
+                1,
+                1
+            ],
+            [
+                "C) the grantor saves on income taxes.",
+                0,
+                0
+            ],
+            [
+                "D) the assets are not included in the grantor's estate.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A major benefit of a revocable trust is that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Among the benefits of a revocable trust is that the grantor (settlor) retains all control over the assets. There are no tax benefits, and the grantor can be the beneficiary (and trustee) if the trust is set up that way.\\n\\nU18LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Among the benefits of a revocable trust is that the grantor (settlor) retains all control over the assets. There are no tax benefits, and the grantor can be the beneficiary (and trustee) if the trust is set up that way.<br /><br />U18LO5</span>"
+    },
+    "correct_answer_logic": ""
+};

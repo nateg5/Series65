@@ -1,0 +1,1053 @@
+let data84 = {
+    "3372": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a City of Chicago school district bond",
+                1,
+                1
+            ],
+            [
+                "B) 50-year bonds issued by the Tennessee Valley Authority",
+                0,
+                0
+            ],
+            [
+                "C) a U.S. Treasury bill",
+                0,
+                0
+            ],
+            [
+                "D) a Province of Ontario library construction bond",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "As defined in the Securities Exchange Act of 1934, the term municipal security would include all of the following EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Under federal law, municipal bonds are those issued by any domestic political body or subdivision from the state level on down. Treasury bills and TVA issues are defined as government securities, not municipal securities. Under federal law, Canadian cities (or provinces) are not municipal securities.\\n\\nU13LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Under federal law, municipal bonds are those issued by any domestic political body or subdivision from the state level on down. Treasury bills and TVA issues are defined as government securities, not municipal securities. Under federal law, Canadian cities (or provinces) are not municipal securities.<br /><br />U13LO5</span>"
+    },
+    "3373": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) federal income taxes",
+                1,
+                1
+            ],
+            [
+                "B) federal estate taxes",
+                0,
+                0
+            ],
+            [
+                "C) state income taxes",
+                0,
+                0
+            ],
+            [
+                "D) state, federal, and inheritance taxes",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Municipal bonds are often called tax-exempts. This refers to the exemption of their income from",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Although municipal bonds are sometimes exempt from state income tax (if issued in the state of residence of the taxpayer), all references to tax exemption refer to their exemption from federal income taxes.\\n\\nU13LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Although municipal bonds are sometimes exempt from state income tax (if issued in the state of residence of the taxpayer), all references to tax exemption refer to their exemption from federal income taxes.<br /><br />U13LO5</span>"
+    },
+    "3374": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Bond A, A-rated corporate debenture with a 6.5% coupon rate",
+                1,
+                1
+            ],
+            [
+                "B) Bond C, CCC-rated corporate debenture with an 8% coupon rate",
+                0,
+                0
+            ],
+            [
+                "C) Bond D, AAA-rated Treasury note with a 2.55% coupon rate",
+                0,
+                0
+            ],
+            [
+                "D) Bond B, BBB-rated municipal bond with a 3.75% coupon rate",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Kate, age 59, has an investment portfolio exceeding $250,000. She considers herself a moderate to conservative investor. To generate additional income, she is anticipating adding bonds to her portfolio. She lives in a state that does not have an income tax and she is in the 28% federal income tax bracket. Which of the following bonds would be the best recommendation for her portfolio?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Even though Bond C has the highest after-tax rate of return, this bond would not be appropriate for Kate based on her risk tolerance. Therefore, Bond A would be the best choice.\\n\\nCalculations:\\n\\nBond A: 6.5 × (1 – 0.28) = 4.68%\\n\\nBond B: 3.75%\\n\\nBond C: 8% × (1 – 0.28) = 5.76%\\n\\nBond D: 2.55% × (1 – 0.28) = 1.84%\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Even though Bond C has the highest after-tax rate of return, this bond would not be appropriate for Kate based on her risk tolerance. Therefore, Bond A would be the best choice.<br /><br />Calculations:<br /><br />Bond A: 6.5 × (1 – 0.28) = 4.68%<br /><br />Bond B: 3.75%<br /><br />Bond C: 8% × (1 – 0.28) = 5.76%<br /><br />Bond D: 2.55% × (1 – 0.28) = 1.84%<br /><br />U13LO6</span>"
+    },
+    "3375": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) slightly more than 5.33%",
+                1,
+                1
+            ],
+            [
+                "B) approximately 12.90%",
+                0,
+                0
+            ],
+            [
+                "C) slightly less than 5.33%",
+                0,
+                0
+            ],
+            [
+                "D) 4%",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your client in the 25% federal income tax bracket lives in a state where his earnings place him in the 6% bracket for state income tax purposes. If he were to purchase a 4% bond issued by a political subdivision of his state, his total tax-equivalent yield would be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When an individual owns a municipal bond issued in his state of residence, not only is the interest tax free on a federal basis, but (at least in all cases on the exam) it is nontaxed in that state. Therefore, the tax-equivalent yield here is slightly higher than it would be if we only computed using the federal tax rate. Because that would be 4.0% divided by 0.75 (100% minus the 25% tax bracket) or 5.33%, saving on state income taxes would increase the yield slightly.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When an individual owns a municipal bond issued in his state of residence, not only is the interest tax free on a federal basis, but (at least in all cases on the exam) it is nontaxed in that state. Therefore, the tax-equivalent yield here is slightly higher than it would be if we only computed using the federal tax rate. Because that would be 4.0% divided by 0.75 (100% minus the 25% tax bracket) or 5.33%, saving on state income taxes would increase the yield slightly.<br /><br />U13LO6</span>"
+    },
+    "3376": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) divide 0.08 by 0.28",
+                0,
+                0
+            ],
+            [
+                "B) divide 0.08 by 0.72",
+                0,
+                0
+            ],
+            [
+                "C) multiply 0.08 by 0.28",
+                0,
+                0
+            ],
+            [
+                "D) multiply 0.08 by 0.72",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client in the 28% marginal federal income tax bracket invests in a corporate bond with an 8% coupon. To calculate the client's after-tax rate of return,",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"To determine a taxable bond's after-tax rate of return, multiply the coupon rate by the complement of the client's marginal federal income tax bracket. The client's tax bracket is 28% (0.28), so the complement is 100% − 28% (1.00 − 0.28) = 0.72.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">To determine a taxable bond's after-tax rate of return, multiply the coupon rate by the complement of the client's marginal federal income tax bracket. The client's tax bracket is 28% (0.28), so the complement is 100% − 28% (1.00 − 0.28) = 0.72.<br /><br />U13LO6</span>"
+    },
+    "3377": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 7.00%",
+                0,
+                0
+            ],
+            [
+                "B) 2.45%",
+                0,
+                0
+            ],
+            [
+                "C) 9.45%",
+                0,
+                0
+            ],
+            [
+                "D) 4.55%",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your client in the 35% federal income tax bracket currently owns some corporate bonds with a coupon yield of 7%. In order to receive the same income after taxes, he would need to buy municipal bonds with a coupon of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because the 7% on the corporate bond is fully taxable, the client receives a net of 4.55% ($70 per bond less 35% in taxes {$24.50}, or $45.50 per year). Interest on municipal bonds is tax free, so a 4.55% coupon will result in the same amount of after-tax income.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because the 7% on the corporate bond is fully taxable, the client receives a net of 4.55% ($70 per bond less 35% in taxes {$24.50}, or $45.50 per year). Interest on municipal bonds is tax free, so a 4.55% coupon will result in the same amount of after-tax income.<br /><br />U13LO6</span>"
+    },
+    "3378": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 5.8% municipal bond to an individual in the 25% tax bracket",
+                0,
+                0
+            ],
+            [
+                "B) 5.5% municipal bond to an individual in the 28% tax bracket",
+                0,
+                0
+            ],
+            [
+                "C) 5% municipal bond to an individual in the 35% tax bracket",
+                0,
+                0
+            ],
+            [
+                "D) 6.2% municipal bond to a corporation in the 21% tax bracket",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following choices offers the highest tax-equivalent yield?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Corporations receive the same tax break on municipal bonds as do individuals. Therefore, receiving a 6.2% return in the 21% tax bracket is equivalent to 7.85% before tax. A 5% bond to someone in the 35% bracket is equivalent to 7.69%; a 5.5% coupon to someone in the 28% bracket is equivalent to 7.64%; and a 5.8% coupon to someone in the 25% bracket is equivalent to 7.73%.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Corporations receive the same tax break on municipal bonds as do individuals. Therefore, receiving a 6.2% return in the 21% tax bracket is equivalent to 7.85% before tax. A 5% bond to someone in the 35% bracket is equivalent to 7.69%; a 5.5% coupon to someone in the 28% bracket is equivalent to 7.64%; and a 5.8% coupon to someone in the 25% bracket is equivalent to 7.73%.<br /><br />U13LO6</span>"
+    },
+    "3379": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 6% U.S. Treasury bond",
+                0,
+                0
+            ],
+            [
+                "B) 5% general obligation municipal bond issued by State H",
+                0,
+                0
+            ],
+            [
+                "C) 7% bond issued by Canadian Province M",
+                0,
+                0
+            ],
+            [
+                "D) 8% debenture issued by the LMN Corporation",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following investments would provide the highest after-tax income to your client in the 35% federal income tax bracket?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Only the State H bond is exempt from federal income tax. Using the tax equivalent yield formula of the muni coupon divided by (100% minus the investor's tax bracket %) we get 5% divided by 65% or 7.7%. That's a better deal than receiving 6% on the Treasury and paying taxes as well as 7% on the Canadian bond (although you learned that securities issued by Canadian provinces were exempt from registration under the Uniform Securities Act, that has nothing to do with U.S. income taxes). However, with a TEY of 7.7%, your client would take home more with the 8% taxable corporate security. You can also work backward to get the correct answer. Simply subtract 35% tax from each of the choices (other than the muni) and see which is the highest. In this case, 8% minus a 35% tax equals 5.2% - just a bit higher than the 5% coupon on the municipal bond.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Only the State H bond is exempt from federal income tax. Using the tax equivalent yield formula of the muni coupon divided by (100% minus the investor's tax bracket %) we get 5% divided by 65% or 7.7%. That's a better deal than receiving 6% on the Treasury and paying taxes as well as 7% on the Canadian bond (although you learned that securities issued by Canadian provinces were exempt from registration under the Uniform Securities Act, that has nothing to do with U.S. income taxes). However, with a TEY of 7.7%, your client would take home more with the 8% taxable corporate security. You can also work backward to get the correct answer. Simply subtract 35% tax from each of the choices (other than the muni) and see which is the highest. In this case, 8% minus a 35% tax equals 5.2% - just a bit higher than the 5% coupon on the municipal bond.<br /><br />U13LO6</span>"
+    },
+    "3380": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Eurobonds.",
+                0,
+                0
+            ],
+            [
+                "B) ADRs.",
+                0,
+                0
+            ],
+            [
+                "C) Ameribonds.",
+                0,
+                0
+            ],
+            [
+                "D) Yankee bonds.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When a corporation domiciled in the U.K. issues U.S. dollar-denominated bonds in the United States, it is issuing",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Yankee bonds are foreign bonds, denominated in U.S. dollars and issued in the United States by foreign banks and corporations. ADRs are issued in the U.S. by domestic banks and represent receipts for securities traded on foreign exchanges. Eurobonds are issued by a borrower in a foreign country, denominated in a currency other than one native to the issuer's country. Yankee bonds are a form of Eurobond, but that is not the best answer to this specific question.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Yankee bonds are foreign bonds, denominated in U.S. dollars and issued in the United States by foreign banks and corporations. ADRs are issued in the U.S. by domestic banks and represent receipts for securities traded on foreign exchanges. Eurobonds are issued by a borrower in a foreign country, denominated in a currency other than one native to the issuer's country. Yankee bonds are a form of Eurobond, but that is not the best answer to this specific question.<br /><br />U13LO7</span>"
+    },
+    "3381": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) bonds backed by gold sovereigns.",
+                0,
+                0
+            ],
+            [
+                "B) European Central Bank debt issues.",
+                0,
+                0
+            ],
+            [
+                "C) Sweden 2.5s of 2032.",
+                1,
+                1
+            ],
+            [
+                "D) bonds issued by the Bank of the United States.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor interested in investing in sovereign debt would most likely purchase",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Sovereign debt refers to bonds and other debt instruments issued by a specific country. The European Central Bank manages the currency of the 19 countries who have adopted the Euro. There is no such thing as the Bank of the United States and gold sovereigns are coins – they are not used to back debt.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Sovereign debt refers to bonds and other debt instruments issued by a specific country. The European Central Bank manages the currency of the 19 countries who have adopted the Euro. There is no such thing as the Bank of the United States and gold sovereigns are coins – they are not used to back debt.<br /><br />U13LO7</span>"
+    },
+    "3382": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A GO bond is not charged against the municipality&#039;s borrowing limits.",
+                0,
+                0
+            ],
+            [
+                "B) A GO bond issuer is required to conduct a feasibility study.",
+                0,
+                0
+            ],
+            [
+                "C) Only a facility&#039;s users pay for a GO bond.",
+                0,
+                0
+            ],
+            [
+                "D) A GO bond generally involves less risk to the investor.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements represents an advantage of a municipal general obligation bond over a revenue bond?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"GO bonds are generally less risky than revenue bonds because they are backed by taxes rather than revenues.\\n\\nU13LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">GO bonds are generally less risky than revenue bonds because they are backed by taxes rather than revenues.<br /><br />U13LO5</span>"
+    },
+    "3383": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) U.S. dollar-denominated bond issued by a U.S. entity inside the United States",
+                0,
+                0
+            ],
+            [
+                "B) U.S. dollar-denominated bond issued by a non-U.S. entity inside the United States",
+                1,
+                1
+            ],
+            [
+                "C) U.S. dollar-denominated bond issued by a non-U.S. entity outside the United States",
+                0,
+                0
+            ],
+            [
+                "D) U.S. dollar-denominated bond issued by a U.S. entity outside the United States",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would best describes a Yankee bond?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Yankee bonds are issued by non-U.S. entities in marketplaces inside the United States. The bonds are issued in U.S. dollars meaning these foreign issuers will have currency risk if the dollar drops in value against their local currency.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Yankee bonds are issued by non-U.S. entities in marketplaces inside the United States. The bonds are issued in U.S. dollars meaning these foreign issuers will have currency risk if the dollar drops in value against their local currency.<br /><br />U13LO7</span>"
+    },
+    "3384": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A U.S. dollar–denominated bond issued by a U.S. entity outside the United States.",
+                0,
+                0
+            ],
+            [
+                "B) A U.S. dollar–denominated bond issued by a non-U.S. entity outside the United States.",
+                0,
+                0
+            ],
+            [
+                "C) A U.S. dollar–denominated bond issued by a non-U.S. entity inside the United States",
+                1,
+                1
+            ],
+            [
+                "D) A U.S. dollar–denominated bond issued by a U.S. entity inside the United States.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would best describe a Yankee bond?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Yankee bonds are issued by non-U.S. entities in marketplaces inside of the United States. The bonds are issued in U.S. dollars, meaning these foreign issuers will have currency risk if the dollar drops in value against their local currency.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Yankee bonds are issued by non-U.S. entities in marketplaces inside of the United States. The bonds are issued in U.S. dollars, meaning these foreign issuers will have currency risk if the dollar drops in value against their local currency.<br /><br />U13LO7</span>"
+    },
+    "3385": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Zero-coupon Treasury bonds",
+                1,
+                1
+            ],
+            [
+                "B) Investment-grade corporate bonds",
+                0,
+                0
+            ],
+            [
+                "C) Treasury bills",
+                0,
+                0
+            ],
+            [
+                "D) Municipal bonds",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Of the following securities, which is most commonly recommended to fund a child's college education?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Zero-coupon bonds, particularly those carrying the guarantee of the U.S. Treasury, are a favored investment vehicle for saving for a child's higher education. They have the advantage of providing a certain, quantifiable sum at a certain date in the future.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Zero-coupon bonds, particularly those carrying the guarantee of the U.S. Treasury, are a favored investment vehicle for saving for a child's higher education. They have the advantage of providing a certain, quantifiable sum at a certain date in the future.<br /><br />U19LO5</span>"
+    },
+    "3386": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) allows the issuer the option to escape high interest rates if market rates decline.",
+                1,
+                1
+            ],
+            [
+                "B) may be used to convert the bond into preferred shares.",
+                0,
+                0
+            ],
+            [
+                "C) allows bond issuers to extend the life of the bond.",
+                0,
+                0
+            ],
+            [
+                "D) allows the issuer to refinance the debt if interest rates rise above the call rate.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The call feature available on some bonds",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Many bonds have a call feature that allows the issuer to call in the bonds, assuming the issuer has the cash available to pay them off, and escape high interest rates if market interest rate declines. If the company does not have the cash, it may issue a new bond at the lower prevailing interest rates and use that money to pay off the old bonds. This is known as refunding and, in essence, is no different from refinancing the mortgage on a home.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Many bonds have a call feature that allows the issuer to call in the bonds, assuming the issuer has the cash available to pay them off, and escape high interest rates if market interest rate declines. If the company does not have the cash, it may issue a new bond at the lower prevailing interest rates and use that money to pay off the old bonds. This is known as refunding and, in essence, is no different from refinancing the mortgage on a home.<br /><br />U13LO8</span>"
+    },
+    "3387": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the owner of the bond may exchange it for a set number of shares of stock",
+                1,
+                1
+            ],
+            [
+                "B) the owner of the bond may exchange it for a bond paying a higher coupon rate",
+                0,
+                0
+            ],
+            [
+                "C) the owner of the bond may exchange it for a debenture",
+                0,
+                0
+            ],
+            [
+                "D) the corporation may redeem the bond before its maturity date",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a corporate bond is a convertible bond, this means that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A convertible bond is usually a debenture that allows the owner to exchange it for a set number of shares of stock.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A convertible bond is usually a debenture that allows the owner to exchange it for a set number of shares of stock.<br /><br />U13LO8</span>"
+    },
+    "3388": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) They offer lower yields than comparable noncallable bonds.",
+                0,
+                0
+            ],
+            [
+                "B) They usually provide a call risk premium.",
+                1,
+                1
+            ],
+            [
+                "C) They are only issued by government entities.",
+                0,
+                0
+            ],
+            [
+                "D) They are unaffected by changes in market yields.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements regarding callable bonds is correct?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Callable bonds are normally called only when interest rates fall. The call premium (a percent above par value that the issuer will pay when called) helps to compensate bondholders for the lower interest rate at which they will be able to reinvest the proceeds. Callable bonds have greater risk for investors (call risk) and therefore offer higher yields than noncallable bonds.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Callable bonds are normally called only when interest rates fall. The call premium (a percent above par value that the issuer will pay when called) helps to compensate bondholders for the lower interest rate at which they will be able to reinvest the proceeds. Callable bonds have greater risk for investors (call risk) and therefore offer higher yields than noncallable bonds.<br /><br />U13LO8</span>"
+    },
+    "3389": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The issuer pays a higher rate of interest, compared with a comparable nonconvertible debenture.",
+                0,
+                0
+            ],
+            [
+                "B) The debenture holders receive a variable rate of interest.",
+                0,
+                0
+            ],
+            [
+                "C) The issuer has the right to convert the debentures during the time period specified in the indenture.",
+                0,
+                0
+            ],
+            [
+                "D) When compared with similar nonconvertible debentures, convertible debentures are issued with a lower coupon rate.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements regarding convertible debentures is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A conversion feature is a benefit to the debtholder. It allows the debtholder a choice to either continue holding the debt represented by the debenture or to convert it into shares of common stock of the underlying issuer. Everything that is done in the securities industry has to be a win/win situation. The win for the debtholder in this instance is the ability to take advantage of the capital appreciation potential the common stock may offer, and the win for the issuer is that by offering something extra to the debenture purchaser, that purchaser is willing to accept a lower interest rate on the debt (as compared to a nonconvertible debenture) and therefore giving the issuer a lower cost of capital. It is the debtholder, not the issuer who determines when and if to convert.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A conversion feature is a benefit to the debtholder. It allows the debtholder a choice to either continue holding the debt represented by the debenture or to convert it into shares of common stock of the underlying issuer. Everything that is done in the securities industry has to be a win/win situation. The win for the debtholder in this instance is the ability to take advantage of the capital appreciation potential the common stock may offer, and the win for the issuer is that by offering something extra to the debenture purchaser, that purchaser is willing to accept a lower interest rate on the debt (as compared to a nonconvertible debenture) and therefore giving the issuer a lower cost of capital. It is the debtholder, not the issuer who determines when and if to convert.<br /><br />U13LO8</span>"
+    },
+    "3390": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a Brady bond.",
+                0,
+                0
+            ],
+            [
+                "B) a Eurodollar bond.",
+                1,
+                1
+            ],
+            [
+                "C) a Eurobond.",
+                0,
+                0
+            ],
+            [
+                "D) a Yankee bond.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A U.S. dollar-denominated bond issued by a non-American company (or government), sold outside the United States and the issuer's country, but for which the principal and interest are stated and paid in U.S. dollars is best described as",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is the definition of a Eurodollar bond. Yes, it is also a Eurobond, but, because the question specifies U.S. dollars, the more accurate choice is Eurodollar bond. A Yankee bond is U.S. dollar-denominated, but is issued in the United States; Eurodollar bonds are not. Brady bonds are issued only by foreign governments, usually, but not always, U.S. dollar-denominated and are available for purchase in the U.S.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is the definition of a Eurodollar bond. Yes, it is also a Eurobond, but, because the question specifies U.S. dollars, the more accurate choice is Eurodollar bond. A Yankee bond is U.S. dollar-denominated, but is issued in the United States; Eurodollar bonds are not. Brady bonds are issued only by foreign governments, usually, but not always, U.S. dollar-denominated and are available for purchase in the U.S.<br /><br />U13LO7</span>"
+    },
+    "3391": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) depreciation of the bonds and appreciation of the foreign currency benefit the domestic investor.",
+                0,
+                0
+            ],
+            [
+                "B) appreciation of both the bonds and the foreign currency benefits the domestic investor.",
+                1,
+                1
+            ],
+            [
+                "C) depreciation of both the bonds and the foreign currency benefits the domestic investor.",
+                0,
+                0
+            ],
+            [
+                "D) appreciation of the bonds and depreciation of the foreign currency benefit the domestic investor.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When a U.S. resident investor purchases foreign bonds,",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In the same manner that purchasing foreign equities adds diversification to a portfolio, purchasing foreign bonds does as well. As with any security, if the value goes up (it appreciates), that is a benefit to the investor. When foreign securities are involved, there is another concern - currency risk. Because the foreign bond is denominated in the local currency, an increase in that currency's value versus the U.S. dollar means the semiannual interest payments will translate into more dollars. At maturity, the return of principal will be higher as well. Of course, it can go the other way if the market value or the foreign currency depreciates against the dollar.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In the same manner that purchasing foreign equities adds diversification to a portfolio, purchasing foreign bonds does as well. As with any security, if the value goes up (it appreciates), that is a benefit to the investor. When foreign securities are involved, there is another concern - currency risk. Because the foreign bond is denominated in the local currency, an increase in that currency's value versus the U.S. dollar means the semiannual interest payments will translate into more dollars. At maturity, the return of principal will be higher as well. Of course, it can go the other way if the market value or the foreign currency depreciates against the dollar.<br /><br />U13LO7</span>"
+    },
+    "3392": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) common stock",
+                0,
+                0
+            ],
+            [
+                "B) zero-coupon bonds backed by the U.S. Treasury",
+                1,
+                1
+            ],
+            [
+                "C) municipal bonds for their tax benefits",
+                0,
+                0
+            ],
+            [
+                "D) corporate bonds with high rates of interest",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If your customer wants to set aside $40,000 for when his child starts college, but does not want to endanger the principal, you should recommend",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Treasury STRIPS are guaranteed by the U.S. government, so there is no chance of default. They are zero-coupon bonds and offer no current income, which is appropriate for a client who wants 100% return paid at a future date for college expenses.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Treasury STRIPS are guaranteed by the U.S. government, so there is no chance of default. They are zero-coupon bonds and offer no current income, which is appropriate for a client who wants 100% return paid at a future date for college expenses.<br /><br />U19LO5</span>"
+    },
+    "3393": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) European currency held in U.S. banks",
+                0,
+                0
+            ],
+            [
+                "B) a worldwide currency system that is expected to someday replace existing currency systems",
+                0,
+                0
+            ],
+            [
+                "C) obsolete currency that was formerly backed by the gold standard",
+                0,
+                0
+            ],
+            [
+                "D) American dollars held by banks in other countries, especially in Europe",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The term \"eurodollars\" refers to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"American dollars held in international banks, especially, but not exclusively, in Europe, are known as eurodollars.\\n\\nU13LO7\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">American dollars held in international banks, especially, but not exclusively, in Europe, are known as eurodollars.<br /><br />U13LO7</span>"
+    },
+    "3394": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Treasury STRIPS/zero-coupon bonds",
+                1,
+                1
+            ],
+            [
+                "B) Preferred stock in a growth company",
+                0,
+                0
+            ],
+            [
+                "C) Treasury notes",
+                0,
+                0
+            ],
+            [
+                "D) Common stock in an electric utility",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following investments gives the investor the least exposure to reinvestment risk?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Treasury STRIPS (Separate Trading of Registered Interest and Principal of Securities) are zero-coupon bonds paying no interest. Thus, there is no income to reinvest during the holding period and therefore no reinvestment risk.\\n\\nU11LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Treasury STRIPS (Separate Trading of Registered Interest and Principal of Securities) are zero-coupon bonds paying no interest. Thus, there is no income to reinvest during the holding period and therefore no reinvestment risk.<br /><br />U11LO1</span>"
+    },
+    "3395": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Convert her preferred stock into common stock because it is selling above parity.",
+                0,
+                0
+            ],
+            [
+                "B) Hold the preferred stock to continue the 5½% yield.",
+                0,
+                0
+            ],
+            [
+                "C) Present the preferred stock for the call because the call price is $4 above the parity price.",
+                1,
+                1
+            ],
+            [
+                "D) Place irrevocable instructions to convert the preferred stock into common stock and sell short the common stock immediately.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your customer owns $100 par 5½% callable convertible preferred stock convertible into 4 shares of common stock at $25. What should she be advised to do if the board of directors were to call all the preferred at 106 when the common stock is trading at $25.50?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If the preferred stock is called, the client will receive $106. Tendering the preferred stock will provide the highest value. The value of converting the preferred stock into 4 shares of common is worth $102 (4 × $25.50 = $102), which is less than the call value of $106. The dividends will cease on the call date if the preferred stock is held beyond the call date.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If the preferred stock is called, the client will receive $106. Tendering the preferred stock will provide the highest value. The value of converting the preferred stock into 4 shares of common is worth $102 (4 × $25.50 = $102), which is less than the call value of $106. The dividends will cease on the call date if the preferred stock is held beyond the call date.<br /><br />U13LO8</span>"
+    },
+    "3396": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) be interested in tax advantages available to convertible debt securities",
+                0,
+                0
+            ],
+            [
+                "B) seek to minimize changes in the bond price during periods of steady interest rates",
+                0,
+                0
+            ],
+            [
+                "C) want the safety of a fixed-income investment along with potential capital appreciation",
+                1,
+                1
+            ],
+            [
+                "D) want the assurance of a guaranteed dividend on the underlying common stock",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor interested in acquiring a convertible bond as part of his investment portfolio would",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investor who wants the safety of a fixed-income investment with the potential for capital gains would be most interested in purchasing a convertible bond. However, because convertible bonds can be exchanged for common stock, their market price tends to be more volatile during times of steady interest rates than other fixed-income securities.\\n\\nU13LO8\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investor who wants the safety of a fixed-income investment with the potential for capital gains would be most interested in purchasing a convertible bond. However, because convertible bonds can be exchanged for common stock, their market price tends to be more volatile during times of steady interest rates than other fixed-income securities.<br /><br />U13LO8</span>"
+    },
+    "correct_answer_logic": ""
+};

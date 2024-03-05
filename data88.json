@@ -1,0 +1,1053 @@
+let data88 = {
+    "3476": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Municipal GOs",
+                1,
+                1
+            ],
+            [
+                "B) Treasury receipts",
+                0,
+                0
+            ],
+            [
+                "C) Money market instruments",
+                0,
+                0
+            ],
+            [
+                "D) High-yield bonds",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a customer's chief concern is to shelter as much of his portfolio earnings from tax as possible, which of the following securities would be most suitable?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The interest on municipal GOs is exempt from federal income tax and perhaps state income tax, depending on the investor's residency.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The interest on municipal GOs is exempt from federal income tax and perhaps state income tax, depending on the investor's residency.<br /><br />U19LO5</span>"
+    },
+    "3477": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) only invest in securities guaranteed by the FDIC",
+                0,
+                0
+            ],
+            [
+                "B) select securities based upon the customer&#039;s investment experience",
+                0,
+                0
+            ],
+            [
+                "C) invest exclusively in insured securities such as insured municipal bonds or Ginnie Maes",
+                0,
+                0
+            ],
+            [
+                "D) determine the insurance coverage needed to complete the customer&#039;s financial objective should the customer die before the objective is met",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment adviser using an insurance approach to capital needs analysis would",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An insurance approach to a customer's capital needs analysis involves purchasing life insurance sufficient to complete the customer's financial objective should he die before it is met.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An insurance approach to a customer's capital needs analysis involves purchasing life insurance sufficient to complete the customer's financial objective should he die before it is met.<br /><br />U19LO5</span>"
+    },
+    "3478": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Asset classes the client specifically forbids or limits based on past experience",
+                0,
+                0
+            ],
+            [
+                "B) Constraints put on investment activities by regulatory agencies",
+                0,
+                0
+            ],
+            [
+                "C) How the funds are spent after being withdrawn from the portfolio",
+                1,
+                1
+            ],
+            [
+                "D) Any unique needs or preferences an investor may have",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Many investment advisers prepare an investment policy statement (IPS) when counseling their clients. Which of the following should least likely be included as a constraint in an investment policy statement?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"How funds are spent after withdrawal would not be a constraint of an IPS. Anything that might be an obstacle to reaching the goals, such as regulatory restrictions and specific investor preferences, are considered constraints.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">How funds are spent after withdrawal would not be a constraint of an IPS. Anything that might be an obstacle to reaching the goals, such as regulatory restrictions and specific investor preferences, are considered constraints.<br /><br />U19LO5</span>"
+    },
+    "3479": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Parker must already be at full retirement age.",
+                0,
+                0
+            ],
+            [
+                "B) Mary must have worked at least 40 quarters to be eligible for benefits.",
+                0,
+                0
+            ],
+            [
+                "C) The marriage must have lasted at least 10 years.",
+                1,
+                1
+            ],
+            [
+                "D) Parker must not be remarried.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Parker and Mary have recently divorced. For Mary to receive Social Security benefits based on Parker's earnings, which of the following conditions must exist?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The marriage of these two must have lasted at least 10 years. In addition, Mary cannot be remarried (Parker can be). It is Parker who must have at least 40 quarters to earn Social Security benefits. As long as Parker is drawing benefits, and one can start before full retirement age, benefits will be available as long as all of the conditions are met.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The marriage of these two must have lasted at least 10 years. In addition, Mary cannot be remarried (Parker can be). It is Parker who must have at least 40 quarters to earn Social Security benefits. As long as Parker is drawing benefits, and one can start before full retirement age, benefits will be available as long as all of the conditions are met.<br /><br />U19LO5</span>"
+    },
+    "3480": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Money market mutual funds",
+                1,
+                1
+            ],
+            [
+                "B) Investment-grade municipal bonds​",
+                0,
+                0
+            ],
+            [
+                "C) REITs",
+                0,
+                0
+            ],
+            [
+                "D) RELPs",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Liquidity risk is the risk that when an investor wishes to dispose of an investment, no one will be willing to buy it, or that a very large purchase or sale would not be possible at the current price. With that in mind, which of the following would likely have the lowest degree of exposure to liquidity risk?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"RELPs (real estate limited partnerships) would have high liquidity risk because there is generally no secondary market for them. Municipal bonds, even highly rated ones, can have liquidity issues. Even though many REITs are listed on exchanges, there are a growing number of non-traded ones where liquidity can be an issue. However, money market funds with their check-writing privilege, are about as liquid as you can get.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">RELPs (real estate limited partnerships) would have high liquidity risk because there is generally no secondary market for them. Municipal bonds, even highly rated ones, can have liquidity issues. Even though many REITs are listed on exchanges, there are a growing number of non-traded ones where liquidity can be an issue. However, money market funds with their check-writing privilege, are about as liquid as you can get.<br /><br />U19LO5</span>"
+    },
+    "3481": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) private placements",
+                0,
+                0
+            ],
+            [
+                "B) preferred stocks",
+                0,
+                0
+            ],
+            [
+                "C) bonds",
+                0,
+                0
+            ],
+            [
+                "D) common stocks",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client with 25 years until retirement should invest primarily in",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This client's time horizon is quite long. With 25 years until retirement, the customer should invest primarily in stocks. Historically, over long time periods, equity securities have provided the greatest returns.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This client's time horizon is quite long. With 25 years until retirement, the customer should invest primarily in stocks. Historically, over long time periods, equity securities have provided the greatest returns.<br /><br />U19LO5</span>"
+    },
+    "3482": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Moderate risk, moderate safety, low liquidity",
+                1,
+                1
+            ],
+            [
+                "B) High risk, moderate safety, low liquidity",
+                0,
+                0
+            ],
+            [
+                "C) Low risk, high safety, high liquidity",
+                0,
+                0
+            ],
+            [
+                "D) Moderate risk, low safety, high liquidity",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A married couple in their early 50s saving for retirement would most likely have which of the following objectives?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A middle-aged couple planning for their retirement is most likely interested in moderate risk, moderate safety, and low liquidity. A couple of their age should be planning for retirement and the demands for liquidity should be low; they need to take moderate risk to earn above-inflation returns. Moderate safety is appropriate for a middle-aged couple. Additionally, a middle-aged couple should not be invested in high-risk securities.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A middle-aged couple planning for their retirement is most likely interested in moderate risk, moderate safety, and low liquidity. A couple of their age should be planning for retirement and the demands for liquidity should be low; they need to take moderate risk to earn above-inflation returns. Moderate safety is appropriate for a middle-aged couple. Additionally, a middle-aged couple should not be invested in high-risk securities.<br /><br />U19LO5</span>"
+    },
+    "3483": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) market risk",
+                1,
+                1
+            ],
+            [
+                "B) unsystematic risk",
+                0,
+                0
+            ],
+            [
+                "C) business risk",
+                0,
+                0
+            ],
+            [
+                "D) interest rate risk",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor has just received an inheritance of $100,000 and has decided to use the money to buy a new home. Because it will take time to decide where to buy, it is expected that the purchase will not be made for another 6–9 months. If this investor placed the money into a broad market index ETF, the primary risk taken would be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A major risk involved with investing in equities, even through a broad market index ETF (or mutual fund), is the systematic risk known as market risk. The shorter the time horizon (and less than 1 year is certainly a short time horizon), the greater the market risk. An advantage of the broad market index investment is the reduction to business risk, one of the most significant unsystematic risks. At least for exam purposes, interest rate risk will only apply to fixed income securities.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A major risk involved with investing in equities, even through a broad market index ETF (or mutual fund), is the systematic risk known as market risk. The shorter the time horizon (and less than 1 year is certainly a short time horizon), the greater the market risk. An advantage of the broad market index investment is the reduction to business risk, one of the most significant unsystematic risks. At least for exam purposes, interest rate risk will only apply to fixed income securities.<br /><br />U19LO5</span>"
+    },
+    "3484": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Municipal bonds",
+                0,
+                0
+            ],
+            [
+                "B) Call options",
+                0,
+                0
+            ],
+            [
+                "C) Oil and gas exploration program that you know is going to strike",
+                0,
+                0
+            ],
+            [
+                "D) High-grade corporate bond mutual fund",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An elderly widow with no independent income wishes to invest the proceeds from her recently deceased husband's life insurance. Which of the following would be the most suitable recommendation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This customer needs income. Of the answers provided, the bond fund would be the most suitable because it would provide income while maintaining relative safety. While the municipal bonds are probably safer, the benefits of their tax-free income would probably be lost on a client with no independent income.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This customer needs income. Of the answers provided, the bond fund would be the most suitable because it would provide income while maintaining relative safety. While the municipal bonds are probably safer, the benefits of their tax-free income would probably be lost on a client with no independent income.<br /><br />U19LO5</span>"
+    },
+    "3485": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Being over 50 years of age",
+                0,
+                0
+            ],
+            [
+                "B) Working in a hazardous occupation",
+                1,
+                1
+            ],
+            [
+                "C) BMI over 26",
+                0,
+                0
+            ],
+            [
+                "D) Type 2 diabetes",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following situations would most likely cause an individual's application for a disability income insurance policy to be denied?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In most cases, those who work in hazardous occupations will be denied disability income coverage. Premiums will be higher as one gets older and Type 2 diabetes or too high a BMI can lead to a premium surcharge (rated), but those are generally not causes for denial of coverage.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In most cases, those who work in hazardous occupations will be denied disability income coverage. Premiums will be higher as one gets older and Type 2 diabetes or too high a BMI can lead to a premium surcharge (rated), but those are generally not causes for denial of coverage.<br /><br />U19LO5</span>"
+    },
+    "3486": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a capital need",
+                0,
+                0
+            ],
+            [
+                "B) an investment goal",
+                0,
+                0
+            ],
+            [
+                "C) an investment constraint",
+                1,
+                1
+            ],
+            [
+                "D) a financial objective",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Tamika is an investment adviser representative with Financial Engineers, LLC, a covered investment adviser. The firm uses an investment policy statement to help design financial plans for their clients. One of Tamika's current clients plans to purchase a new boat 7 months from now. When using the IPS, this would be considered",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Investment constraints are obstacles or restrictions that must be met in order to meet objectives. In this case, we are dealing with a liquidity constraint - in 7 months, cash will be necessary to make the purchase.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Investment constraints are obstacles or restrictions that must be met in order to meet objectives. In this case, we are dealing with a liquidity constraint - in 7 months, cash will be necessary to make the purchase.<br /><br />U19LO5</span>"
+    },
+    "3487": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a conservative investor",
+                0,
+                0
+            ],
+            [
+                "B) an aggressive investor",
+                1,
+                1
+            ],
+            [
+                "C) a defensive investor",
+                0,
+                0
+            ],
+            [
+                "D) a passive investor",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor who purchases stock in two technology companies with high projected earnings and growth potential but little performance history is considered",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investor is taking an aggressive investment posture in investing in a growth company with little history and is willing to take on high risk for high potential returns.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investor is taking an aggressive investment posture in investing in a growth company with little history and is willing to take on high risk for high potential returns.<br /><br />U19LO6</span>"
+    },
+    "3488": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the income tax rate is reduced once the claimant reaches 70.",
+                0,
+                0
+            ],
+            [
+                "B) benefits are increased by 8% for each year from the full retirement age.",
+                1,
+                1
+            ],
+            [
+                "C) a higher percentage of the monthly benefit is exempt from income taxes.",
+                0,
+                0
+            ],
+            [
+                "D) Medicare benefits are increased.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A benefit of waiting until the age of 70 to claim Social Security benefits is that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If an individual delays taking Social Security until age 70, the benefit is increased by 8% for each year from the full retirement age. If full retirement age is 66, four years at 8% means the payout is 132% of the base amount. Medicare (Part A) goes into effect at 65 and income tax rates do not change at 70.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If an individual delays taking Social Security until age 70, the benefit is increased by 8% for each year from the full retirement age. If full retirement age is 66, four years at 8% means the payout is 132% of the base amount. Medicare (Part A) goes into effect at 65 and income tax rates do not change at 70.<br /><br />U19LO5</span>"
+    },
+    "3489": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Tax concerns",
+                0,
+                0
+            ],
+            [
+                "B) Legal and regulatory factors",
+                0,
+                0
+            ],
+            [
+                "C) Risk tolerance",
+                1,
+                1
+            ],
+            [
+                "D) Liquidity needs",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is least likely to be considered an investment constraint when preparing an investment policy statement?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The commonly tested investment constraints are: liquidity needs, time horizon, taxes, legal and regulatory factors, and unique needs and preferences. Risk tolerance is used to help determine what investment objectives will best meet the investor's goals. \\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The commonly tested investment constraints are: liquidity needs, time horizon, taxes, legal and regulatory factors, and unique needs and preferences. Risk tolerance is used to help determine what investment objectives will best meet the investor's goals. <br /><br />U19LO5</span>"
+    },
+    "3490": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a $100,000 loan for law school with a due date in 10 years",
+                0,
+                0
+            ],
+            [
+                "B) rolling over a 401(k) into an IRA",
+                1,
+                1
+            ],
+            [
+                "C) a home equity loan with a $15,000 balance",
+                0,
+                0
+            ],
+            [
+                "D) a $20,000 loan for undergraduate school with a due date in 6 years",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In projecting future cash requirements, one of the tools is a capital needs analysis. When doing one, all of the following would be considered capital needs EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A capital needs analysis attempts to determine money that would be needed in the event of an individual's sudden passing. Included would be any outstanding debt obligations, regardless of when they are due (they will have to be paid off sometime). However, an asset such as the 401(k) is not a need; it is something that will help meet the need.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A capital needs analysis attempts to determine money that would be needed in the event of an individual's sudden passing. Included would be any outstanding debt obligations, regardless of when they are due (they will have to be paid off sometime). However, an asset such as the 401(k) is not a need; it is something that will help meet the need.<br /><br />U19LO5</span>"
+    },
+    "3491": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) interest rate risk",
+                0,
+                0
+            ],
+            [
+                "B) liquidity risk",
+                0,
+                0
+            ],
+            [
+                "C) market risk",
+                1,
+                1
+            ],
+            [
+                "D) business risk",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Years ago, following your advice, a client opened a 529 Plan to save for their son's college education. The child is now about 3 years from beginning his freshman year. The client, believing that the stock market is currently undervalued, wishes to reallocate the plan assets so that most of the funds are in a broad stock market index portfolio. At this time, your advice would probably be against this allocation because of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This short time horizon is a serious constraint and a portfolio that is largely equities, subjects the account to too much market risk. If the child had been 5 years of age, giving the client a 13-year time horizon, this would have made more sense.\\n\\nU19LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This short time horizon is a serious constraint and a portfolio that is largely equities, subjects the account to too much market risk. If the child had been 5 years of age, giving the client a 13-year time horizon, this would have made more sense.<br /><br />U19LO5</span>"
+    },
+    "3492": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Large-cap common and preferred stocks",
+                0,
+                0
+            ],
+            [
+                "B) Common stock, preferred stock, and debentures",
+                0,
+                0
+            ],
+            [
+                "C) Highly rated, fixed-income securities",
+                1,
+                1
+            ],
+            [
+                "D) Common stock in small, highly profitable companies",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "For a trust account not seeking appreciation, which of the following would be recommended?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The only choice that is prudent and does not have a goal of appreciation is the purchase of highly rated, fixed-income securities.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The only choice that is prudent and does not have a goal of appreciation is the purchase of highly rated, fixed-income securities.<br /><br />U19LO6</span>"
+    },
+    "3493": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ATF Overseas Opportunities Fund",
+                0,
+                0
+            ],
+            [
+                "B) RST Balanced Fund",
+                0,
+                0
+            ],
+            [
+                "C) LMN Investment-Grade Bond Fund",
+                1,
+                1
+            ],
+            [
+                "D) ABC Stock Index Fund",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your married customers are both 42 years old, have 2 children ages 14 and 12, and have spent the past 10 years accumulating money to provide for their children's education. Their oldest child will enter college in 4 years, and the customers are very cautious investors. If they need a safe investment that provides regular income to help them meet tuition payments, which of the following mutual funds is the most suitable for these customers?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"These clients cannot afford a downturn in the stock market between now and the time they want to send their children to college. An investment-grade bond fund will provide the income and safety required for accumulating additional funds for college expenses.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">These clients cannot afford a downturn in the stock market between now and the time they want to send their children to college. An investment-grade bond fund will provide the income and safety required for accumulating additional funds for college expenses.<br /><br />U19LO6</span>"
+    },
+    "3494": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a large-cap stock fund",
+                1,
+                1
+            ],
+            [
+                "B) a municipal bond fund",
+                0,
+                0
+            ],
+            [
+                "C) an equity/income fund",
+                0,
+                0
+            ],
+            [
+                "D) a money market fund",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If your clients, spouses both age 50, are interested in long-term growth and are willing to accept a moderate amount of risk, you should recommend",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A mutual fund investing in large-cap stocks (see Glossary of Terms) has relatively moderate risk with likely growth potential.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A mutual fund investing in large-cap stocks (see Glossary of Terms) has relatively moderate risk with likely growth potential.<br /><br />U19LO6</span>"
+    },
+    "3495": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a government bond fund",
+                0,
+                0
+            ],
+            [
+                "B) a T-bill",
+                0,
+                0
+            ],
+            [
+                "C) a money market fund",
+                1,
+                1
+            ],
+            [
+                "D) a tax-exempt bond fund",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your elderly client has $10,000 to invest and seeks preservation of capital and a moderate income stream. If she has never invested in mutual funds before and all of her savings are in bank CDs and saving accounts, you should recommend",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A money market fund is the most appropriate for an elderly person seeking preservation of capital and some income on a regular basis. A T-bill, although safe, provides interest income only at maturity. Because the client has never invested in mutual funds before, she may be uncomfortable with the potential fluctuations in principal of the bond funds. This exam will not want you to go so far as to claim, \\\"but if the client purchased 4-week T-bills, there would be the ultimate safety and income every 28 days.\\\" No client with this background is going to be trading every month - don't go there.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A money market fund is the most appropriate for an elderly person seeking preservation of capital and some income on a regular basis. A T-bill, although safe, provides interest income only at maturity. Because the client has never invested in mutual funds before, she may be uncomfortable with the potential fluctuations in principal of the bond funds. This exam will not want you to go so far as to claim, \"but if the client purchased 4-week T-bills, there would be the ultimate safety and income every 28 days.\" No client with this background is going to be trading every month - don't go there.<br /><br />U19LO6</span>"
+    },
+    "3496": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 60% high-quality bonds; 30% large-cap stocks; 10% cash equivalents",
+                1,
+                1
+            ],
+            [
+                "B) 90% large-cap stocks; 10% high-quality bonds",
+                0,
+                0
+            ],
+            [
+                "C) 90% high-quality bonds; 10% large-cap stocks",
+                0,
+                0
+            ],
+            [
+                "D) 40% high-yield bonds; 60% large-cap stocks",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "You are doing an investment plan for a new client, age 55, who plans to retire at age 70. The client is somewhat risk averse and wants to preserve capital while at the same time not falling prey to possible inflation. Which of the following portfolios would probably be most suitable?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Although it is possible to debate this choice (but don't), NASAA would suggest that the bonds and cash offer sufficient capital preservation while this proportion of equities will combat the risk of inflation. High-yield (junk) bonds have no place in the portfolio of a risk-averse investor.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Although it is possible to debate this choice (but don't), NASAA would suggest that the bonds and cash offer sufficient capital preservation while this proportion of equities will combat the risk of inflation. High-yield (junk) bonds have no place in the portfolio of a risk-averse investor.<br /><br />U19LO6</span>"
+    },
+    "3497": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Sell her fund shares and reinvest in a vehicle offering her deferred accumulation",
+                0,
+                0
+            ],
+            [
+                "B) Liquidate the fund shares and put the proceeds in a bank CD",
+                0,
+                0
+            ],
+            [
+                "C) Invest in a municipal bond fund",
+                0,
+                0
+            ],
+            [
+                "D) Switch to a more conservative fund in the same family of funds",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment adviser representative has a 78-year-old prospect living on $26,400 per year from Social Security plus investment income. The individual's net worth is $141, 000 including the equity in her primary residence. Her net worth was higher until recently, but the aggressive fund she owns in the KAPCO family of funds is down over $20,000 in value. Which of the following would you recommend to her?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Clearly the municipal bond fund is inappropriate because this client's income does not put her into one of the higher tax brackets where the tax exemption on the bond's interest is beneficial. Just as obvious is the poor choice of moving her assets to a deferred accumulation vehicle, such as an annuity, where there would probably be surrender charges and no income. That leaves using the exchange privilege where she can move her investment to a more conservative fund without paying a sales charge or buying a bank CD. Because this is an exam for representatives of an investment adviser and one of the requirements to be defined as an investment adviser is that advice be given on securities, the answer on the exam should be a security (bank CDs are not securities).\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Clearly the municipal bond fund is inappropriate because this client's income does not put her into one of the higher tax brackets where the tax exemption on the bond's interest is beneficial. Just as obvious is the poor choice of moving her assets to a deferred accumulation vehicle, such as an annuity, where there would probably be surrender charges and no income. That leaves using the exchange privilege where she can move her investment to a more conservative fund without paying a sales charge or buying a bank CD. Because this is an exam for representatives of an investment adviser and one of the requirements to be defined as an investment adviser is that advice be given on securities, the answer on the exam should be a security (bank CDs are not securities).<br /><br />U19LO6</span>"
+    },
+    "3498": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) investment-grade corporate bonds",
+                1,
+                1
+            ],
+            [
+                "B) common stock",
+                0,
+                0
+            ],
+            [
+                "C) warrants",
+                0,
+                0
+            ],
+            [
+                "D) call options",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor concerned about preservation of capital would be most apt to purchase",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Capital risk is the danger of losing principal. Corporate bonds have the least capital risk because of the issuer's legal obligation to pay principal and their higher priority in the event of bankruptcy. Options are a wasting asset that can expire in a short time with total loss of capital. Common stock bears a higher capital risk than corporate bonds because bonds have a higher priority in the event of bankruptcy; common stock has only a residual claim in the event of bankruptcy. Warrants bear risk similar to that of options; they can be viewed as long-term call options.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Capital risk is the danger of losing principal. Corporate bonds have the least capital risk because of the issuer's legal obligation to pay principal and their higher priority in the event of bankruptcy. Options are a wasting asset that can expire in a short time with total loss of capital. Common stock bears a higher capital risk than corporate bonds because bonds have a higher priority in the event of bankruptcy; common stock has only a residual claim in the event of bankruptcy. Warrants bear risk similar to that of options; they can be viewed as long-term call options.<br /><br />U19LO6</span>"
+    },
+    "3499": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ABC Equity Income Fund",
+                1,
+                1
+            ],
+            [
+                "B) QRS Capital Appreciation Fund",
+                0,
+                0
+            ],
+            [
+                "C) XYZ Biotechnology Fund",
+                0,
+                0
+            ],
+            [
+                "D) LMN Stock Index Fund",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your customer, age 60, is retired and living at home with a fully paid-off mortgage. Her portfolio contains growth stocks and high-quality bonds, and she is a longtime investor and comfortable with moderate risk. Her objective is a moderate level of current income to supplement her corporate pension plan distributions and the earnings from her IRA. Which of the following mutual funds is the most suitable for this customer?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An equity fund that aims to achieve both current income and growth of income best suits the objectives and investment profile of the client. A stock index fund does not offer the current income that the client requires. The capital appreciation and biotechnology funds not only fail to provide income; they are too risky for this retired person.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An equity fund that aims to achieve both current income and growth of income best suits the objectives and investment profile of the client. A stock index fund does not offer the current income that the client requires. The capital appreciation and biotechnology funds not only fail to provide income; they are too risky for this retired person.<br /><br />U19LO6</span>"
+    },
+    "3500": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Zero-coupon bond.",
+                0,
+                0
+            ],
+            [
+                "B) City of Milwaukee GO bond.",
+                0,
+                0
+            ],
+            [
+                "C) U.S. government bond.",
+                0,
+                0
+            ],
+            [
+                "D) Investment-grade corporate bond.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a customer is in the 15% federal income tax bracket and his main investment objective is current income, which of the following securities should the agent recommend?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The investor is in a low tax bracket, so the tax-exempt municipal bond is not a suitable investment. To maximize income, the best recommendation is the corporate bond which offers a higher yield than a government bond with a similar maturity.\\n\\nU19LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The investor is in a low tax bracket, so the tax-exempt municipal bond is not a suitable investment. To maximize income, the best recommendation is the corporate bond which offers a higher yield than a government bond with a similar maturity.<br /><br />U19LO6</span>"
+    },
+    "correct_answer_logic": ""
+};

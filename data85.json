@@ -1,0 +1,1053 @@
+let data85 = {
+    "3398": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Within 15 days of account approval by the firm&#039;s designated options supervisor",
+                0,
+                0
+            ],
+            [
+                "B) Before accepting the customer's first order to trade options covered by the ODD",
+                1,
+                1
+            ],
+            [
+                "C) With the confirmation of the first options transaction",
+                0,
+                0
+            ],
+            [
+                "D) Within 5 business days of the first options trade",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When does a customer have to receive the OCC Options Disclosure Document?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When opening an account to trade options, the owner must be told about the risks involved with trading options. By providing the owner with an options disclosure document titled Understanding the Risks and Uses of Options, the broker-dealer satisfies the risk disclosure requirements. There are 2 alternatives for meeting the delivery requirement. It may be done before or at the time the broker-dealer approves that customer's options account or accepts the customer's first order to trade the listed options covered by the ODD.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When opening an account to trade options, the owner must be told about the risks involved with trading options. By providing the owner with an options disclosure document titled Understanding the Risks and Uses of Options, the broker-dealer satisfies the risk disclosure requirements. There are 2 alternatives for meeting the delivery requirement. It may be done before or at the time the broker-dealer approves that customer's options account or accepts the customer's first order to trade the listed options covered by the ODD.<br /><br />U18LO2</span>"
+    },
+    "3399": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a university endowment fund.",
+                0,
+                0
+            ],
+            [
+                "B) a single parent.",
+                0,
+                0
+            ],
+            [
+                "C) a registered investment company.",
+                1,
+                1
+            ],
+            [
+                "D) a charitable foundation.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment adviser registered in 4 states would be permitted to enter into an advisory contract with all of the following prospective clients except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is a bit sneaky. In order for an investment adviser to enter into an advisory contract with an investment company, the adviser must be SEC registered (federal covered). Federal covered investment advisers are never registered in any states.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is a bit sneaky. In order for an investment adviser to enter into an advisory contract with an investment company, the adviser must be SEC registered (federal covered). Federal covered investment advisers are never registered in any states.<br /><br />U18LO1</span>"
+    },
+    "3400": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a minor.",
+                1,
+                1
+            ],
+            [
+                "B) a philanthropic foundation.",
+                0,
+                0
+            ],
+            [
+                "C) three brothers in a joint account.",
+                0,
+                0
+            ],
+            [
+                "D) a closed-end investment company.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment adviser would be able to enter into an advisory contract with all of the following except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Investment advisers can only enter into advisory contracts for those who are persons, as defined in the Uniform Securities Act. There are three nonpersons: minors, deceased persons, and those declared mentally incompetent. How do we know the brothers are adults? Because it doesn't say they are minors – don't read something into a question to make it more difficult.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Investment advisers can only enter into advisory contracts for those who are persons, as defined in the Uniform Securities Act. There are three nonpersons: minors, deceased persons, and those declared mentally incompetent. How do we know the brothers are adults? Because it doesn't say they are minors – don't read something into a question to make it more difficult.<br /><br />U18LO1</span>"
+    },
+    "3401": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a person deemed mentally incompetent.",
+                1,
+                1
+            ],
+            [
+                "B) the CEO of a company whose stock is NYSE-traded.",
+                0,
+                0
+            ],
+            [
+                "C) two unrelated individuals.",
+                0,
+                0
+            ],
+            [
+                "D) the estate of a deceased individual.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A registered broker-dealer would not be able to open an account for",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A broker-dealer can only open an account with a legal person. Those deemed mentally incompetent are not persons under the law. Deceased individuals are not persons either, but their estate is so an account may be opened in the name of the estate. Although the CEO's account would have to be monitored for any hint of insider trading, one's position in a listed company is not an impediment to opening a brokerage account. There is no legal requirement that the owners of a joint account be related; friends are fine as are business partners.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A broker-dealer can only open an account with a legal person. Those deemed mentally incompetent are not persons under the law. Deceased individuals are not persons either, but their estate is so an account may be opened in the name of the estate. Although the CEO's account would have to be monitored for any hint of insider trading, one's position in a listed company is not an impediment to opening a brokerage account. There is no legal requirement that the owners of a joint account be related; friends are fine as are business partners.<br /><br />U18LO1</span>"
+    },
+    "3402": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a bank.",
+                0,
+                0
+            ],
+            [
+                "B) an insurance company.",
+                0,
+                0
+            ],
+            [
+                "C) a minor.",
+                1,
+                1
+            ],
+            [
+                "D) a trust.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment adviser registered in 4 states would be permitted to enter into an advisory contract with all of the following prospective clients except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because minors are not considered legal persons, advisory (or brokerage) accounts cannot be opened for them. Unit 24 discusses the UTMA accounts for minors.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because minors are not considered legal persons, advisory (or brokerage) accounts cannot be opened for them. Unit 24 discusses the UTMA accounts for minors.<br /><br />U18LO1</span>"
+    },
+    "3403": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a deceased individual.",
+                1,
+                1
+            ],
+            [
+                "B) a convicted felon.",
+                0,
+                0
+            ],
+            [
+                "C) the American Cancer Society.",
+                0,
+                0
+            ],
+            [
+                "D) the sovereign government of Poland.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A registered broker-dealer would not be able to open an account for",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An account may only be opened in the name of a legal person. Deceased individuals are not considered legal persons – the account would have to be opened in the name of the estate. Governments meet that description as do charitable organizations. Although there are potential restrictions against convicted felons gaining employment in the securities industry, there are no specific prohibitions against opening an account for one.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An account may only be opened in the name of a legal person. Deceased individuals are not considered legal persons – the account would have to be opened in the name of the estate. Governments meet that description as do charitable organizations. Although there are potential restrictions against convicted felons gaining employment in the securities industry, there are no specific prohibitions against opening an account for one.<br /><br />U18LO1</span>"
+    },
+    "3404": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a trust.",
+                0,
+                0
+            ],
+            [
+                "B) the estate of a deceased person.",
+                0,
+                0
+            ],
+            [
+                "C) a city.",
+                0,
+                0
+            ],
+            [
+                "D) a deceased person",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A broker-dealer would not be able to open an account for",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Broker-dealers can only open accounts for those who are persons, as defined in the Uniform Securities Act. There are three nonpersons: minors, deceased persons, and those declared mentally incompetent. Remember, the term \\\"person\\\" is very broad and includes political subdivisions such as cities and states. Even though the deceased individual is not a person, that individual's estate is.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Broker-dealers can only open accounts for those who are persons, as defined in the Uniform Securities Act. There are three nonpersons: minors, deceased persons, and those declared mentally incompetent. Remember, the term \"person\" is very broad and includes political subdivisions such as cities and states. Even though the deceased individual is not a person, that individual's estate is.<br /><br />U18LO1</span>"
+    },
+    "3405": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a minor.",
+                0,
+                0
+            ],
+            [
+                "B) a deceased individual.",
+                0,
+                0
+            ],
+            [
+                "C) a foundation.",
+                1,
+                1
+            ],
+            [
+                "D) an individual declared mentally incompetent.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Among the clients of a broker-dealer could be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Clients could include any person, as defined in the Uniform Securities Act. Minors, deceased individuals, and mentally incompetent individuals are not persons.\\n\\nU18LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Clients could include any person, as defined in the Uniform Securities Act. Minors, deceased individuals, and mentally incompetent individuals are not persons.<br /><br />U18LO1</span>"
+    },
+    "3406": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) not following instructions, a prohibited practice under the Uniform Securities Act",
+                0,
+                0
+            ],
+            [
+                "B) an unlawful practice because the transaction was unauthorized",
+                0,
+                0
+            ],
+            [
+                "C) an unfortunate error that can be reconciled with the broker-dealer through a process called reclamation",
+                0,
+                0
+            ],
+            [
+                "D) the proper joint account procedure",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Ms. Abbot has a joint account with her sister. She enters a sell order in the account and instructs that the proceeds check be made out to her only. If your firm sends the check but makes it payable to both Ms. Abbot and her sister, this is an example of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In joint accounts, either party may act. However, by law, all checks must be made payable to all owners, so the firm is following required procedure.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In joint accounts, either party may act. However, by law, all checks must be made payable to all owners, so the firm is following required procedure.<br /><br />U18LO2</span>"
+    },
+    "3407": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) there is no statutory limit on the number of investors in an LLC",
+                1,
+                1
+            ],
+            [
+                "B) an LLC can be formed with as little as a single investor",
+                0,
+                0
+            ],
+            [
+                "C) there is more favorable tax treatment afforded to members of an LLC",
+                0,
+                0
+            ],
+            [
+                "D) not only income, but losses, if generated, pass through to investors in an LLC",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "One respect in which an LLC differs from an S corporation is that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"There is no limit to the number of investors (members) in an LLC, while current regulations limit the number of investors (shareholders) in an S corporation to 100. The tax treatment is the same, and both can be formed with a single owner.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">There is no limit to the number of investors (members) in an LLC, while current regulations limit the number of investors (shareholders) in an S corporation to 100. The tax treatment is the same, and both can be formed with a single owner.<br /><br />U18LO3</span>"
+    },
+    "3408": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) flow-through tax treatment",
+                1,
+                1
+            ],
+            [
+                "B) limited lifetime",
+                0,
+                0
+            ],
+            [
+                "C) more than 100 shareholders",
+                0,
+                0
+            ],
+            [
+                "D) unlimited personal liability",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An S corporation is characterized by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Shareholders of an S corporation have limited liability, are limited to no more than 100 shareholders, and receive flow-through tax treatment.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Shareholders of an S corporation have limited liability, are limited to no more than 100 shareholders, and receive flow-through tax treatment.<br /><br />U18LO3</span>"
+    },
+    "3409": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) in the event of death, the other party assumes full ownership of the account",
+                0,
+                0
+            ],
+            [
+                "B) orders may be entered by either party",
+                0,
+                0
+            ],
+            [
+                "C) mail may be directed to the joint owner agreed upon by both parties to the account",
+                0,
+                0
+            ],
+            [
+                "D) stock certificates may be delivered in the name of either party",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In an account opened by 2 individuals as joint tenants with rights of survivorship, all of the following are true EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In a JTWROS account, each party has an equal, undivided interest in the account. Upon the death of 1 party in a 2-party account, the other party assumes full ownership of the account. Orders may be entered by either party, and mail may be directed to either party. However, disbursements of cash or securities must be in the name of all parties to the account.\\n\\nU18LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In a JTWROS account, each party has an equal, undivided interest in the account. Upon the death of 1 party in a 2-party account, the other party assumes full ownership of the account. Orders may be entered by either party, and mail may be directed to either party. However, disbursements of cash or securities must be in the name of all parties to the account.<br /><br />U18LO2</span>"
+    },
+    "3410": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the partnership form of business structure would be the easiest for ultimate transfer of ownership",
+                0,
+                0
+            ],
+            [
+                "B) the partnership form of business structure would enable Suzie to maximize her sale price",
+                0,
+                0
+            ],
+            [
+                "C) the corporate form of business structure would be the easiest for ultimate transfer of ownership",
+                1,
+                1
+            ],
+            [
+                "D) the corporate form of business structure would be the least expensive to form",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Suzie McQueen has a very successful interior design shop she has run as a sole proprietorship. She has just celebrated her 60th birthday and has been giving thought to an eventual sale of the business. She wants your opinion on whether she should incorporate or change to a partnership. You might respond that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In general, the corporate form of business leads to the easiest transfer of ownership. Because Suzie would probably own 100% of the stock, all she would have to do is sell that stock to a new purchaser and the corporation could continue just as before. If Suzie wanted to reorganize as a partnership, she would have to bring in at least one additional individual, ending her total ownership of the business. Even then, a partnership interest is not as easy to sell as stock.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In general, the corporate form of business leads to the easiest transfer of ownership. Because Suzie would probably own 100% of the stock, all she would have to do is sell that stock to a new purchaser and the corporation could continue just as before. If Suzie wanted to reorganize as a partnership, she would have to bring in at least one additional individual, ending her total ownership of the business. Even then, a partnership interest is not as easy to sell as stock.<br /><br />U18LO3</span>"
+    },
+    "3411": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) S corporation",
+                0,
+                0
+            ],
+            [
+                "B) Limited partnership",
+                0,
+                0
+            ],
+            [
+                "C) LLC",
+                0,
+                0
+            ],
+            [
+                "D) Sole proprietorship",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Under the provisions of the Internal Revenue Code, which of the following business forms is not required to file a separate tax return?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In the case of a sole proprietorship, any tax consequences (income or loss) are reported on the owner's personal Form 1040, Schedule C. The other entities file either a Form 1065 (limited partnership and LLC) or a Form 1120S (S corporation). Although a one member LLC is treated like a sole proprietorship, unless that was stated as a choice, the LLC has multiple members.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In the case of a sole proprietorship, any tax consequences (income or loss) are reported on the owner's personal Form 1040, Schedule C. The other entities file either a Form 1065 (limited partnership and LLC) or a Form 1120S (S corporation). Although a one member LLC is treated like a sole proprietorship, unless that was stated as a choice, the LLC has multiple members.<br /><br />U18LO3</span>"
+    },
+    "3412": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Limited partnership",
+                1,
+                1
+            ],
+            [
+                "B) S corporation",
+                0,
+                0
+            ],
+            [
+                "C) General partnership",
+                0,
+                0
+            ],
+            [
+                "D) C corporations",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A man is planning to start his own glass-sculpturing business. He wants to be able to deduct his anticipated losses for the first 2 years. He anticipates that the enterprise will borrow money from lenders and is willing to personally guarantee the debt. He also wants to attract other investors but does not want to give up control of the day-to-day business decisions. What business form do you recommend?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A limited partnership with him as general partner would allow for additional investment capital without giving up management control. C corporations do not allow deductibility of losses; S corporations do not allow guaranteed debt to be included in the taxpayer's basis. General partnerships could allow the other partners to more easily control the day-to-day operations than a limited partnership, in which the other investors (presumably limited partners) would not be permitted to take a role in the running of the business.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A limited partnership with him as general partner would allow for additional investment capital without giving up management control. C corporations do not allow deductibility of losses; S corporations do not allow guaranteed debt to be included in the taxpayer's basis. General partnerships could allow the other partners to more easily control the day-to-day operations than a limited partnership, in which the other investors (presumably limited partners) would not be permitted to take a role in the running of the business.<br /><br />U18LO3</span>"
+    },
+    "3413": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the LLC",
+                0,
+                0
+            ],
+            [
+                "B) the limited partnerships",
+                0,
+                0
+            ],
+            [
+                "C) the C corporation",
+                0,
+                0
+            ],
+            [
+                "D) the sole proprietorship",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A form of business structure that exposes all personal assets of the owner to creditors is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"One of the reasons why few large businesses are organized as sole proprietorships is the fact that all personal assets, not just those of the business, are placed at risk if the business fails. In each of the other choices, the maximum potential loss is the amount of the investment.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">One of the reasons why few large businesses are organized as sole proprietorships is the fact that all personal assets, not just those of the business, are placed at risk if the business fails. In each of the other choices, the maximum potential loss is the amount of the investment.<br /><br />U18LO3</span>"
+    },
+    "3414": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a C corporation",
+                1,
+                1
+            ],
+            [
+                "B) an S corporation",
+                0,
+                0
+            ],
+            [
+                "C) a general partnership",
+                0,
+                0
+            ],
+            [
+                "D) a proprietorship",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If 150 investors want to form a corporation to limit their financial liability to the amount of money they invest and do not want to be responsible for any debt that the corporation incurs, they would most likely form",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The investors would form a C corporation. The advantages of the C corporation are that stockholders are not liable for corporate debt; that it is easier to raise money by issuing stock; that it is easier to transfer ownership; and that unlike a partnership or a proprietorship, a C corporation has a continuous life because it does not terminate on the death of shareholders, officers, or directors. An S corporation is limited to 100 investors.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The investors would form a C corporation. The advantages of the C corporation are that stockholders are not liable for corporate debt; that it is easier to raise money by issuing stock; that it is easier to transfer ownership; and that unlike a partnership or a proprietorship, a C corporation has a continuous life because it does not terminate on the death of shareholders, officers, or directors. An S corporation is limited to 100 investors.<br /><br />U18LO3</span>"
+    },
+    "3415": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) shareholders' losses are limited to the amount of their investment",
+                0,
+                0
+            ],
+            [
+                "B) any losses flow through to the investors",
+                1,
+                1
+            ],
+            [
+                "C) unlike the C corporation, which is limited to 100 investors, there is no such limit for an S corporation",
+                0,
+                0
+            ],
+            [
+                "D) the ease in raising substantial amounts of capital.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Among the advantages of forming an S corporation rather than a C corporation for a new business enterprise is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An S corporation offers the benefit of flow-through of both income and losses (losses being a particular benefit for a start-up because they usually take some time to become profitable). It is the S corporation rather than the C corporation that is limited to 100 investors. Both offer the benefit of limited liability. The C corporation is superior for raising large amounts of capital.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An S corporation offers the benefit of flow-through of both income and losses (losses being a particular benefit for a start-up because they usually take some time to become profitable). It is the S corporation rather than the C corporation that is limited to 100 investors. Both offer the benefit of limited liability. The C corporation is superior for raising large amounts of capital.<br /><br />U18LO3</span>"
+    },
+    "3416": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a corporation",
+                0,
+                0
+            ],
+            [
+                "B) a sole proprietorship",
+                1,
+                1
+            ],
+            [
+                "C) a limited partnership",
+                0,
+                0
+            ],
+            [
+                "D) a general partnership",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The type of business organization in which one person owns the entire business and there is no legal distinction between that individual and the business is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A sole proprietorship is the simplest form of business organization, because one person owns the entire business and there is no legal distinction between the owner and the business. This means that the owner is personally responsible for the business's debts. A partnership always requires 2 or more owners. Although 1 person can own an entire corporation, a corporation is a legal entity separate and distinct from its owner(s).\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A sole proprietorship is the simplest form of business organization, because one person owns the entire business and there is no legal distinction between the owner and the business. This means that the owner is personally responsible for the business's debts. A partnership always requires 2 or more owners. Although 1 person can own an entire corporation, a corporation is a legal entity separate and distinct from its owner(s).<br /><br />U18LO3</span>"
+    },
+    "3417": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) have a check drawn on the account payable to the trustee for expenses",
+                1,
+                1
+            ],
+            [
+                "B) place the securities in the trust fund in a noncustodial brokerage account",
+                0,
+                0
+            ],
+            [
+                "C) have funds withdrawn from the account at the direction of the beneficiary",
+                0,
+                0
+            ],
+            [
+                "D) arrange to have the trust&#039;s funds pledged to support a loan for the trustee",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Because a trust account is managed for the beneficial interest of the beneficiary, the investment adviser representative can",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The trustee can be reimbursed for expenses that are reasonable. A trust account must be managed by the trustee and not by the beneficiary. Only the trustee can withdraw funds, provided the withdrawal is done in a manner consistent with the trust document. Trust funds must be placed in custodial or trust accounts, not in noncustodial accounts.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The trustee can be reimbursed for expenses that are reasonable. A trust account must be managed by the trustee and not by the beneficiary. Only the trustee can withdraw funds, provided the withdrawal is done in a manner consistent with the trust document. Trust funds must be placed in custodial or trust accounts, not in noncustodial accounts.<br /><br />U18LO4</span>"
+    },
+    "3418": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Distribute part of the income to Floyd.",
+                0,
+                0
+            ],
+            [
+                "B) Distribute part of the principal to Floyd.",
+                0,
+                0
+            ],
+            [
+                "C) Distribute all of the principal to Floyd.",
+                0,
+                0
+            ],
+            [
+                "D) Follow the trust terms, continuing to distribute the income to Alvin and the principal to Floyd upon Alvin&#039;s death.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Alvin's spouse is a trustee of a trust established by Henrietta Flood, which directs income from the trust be paid to Alvin, for as long as he lives. Alvin's son, Floyd, will receive the principal upon Alvin's death. Floyd would like to receive some of the principal before Alvin's death, and Alvin does not object. How should his spouse, the trustee, act in this situation?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A trustee must follow the terms of the trust. Nothing in the question implies that the trustee has any discretionary powers.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A trustee must follow the terms of the trust. Nothing in the question implies that the trustee has any discretionary powers.<br /><br />U18LO4</span>"
+    },
+    "3419": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) With 6 years of prior history, you know this is what she would want you to do so you go ahead as in previous years.",
+                0,
+                0
+            ],
+            [
+                "B) Without a proper durable power of attorney being produced, you cannot do anything.",
+                1,
+                1
+            ],
+            [
+                "C) You should go to the hospital and see if she can blink her eyes to indicate yes or no.",
+                0,
+                0
+            ],
+            [
+                "D) You may only follow the provisions of her will.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your advisory client is an 86-year-old woman who is presently in the hospital, unable to communicate due to a severe stroke. For the past 6 years, she has followed the practice of making annual gifts of stock to her children and grandchildren on her birthday. Because her 87th is coming up later this month, her oldest son approaches you and asks you to continue the policy.",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Unless proper written authorization has been provided, such as with a durable power of attorney, you cannot do anything without the client's consent. If she fails to recover and passes away, then the terms of the will must be followed by the executor.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Unless proper written authorization has been provided, such as with a durable power of attorney, you cannot do anything without the client's consent. If she fails to recover and passes away, then the terms of the will must be followed by the executor.<br /><br />U18LO4</span>"
+    },
+    "3420": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Sole proprietorship",
+                0,
+                0
+            ],
+            [
+                "B) Corporation",
+                1,
+                1
+            ],
+            [
+                "C) Limited partnership",
+                0,
+                0
+            ],
+            [
+                "D) LLC",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A feature of which of the following business entities is limited liability but no flow-through of earnings or losses?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The corporation (always assume C corporation unless it says different on the test) offers limited liability to its shareholders, but there is no flow-through of income or loss. LLCs and limited partnerships offer both and the sole proprietorship has unlimited liability.\\n\\nU18LO3\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The corporation (always assume C corporation unless it says different on the test) offers limited liability to its shareholders, but there is no flow-through of income or loss. LLCs and limited partnerships offer both and the sole proprietorship has unlimited liability.<br /><br />U18LO3</span>"
+    },
+    "3421": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Preservation of capital",
+                0,
+                0
+            ],
+            [
+                "B) Reasonable income",
+                0,
+                0
+            ],
+            [
+                "C) Minimizing expenses",
+                0,
+                0
+            ],
+            [
+                "D) The purposes, terms, distribution requirements, and other circumstances of the trust",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When a trustee is managing the trust assets, which of the following is the most important consideration?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Although there certainly is a case for preservation of capital, reasonable income, and minimizing expenses, the most important consideration is to follow the design and objectives of the trust.\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Although there certainly is a case for preservation of capital, reasonable income, and minimizing expenses, the most important consideration is to follow the design and objectives of the trust.<br /><br />U18LO4</span>"
+    },
+    "3422": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the investment adviser representative",
+                0,
+                0
+            ],
+            [
+                "B) the trustee",
+                1,
+                1
+            ],
+            [
+                "C) the nontrustee custodian",
+                0,
+                0
+            ],
+            [
+                "D) the beneficiary",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In a trust account, the person who makes the account management decisions is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A trust is a legal entity that designates a person (the trustee) to manage the trust's assets for the benefit of another person (the beneficiary or beneficial owner).\\n\\nU18LO4\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A trust is a legal entity that designates a person (the trustee) to manage the trust's assets for the benefit of another person (the beneficiary or beneficial owner).<br /><br />U18LO4</span>"
+    },
+    "correct_answer_logic": ""
+};

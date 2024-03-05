@@ -1,0 +1,1053 @@
+let data83 = {
+    "3346": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) pays the preferred dividend before paying the coupons due on its outstanding bonds",
+                0,
+                0
+            ],
+            [
+                "B) forces conversion of the preferred that is trading at a discount to par, thereby eliminating the need to pay past-due dividends",
+                0,
+                0
+            ],
+            [
+                "C) pays past and current preferred dividends before paying dividends on common stock",
+                1,
+                1
+            ],
+            [
+                "D) pays the current dividends on the preferred, but not the past dividends on the preferred, before paying a dividend on the common",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A company that has issued cumulative preferred stock",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Current and unpaid past dividends on cumulative preferred stock must be paid before common stockholders can receive a dividend. Bond interest is always paid before dividends. Dividends in arrears on cumulative preferred have the highest priority of dividends to be paid.\\n\\nU12LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Current and unpaid past dividends on cumulative preferred stock must be paid before common stockholders can receive a dividend. Bond interest is always paid before dividends. Dividends in arrears on cumulative preferred have the highest priority of dividends to be paid.<br /><br />U12LO2</span>"
+    },
+    "3347": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the domestic trading of foreign securities",
+                1,
+                1
+            ],
+            [
+                "B) the domestic trading of U.S. government securities",
+                0,
+                0
+            ],
+            [
+                "C) the foreign trading of domestic securities",
+                0,
+                0
+            ],
+            [
+                "D) the foreign trading of U.S. government securities",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "ADRs are used to facilitate",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An ADR is a negotiable security that represents an ownership interest in a non-U.S. company. Because they trade in the U.S. marketplace, ADRs allow investors convenient access to foreign securities.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An ADR is a negotiable security that represents an ownership interest in a non-U.S. company. Because they trade in the U.S. marketplace, ADRs allow investors convenient access to foreign securities.<br /><br />U12LO5</span>"
+    },
+    "3348": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Credit risk",
+                0,
+                0
+            ],
+            [
+                "B) Exchange rate risk",
+                1,
+                1
+            ],
+            [
+                "C) Market risk",
+                0,
+                0
+            ],
+            [
+                "D) Business risk",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is a risk faced by investors in foreign stocks that is not found when investing in domestic issues?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investor who invests in foreign stocks is subject to many of the same risks associated with domestic stock investment, but a unique risk faced by investors in foreign stocks is exchange rate risk. Someone who invests in foreign stocks has as much invested in the currency of the foreign stock as in the stock itself. Exchange rate risk is not necessarily a bad thing, but it is one more significant factor that investors in foreign stocks must take into account. Credit risk never applies to stock; only debt securities and both domestic and foreign issues are subject to business risk.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investor who invests in foreign stocks is subject to many of the same risks associated with domestic stock investment, but a unique risk faced by investors in foreign stocks is exchange rate risk. Someone who invests in foreign stocks has as much invested in the currency of the foreign stock as in the stock itself. Exchange rate risk is not necessarily a bad thing, but it is one more significant factor that investors in foreign stocks must take into account. Credit risk never applies to stock; only debt securities and both domestic and foreign issues are subject to business risk.<br /><br />U12LO5</span>"
+    },
+    "3349": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a certificate representing ownership of a foreign security that is on deposit at a U.S. bank",
+                1,
+                1
+            ],
+            [
+                "B) a certificate representing ownership of a U.S. security that is deposited in a foreign bank",
+                0,
+                0
+            ],
+            [
+                "C) a type of derivative used to speculate in foreign currencies",
+                0,
+                0
+            ],
+            [
+                "D) a document used with interest rate swaps",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An American depositary receipt (ADR) is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An American depositary receipt (ADR) is a certificate representing ownership of foreign securities that are on deposit at a U.S. bank. ADRs can be traded on U.S. stock exchanges, are quoted and pay in dividends in U.S. dollars, and receive all the shareholder protections of U.S. securities.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An American depositary receipt (ADR) is a certificate representing ownership of foreign securities that are on deposit at a U.S. bank. ADRs can be traded on U.S. stock exchanges, are quoted and pay in dividends in U.S. dollars, and receive all the shareholder protections of U.S. securities.<br /><br />U12LO5</span>"
+    },
+    "3350": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Resistance and support levels",
+                0,
+                0
+            ],
+            [
+                "B) A P/E analysis of the stocks included in the Dow Jones Industrial Average",
+                1,
+                1
+            ],
+            [
+                "C) A 200-day moving average",
+                0,
+                0
+            ],
+            [
+                "D) The outstanding short interest in the market",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A fundamental analyst would be most interested in which of the following?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Fundamentalists look at P/E ratios; the other tools mentioned are technical.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Fundamentalists look at P/E ratios; the other tools mentioned are technical.<br /><br />U12LO6</span>"
+    },
+    "3351": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the price-to-earnings ratio",
+                0,
+                0
+            ],
+            [
+                "B) the dividend payout ratio",
+                0,
+                0
+            ],
+            [
+                "C) the dividend discount model",
+                1,
+                1
+            ],
+            [
+                "D) the future value computation",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An analytical tool used to project the current value of a common stock using projected future dividends is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"There are two widely accepted forms of common stock price projection using dividends - the dividend discount model and the dividend growth model.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">There are two widely accepted forms of common stock price projection using dividends - the dividend discount model and the dividend growth model.<br /><br />U12LO6</span>"
+    },
+    "3352": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Consolidation",
+                0,
+                0
+            ],
+            [
+                "B) Trend lines",
+                0,
+                0
+            ],
+            [
+                "C) Support and resistance",
+                0,
+                0
+            ],
+            [
+                "D) Moving averages",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is used in technical analysis in an attempt to modify fluctuations of stock prices over the long term into a smoothed trend?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"To avoid the volatility frequently present in stock price trends, analysts will frequently use moving averages. These averages reduce short-term distortions to a minimum.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">To avoid the volatility frequently present in stock price trends, analysts will frequently use moving averages. These averages reduce short-term distortions to a minimum.<br /><br />U12LO6</span>"
+    },
+    "3353": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the price-to-book ratio",
+                0,
+                0
+            ],
+            [
+                "B) the price-to-earnings ratio",
+                0,
+                0
+            ],
+            [
+                "C) the management tenure",
+                0,
+                0
+            ],
+            [
+                "D) the daily trading volume",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When reviewing potential securities to select for an investor's portfolio, a technical analyst would be most likely to evaluate",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A technical analyst charts price and volume over time. The other choices are of interest to a fundamental analyst.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A technical analyst charts price and volume over time. The other choices are of interest to a fundamental analyst.<br /><br />U12LO6</span>"
+    },
+    "3354": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the company's competitive position.",
+                0,
+                0
+            ],
+            [
+                "B) the company's stock price trend.",
+                1,
+                1
+            ],
+            [
+                "C) the company's management team's quality and experience.",
+                0,
+                0
+            ],
+            [
+                "D) the company's business model.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All the following factors support fundamental analysis while assessing a wide range of qualitative factors except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The company's stock price trend is important to technical analysis. Remember that a technician \\\"charts prices and volume over time\\\". The others are factors to consider in fundamental analysis.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The company's stock price trend is important to technical analysis. Remember that a technician \"charts prices and volume over time\". The others are factors to consider in fundamental analysis.<br /><br />U12LO6</span>"
+    },
+    "3355": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Yield to maturity",
+                0,
+                0
+            ],
+            [
+                "B) The dividend discount model",
+                1,
+                1
+            ],
+            [
+                "C) Par value",
+                0,
+                0
+            ],
+            [
+                "D) Book value per share",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following might be used by an analyst to approximate a reasonable price for a common stock?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The simplest model for valuing equity is the dividend discount model - the value of a stock is the present value of expected divi¬dends on it. Yield to maturity only applies to debt securities with a fixed maturity date. The par value of a common stock has nothing to do with its market price. Although fundamental analysts will examine a company's book value per share, it generally has little or no bearing on the current market price of the stock.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The simplest model for valuing equity is the dividend discount model - the value of a stock is the present value of expected divi¬dends on it. Yield to maturity only applies to debt securities with a fixed maturity date. The par value of a common stock has nothing to do with its market price. Although fundamental analysts will examine a company's book value per share, it generally has little or no bearing on the current market price of the stock.<br /><br />U12LO6</span>"
+    },
+    "3356": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A stock split increases the owner's proportionate share of the company.",
+                0,
+                0
+            ],
+            [
+                "B) A growth company would be more likely to pay a cash dividend than a stock dividend.",
+                0,
+                0
+            ],
+            [
+                "C) Dividends have a significant influence on the value of the corporation&#039;s stock.",
+                1,
+                1
+            ],
+            [
+                "D) A corporation is required to pay a cash dividend to stockholders if the earnings are sufficient, especially if it is of preferred stock.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements is TRUE?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Dividends play a large role in what someone is willing to pay for the stock. For example, the dividend discount model (DDM) values a stock as the discounted present value of future dividends. A company is not required to pay dividends. A growth company will tend to pay no cash dividends but rather use the money for expansion.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Dividends play a large role in what someone is willing to pay for the stock. For example, the dividend discount model (DDM) values a stock as the discounted present value of future dividends. A company is not required to pay dividends. A growth company will tend to pay no cash dividends but rather use the money for expansion.<br /><br />U12LO6</span>"
+    },
+    "3357": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) rate the stock as a hold.",
+                0,
+                0
+            ],
+            [
+                "B) rate the stock as a sell.",
+                1,
+                1
+            ],
+            [
+                "C) rate the stock as a buy.",
+                0,
+                0
+            ],
+            [
+                "D) purchase additional shares of the stock.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "During the analysis of XYZ stock, a technical analyst concludes that XYZ's support level has been broken. Being a technician, the most appropriate decision should be to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If a support level is broken, this provides a sell signal. Once the stock has lost its support, expectations are that it will continue to fall. The breaking of a resistance level, as the price of the asset gathers momentum to the upside, indicates a buying opportunity.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If a support level is broken, this provides a sell signal. Once the stock has lost its support, expectations are that it will continue to fall. The breaking of a resistance level, as the price of the asset gathers momentum to the upside, indicates a buying opportunity.<br /><br />U12LO6</span>"
+    },
+    "3358": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) increase substantially.",
+                1,
+                1
+            ],
+            [
+                "B) decrease substantially.",
+                0,
+                0
+            ],
+            [
+                "C) cause the stock price to &quot;&quot;break out&quot;&quot;.",
+                0,
+                0
+            ],
+            [
+                "D) remain constant.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "To a technical analyst, the resistance level signifies the price at which a stock's supply would be expected to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is about comparing support and resistance levels. Most stock prices remain relatively stable and fluctuate up and down. The lower limit to these fluctuations is called a support level – the price range where a stock appears cheap and attracts buyers. The upper limit is called a resistance level – the price range where a stock appears expensive and initiates increased selling. This selling represents an oversupply of the stock which results in downward pressure on the stock.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is about comparing support and resistance levels. Most stock prices remain relatively stable and fluctuate up and down. The lower limit to these fluctuations is called a support level – the price range where a stock appears cheap and attracts buyers. The upper limit is called a resistance level – the price range where a stock appears expensive and initiates increased selling. This selling represents an oversupply of the stock which results in downward pressure on the stock.<br /><br />U12LO6</span>"
+    },
+    "3359": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Prices increase on heavy volume.",
+                1,
+                1
+            ],
+            [
+                "B) Prices decrease on heavy volume.",
+                0,
+                0
+            ],
+            [
+                "C) Prices decrease on light volume.",
+                0,
+                0
+            ],
+            [
+                "D) Prices increase on light volume.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If a technician believed in the importance of volume, which of the following would indicate bullish sentiment?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Technicians watch volume changes along with price movements as an indicator of changes in supply and demand. A price increase on heavy volume relative to the stock's normal trading volume is interpreted as an indication of bullish activity.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Technicians watch volume changes along with price movements as an indicator of changes in supply and demand. A price increase on heavy volume relative to the stock's normal trading volume is interpreted as an indication of bullish activity.<br /><br />U12LO6</span>"
+    },
+    "3360": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) resistance level",
+                0,
+                0
+            ],
+            [
+                "B) previous high",
+                0,
+                0
+            ],
+            [
+                "C) support level",
+                1,
+                1
+            ],
+            [
+                "D) 200-day moving average",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A technical analyst (chartist) with a long position in a particular stock would most likely enter a sell stop order below that stock's",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Sell stops are entered below the market. They are used to turn an order into a market order if the current market value falls below the stop level. In technical analysis, support levels are theoretical levels where the market supports the stock price (keeps it from falling below the stated level). A technical analyst who makes investment decisions by watching the technical graphs and numbers would enter a sell stop below a support level in order to sell out if the support level is breached. A breakthrough of a support level is believed to forecast a major market price decline.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Sell stops are entered below the market. They are used to turn an order into a market order if the current market value falls below the stop level. In technical analysis, support levels are theoretical levels where the market supports the stock price (keeps it from falling below the stated level). A technical analyst who makes investment decisions by watching the technical graphs and numbers would enter a sell stop below a support level in order to sell out if the support level is breached. A breakthrough of a support level is believed to forecast a major market price decline.<br /><br />U12LO6</span>"
+    },
+    "3361": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Moving averages",
+                0,
+                0
+            ],
+            [
+                "B) Volume",
+                0,
+                0
+            ],
+            [
+                "C) P/E ratio",
+                1,
+                1
+            ],
+            [
+                "D) Advance/decline line",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would NOT be of interest to a technical analyst?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A technical analyst charts movement in market price and volume over a period of time. The price-to-earnings ratio is a tool used by fundamental analysts.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A technical analyst charts movement in market price and volume over a period of time. The price-to-earnings ratio is a tool used by fundamental analysts.<br /><br />U12LO6</span>"
+    },
+    "3362": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) management efficiency",
+                0,
+                0
+            ],
+            [
+                "B) capitalization ratio",
+                0,
+                0
+            ],
+            [
+                "C) the stock&#039;s market price as a multiple of the company&#039;s earnings",
+                0,
+                0
+            ],
+            [
+                "D) volume of shares traded",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A fundamental analyst researching a stock is concerned with all of the following EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A fundamental analyst is concerned with the economic climate, the inflation rate, how an industry is performing, a company's historical earnings trends, how it is capitalized, and its product lines, management, and financial statement ratios, such as the P/E ratio. A technical analyst is concerned with trading volumes or market trends and prices.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A fundamental analyst is concerned with the economic climate, the inflation rate, how an industry is performing, a company's historical earnings trends, how it is capitalized, and its product lines, management, and financial statement ratios, such as the P/E ratio. A technical analyst is concerned with trading volumes or market trends and prices.<br /><br />U12LO6</span>"
+    },
+    "3363": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A prevailing market trend in response to shifts in supply and demand",
+                0,
+                0
+            ],
+            [
+                "B) The amount of a company&#039;s past earnings",
+                1,
+                1
+            ],
+            [
+                "C) Resistance and support levels",
+                0,
+                0
+            ],
+            [
+                "D) The breadth of market volume",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In the technical analysis of the value of securities, which of the following items is NOT important?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The amount of a company's past earnings is a factor used in the fundamental analysis of securities, but not technical analysis. Technicians rely on market trends and supply and demand factors, as well as chart indications such as resistance and support levels.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The amount of a company's past earnings is a factor used in the fundamental analysis of securities, but not technical analysis. Technicians rely on market trends and supply and demand factors, as well as chart indications such as resistance and support levels.<br /><br />U12LO6</span>"
+    },
+    "3364": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) holding period analysis",
+                0,
+                0
+            ],
+            [
+                "B) credit analysis",
+                0,
+                0
+            ],
+            [
+                "C) fundamental analysis",
+                1,
+                1
+            ],
+            [
+                "D) technical analysis",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The type of analysis that attempts to value securities by examining general economic trends and the growth potential and productivity of individual companies is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"There are two main approaches to valuing securities. Fundamental analysis takes the approach described in this question. The other approach - technical analysis - relies on charts of past performance to forecast future price movements.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">There are two main approaches to valuing securities. Fundamental analysis takes the approach described in this question. The other approach - technical analysis - relies on charts of past performance to forecast future price movements.<br /><br />U12LO6</span>"
+    },
+    "3365": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) statistics of the U.S. Department of Commerce on disposable income",
+                0,
+                0
+            ],
+            [
+                "B) innovations within the automotive industry",
+                0,
+                0
+            ],
+            [
+                "C) corporate annual reports",
+                0,
+                0
+            ],
+            [
+                "D) daily trading volumes on the NYSE",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A fundamental analyst would be interested in all of the following EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Trading volume interests the technical analyst, who looks at fluctuations in the market, not at fundamental economic values.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Trading volume interests the technical analyst, who looks at fluctuations in the market, not at fundamental economic values.<br /><br />U12LO6</span>"
+    },
+    "3366": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Short interest ratio",
+                0,
+                0
+            ],
+            [
+                "B) Trend lines",
+                0,
+                0
+            ],
+            [
+                "C) Advance/decline line",
+                0,
+                0
+            ],
+            [
+                "D) Corporate earnings",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A technical analyst is least likely to consider which of the following when selecting securities?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Corporate earnings would be of least interest to a technical analyst, who is interested in market statistics indicative of future buying, market statistics that could reflect price or market trends, and trading volume.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Corporate earnings would be of least interest to a technical analyst, who is interested in market statistics indicative of future buying, market statistics that could reflect price or market trends, and trading volume.<br /><br />U12LO6</span>"
+    },
+    "3367": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a change in polarity.",
+                0,
+                0
+            ],
+            [
+                "B) a resistance level.",
+                0,
+                0
+            ],
+            [
+                "C) a support level.",
+                1,
+                1
+            ],
+            [
+                "D) a reversal.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A stock has been in a downtrend for several days. When its price decreases to near $30, many investors enter orders to buy the stock and the price increases to $31. This is most likely an example of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The downtrend reached a support level where buying demand sustained the price. A resistance level is a price at which selling pressure emerges that stops an uptrend.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The downtrend reached a support level where buying demand sustained the price. A resistance level is a price at which selling pressure emerges that stops an uptrend.<br /><br />U12LO6</span>"
+    },
+    "3368": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The study of the direction of the economy.",
+                0,
+                0
+            ],
+            [
+                "B) The study of a firm&#039;s financial statements.",
+                0,
+                0
+            ],
+            [
+                "C) The study of a company's historical stock prices and trading volume.",
+                1,
+                1
+            ],
+            [
+                "D) The study of a firm&#039;s position within its industry.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is not included in fundamental analysis of a company?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Studying historical stock prices and volume is related to technical analysis. Fundamental analysis is concerned with the earnings potential and risk associated with a particular firm. Doing so requires viewing the entire economy, that company's industry, and its financial statements.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Studying historical stock prices and volume is related to technical analysis. Fundamental analysis is concerned with the earnings potential and risk associated with a particular firm. Doing so requires viewing the entire economy, that company's industry, and its financial statements.<br /><br />U12LO6</span>"
+    },
+    "3369": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The volume of shares traded during the past month",
+                0,
+                0
+            ],
+            [
+                "B) The advance/decline line",
+                0,
+                0
+            ],
+            [
+                "C) The short interest",
+                0,
+                0
+            ],
+            [
+                "D) The relationship between the current market price of an issuer&#039;s common stock and most recently reported earnings per share",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would be of least interest to a chartist?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\" data-sheets-userformat=\"{\">A chartist is interested in the volume of shares traded, and the short interest for that particular stock. The advance/decline line is another technical indicator. The price-to-earnings ratio is used in fundamental as opposed to technical (charting) analysis.<br /><br />U12LO6</span>"
+    },
+    "3370": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the supply of a stock to decrease substantially.",
+                0,
+                0
+            ],
+            [
+                "B) the demand for a stock to increase substantially.",
+                1,
+                1
+            ],
+            [
+                "C) the demand for a stock to decrease substantially.",
+                0,
+                0
+            ],
+            [
+                "D) the supply of a stock to increase substantially.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A support level is the price range at which a technical analyst would expect",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Most stock prices remain relatively stable and fluctuate up and down from their true value. The lower limit to these fluctuations is called a support level, the price range where a stock appears cheap and attracts buyers. The upper limit is called a resistance level.\\n\\nGenerally, a support level will develop after a stock has experienced a steady decline from a higher price level. Technicians believe that at some price during the decline, those investors who have been waiting for a reversal to get into the stock will now buy. When the price reaches this support price, demand surges, and price and volume begin to increase again.\\n\\nOther terms that may be used in this context are overbought and oversold. Overbought generally refers to the resistance level. Interest in buying the stock has begun to dry up and the price of the stock plateaus. Oversold is when the opposite occurs: there are few sellers to be found and the price of the stock bottoms. In either case, the next move is a reversal: down when the stock is overbought and up when oversold.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Most stock prices remain relatively stable and fluctuate up and down from their true value. The lower limit to these fluctuations is called a support level, the price range where a stock appears cheap and attracts buyers. The upper limit is called a resistance level.<br /><br />Generally, a support level will develop after a stock has experienced a steady decline from a higher price level. Technicians believe that at some price during the decline, those investors who have been waiting for a reversal to get into the stock will now buy. When the price reaches this support price, demand surges, and price and volume begin to increase again.<br /><br />Other terms that may be used in this context are overbought and oversold. Overbought generally refers to the resistance level. Interest in buying the stock has begun to dry up and the price of the stock plateaus. Oversold is when the opposite occurs: there are few sellers to be found and the price of the stock bottoms. In either case, the next move is a reversal: down when the stock is overbought and up when oversold.<br /><br />U12LO6</span>"
+    },
+    "correct_answer_logic": ""
+};

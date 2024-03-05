@@ -1,0 +1,1053 @@
+let data81 = {
+    "3294": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Preferred stock pays a fixed dividend.",
+                0,
+                0
+            ],
+            [
+                "B) Preferred stock is an equity security while common stock is a hybrid.",
+                1,
+                1
+            ],
+            [
+                "C) Common stock is less sensitive to interest rate risk than preferred stock.",
+                0,
+                0
+            ],
+            [
+                "D) Preferred stock is usually nonvoting.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements about equity securities is NOT true?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Both common and preferred stock are equity securities. Common stock is never referred to as a hybrid; there are times when preferred stock is because of those features that are similar to a debt security. The dividend on preferred stock is fixed, and shares do not have voting rights. The price of a common share generally doesn't fluctuate with changes to interest rates in the same manner as that of preferred stock.\\n\\nU12LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Both common and preferred stock are equity securities. Common stock is never referred to as a hybrid; there are times when preferred stock is because of those features that are similar to a debt security. The dividend on preferred stock is fixed, and shares do not have voting rights. The price of a common share generally doesn't fluctuate with changes to interest rates in the same manner as that of preferred stock.<br /><br />U12LO1</span>"
+    },
+    "3295": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Preferred stock is an equity security with an intermediate claim (between the bondholders and the common stockholders) on a firm&#039;s assets and earnings.",
+                0,
+                0
+            ],
+            [
+                "B) Equity securities represent a lending interest in a corporation.",
+                1,
+                1
+            ],
+            [
+                "C) Common stock is an equity security representing an ownership interest in a corporation.",
+                0,
+                0
+            ],
+            [
+                "D) Equity securities provide a residual claim, after payment of all obligations to fixed-income claims, on the income and assets of a corporation.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements concerning equity securities is not correct?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Equity securities represent an ownership interest in a corporation. Preferred stock, as a senior security, has a claim ahead of common, but behind debt securities.\\n\\nU12LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Equity securities represent an ownership interest in a corporation. Preferred stock, as a senior security, has a claim ahead of common, but behind debt securities.<br /><br />U12LO1</span>"
+    },
+    "3296": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) it represents ownership in a corporation.",
+                1,
+                1
+            ],
+            [
+                "B) the ability to keep pace with inflation.",
+                0,
+                0
+            ],
+            [
+                "C) it pays dividends, usually quarterly.",
+                0,
+                0
+            ],
+            [
+                "D) voting rights.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The primary defining characteristic of an equity security is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"What does the term \\\"equity\\\" mean? It means ownership and that is the single most significant fact about an equity security, whether common or preferred stock. Many pay dividends, but that is not at the core of being an equity security. Equity securities include preferred stock, which, with its fixed dividend, does not offer inflation protection and does not have voting rights.\\n\\nU12LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">What does the term \"equity\" mean? It means ownership and that is the single most significant fact about an equity security, whether common or preferred stock. Many pay dividends, but that is not at the core of being an equity security. Equity securities include preferred stock, which, with its fixed dividend, does not offer inflation protection and does not have voting rights.<br /><br />U12LO1</span>"
+    },
+    "3297": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) has a say in the day-to-day operations of the business.",
+                0,
+                0
+            ],
+            [
+                "B) acquires an ownership interest in the companyq",
+                1,
+                1
+            ],
+            [
+                "C) is assured of a minimum rate of return.",
+                0,
+                0
+            ],
+            [
+                "D) becomes a creditor of the company.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor in an equity security",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Equity means ownership, and this is a characteristic shared by both common and preferred stock. Holders of debt securities are creditors, and, there are no guarantees when it comes to returns on equity securities. Only common stockholders have voting rights, but, even then, those rights don't deal with daily operations because the vote is generally used at the annual meeting to vote for members of the board of directors.\\n\\nU12LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Equity means ownership, and this is a characteristic shared by both common and preferred stock. Holders of debt securities are creditors, and, there are no guarantees when it comes to returns on equity securities. Only common stockholders have voting rights, but, even then, those rights don't deal with daily operations because the vote is generally used at the annual meeting to vote for members of the board of directors.<br /><br />U12LO1</span>"
+    },
+    "3298": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) mortgage bonds.",
+                1,
+                1
+            ],
+            [
+                "B) common stock.",
+                0,
+                0
+            ],
+            [
+                "C) convertible preferred stock.",
+                0,
+                0
+            ],
+            [
+                "D) preferred stock.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All of the following represent ownership in corporation except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Ownership in a corporation resides in its equity securities. All stock is equity while all bonds are debt.\\n\\nU12LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Ownership in a corporation resides in its equity securities. All stock is equity while all bonds are debt.<br /><br />U12LO1</span>"
+    },
+    "3299": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) One method to engage in international investing is through American depositary receipts.",
+                0,
+                0
+            ],
+            [
+                "B) An international investor faces the additional risks of foreign currency risk and country risk.",
+                0,
+                0
+            ],
+            [
+                "C) International investing offers diversification and potentially higher returns.",
+                0,
+                0
+            ],
+            [
+                "D) An emerging market is a market in a highly developed foreign economy with stable political and social institutions.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements regarding international investing is NOT correct?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Emerging markets are markets in lesser developed countries. As a result, the political risk tends to be higher than with developed economies. Whether it is emerging or developed, a U.S.-based investor will always face currency risk and all countries have some degree of country risk. A way to simplify things is to invest in ADRs rather than the foreign stock itself. International equity is a subclass of equities when allocating assets and the addition of them tends to offer diversification and potentially higher returns because foreign markets are not necessarily correlated to the U.S. ones.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Emerging markets are markets in lesser developed countries. As a result, the political risk tends to be higher than with developed economies. Whether it is emerging or developed, a U.S.-based investor will always face currency risk and all countries have some degree of country risk. A way to simplify things is to invest in ADRs rather than the foreign stock itself. International equity is a subclass of equities when allocating assets and the addition of them tends to offer diversification and potentially higher returns because foreign markets are not necessarily correlated to the U.S. ones.<br /><br />U12LO5</span>"
+    },
+    "3300": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) facilitate trading in foreign securities in U.S. markets by U.S. citizens living in the United States",
+                1,
+                1
+            ],
+            [
+                "B) reduce currency risk when investing in foreign securities",
+                0,
+                0
+            ],
+            [
+                "C) finance foreign trade in which U.S. citizens are engaged",
+                0,
+                0
+            ],
+            [
+                "D) facilitate trading in U.S. securities in foreign markets by U.S. citizens living abroad",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An ADR is used to",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"American depositary receipts (ADRs) make trading in foreign securities easier in U.S. markets for U.S. investors.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">American depositary receipts (ADRs) make trading in foreign securities easier in U.S. markets for U.S. investors.<br /><br />U12LO5</span>"
+    },
+    "3301": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) ADRs are denominated and pay dividends in U.S. dollars.",
+                0,
+                0
+            ],
+            [
+                "B) They are not subject to exchange rate, or currency, risk.",
+                1,
+                1
+            ],
+            [
+                "C) ADRs are both liquid and marketable.",
+                0,
+                0
+            ],
+            [
+                "D) Information regarding the foreign company is more easily attainable than if directly purchased.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client is considering the purchase of American depositary receipts (ADRs). The client is looking to further diversify her portfolio. Which of the following is not a feature of this type of investment vehicle?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. The bank furnishes information about the underlying security in English rather than the foreign language and ADRs are traded like any domestic stock.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Even though ADRs are denominated in U.S. dollars, they are subject to exchange rate, or currency, risk. The bank furnishes information about the underlying security in English rather than the foreign language and ADRs are traded like any domestic stock.<br /><br />U12LO5</span>"
+    },
+    "3302": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The rates of return on foreign securities are generally less than those available from U.S. markets.",
+                0,
+                0
+            ],
+            [
+                "B) Information is not as readily available on foreign investments as on domestic ones.",
+                1,
+                1
+            ],
+            [
+                "C) The addition of foreign securities to a portfolio may result in increased portfolio risk due to the different movements of foreign markets and U.S. markets.",
+                0,
+                0
+            ],
+            [
+                "D) Foreign markets are usually mature and offer no growth advantages.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements concerning international investing is correct?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"In general, foreign investments don't have the transparency of domestic ones. Investors may earn higher returns in foreign markets and including foreign securities in an investment portfolio may lower risk through greater diversification. This is because there may be a low correlation with U.S. markets. Although securities markets in most developed economies are mature, that doesn't mean they can't grow and the markets in emerging economies offer great potential growth commensurate with their greater risk.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">In general, foreign investments don't have the transparency of domestic ones. Investors may earn higher returns in foreign markets and including foreign securities in an investment portfolio may lower risk through greater diversification. This is because there may be a low correlation with U.S. markets. Although securities markets in most developed economies are mature, that doesn't mean they can't grow and the markets in emerging economies offer great potential growth commensurate with their greater risk.<br /><br />U12LO5</span>"
+    },
+    "3303": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Working capital",
+                0,
+                0
+            ],
+            [
+                "B) 200-day moving averages",
+                1,
+                1
+            ],
+            [
+                "C) Capitalization ratios",
+                0,
+                0
+            ],
+            [
+                "&quot;D) Price-to-earnings ratios",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A technical analyst would be most interested in which of the following?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Technical analysts try to predict the market by examining price and volume trends. They expect the market to act in the future as it has in the past. Technical analysts are not interested in the fundamental aspects of a company, such as its financial statement ratios.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Technical analysts try to predict the market by examining price and volume trends. They expect the market to act in the future as it has in the past. Technical analysts are not interested in the fundamental aspects of a company, such as its financial statement ratios.<br /><br />U12LO6</span>"
+    },
+    "3304": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a put option",
+                0,
+                0
+            ],
+            [
+                "B) an ADR",
+                1,
+                1
+            ],
+            [
+                "C) a call option",
+                0,
+                0
+            ],
+            [
+                "D) a warrant",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor may expect to receive dividends from",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An American depositary receipt (ADR) represents ownership in a foreign corporation, and dividends declared by the corporation are paid to the ADR owner. The currency conversion is performed by the issuing domestic bank. Options and warrants do not grant the holder the right to receive dividends on the underlying stock.\\n\\nU12LO5\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An American depositary receipt (ADR) represents ownership in a foreign corporation, and dividends declared by the corporation are paid to the ADR owner. The currency conversion is performed by the issuing domestic bank. Options and warrants do not grant the holder the right to receive dividends on the underlying stock.<br /><br />U12LO5</span>"
+    },
+    "3305": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) advance/decline",
+                0,
+                0
+            ],
+            [
+                "B) short interest",
+                0,
+                0
+            ],
+            [
+                "C) book value per share",
+                1,
+                1
+            ],
+            [
+                "D) S&amp;P 500 index",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A technical analyst would be least concerned with",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A technical analyst is not concerned with any fundamental aspects of a company, including company financials. Open short interest theory, overall market movements, and advance/decline ratios are of concern to technical analysts.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A technical analyst is not concerned with any fundamental aspects of a company, including company financials. Open short interest theory, overall market movements, and advance/decline ratios are of concern to technical analysts.<br /><br />U12LO6</span>"
+    },
+    "3306": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) unethically, because the agent failed to disclose that the customer retains interest rate risk",
+                1,
+                1
+            ],
+            [
+                "B) unethically, because Treasury notes are unsuitable for a risk-averse customer",
+                0,
+                0
+            ],
+            [
+                "C) properly, because Treasury notes carry no risk of principal default",
+                0,
+                0
+            ],
+            [
+                "D) properly because Treasury notes are suitable for a risk-averse customer",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A risk-averse investor, who had only invested funds in bank certificates of deposits, was informed by his investment adviser representative that higher returns with safety could be achieved by investing in U. S. Treasury notes with a 10-year maturity. The adviser representative assured his client that investment in federal government-backed securities is riskless. In this situation, the representative acted",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Although Treasury securities do not carry default risk (principal and interest are guaranteed by the federal government), they are subject to interest rate risk. The prices of Treasury securities will decline if interest rates rise, subjecting the client to loss of principal should he sell them prior to maturity.\\n\\nU13LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Although Treasury securities do not carry default risk (principal and interest are guaranteed by the federal government), they are subject to interest rate risk. The prices of Treasury securities will decline if interest rates rise, subjecting the client to loss of principal should he sell them prior to maturity.<br /><br />U13LO1</span>"
+    },
+    "3307": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) T-bonds",
+                0,
+                0
+            ],
+            [
+                "B) TIPS",
+                0,
+                0
+            ],
+            [
+                "C) T-bills",
+                1,
+                1
+            ],
+            [
+                "D) T-notes",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following debt instruments does not make periodic interest payments?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Treasury bills are always issued at a discount from their face value. At maturity, the investor receives the face value. The other choices pay interest semiannually. What makes TIPS different from the others is that the principal adjusts for inflation every six months. That means the fixed interest rate is paid on a varying principal.\\n\\nU13LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Treasury bills are always issued at a discount from their face value. At maturity, the investor receives the face value. The other choices pay interest semiannually. What makes TIPS different from the others is that the principal adjusts for inflation every six months. That means the fixed interest rate is paid on a varying principal.<br /><br />U13LO1</span>"
+    },
+    "3308": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) utility company stock",
+                0,
+                0
+            ],
+            [
+                "B) GNMAs",
+                1,
+                1
+            ],
+            [
+                "C) Treasury bonds",
+                0,
+                0
+            ],
+            [
+                "D) corporate bonds",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor interested in monthly interest income should invest in",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"GNMAs pay monthly interest and principal, treasury bonds pay semiannual interest, utility stocks pay quarterly dividends, and corporate bonds pay semiannual interest.\\n\\nU13LO1\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">GNMAs pay monthly interest and principal, treasury bonds pay semiannual interest, utility stocks pay quarterly dividends, and corporate bonds pay semiannual interest.<br /><br />U13LO1</span>"
+    },
+    "3309": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) $1,022.50.",
+                0,
+                0
+            ],
+            [
+                "B) $1,027.81.",
+                1,
+                1
+            ],
+            [
+                "C) $102.25.",
+                0,
+                0
+            ],
+            [
+                "D) $1,020.25.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investor purchases a Treasury note and the confirmation shows a price of $102.25. Rounded to the nearest cent, the investor's cost, excluding commissions, is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Treasury notes are quoted in 32nds where each 32nd equals $.3125. The 102 in the quote equals $1,020 and the 25/32 is an additional $7.81 bringing the total to $1,027.81.\\n\\nU13LO2\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Treasury notes are quoted in 32nds where each 32nd equals $.3125. The 102 in the quote equals $1,020 and the 25/32 is an additional $7.81 bringing the total to $1,027.81.<br /><br />U13LO2</span>"
+    },
+    "3310": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 7.68%",
+                0,
+                0
+            ],
+            [
+                "B) 1.68%",
+                0,
+                0
+            ],
+            [
+                "C) 4.32%",
+                1,
+                1
+            ],
+            [
+                "D) 6.00%",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your client in the 28% federal income tax bracket currently owns some U.S. government bonds with a coupon yield of 6%. In order to receive the same income after taxes, she would need to buy municipal bonds with a coupon of",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because the 6% on the government bond is fully taxable on a federal basis, the client receives a net of 4.32% ($60 per bond less 28% in taxes {$16.80}, or $43.20 per year). Interest on municipal bonds is tax free, so a 4.32% coupon will result in the same amount of after-tax income.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because the 6% on the government bond is fully taxable on a federal basis, the client receives a net of 4.32% ($60 per bond less 28% in taxes {$16.80}, or $43.20 per year). Interest on municipal bonds is tax free, so a 4.32% coupon will result in the same amount of after-tax income.<br /><br />U13LO6</span>"
+    },
+    "3311": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The municipal bond because its equivalent taxable yield is 6.3%",
+                0,
+                0
+            ],
+            [
+                "B) The municipal bond because its equivalent taxable yield is 6.6%",
+                1,
+                1
+            ],
+            [
+                "C) The corporate bond because the after-tax yield is 4.5%",
+                0,
+                0
+            ],
+            [
+                "D) The corporate bond because the after-tax yield is 6.25%",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client is trying to decide between a par value corporate bond carrying a coupon rate of 6.25% per year and a par value municipal bond that pays an annual coupon rate of 4.75%. Assuming all other factors are equal and your client is in a 28% marginal income tax bracket, which bond do you tell the client to purchase and why?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If we compute the tax-equivalent yield of the muni, we see that it is 6.6%, which is a higher return than the 6.25% on the corporate bond. The formula to get this starts by taking the investor's tax bracket and subtracting that from 100%. 100% − 28% = 72%. We then divide the muni coupon of 4.75% by the 72% and the result rounds off to 6.6%.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If we compute the tax-equivalent yield of the muni, we see that it is 6.6%, which is a higher return than the 6.25% on the corporate bond. The formula to get this starts by taking the investor's tax bracket and subtracting that from 100%. 100% − 28% = 72%. We then divide the muni coupon of 4.75% by the 72% and the result rounds off to 6.6%.<br /><br />U13LO6</span>"
+    },
+    "3312": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A U. S. Treasury note yielding 7%",
+                0,
+                0
+            ],
+            [
+                "B) An A-rated corporate mortgage bond yielding 8.0%",
+                0,
+                0
+            ],
+            [
+                "C) A triple-A-rated debenture yielding 7.75%",
+                0,
+                0
+            ],
+            [
+                "D) A public purpose municipal bond yielding 6%",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A client is in the 28% marginal federal income tax bracket, and the 3% state income tax bracket. Which of the following investments would produce the highest after-tax yield for the client?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Because your client is in the 28% tax bracket, he has to earn more than the 6% on a taxable bond for the yield to be equal to, or higher than, the tax-free bond. That number can easily be calculated because 72% of the taxable amount must be equal to or greater than the 6% return (6% ÷ 72% = 8.33%). The 8.33% is higher than the return on the other bonds listed, so the public purpose municipal bond would produce the highest retained return. This would be even more appropriate if the issue was tax exempt in the client's state.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Because your client is in the 28% tax bracket, he has to earn more than the 6% on a taxable bond for the yield to be equal to, or higher than, the tax-free bond. That number can easily be calculated because 72% of the taxable amount must be equal to or greater than the 6% return (6% ÷ 72% = 8.33%). The 8.33% is higher than the return on the other bonds listed, so the public purpose municipal bond would produce the highest retained return. This would be even more appropriate if the issue was tax exempt in the client's state.<br /><br />U13LO6</span>"
+    },
+    "3313": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) required rate of return",
+                0,
+                0
+            ],
+            [
+                "B) growth of the dividend",
+                0,
+                0
+            ],
+            [
+                "C) market capitalization",
+                1,
+                1
+            ],
+            [
+                "D) current dividend",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An analyst uses the dividend growth model to assist in determining appropriate stocks to recommend. This analyst would consider all of the following factors EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The classic definition of the dividend growth model is \\\"a stock valuation model that deals with dividends and their growth, discounted to today.\\\" The market capitalization is the number of outstanding shares multiplied by the current market price per share and has nothing to do with the company's dividend policies.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The classic definition of the dividend growth model is \"a stock valuation model that deals with dividends and their growth, discounted to today.\" The market capitalization is the number of outstanding shares multiplied by the current market price per share and has nothing to do with the company's dividend policies.<br /><br />U12LO6</span>"
+    },
+    "3314": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) technical analysts rely heavily on financial ratios in their analysis of stocks.",
+                1,
+                1
+            ],
+            [
+                "B) technical analysts attempt to predict the future movement of stock prices based on past trends.",
+                0,
+                0
+            ],
+            [
+                "C) technical analysts use terms such as trendline, support, and resistance in analyzing stocks.",
+                0,
+                0
+            ],
+            [
+                "D) technical analysts rely on charts to predict the future prices of stocks.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "All of the following statements regarding technical analysis are correct except",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Technical analysts do not rely on financial ratios in their analysis of stocks. Instead, they rely on charts of past price history and volume to predict future price movements. It is fundamental analysis where financial ratios are important.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Technical analysts do not rely on financial ratios in their analysis of stocks. Instead, they rely on charts of past price history and volume to predict future price movements. It is fundamental analysis where financial ratios are important.<br /><br />U12LO6</span>"
+    },
+    "3315": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) 4%",
+                0,
+                0
+            ],
+            [
+                "B) slightly more than 5.33%",
+                0,
+                0
+            ],
+            [
+                "C) approximately 12.90%",
+                0,
+                0
+            ],
+            [
+                "D) slightly less than 5.33%",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Your client in the 25% federal income tax bracket lives in a state where his earnings place him in the 6% bracket for state income tax purposes. If he were to purchase a 4% bond issued by a political subdivision of another state, his total tax-equivalent yield would be",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When an individual owns a municipal bond issued in a state other than his state of residence, although the interest is tax free on a federal basis, it is taxable (at least in all cases on the exam) in that state. Therefore, the tax-equivalent yield here is slightly lower than it would be if we only computed using the federal tax rate. Because that would be 4.0% divided by 0.75 (100% minus the 25% tax bracket) or 5.33%, paying the state income taxes would decrease the yield slightly.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When an individual owns a municipal bond issued in a state other than his state of residence, although the interest is tax free on a federal basis, it is taxable (at least in all cases on the exam) in that state. Therefore, the tax-equivalent yield here is slightly lower than it would be if we only computed using the federal tax rate. Because that would be 4.0% divided by 0.75 (100% minus the 25% tax bracket) or 5.33%, paying the state income taxes would decrease the yield slightly.<br /><br />U13LO6</span>"
+    },
+    "3316": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) discounted cash flow.",
+                0,
+                0
+            ],
+            [
+                "B) inflation-adjusted return.",
+                0,
+                0
+            ],
+            [
+                "C) after-tax rate of return.",
+                0,
+                0
+            ],
+            [
+                "D) tax-equivalent yield.",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When an investor divides the coupon rate of a municipal bond by the complement of her tax rate, she is computing the bond's",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The computation for the tax-equivalent yield of a municipal bond is performed by dividing the bond's coupon rate by the complement of the investor's tax rate (1 – the investor's tax bracket). If the bond has a coupon of 4% and the investor is in the 20% bracket, the tax-equivalent yield is 4% divided by (1 – .20) or 4% divided by .80 = 5%.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The computation for the tax-equivalent yield of a municipal bond is performed by dividing the bond's coupon rate by the complement of the investor's tax rate (1 – the investor's tax bracket). If the bond has a coupon of 4% and the investor is in the 20% bracket, the tax-equivalent yield is 4% divided by (1 – .20) or 4% divided by .80 = 5%.<br /><br />U13LO6</span>"
+    },
+    "3317": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) $31.88",
+                0,
+                0
+            ],
+            [
+                "B) $44.12",
+                1,
+                1
+            ],
+            [
+                "C) $42.10",
+                0,
+                0
+            ],
+            [
+                "D) $33.89",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Sortel Industries has preferred stock outstanding that pays annual dividends of $3.75 a share. If an investor wants to earn a rate of return of 8.5%, how much should she be willing to pay for a share of Sortel preferred stock?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"This is a middle school math question. It is asking, 3.75 is 8.5% of what number? The computation is: 3.75 ÷ 0.085 = $44.12.\\n\\nU12LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">This is a middle school math question. It is asking, 3.75 is 8.5% of what number? The computation is: 3.75 ÷ 0.085 = $44.12.<br /><br />U12LO6</span>"
+    },
+    "3318": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Federal Home Loan Mortgage Corporation (Freddie Mac)",
+                0,
+                0
+            ],
+            [
+                "B) Federal National Mortgage Association",
+                0,
+                0
+            ],
+            [
+                "C) Government National Mortgage Association",
+                1,
+                1
+            ],
+            [
+                "D) Federal Intermediate Credit Bank",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Securities issued by which of the following agencies offer direct government backing?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"FNMA, FHLMC, and FICB are considered GSEs (government-sponsored enterprises), and although their securities are quite safe, they do not have the direct backing of the Treasury. It is important to remember for the exam that the only security without the word Treasury in its name that is backed by the U.S. government is a GNMA.\\n\\nU13LO1Q\"}\" data-sheets-userformat=\"{\"2\":12673,\"3\":{\"1\":4,\"2\":\"\\\"$\\\"#,##0.00\"},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">FNMA, FHLMC, and FICB are considered GSEs (government-sponsored enterprises), and although their securities are quite safe, they do not have the direct backing of the Treasury. It is important to remember for the exam that the only security without the word Treasury in its name that is backed by the U.S. government is a GNMA.<br /><br />U13LO1Q</span>"
+    },
+    "correct_answer_logic": ""
+};

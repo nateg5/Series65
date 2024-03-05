@@ -1,0 +1,1053 @@
+let data78 = {
+    "3216": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Supply side",
+                0,
+                0
+            ],
+            [
+                "B) Classical",
+                0,
+                0
+            ],
+            [
+                "C) Monetarist",
+                0,
+                0
+            ],
+            [
+                "D) Keynesian",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which school of economists encourages a government to spend money to move the economy into an expansionary phase?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Keynesians advocate government intervention in the workings of the economy through increased government spending, which in turn increases aggregate demand.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Keynesians advocate government intervention in the workings of the economy through increased government spending, which in turn increases aggregate demand.<br /><br />U8LO1</span>"
+    },
+    "3217": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Peak",
+                0,
+                0
+            ],
+            [
+                "B) Recovery",
+                0,
+                0
+            ],
+            [
+                "C) Expansion",
+                0,
+                0
+            ],
+            [
+                "D) Contraction",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When analyzing the business cycle, you would expect which phase to occur before reaching the trough?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Before reaching the bottom (the trough), the business cycle is in the contraction phase.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Before reaching the bottom (the trough), the business cycle is in the contraction phase.<br /><br />U8LO2</span>"
+    },
+    "3218": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Open market operations",
+                0,
+                0
+            ],
+            [
+                "B) Revenue code procedures",
+                0,
+                0
+            ],
+            [
+                "C) Monetary policy",
+                0,
+                0
+            ],
+            [
+                "D) Fiscal policy",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which term refers to the taxation, expenditures, and debt management of the federal government?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The primary components of a government's fiscal policy are taxes and expenses.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The primary components of a government's fiscal policy are taxes and expenses.<br /><br />U8LO1</span>"
+    },
+    "3219": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The reserve requirement will be increased.",
+                1,
+                1
+            ],
+            [
+                "B) Interest rates may decline.",
+                0,
+                0
+            ],
+            [
+                "C) More funds are available for banks to lend to borrowers.",
+                0,
+                0
+            ],
+            [
+                "D) The money supply will increase.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is not a characteristic of expansionary monetary policy?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Expansionary monetary policy is also referred to as easy monetary policy. The Federal Reserve follows an easy monetary policy when it wants to expand the level of income and employment. The Federal Reserve may decrease rather than increase the reserve requirement affording banks the opportunity to loan more money to borrowers.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Expansionary monetary policy is also referred to as easy monetary policy. The Federal Reserve follows an easy monetary policy when it wants to expand the level of income and employment. The Federal Reserve may decrease rather than increase the reserve requirement affording banks the opportunity to loan more money to borrowers.<br /><br />U8LO1</span>"
+    },
+    "3220": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Country A's imports from Country B will increase",
+                0,
+                0
+            ],
+            [
+                "B) Country A's exports to Country B will decrease",
+                0,
+                0
+            ],
+            [
+                "C) Country B's imports from Country A will increase",
+                0,
+                0
+            ],
+            [
+                "D) the free trade agreement will be abrogated",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "A free trade agreement is entered into between Country A and Country B. As time goes on, the value of Country A's currency decreases while that of Country B increases. The effect of this will likely be that",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"As a country's currency decreases in value, its exports become less expensive so they will rise. On the other hand, with a weaker currency, the country's citizens will have less buying power, and this will cause imports to decrease.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">As a country's currency decreases in value, its exports become less expensive so they will rise. On the other hand, with a weaker currency, the country's citizens will have less buying power, and this will cause imports to decrease.<br /><br />U8LO1</span>"
+    },
+    "3221": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the prime rate",
+                0,
+                0
+            ],
+            [
+                "B) the discount rate",
+                1,
+                1
+            ],
+            [
+                "C) the federal funds rate",
+                0,
+                0
+            ],
+            [
+                "D) the call loan rate",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "When a bank's reserve account is running low, it might choose to borrow from the Fed. When doing so, the bank will be charged",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When a bank borrows from the Federal Reserve, it does so at the discount rate. When borrowing from another bank, it is at the federal funds rate. The prime rate is charged by the banks to their stronger borrowers, and the call loan rate is what broker-dealers pay on stock market collateral pledged for margin accounts.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When a bank borrows from the Federal Reserve, it does so at the discount rate. When borrowing from another bank, it is at the federal funds rate. The prime rate is charged by the banks to their stronger borrowers, and the call loan rate is what broker-dealers pay on stock market collateral pledged for margin accounts.<br /><br />U8LO1</span>"
+    },
+    "3222": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) The best way to control the money supply is to raise taxes, which, in turn, will reduce the amount of money in the economy and lower prices.",
+                0,
+                0
+            ],
+            [
+                "B) The amount of money in the economy determines the overall price level over time and, therefore, the Federal Reserve should control the growth in the amount of money in the economy in a gradual and predictable way.",
+                1,
+                1
+            ],
+            [
+                "C) The total amount of money in the economy is the result of the level of interest rates.",
+                0,
+                0
+            ],
+            [
+                "D) The amount of money in the economy is not significant because economic activity reflects the value of real goods and services and, therefore, the Federal Reserve should not attempt to manage the money supply.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following statements reflects the monetarist economic position?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Monetarists believe that the economy and inflation are best controlled through the management of the money supply rather than through fiscal policy stimulation.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Monetarists believe that the economy and inflation are best controlled through the management of the money supply rather than through fiscal policy stimulation.<br /><br />U8LO1</span>"
+    },
+    "3223": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Keynesian theory",
+                0,
+                0
+            ],
+            [
+                "B) monetary theory",
+                0,
+                0
+            ],
+            [
+                "C) demand-side theory",
+                0,
+                0
+            ],
+            [
+                "D) supply-side theory",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The economic theory that says economic growth results from lower tax rates and lower government spending is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Supply-side economics is the theory of Arthur Laffer, who believed that heavy taxing and government intervention have a negative effect on the economy.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Supply-side economics is the theory of Arthur Laffer, who believed that heavy taxing and government intervention have a negative effect on the economy.<br /><br />U8LO1</span>"
+    },
+    "3224": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) the U.S. dollar buys more of foreign currencies",
+                0,
+                0
+            ],
+            [
+                "B) U.S. goods become more expensive in foreign countries",
+                0,
+                0
+            ],
+            [
+                "C) foreign goods become cheaper in the United States",
+                0,
+                0
+            ],
+            [
+                "D) U.S. exports become more competitive",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If the U.S. dollar has been appreciating against foreign currencies, all of the following statements are true EXCEPT",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The U.S. exports will cost more to foreigners and become less competitive. The dollar is worth more in terms of foreign currencies and will purchase more foreign goods per dollar.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The U.S. exports will cost more to foreigners and become less competitive. The dollar is worth more in terms of foreign currencies and will purchase more foreign goods per dollar.<br /><br />U8LO1</span>"
+    },
+    "3225": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) U.S. residents taking vacations abroad",
+                1,
+                1
+            ],
+            [
+                "B) Foreign governments repaying loans to U.S. banks",
+                0,
+                0
+            ],
+            [
+                "C) An increase in exports",
+                0,
+                0
+            ],
+            [
+                "D) Residents of other countries buying apartments here",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following would lead to a debit to our foreign account balance?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When our foreign account balance is debited, that creates a negative action. It is like a charge on your credit card – your account is debited. On the other hand, a credit to your card account is money coming to you. Our foreign accounts balance will be debited whenever our money goes out rather than coming in. When U.S. residents take vacations abroad, our money is being spent on hotel, restaurants, and other items in foreign countries. The other choices represent a credit to our foreign account balance. When exports increase, more foreign money comes in. When foreigners buy property here, we get their money, and when loans are repaid here, once again, foreign money comes into the U.S.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When our foreign account balance is debited, that creates a negative action. It is like a charge on your credit card – your account is debited. On the other hand, a credit to your card account is money coming to you. Our foreign accounts balance will be debited whenever our money goes out rather than coming in. When U.S. residents take vacations abroad, our money is being spent on hotel, restaurants, and other items in foreign countries. The other choices represent a credit to our foreign account balance. When exports increase, more foreign money comes in. When foreigners buy property here, we get their money, and when loans are repaid here, once again, foreign money comes into the U.S.<br /><br />U8LO1</span>"
+    },
+    "3226": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Heavy equipment",
+                0,
+                0
+            ],
+            [
+                "B) Leisure products",
+                0,
+                0
+            ],
+            [
+                "C) Supermarket chain",
+                1,
+                1
+            ],
+            [
+                "D) Automobile manufacturing",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following industries would be least cyclical?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Industrial activity usually follows business cycles, which have more impact on some industries than others. The food industry is one for which the demand is not generally based on economic conditions.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Industrial activity usually follows business cycles, which have more impact on some industries than others. The food industry is one for which the demand is not generally based on economic conditions.<br /><br />U8LO2</span>"
+    },
+    "3227": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) clothing",
+                0,
+                0
+            ],
+            [
+                "B) tobacco products",
+                0,
+                0
+            ],
+            [
+                "C) food products",
+                0,
+                0
+            ],
+            [
+                "D) building materials",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If an economist were to describe defensive issues, he would probably not include companies that produce",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Defensive issues are issues that are defensive against a downturn in the economy. Building materials are usually susceptible to downturns when the economy is bad.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Defensive issues are issues that are defensive against a downturn in the economy. Building materials are usually susceptible to downturns when the economy is bad.<br /><br />U8LO2</span>"
+    },
+    "3228": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) inflation",
+                0,
+                0
+            ],
+            [
+                "B) depression",
+                0,
+                0
+            ],
+            [
+                "C) stagflation",
+                0,
+                0
+            ],
+            [
+                "D) recession",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "During the past 2 quarters, the GDP declined by 3%, unemployment rose by 0.7%, and the Consumer Price Index fell off by 1.3%; this economic condition is called",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Two consecutive quarters of economic decline is termed a recession.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Two consecutive quarters of economic decline is termed a recession.<br /><br />U8LO2</span>"
+    },
+    "3229": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Deflation",
+                0,
+                0
+            ],
+            [
+                "B) Trough",
+                0,
+                0
+            ],
+            [
+                "C) Contraction",
+                1,
+                1
+            ],
+            [
+                "D) Expansion",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Economists have determined that the economy is slowing down. Orders for durable goods have been declining and unemployment, while not a reason for concern, has been steadily increasing over the past year. Given the information provided, what phase of the business cycle is the economy currently experiencing?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The contraction phase is characterized by business sales falling, unemployment increasing, and the gross domestic product (GDP) growth falling. DUPLICATE\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The contraction phase is characterized by business sales falling, unemployment increasing, and the gross domestic product (GDP) growth falling. DUPLICATE<br /><br />U8LO2</span>"
+    },
+    "3230": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Expansion to peak",
+                1,
+                1
+            ],
+            [
+                "B) Trough to recovery",
+                0,
+                0
+            ],
+            [
+                "C) Peak to contraction",
+                0,
+                0
+            ],
+            [
+                "D) Recovery to expansion",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Gross Domestic Product (GDP) is increasing. Real interest rates are relatively high. Consumer sentiment is strong, as are auto and retail sales. Labor productivity is declining. What state of the business cycle is the economy likely experiencing?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"When the economy is moving from expansion to peak, labor productivity starts to decline and interest rates are at a level where the Federal Reserve Board usually starts to contract or slow economic activity.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">When the economy is moving from expansion to peak, labor productivity starts to decline and interest rates are at a level where the Federal Reserve Board usually starts to contract or slow economic activity.<br /><br />U8LO2</span>"
+    },
+    "3231": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Recovery",
+                0,
+                0
+            ],
+            [
+                "B) Contraction",
+                1,
+                1
+            ],
+            [
+                "C) Peak",
+                0,
+                0
+            ],
+            [
+                "D) Expansion",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "While reviewing nationwide industrial production figures, an analyst notices that inventories have been rising. From that information, one would gather that the economy is most likely in which phase of the business cycle?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Downturns in the business cycle (a contraction) tend to be characterized by rising inventories due to a lack of consumer demand. During expansion or recovery, demand is high and goods are less likely to remain in inventory.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Downturns in the business cycle (a contraction) tend to be characterized by rising inventories due to a lack of consumer demand. During expansion or recovery, demand is high and goods are less likely to remain in inventory.<br /><br />U8LO2</span>"
+    },
+    "3232": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Food producers",
+                0,
+                0
+            ],
+            [
+                "B) Tobacco producers",
+                0,
+                0
+            ],
+            [
+                "C) Appliance manufacturers",
+                1,
+                1
+            ],
+            [
+                "D) Supermarkets",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following industries would tend to be the most cyclical?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"\\\"Cyclical\\\" refers to whether the industry is affected by business cycles of the economy. Items such as luxuries and large-ticket items (autos, homes, appliances) are normally cyclical. Food and tobacco are normally not cyclical.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">\"Cyclical\" refers to whether the industry is affected by business cycles of the economy. Items such as luxuries and large-ticket items (autos, homes, appliances) are normally cyclical. Food and tobacco are normally not cyclical.<br /><br />U8LO2</span>"
+    },
+    "3233": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) As a function of GNP",
+                0,
+                0
+            ],
+            [
+                "B) Eurodollars",
+                0,
+                0
+            ],
+            [
+                "C) Actual dollars",
+                0,
+                0
+            ],
+            [
+                "D) Constant dollars",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is considered the most accurate method of measuring GDP?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"Constant dollars are mathematically adjusted to remove the effects of inflation, so when economists compare the gross domestic product of one period with that of another, they measure economic activity rather than inflation.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">Constant dollars are mathematically adjusted to remove the effects of inflation, so when economists compare the gross domestic product of one period with that of another, they measure economic activity rather than inflation.<br /><br />U8LO2</span>"
+    },
+    "3234": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Contraction to trough",
+                0,
+                0
+            ],
+            [
+                "B) Peak to contraction",
+                0,
+                0
+            ],
+            [
+                "C) Recovery to expansion",
+                1,
+                1
+            ],
+            [
+                "D) Recovery to trough",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "If the Consumer Price Index (CPI) is down but consumer demand is up, the economy is likely in which stage of the business cycle?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"As prices trend downward and consumer demand increases, the economy is moving from recovery to expansion. As demand continues to increase, assuming supply remains constant, upward pressure will be put on prices through the expansion to the peak. DUPLICATE\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">As prices trend downward and consumer demand increases, the economy is moving from recovery to expansion. As demand continues to increase, assuming supply remains constant, upward pressure will be put on prices through the expansion to the peak. DUPLICATE<br /><br />U8LO2</span>"
+    },
+    "3235": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) A stock selling at an extremely high PE ratio",
+                0,
+                0
+            ],
+            [
+                "B) A stock with a strong cash position and little debt",
+                0,
+                0
+            ],
+            [
+                "C) A food company stock",
+                1,
+                1
+            ],
+            [
+                "D) An aerospace stock",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Which of the following is most likely to be regarded as a defensive stock?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"A defensive stock maintains future earnings that are likely to withstand an economic downturn. Typical examples are stocks of those firms that supply basic consumer necessities such as foodstuffs. A stock selling at an extremely high PE ratio is indicative of a speculative company or one that can decline in value rapidly.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">A defensive stock maintains future earnings that are likely to withstand an economic downturn. Typical examples are stocks of those firms that supply basic consumer necessities such as foodstuffs. A stock selling at an extremely high PE ratio is indicative of a speculative company or one that can decline in value rapidly.<br /><br />U8LO2</span>"
+    },
+    "3236": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Constant dollars",
+                1,
+                1
+            ],
+            [
+                "B) International dollars",
+                0,
+                0
+            ],
+            [
+                "C) Dollars in terms of gold bullion",
+                0,
+                0
+            ],
+            [
+                "D) Dollars valued by exchange with foreign currencies",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "In comparing the change in the GDP from 1 year to another, to arrive at an accurate figure, each year's GDP should be converted to which of the following?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The GDP must be adjusted for inflation to get an accurate comparison from 1 year to the next.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The GDP must be adjusted for inflation to get an accurate comparison from 1 year to the next.<br /><br />U8LO2</span>"
+    },
+    "3237": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) a growth investment strategy",
+                0,
+                0
+            ],
+            [
+                "B) a defensive investment strategy",
+                1,
+                1
+            ],
+            [
+                "C) a market capitalization investment strategy",
+                0,
+                0
+            ],
+            [
+                "D) an aggressive investment strategy",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "An investment strategy that is designed to minimize risk and preserve the investor's principal is",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An investment strategy can be either defensive or aggressive. A defensive strategy is one that is intended to minimize risk, preserve capital, and provide a somewhat stable income. An aggressive investment strategy is designed to maximize returns and assume greater risks.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An investment strategy can be either defensive or aggressive. A defensive strategy is one that is intended to minimize risk, preserve capital, and provide a somewhat stable income. An aggressive investment strategy is designed to maximize returns and assume greater risks.<br /><br />U8LO2</span>"
+    },
+    "3238": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) decreasing inflation pressure.",
+                0,
+                0
+            ],
+            [
+                "B) decreasing unemployment.",
+                1,
+                1
+            ],
+            [
+                "C) decreasing business and consumer expenditures.",
+                0,
+                0
+            ],
+            [
+                "D) low or negative economic growth.",
+                0,
+                0
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "The contraction phase of the business cycle is least likely accompanied by",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"An economic contraction is likely to feature increasing unemployment (i.e., decreasing employment), along with declining economic output and decreasing inflationary pressure. Watch out for the double negatives.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">An economic contraction is likely to feature increasing unemployment (i.e., decreasing employment), along with declining economic output and decreasing inflationary pressure. Watch out for the double negatives.<br /><br />U8LO2</span>"
+    },
+    "3239": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Contraction",
+                0,
+                0
+            ],
+            [
+                "B) Trough",
+                0,
+                0
+            ],
+            [
+                "C) Peak",
+                0,
+                0
+            ],
+            [
+                "D) Expansion",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Interest rates are rising. An analyst would be most likely to state that the business cycle is in which stage?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is during periods of economic expansion that interest rates tend to increase. They tend to fall during contractions.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is during periods of economic expansion that interest rates tend to increase. They tend to fall during contractions.<br /><br />U8LO2</span>"
+    },
+    "3240": {
+        "question_type_new": "0",
+        "answer_array": [
+            [
+                "A) Trough",
+                0,
+                0
+            ],
+            [
+                "B) Peak",
+                0,
+                0
+            ],
+            [
+                "C) Expansion",
+                0,
+                0
+            ],
+            [
+                "D) Contraction",
+                1,
+                1
+            ]
+        ],
+        "settings": {
+            "required": 1,
+            "answerEditor": "text",
+            "question_title": "Interest rates are declining. An analyst would be most likely to state that the business cycle is in which stage?",
+            "featureImageID": "",
+            "featureImageSrc": "",
+            "matchAnswer": "random",
+            "case_sensitive": "",
+            "image_size-width": "",
+            "image_size-height": "",
+            "autofill": "",
+            "limit_text": "0",
+            "limit_multiple_response": "0",
+            "file_upload_limit": "0",
+            "file_upload_type": ""
+        },
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"It is during periods of economic contraction that interest rates tend to decline. They tend to rise during expansions.\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">It is during periods of economic contraction that interest rates tend to decline. They tend to rise during expansions.<br /><br />U8LO2</span>"
+    },
+    "correct_answer_logic": ""
+};
