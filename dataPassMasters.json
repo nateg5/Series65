@@ -1,0 +1,1532 @@
+let dataPassMasters = {
+    "49606": {
+        "id": 49606,
+        "question": "<p>The Chief Compliance Officer of an investment advisory firm must review the firm's policies and procedures no less frequently than:<br></p>",
+        "category": "Regulation of Investment Advisers",
+        "position": 1,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/49606",
+        "explanation": "<p>The Chief Compliance Officer must review the investment advisory firm's policies and procedures no less frequently than annually.<br></p>",
+        "answers": [
+            {
+                "name": "Semi-annually",
+                "position": 1,
+                "is_right": false,
+                "id": 9092
+            },
+            {
+                "name": "Annually",
+                "position": 2,
+                "is_right": true,
+                "id": 9093
+            },
+            {
+                "name": "Quarterly",
+                "position": 3,
+                "is_right": false,
+                "id": 9094
+            },
+            {
+                "name": "Monthly",
+                "position": 4,
+                "is_right": false,
+                "id": 9095
+            }
+        ]
+    },
+    "49657": {
+        "id": 49657,
+        "question": "<p>Dave is an investment adviser representative working for a federally registered investment adviser. He has decided to change careers and leave the industry. Who is responsible for notifying the Administrator?<br></p>",
+        "category": "Regulation of Investment Adviser Representatives",
+        "position": 2,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/49657",
+        "explanation": "<p>When an investment adviser representative leaves a federally registered investment adviser it is the investment adviser representative's (Dave) responsibility to notify the state securities Administrator.<br></p>",
+        "answers": [
+            {
+                "name": "His new employer",
+                "position": 1,
+                "is_right": false,
+                "id": 9297
+            },
+            {
+                "name": "Both Dave and his firm",
+                "position": 2,
+                "is_right": false,
+                "id": 9298
+            },
+            {
+                "name": "His firm",
+                "position": 3,
+                "is_right": false,
+                "id": 9299
+            },
+            {
+                "name": "Dave",
+                "position": 4,
+                "is_right": true,
+                "id": 9300
+            }
+        ]
+    },
+    "49749": {
+        "id": 49749,
+        "question": "<p>Gary owns his own advisory firm. He is an agent offering securities through XYZ broker-dealer as an independent contractor. Which of the following is true?<br></p>",
+        "category": "Regulation of Broker-Dealers",
+        "position": 3,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/49749",
+        "explanation": "<p>XYZ broker-dealer is responsible for supervising Gary in all his securities activity, even though he is an independent contractor.<br></p>",
+        "answers": [
+            {
+                "name": "XYZ cannot hire an agent as an independent contractor",
+                "position": 1,
+                "is_right": false,
+                "id": 9664
+            },
+            {
+                "name": "Gary is responsible for supervising himself in his role as an agent",
+                "position": 2,
+                "is_right": false,
+                "id": 9665
+            },
+            {
+                "name": "XYZ is not responsible for supervising Gary because his is not an employee of the firm",
+                "position": 3,
+                "is_right": false,
+                "id": 9666
+            },
+            {
+                "name": "XYZ is responsible for supervising Gary in his capacity as an agent",
+                "position": 4,
+                "is_right": true,
+                "id": 9667
+            }
+        ]
+    },
+    "49847": {
+        "id": 49847,
+        "question": "<p>Cathryn works as an administrative assistant at First Brokerage. Which of the following activities is she prohibited from engaging in?<br></p>",
+        "category": "Regulation of Agents of Broker-Dealers",
+        "position": 4,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/49847",
+        "explanation": "<p>As an administrative assistant Cathryn can participate in clerical work, including responding to an existing client's request for a quote. She is prohibited from accepting customer orders unless she is registered as an agent.<br></p>",
+        "answers": [
+            {
+                "name": "Responding to an existing client's request for a quote",
+                "position": 1,
+                "is_right": false,
+                "id": 10057
+            },
+            {
+                "name": "Mailing information",
+                "position": 2,
+                "is_right": false,
+                "id": 10058
+            },
+            {
+                "name": "Making appointments",
+                "position": 3,
+                "is_right": false,
+                "id": 10059
+            },
+            {
+                "name": "Taking customer orders over the phone",
+                "position": 4,
+                "is_right": true,
+                "id": 10060
+            }
+        ]
+    },
+    "49940": {
+        "id": 49940,
+        "question": "<p>Under the Uniform Securities Act, federally covered securities are exempt from state securities law except for which part of the Act?<br></p>",
+        "category": "Regulation of Securities and Issuers",
+        "position": 5,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/49940",
+        "explanation": "<p>Under the Uniform Securities Act, federally covered securities are exempt from state securities law, with the exception of the antifraud provisions of the act.<br></p>",
+        "answers": [
+            {
+                "name": "The books and records provisions",
+                "position": 1,
+                "is_right": false,
+                "id": 10429
+            },
+            {
+                "name": "The advertising provisions",
+                "position": 2,
+                "is_right": false,
+                "id": 10430
+            },
+            {
+                "name": "The securities registration provisions",
+                "position": 3,
+                "is_right": false,
+                "id": 10431
+            },
+            {
+                "name": "The antifraud provisions",
+                "position": 4,
+                "is_right": true,
+                "id": 10432
+            }
+        ]
+    },
+    "49943": {
+        "id": 49943,
+        "question": "<p>Under the Uniform Securities Act, which of the following are considered states?<br><br>I.\tPuerto Rico<br>II.\tAmerican Samoa<br>III.\tThe District of Columbia<br>IV.\tGuam<br></p>",
+        "category": "Remedies and Administrative Provisions",
+        "position": 6,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/49943",
+        "explanation": "<p>Under the Uniform Securities Act state means: any state, territory, or possession of the United States, the District of Columbia and Puerto Rico. U.S. territories include: American Samoa, Guam, Puerto Rico, Northern Mariana Islands, and the U.S. Virgin Islands.<br></p>",
+        "answers": [
+            {
+                "name": "I, II, III, IV",
+                "position": 1,
+                "is_right": true,
+                "id": 10441
+            },
+            {
+                "name": "I, III, IV",
+                "position": 2,
+                "is_right": false,
+                "id": 10442
+            },
+            {
+                "name": "I, II",
+                "position": 3,
+                "is_right": false,
+                "id": 10443
+            },
+            {
+                "name": "II, III",
+                "position": 4,
+                "is_right": false,
+                "id": 10444
+            }
+        ]
+    },
+    "50136": {
+        "id": 50136,
+        "question": "<p>Regulators are concerned when agents and investment adviser representatives use social media to communicate with their clients from their:<br><br>I.\tLaptops<br>II.\tDesktops<br>III.\tMobile phones<br>IV.\tHome computers<br></p>",
+        "category": "Communication with Clients and Prospects",
+        "position": 7,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50136",
+        "explanation": "<p>No matter which device is used, regulators are worried when agents and investment adviser representatives use social media to communicate with their clients.<br></p>",
+        "answers": [
+            {
+                "name": "I, II, III, IV",
+                "position": 1,
+                "is_right": true,
+                "id": 11212
+            },
+            {
+                "name": "I, III",
+                "position": 2,
+                "is_right": false,
+                "id": 11213
+            },
+            {
+                "name": "III",
+                "position": 3,
+                "is_right": false,
+                "id": 11214
+            },
+            {
+                "name": "IV",
+                "position": 4,
+                "is_right": false,
+                "id": 11215
+            }
+        ]
+    },
+    "50296": {
+        "id": 50296,
+        "question": "<p>Which of the following must be included in an investment adviser's business continuity plan?<br><br>I.\tProcedures for the relocation of the office<br>II.\tProcedures to protect, backup and recover books and records<br>III.\tPlans for alternate means of communications with stakeholders<br>IV.\tAudited financial statements<br></p>",
+        "category": "Ethical Practices and Fiduciary Obligations",
+        "position": 8,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50296",
+        "explanation": "<p>An investment adviser's business continuity plan would include the following: office relocation plans; procedures to protect, backup and recover books and records; plans to minimize service disruptions and client harm; alternate means to communicate with stakeholders; and clearly written directions as to who the qualified responsible person would be in the event of the death or unavailability of key personnel.<br></p>",
+        "answers": [
+            {
+                "name": "I, II, III",
+                "position": 1,
+                "is_right": true,
+                "id": 11852
+            },
+            {
+                "name": "III",
+                "position": 2,
+                "is_right": false,
+                "id": 11853
+            },
+            {
+                "name": "II, IV",
+                "position": 3,
+                "is_right": false,
+                "id": 11854
+            },
+            {
+                "name": "I, II, III, IV",
+                "position": 4,
+                "is_right": false,
+                "id": 11855
+            }
+        ]
+    },
+    "50587": {
+        "id": 50587,
+        "question": "<p>Of the following debt issues, which has a maturity of one year or less?<br></p>",
+        "category": "Cash and Cash Equivalents",
+        "position": 9,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50587",
+        "explanation": "<p>Money market instruments have a maturity of one year or less.<br></p>",
+        "answers": [
+            {
+                "name": "Treasury notes",
+                "position": 1,
+                "is_right": false,
+                "id": 13016
+            },
+            {
+                "name": "GNMA bonds",
+                "position": 2,
+                "is_right": false,
+                "id": 13017
+            },
+            {
+                "name": "FNMA bonds",
+                "position": 3,
+                "is_right": false,
+                "id": 13018
+            },
+            {
+                "name": "Money market instruments",
+                "position": 4,
+                "is_right": true,
+                "id": 13019
+            }
+        ]
+    },
+    "50642": {
+        "id": 50642,
+        "question": "<p>What is the tax equivalent yield of a 6.5% municipal bond to an investor in the 38% federal income tax bracket? </p>",
+        "category": "Fixed Income Securities",
+        "position": 10,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50642",
+        "explanation": "<p>Remember, in order for the corporate bond's yield to be equal to the muni bond's yield it must be more than the muni bond's yield due to the fact that the interest is taxable federally. The formula to compute the tax equivalent yield is muni bond yield divided by the complement of the tax bracket (100% - tax bracket). .065 divided by .62 = .1048 = 10.48%. This means that, with an investor in a 38% tax bracket and a muni bond yield of 6.5% a corporate bond would have to yield 10.48% to be equal.<br></p>",
+        "answers": [
+            {
+                "name": "10.48%",
+                "position": 1,
+                "is_right": true,
+                "id": 13236
+            },
+            {
+                "name": "18.7%",
+                "position": 2,
+                "is_right": false,
+                "id": 13237
+            },
+            {
+                "name": "9.03%",
+                "position": 3,
+                "is_right": false,
+                "id": 13238
+            },
+            {
+                "name": "4.03%",
+                "position": 4,
+                "is_right": false,
+                "id": 13239
+            }
+        ]
+    },
+    "50756": {
+        "id": 50756,
+        "question": "<p>Which of the following bonds does not have reinvestment risk?<br></p>",
+        "category": "Characteristics of Fixed Income Securities",
+        "position": 11,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50756",
+        "explanation": "<p>Of the four choices, the zero coupon bond is the only one that does not pay semi-annual interest, it has zero coupon. A zero coupon does not have reinvestment risk.</p>",
+        "answers": [
+            {
+                "name": "20 year mortgage bond",
+                "position": 1,
+                "is_right": false,
+                "id": 13692
+            },
+            {
+                "name": "Debenture",
+                "position": 2,
+                "is_right": false,
+                "id": 13693
+            },
+            {
+                "name": "Income bond",
+                "position": 3,
+                "is_right": false,
+                "id": 13694
+            },
+            {
+                "name": "Zero coupon bond",
+                "position": 4,
+                "is_right": true,
+                "id": 13695
+            }
+        ]
+    },
+    "50778": {
+        "id": 50778,
+        "question": "<p>When would an issuer call preferred stock?<br></p>",
+        "category": "Equity Securities",
+        "position": 12,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50778",
+        "explanation": "<p>When interest rates decrease enough an issuer may choose to call its preferred stock.<br></p>",
+        "answers": [
+            {
+                "name": "When the economy is expanding",
+                "position": 1,
+                "is_right": false,
+                "id": 13780
+            },
+            {
+                "name": "When interest rates decrease",
+                "position": 2,
+                "is_right": true,
+                "id": 13781
+            },
+            {
+                "name": "Preferred stock can not be called",
+                "position": 3,
+                "is_right": false,
+                "id": 13782
+            },
+            {
+                "name": "When interest rates are stable",
+                "position": 4,
+                "is_right": false,
+                "id": 13783
+            }
+        ]
+    },
+    "50870": {
+        "id": 50870,
+        "question": "<p>The higher the discounted cash flow, the more ______ the investment.<br></p>",
+        "category": "Methods Used to Determine the Value of Equity Securities",
+        "position": 13,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50870",
+        "explanation": "<p>The higher the discounted cash flow, the more valuable the investment.<br></p>",
+        "answers": [
+            {
+                "name": "Volatile",
+                "position": 1,
+                "is_right": false,
+                "id": 14148
+            },
+            {
+                "name": "Risky",
+                "position": 2,
+                "is_right": false,
+                "id": 14149
+            },
+            {
+                "name": "Valuable",
+                "position": 3,
+                "is_right": true,
+                "id": 14150
+            },
+            {
+                "name": "Questionable",
+                "position": 4,
+                "is_right": false,
+                "id": 14151
+            }
+        ]
+    },
+    "50905": {
+        "id": 50905,
+        "question": "<p>An ETF trades most like:<br></p>",
+        "category": "Pooled Investments I",
+        "position": 14,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50905",
+        "explanation": "<p>An exchange traded fund (ETF) trades most like common stock in the secondary market at a price determined by the market.<br></p>",
+        "answers": [
+            {
+                "name": "Corporate bonds",
+                "position": 1,
+                "is_right": false,
+                "id": 14288
+            },
+            {
+                "name": "Municipal bonds",
+                "position": 2,
+                "is_right": false,
+                "id": 14289
+            },
+            {
+                "name": "Common stocks",
+                "position": 3,
+                "is_right": true,
+                "id": 14290
+            },
+            {
+                "name": "Open-end funds",
+                "position": 4,
+                "is_right": false,
+                "id": 14291
+            }
+        ]
+    },
+    "50923": {
+        "id": 50923,
+        "question": "<p>Hedge funds will do all of the following except:<br></p>",
+        "category": "Pooled Investments II",
+        "position": 15,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/50923",
+        "explanation": "<p>Hedge funds are not regulated under securities law. They are not required to determine their share price daily. Open-end mutual funds are required to determine their share price a minimum of once every business day, at the close of the NYSE.<br></p>",
+        "answers": [
+            {
+                "name": "Determine their share price a minimum of once every business day, at the close of business of the NYSE",
+                "position": 1,
+                "is_right": true,
+                "id": 14360
+            },
+            {
+                "name": "Invest in risky investments and use leverage to buy securities",
+                "position": 2,
+                "is_right": false,
+                "id": 14361
+            },
+            {
+                "name": "Pay the investment manager both an annual fee and a percentage of profits",
+                "position": 3,
+                "is_right": false,
+                "id": 14362
+            },
+            {
+                "name": "Require investors maintain their investment for a minimum length of time",
+                "position": 4,
+                "is_right": false,
+                "id": 14363
+            }
+        ]
+    },
+    "51027": {
+        "id": 51027,
+        "question": "<p>The main advantage of investing in open end mutual funds is:<br></p>",
+        "category": "Characteristics of Pooled Investments",
+        "position": 16,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51027",
+        "explanation": "<p>Open end mutual funds offer professionally managed diversified portfolios which reduces investment risk.<br></p>",
+        "answers": [
+            {
+                "name": "Right of accumulation",
+                "position": 1,
+                "is_right": false,
+                "id": 14776
+            },
+            {
+                "name": "Breakpoints",
+                "position": 2,
+                "is_right": false,
+                "id": 14777
+            },
+            {
+                "name": "Forward pricing",
+                "position": 3,
+                "is_right": false,
+                "id": 14778
+            },
+            {
+                "name": "Diversification",
+                "position": 4,
+                "is_right": true,
+                "id": 14779
+            }
+        ]
+    },
+    "51114": {
+        "id": 51114,
+        "question": "<p>Matilda has a portfolio of 1,000 shares of ABC and would like to generate some income. Which strategy would accomplish this goal?<br></p>",
+        "category": "Derivative Securities",
+        "position": 17,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51114",
+        "explanation": "<p>Selling options creates a flow of income for the seller in the form of the premium that is paid by the buyer. Because Matilda already owns shares of ABC, it would make sense for her to sell covered calls on ABC to generate income.<br></p>",
+        "answers": [
+            {
+                "name": "Sell puts on ABC",
+                "position": 1,
+                "is_right": false,
+                "id": 15125
+            },
+            {
+                "name": "Short ABC",
+                "position": 2,
+                "is_right": false,
+                "id": 15126
+            },
+            {
+                "name": "Sell covered calls on ABC",
+                "position": 3,
+                "is_right": true,
+                "id": 15127
+            },
+            {
+                "name": "Buy calls on ABC",
+                "position": 4,
+                "is_right": false,
+                "id": 15128
+            }
+        ]
+    },
+    "51129": {
+        "id": 51129,
+        "question": "<p>Exchange traded notes:<br></p>",
+        "category": "Alternative Investments I",
+        "position": 18,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51129",
+        "explanation": "<p>Exchange traded notes are a type of exchange traded debt security offering a return that is linked to a market index. An ETN does not pay periodic interest payments, as traditional debt instruments do. An ETN is an unsecured debt obligation of the issuer, usually a commercial bank or other financial firm. ETNs are a type of structured product suitable for sophisticated investors. The ETN promises to pay, at maturity, the full value of the index, minus the management fee. ETNs expose the investor to credit risk of the issuer and market risk.<br></p>",
+        "answers": [
+            {
+                "name": "Are considered liquid and safe",
+                "position": 1,
+                "is_right": false,
+                "id": 15185
+            },
+            {
+                "name": "Include equity within their portfolio",
+                "position": 2,
+                "is_right": false,
+                "id": 15186
+            },
+            {
+                "name": "Pay periodic interest payments",
+                "position": 3,
+                "is_right": false,
+                "id": 15188
+            },
+            {
+                "name": "Are a type of exchange traded debt security offering a return that is linked to a market index",
+                "position": 4,
+                "is_right": true,
+                "id": 15190
+            }
+        ]
+    },
+    "51140": {
+        "id": 51140,
+        "question": "<p>What product allows a terminally ill person the ability to sell his or her life insurance policy for more than the cash value but less than the face amount?<br></p>",
+        "category": "Alternative Investments II",
+        "position": 19,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51140",
+        "explanation": "<p>Different from a life settlement which can be done by a person of average health, a viatical settlement is done by a terminally ill person (expected to die in 24 months or less). In a viatical settlement the insured sells his or her owner's rights to a third party for more than the cash value but less than the face amount.<br></p>",
+        "answers": [
+            {
+                "name": "Dark pool",
+                "position": 1,
+                "is_right": false,
+                "id": 15229
+            },
+            {
+                "name": "Black market",
+                "position": 2,
+                "is_right": false,
+                "id": 15230
+            },
+            {
+                "name": "Viatical settlement",
+                "position": 3,
+                "is_right": true,
+                "id": 15231
+            },
+            {
+                "name": "Life settlement",
+                "position": 4,
+                "is_right": false,
+                "id": 15232
+            }
+        ]
+    },
+    "51196": {
+        "id": 51196,
+        "question": "<p>The value of a variable annuity prior to payout is which of the following?<br></p>",
+        "category": "Insurance Based Products - Annuities",
+        "position": 20,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51196",
+        "explanation": "<p>A variable annuity is valued in accumulation units during the pay-in period and annuity units during payout.&nbsp;<br></p>",
+        "answers": [
+            {
+                "name": "NAV per share",
+                "position": 1,
+                "is_right": false,
+                "id": 15453
+            },
+            {
+                "name": "Cash value",
+                "position": 2,
+                "is_right": false,
+                "id": 15454
+            },
+            {
+                "name": "Accumulation unit",
+                "position": 3,
+                "is_right": true,
+                "id": 15455
+            },
+            {
+                "name": "Annuity unit",
+                "position": 4,
+                "is_right": false,
+                "id": 15456
+            }
+        ]
+    },
+    "51225": {
+        "id": 51225,
+        "question": "<p>Which of the following is incorrect regarding variable life insurance?<br></p>",
+        "category": "Insurance Based Products - Life Insurance",
+        "position": 21,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51225",
+        "explanation": "<p>Variable life insurance has a minimum guaranteed death benefit (face amount), but there is no guarantee as to the rate of return.<br></p>",
+        "answers": [
+            {
+                "name": "It requires the delivery of a prospectus since it is a securities product",
+                "position": 1,
+                "is_right": false,
+                "id": 15569
+            },
+            {
+                "name": "The premiums are put into the insurer's separate account",
+                "position": 2,
+                "is_right": false,
+                "id": 15570
+            },
+            {
+                "name": "It has a minimum guaranteed rate of return",
+                "position": 3,
+                "is_right": true,
+                "id": 15571
+            },
+            {
+                "name": "It has a fixed premium",
+                "position": 4,
+                "is_right": false,
+                "id": 15572
+            }
+        ]
+    },
+    "51249": {
+        "id": 51249,
+        "question": "<p>Which is not an animal commodity?<br></p>",
+        "category": "Other Assets",
+        "position": 22,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51249",
+        "explanation": "<p>Animal commodities include pork bellies, feeder cattle, live cattle and lean hogs. Milk is a dairy commodity.<br></p>",
+        "answers": [
+            {
+                "name": "Lean hogs",
+                "position": 1,
+                "is_right": false,
+                "id": 15665
+            },
+            {
+                "name": "Live cattle",
+                "position": 2,
+                "is_right": false,
+                "id": 15666
+            },
+            {
+                "name": "Pork bellies",
+                "position": 3,
+                "is_right": false,
+                "id": 15667
+            },
+            {
+                "name": "Milk",
+                "position": 4,
+                "is_right": true,
+                "id": 15668
+            }
+        ]
+    },
+    "51410": {
+        "id": 51410,
+        "question": "<p>Which of the following is required to follow fiduciary rules?<br></p>",
+        "category": "Types of Clients",
+        "position": 23,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51410",
+        "explanation": "<p>Registered investment advisors charge a fee for investment advice. Under the Investment Advisers Act of 1940, they are held to a fiduciary standard. As fiduciaries they must always act in the best interests of their clients.<br></p>",
+        "answers": [
+            {
+                "name": "Agent",
+                "position": 1,
+                "is_right": false,
+                "id": 16306
+            },
+            {
+                "name": "Registered representative",
+                "position": 2,
+                "is_right": false,
+                "id": 16307
+            },
+            {
+                "name": "Broker-dealer",
+                "position": 3,
+                "is_right": false,
+                "id": 16308
+            },
+            {
+                "name": "Registered investment advisor",
+                "position": 4,
+                "is_right": true,
+                "id": 16309
+            }
+        ]
+    },
+    "51413": {
+        "id": 51413,
+        "question": "<p>Which is the most likely reason a client would buy growth stock?<br></p>",
+        "category": "Client/Customer Profile",
+        "position": 24,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51413",
+        "explanation": "<p>Capital appreciation is the most likely reason why a client would buy growth stocks.<br></p>",
+        "answers": [
+            {
+                "name": "Income",
+                "position": 1,
+                "is_right": false,
+                "id": 16318
+            },
+            {
+                "name": "Interest",
+                "position": 2,
+                "is_right": false,
+                "id": 16319
+            },
+            {
+                "name": "Capital appreciation",
+                "position": 3,
+                "is_right": true,
+                "id": 16320
+            },
+            {
+                "name": "Dividends",
+                "position": 4,
+                "is_right": false,
+                "id": 16321
+            }
+        ]
+    },
+    "51446": {
+        "id": 51446,
+        "question": "<p>In both the capital market line and in the efficient frontier what is used to measure risk?<br></p>",
+        "category": "Capital Market Theory II",
+        "position": 25,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51446",
+        "explanation": "<p>Standard deviation is used as the measurement for risk in both the capital market line and the efficient frontier.<br></p>",
+        "answers": [
+            {
+                "name": "Correlation",
+                "position": 1,
+                "is_right": false,
+                "id": 16451
+            },
+            {
+                "name": "Alpha",
+                "position": 2,
+                "is_right": false,
+                "id": 16452
+            },
+            {
+                "name": "Beta",
+                "position": 3,
+                "is_right": false,
+                "id": 16453
+            },
+            {
+                "name": "Standard deviation",
+                "position": 4,
+                "is_right": true,
+                "id": 16454
+            }
+        ]
+    },
+    "51518": {
+        "id": 51518,
+        "question": "<p>Which is not used to measure volatility?<br></p>",
+        "category": "Portfolio Management Strategies, Styles and Techniques",
+        "position": 26,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51518",
+        "explanation": "<p>Volatility is most commonly measured by analyzing a stock's standard deviation or variance. The VIX is an index of investor expectations of the market in the next 30 days and is used as a forecasting tool for upcoming volatility in the market. Alpha is not a measurement of volatility. Alpha is the excess return in a portfolio (the return that is more than what was predicted using an equilibrium model).<br></p>",
+        "answers": [
+            {
+                "name": "Alpha",
+                "position": 1,
+                "is_right": true,
+                "id": 16739
+            },
+            {
+                "name": "The VIX",
+                "position": 2,
+                "is_right": false,
+                "id": 16740
+            },
+            {
+                "name": "Variance",
+                "position": 3,
+                "is_right": false,
+                "id": 16741
+            },
+            {
+                "name": "Standard deviation",
+                "position": 4,
+                "is_right": false,
+                "id": 16742
+            }
+        ]
+    },
+    "51664": {
+        "id": 51664,
+        "question": "<p>When becoming a participant in an ERISA covered retirement plan you must be given which of the following?<br></p>",
+        "category": "ERISA Issues",
+        "position": 27,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51664",
+        "explanation": "<p>When becoming a participant in an ERISA covered retirement plan you must be given a summary plan description. The summary plan description is required by the Department of Labor. It describes for the participants what the plan provides and how it operates. It must be provided free of charge. It includes information on when the employee can participate, how benefits are determined, how to file a claim, and the vesting schedule. It also includes details about what the benefit amount will be and when it will be paid.<br></p>",
+        "answers": [
+            {
+                "name": "An official statement",
+                "position": 1,
+                "is_right": false,
+                "id": 17323
+            },
+            {
+                "name": "An annual report",
+                "position": 2,
+                "is_right": false,
+                "id": 17324
+            },
+            {
+                "name": "A prospectus",
+                "position": 3,
+                "is_right": false,
+                "id": 17325
+            },
+            {
+                "name": "A summary plan description",
+                "position": 4,
+                "is_right": true,
+                "id": 17326
+            }
+        ]
+    },
+    "51713": {
+        "id": 51713,
+        "question": "<p>All are true regarding HSAs except:<br></p>",
+        "category": "Special Types of Accounts",
+        "position": 28,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51713",
+        "explanation": "<p>If you are enrolled in Medicare you are not eligible for an HSA.<br></p>",
+        "answers": [
+            {
+                "name": "You are eligible for an HSA if you are enrolled in Medicare",
+                "position": 1,
+                "is_right": true,
+                "id": 17519
+            },
+            {
+                "name": "The earnings are free from state and federal taxes when used for medical expenses",
+                "position": 2,
+                "is_right": false,
+                "id": 17520
+            },
+            {
+                "name": "Your balance rolls from year to year",
+                "position": 3,
+                "is_right": false,
+                "id": 17521
+            },
+            {
+                "name": "Contributions made are tax deductible on your federal return, even if you do not itemize",
+                "position": 4,
+                "is_right": false,
+                "id": 17522
+            }
+        ]
+    },
+    "51757": {
+        "id": 51757,
+        "question": "<p>A qualified domestic relations order is a judgment for a retirement plan to pay any of the following except:<br></p>",
+        "category": "Ownership and Estate Planning Techniques",
+        "position": 29,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51757",
+        "explanation": "<p>A qualified domestic relations order (QDRO) is a judgment for a retirement plan to pay child support, alimony or marital property rights to a spouse, former spouse, child or other dependent of a participant.<br></p>",
+        "answers": [
+            {
+                "name": "Overdue rent",
+                "position": 1,
+                "is_right": true,
+                "id": 17695
+            },
+            {
+                "name": "Marital property rights",
+                "position": 2,
+                "is_right": false,
+                "id": 17696
+            },
+            {
+                "name": "Alimony",
+                "position": 3,
+                "is_right": false,
+                "id": 17697
+            },
+            {
+                "name": "Child support",
+                "position": 4,
+                "is_right": false,
+                "id": 17698
+            }
+        ]
+    },
+    "51769": {
+        "id": 51769,
+        "question": "<p>Company LMN declares a stock dividend of 20%. Nikki owns 1,000 shares of company LMN stock at $20 a share. Which of the following accurately reflects Nikki's position after the dividend has been distributed?<br></p>",
+        "category": "Characteristics of Equity Securities",
+        "position": 30,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51769",
+        "explanation": "<p>When a company declares a stock dividend, the investor ends up with more shares, but the net investment position remains unchanged (so the share price must decrease). Nikki started off with $20,000 in LMN stock (1,000 shares time $20 a share). The stock dividend is 20%, so she will have 20% more shares = 1,200. She will have the same net investment of $20,000. $20,000 divided by 1,200 shares = $16.67 per share.<br></p>",
+        "answers": [
+            {
+                "name": "1,200 shares at $16.67 a share",
+                "position": 1,
+                "is_right": true,
+                "id": 17743
+            },
+            {
+                "name": "800 shares at $25 a share",
+                "position": 2,
+                "is_right": false,
+                "id": 17744
+            },
+            {
+                "name": "1,200 shares at $20 a share",
+                "position": 3,
+                "is_right": false,
+                "id": 17745
+            },
+            {
+                "name": "1,000 shares at $20 a share",
+                "position": 4,
+                "is_right": false,
+                "id": 17746
+            }
+        ]
+    },
+    "51903": {
+        "id": 51903,
+        "question": "<p>A client earns 10% a year on a $10,000 investment. Inflation is 4%. What is the real return?<br></p>",
+        "category": "Portfolio Performance Measures II",
+        "position": 31,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/51903",
+        "explanation": "<p>Real return is total return minus inflation. 10% minus 4% = 6%.<br></p>",
+        "answers": [
+            {
+                "name": "10%",
+                "position": 1,
+                "is_right": false,
+                "id": 18279
+            },
+            {
+                "name": "8%",
+                "position": 2,
+                "is_right": false,
+                "id": 18280
+            },
+            {
+                "name": "6%",
+                "position": 3,
+                "is_right": true,
+                "id": 18281
+            },
+            {
+                "name": "4%",
+                "position": 4,
+                "is_right": false,
+                "id": 18282
+            }
+        ]
+    },
+    "52245": {
+        "id": 52245,
+        "question": "<p>Regular way settlement for buying listed option contracts is:<br></p>",
+        "category": "Trading Securities II",
+        "position": 32,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/52245",
+        "explanation": "<p>Option trades must settle the next business day, which is known as T + 1.<br></p>",
+        "answers": [
+            {
+                "name": "T + 3",
+                "position": 1,
+                "is_right": false,
+                "id": 19647
+            },
+            {
+                "name": "T + 2",
+                "position": 2,
+                "is_right": false,
+                "id": 19648
+            },
+            {
+                "name": "T + 1",
+                "position": 3,
+                "is_right": true,
+                "id": 19649
+            },
+            {
+                "name": "Cash",
+                "position": 4,
+                "is_right": false,
+                "id": 19650
+            }
+        ]
+    },
+    "52250": {
+        "id": 52250,
+        "question": "<p>An investor purchased 100 shares of stock for $10,000. If at the end of the year the stock has increased in value to $10,200 and the shareholder reinvested $400 in dividends, his cost basis would be:<br></p>",
+        "category": "Tax Considerations",
+        "position": 33,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/52250",
+        "explanation": "<p>Cost basis is used to determine the amount of a capital gain upon sale. An investor's cost basis consists of the amount they paid for the stock plus the amount of any reinvested dividends, which in this case would be $10,400.<br></p>",
+        "answers": [
+            {
+                "name": "$10,600",
+                "position": 1,
+                "is_right": false,
+                "id": 19667
+            },
+            {
+                "name": "$10,400",
+                "position": 2,
+                "is_right": true,
+                "id": 19668
+            },
+            {
+                "name": "$10,200",
+                "position": 3,
+                "is_right": false,
+                "id": 19669
+            },
+            {
+                "name": "$10,000",
+                "position": 4,
+                "is_right": false,
+                "id": 19670
+            }
+        ]
+    },
+    "52294": {
+        "id": 52294,
+        "question": "<p>The advance/decline ratio is often used to highlight the market's:<br></p>",
+        "category": "Portfolio Performance Measures I",
+        "position": 34,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/52294",
+        "explanation": "<p>The advance/decline ratio is often used to highlight the market's breadth. The formula takes the stocks advancing divided by stocks declining. It can be calculated for different time periods, daily, weekly, monthly. This ratio allows technical analysts to understand if an increase or decrease in a market index, such as the S&amp;P 500, is driven by just a few stocks or by a large number of securities. If this ratio increases over time it is generally thought to be a bullish indicator, and vice versa, if it declines over time it is thought to be a bearish indicator. A high ratio can signal an overbought market, one that is ready for a near term decline as investors sell stock to lock in their profits. A low ratio can signal an oversold market, one that is ready for a near term increase in prices as investors buy at support.<br></p>",
+        "answers": [
+            {
+                "name": "Momentum",
+                "position": 1,
+                "is_right": false,
+                "id": 19843
+            },
+            {
+                "name": "Available funds",
+                "position": 2,
+                "is_right": false,
+                "id": 19844
+            },
+            {
+                "name": "Sentiment",
+                "position": 3,
+                "is_right": false,
+                "id": 19845
+            },
+            {
+                "name": "Breadth",
+                "position": 4,
+                "is_right": true,
+                "id": 19846
+            }
+        ]
+    },
+    "52298": {
+        "id": 52298,
+        "question": "<p>The capital asset pricing model is used to calculate the return that an investment _____ achieve based upon the risk taken.<br></p>",
+        "category": "Capital Market Theory I",
+        "position": 35,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/52298",
+        "explanation": "<p>The capital asset pricing model is used to calculate the return that an investment should achieve based upon the risk taken.<br></p>",
+        "answers": [
+            {
+                "name": "Will not be able to",
+                "position": 1,
+                "is_right": false,
+                "id": 19859
+            },
+            {
+                "name": "Is guaranteed to",
+                "position": 2,
+                "is_right": false,
+                "id": 19860
+            },
+            {
+                "name": "Should",
+                "position": 3,
+                "is_right": true,
+                "id": 19861
+            },
+            {
+                "name": "Will",
+                "position": 4,
+                "is_right": false,
+                "id": 19862
+            }
+        ]
+    },
+    "52397": {
+        "id": 52397,
+        "question": "<p>Where do securities trade at auction?<br></p>",
+        "category": "Trading Securities I",
+        "position": 36,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/52397",
+        "explanation": "<p>The NYSE historically has been an auction based marketplace with specialists on the floor. The specialist matches buyers and sellers for a company's stock, and also trades out of his own account to ensure liquidity in the market. Today, the NYSE functions as a hybrid marketplace, maintaining a physical floor but also with some trading occurring electronically. Today, we call the specialists designated market makers.<br></p>",
+        "answers": [
+            {
+                "name": "Primary market",
+                "position": 1,
+                "is_right": false,
+                "id": 20255
+            },
+            {
+                "name": "NYSE",
+                "position": 2,
+                "is_right": true,
+                "id": 20256
+            },
+            {
+                "name": "NASDAQ",
+                "position": 3,
+                "is_right": false,
+                "id": 20257
+            },
+            {
+                "name": "OTC",
+                "position": 4,
+                "is_right": false,
+                "id": 20258
+            }
+        ]
+    },
+    "54472": {
+        "id": 54472,
+        "question": "<p>In comparing a traditional IPO to a SPAC IPO what are some major differences?</p><p>I.\tThe traditional IPO process is quicker than the SPAC IPO<br>II.\tThe SPAC IPO process is quicker than the traditional IPO<br>III.\tAn investor in a traditional IPO can request a return of invested capital plus interest<br>IV.\tAn investor in a SPAC IPO can request a return of invested capital plus interest</p>",
+        "category": "Equity Public Offering",
+        "position": 37,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54472",
+        "explanation": "<p>As it stands today, the SPAC IPO process is much quicker than the traditional IPO. In a SPAC IPO the company going public is a shell company, so there are very limited financial disclosures required on the front-end. An investor in a SPAC IPO has downside risk protection since they can request a return of invested capital plus interest, effectively cancelling their investment. There is proposed SEC rules under consideration currently that would create a more equal regulatory environment for the traditional IPO versus the SPAC IPO, de-SPAC process.</p>",
+        "answers": [
+            {
+                "name": "I and III",
+                "position": 1,
+                "is_right": false,
+                "id": 28537
+            },
+            {
+                "name": "I and IV",
+                "position": 2,
+                "is_right": false,
+                "id": 28538
+            },
+            {
+                "name": "II and III",
+                "position": 3,
+                "is_right": false,
+                "id": 28539
+            },
+            {
+                "name": "II and IV",
+                "position": 4,
+                "is_right": true,
+                "id": 28540
+            }
+        ]
+    },
+    "54560": {
+        "id": 54560,
+        "question": "<p><span>Brendan is analyzing the business cycle. If he believes the economy is about to enter a trough, what phase must we currently be in?</span></p>",
+        "category": "Basic Economic Concepts I",
+        "position": 38,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54560",
+        "explanation": "<p><span>There are four phases to the business cycle: expansion (recovery), peak, contraction, and trough. We don't know how long any phase will last, but you can expect that a trough will follow a contraction.</span></p>",
+        "answers": [
+            {
+                "name": "Contraction",
+                "position": 1,
+                "is_right": true,
+                "id": 28889
+            },
+            {
+                "name": "Expansion",
+                "position": 2,
+                "is_right": false,
+                "id": 28890
+            },
+            {
+                "name": "Recovery",
+                "position": 3,
+                "is_right": false,
+                "id": 28891
+            },
+            {
+                "name": "Peak",
+                "position": 4,
+                "is_right": false,
+                "id": 28892
+            }
+        ]
+    },
+    "54578": {
+        "id": 54578,
+        "question": "<p><span>Which of the following statements is true if the U.S. dollar weakens?</span></p>",
+        "category": "Basic Economic Concepts II",
+        "position": 39,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54578",
+        "explanation": "<p>When the dollar weakens it means that a foreign currency(ies) is stronger than the U.S. dollar. This causes goods produced in the United States (exports) to be more competitive. A weak U.S. dollar buys less of a foreign currency than it has in the past. When the dollar weakens foreign securities denominated in their domestic currency increase in value to the U.S. investor. If interest rates were to increase this may strengthen the U.S. dollar.</p>",
+        "answers": [
+            {
+                "name": "The dollar buys more foreign currency",
+                "position": 1,
+                "is_right": false,
+                "id": 28961
+            },
+            {
+                "name": "Foreign securities denominated in their domestic currency decrease in value to the U.S. investor",
+                "position": 2,
+                "is_right": false,
+                "id": 28962
+            },
+            {
+                "name": "An increase in U.S. interest rates might strengthen the dollar",
+                "position": 3,
+                "is_right": true,
+                "id": 28963
+            },
+            {
+                "name": "U.S. exports become less competitive",
+                "position": 4,
+                "is_right": false,
+                "id": 28964
+            }
+        ]
+    },
+    "54596": {
+        "id": 54596,
+        "question": "<p><span>Ali is considering buying a stock that trades on the NYSE. This stock has a beta of 1.30. She should expect this stock's volatility to be:</span></p>",
+        "category": "Analytical Methods I",
+        "position": 40,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54596",
+        "explanation": "<p>When a stock has a beta of 1 it is said to move with the market. The market is the S&amp;P 500 index. When a stock or portfolio has a beta that is greater than 1, that means that the performance of that stock or portfolio will be more volatile than the S&amp;P 500. A beta of 1.30 means that the stock will be 30% more volatile than the S&amp;P 500. If the S&amp;P 500 was up 10%, you would expect this stock to be up 13%. If the S&amp;P 500 was down 10%, you would expect this stock to be down 13%.</p>",
+        "answers": [
+            {
+                "name": "The same as the S&P 500",
+                "position": 1,
+                "is_right": false,
+                "id": 29029
+            },
+            {
+                "name": "30% more volatile than the S&P 500",
+                "position": 2,
+                "is_right": true,
+                "id": 29030
+            },
+            {
+                "name": "30% less volatile than the S&P 500",
+                "position": 3,
+                "is_right": false,
+                "id": 29031
+            },
+            {
+                "name": "30% more volatile than the Wilshire 5000",
+                "position": 4,
+                "is_right": false,
+                "id": 29032
+            }
+        ]
+    },
+    "54604": {
+        "id": 54604,
+        "question": "<p><span>You are reading the annual report for Disney. You notice that PricewaterhouseCoopers LLP has been the auditor since 1938. In their letter to the board it states, “In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of October 2, 2021, and October 3, 2020, and the results of its operations and its cash flows for each of the three years in the period ended October 2, 2021, in conformity with accounting principles generally accepted in the United States of America.” Which of the following types of opinions is this?</span></p>",
+        "category": "Financial Reporting II",
+        "position": 41,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54604",
+        "explanation": "<p><span>An unqualified opinion is one in which the auditor has found no issues with the company's books and records.</span></p>",
+        "answers": [
+            {
+                "name": "Qualified",
+                "position": 1,
+                "is_right": false,
+                "id": 29061
+            },
+            {
+                "name": "Perfected",
+                "position": 2,
+                "is_right": false,
+                "id": 29062
+            },
+            {
+                "name": "Unqualified",
+                "position": 3,
+                "is_right": true,
+                "id": 29063
+            },
+            {
+                "name": "No opinion",
+                "position": 4,
+                "is_right": false,
+                "id": 29064
+            }
+        ]
+    },
+    "54607": {
+        "id": 54607,
+        "question": "<p><span>As the corporation has grown, a corporate executive decides it is time for the company to buy a Learjet. The company has had many profitable years and will use its accumulated retained earnings to purchase the plane. An analyst interested in how this purchase will affect the corporation would want to examine which of the following?</span></p>",
+        "category": "Financial Reporting I",
+        "position": 42,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54607",
+        "explanation": "<p>The purchase of a plane with accumulated funds will cause a shift in the assets found on the corporation's balance sheet. The cash account will be debited for the purchase price and an entry will be made to the company's fixed assets. The plane's cost will be depreciated by the corporation over time following GAAP (Generally Accepted Accounting Principles).</p>",
+        "answers": [
+            {
+                "name": "Income statement",
+                "position": 1,
+                "is_right": false,
+                "id": 29073
+            },
+            {
+                "name": "Balance sheet",
+                "position": 2,
+                "is_right": true,
+                "id": 29074
+            },
+            {
+                "name": "Statement of cash flow",
+                "position": 3,
+                "is_right": false,
+                "id": 29075
+            },
+            {
+                "name": "Learjet's annual report",
+                "position": 4,
+                "is_right": false,
+                "id": 29076
+            }
+        ]
+    },
+    "54655": {
+        "id": 54655,
+        "question": "<p><span>DeShawn is reviewing the past performance on his portfolio. His annual returns have been 10%, 8%, 12%, 4%, -3%, and 5%. What is DeShawn's median return?</span></p>",
+        "category": "Analytical Methods II",
+        "position": 43,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54655",
+        "explanation": "<p><span>First, put the returns in numerical order: -3%, 4%, 5%, 8%, 10%, 12%. Since there are an even number of returns you have to find the average of the two numbers in the middle, in this case, 5% + 8% = 13% divided by 2 = 6.5% is the median, the middle, of the returns.</span></p>",
+        "answers": [
+            {
+                "name": "8%",
+                "position": 1,
+                "is_right": false,
+                "id": 29265
+            },
+            {
+                "name": "6.5%",
+                "position": 2,
+                "is_right": true,
+                "id": 29266
+            },
+            {
+                "name": "5%",
+                "position": 3,
+                "is_right": false,
+                "id": 29267
+            },
+            {
+                "name": "8%",
+                "position": 4,
+                "is_right": false,
+                "id": 29268
+            }
+        ]
+    },
+    "54676": {
+        "id": 54676,
+        "question": "<p><span>In an attempt to control the economy, the Federal Reserve has raised interest for the past few years, but the market expectation is that they will now begin to lower them. Your client is concerned about the volatility of interest rates. Which of the following is a recommendation that does not have interest rate risk?</span></p>",
+        "category": "Types of Risk",
+        "position": 44,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54676",
+        "explanation": "<p><span>Anytime a security has a fixed payment, whether or not it is interest income or dividend income, that security has interest rate risk. Bonds have interest rate risk. As interest rates go up, the prices of bonds in the secondary market will go down. If interest rates go down, the prices of bonds in the secondary market will go up. The same holds for preferred stock. Remember, preferred stock has a fixed dividend rate. This does not guarantee that a dividend will be paid, but if a dividend is paid how much it will be is fixed. Preferred stocks' market price is inversely related to interest rate changes. Bank CDs pay a fixed interest rate, that is reflective of interest rates in the economy when the money was invested, but that does not change over the life of the CD. Bank CDs do not have interest rate risk. Bank CDs have liquidity risk and reinvestment risk!</span></p>",
+        "answers": [
+            {
+                "name": "Corporate bonds",
+                "position": 1,
+                "is_right": false,
+                "id": 29349
+            },
+            {
+                "name": "Preferred stocks",
+                "position": 2,
+                "is_right": false,
+                "id": 29350
+            },
+            {
+                "name": "Bank CDs",
+                "position": 3,
+                "is_right": true,
+                "id": 29351
+            },
+            {
+                "name": "Municipal bonds",
+                "position": 4,
+                "is_right": false,
+                "id": 29352
+            }
+        ]
+    },
+    "54708": {
+        "id": 54708,
+        "question": "<p><span>Tiler is looking to make a qualified charitable distribution out of her IRA this year. She would like the distribution to count toward her RMD for this year. Tiler is 76 years old. Which of the following is required?</span></p>",
+        "category": "Retirement Plans",
+        "position": 45,
+        "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54708",
+        "explanation": "<p>Tiler is age 76, well over the 70 1/2 age requirement for a qualified charitable distribution. For her QCD to count towards her current year's RMD, the funds must come out of her IRA by this year's RMD deadline of December 31st. The distribution must be made payable to the 501(c)(3) organization, not to Tiler. Any QCD Tiler makes this year counts towards her RMD. The maximum she can distribute as a QCD per year is $100,000 (limit to be indexed starting in 2024). The 2024 limit is $105,000.</p>",
+        "answers": [
+            {
+                "name": "The funds must come out of the IRA by the RMD deadline, generally December 31st",
+                "position": 1,
+                "is_right": true,
+                "id": 29477
+            },
+            {
+                "name": "The funds must be distributed to the IRA owner",
+                "position": 2,
+                "is_right": false,
+                "id": 29478
+            },
+            {
+                "name": "Tiler must distribute a minimum of $7,500 to the charity this year",
+                "position": 3,
+                "is_right": false,
+                "id": 29479
+            },
+            {
+                "name": "Tiler must distribute her RMD amount to the charity, but cannot distribute more than that this year",
+                "position": 4,
+                "is_right": false,
+                "id": 29480
+            }
+        ]
+    }
+};
