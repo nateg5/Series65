@@ -29,6 +29,7 @@
 		<script src="dataPassMasters.json"></script>
 		<script src="dataMometrix.json"></script>
 		<script src="dataAchievable.json"></script>
+		<script src="dataSecuritiesce.json"></script>
     </head>
     <body>
 		<div id="question"></div>
@@ -78,7 +79,8 @@
 				...data92,
 				...dataPassMasters,
 				...dataMometrix,
-				...dataAchievable
+				...dataAchievable,
+				...dataSecuritiesce
 			};
 			let dataKeys = Object.keys(data);
 			
@@ -89,6 +91,8 @@
 					return qData.question;
 				} else if(qData.prompt) {
 					return qData.prompt;
+				} else if(qData.text) {
+					return qData.text;
 				} else {
 					alert("ERROR: Invalid data shape for getQuestion");
 				}
@@ -136,6 +140,20 @@
 					},{
 						answer: qData.answers[3].content,
 						correct: qData.answers[3].correct
+					}];
+				} else if(qData.answers && qData.answers[0].text) {
+					return [{
+						answer: qData.answers[0].text,
+						correct: qData.answers[0].id
+					},{
+						answer: qData.answers[1].text,
+						correct: qData.answers[1].id
+					},{
+						answer: qData.answers[2].text,
+						correct: qData.answers[2].id
+					},{
+						answer: qData.answers[3].text,
+						correct: qData.answers[3].id
 					}];
 				} else {
 					alert("ERROR: Invalid data shape for getAnswers");

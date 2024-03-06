@@ -1,0 +1,242 @@
+let dataSecuritiesce = {
+    "securitiesce01": {
+        "question_id": 5994,
+        "text": "XYA a manufacturer of computer circuit boards has $50,000,000 worth of subordinated debentures outstanding. Each debenture carries an interest rate of 6.5% and has warrants attached to the debenture to purchase 5 shares of XYA at $25 per share. XYA&#8217;s stock is trading in the market place at $28 per share and the warrants are about to expire. How many new shares can XYA reasonably expect to issue?",
+        "body": "",
+		"explanation": "There are 50,000 $1,000 par bonds (50,000,000 / 1000) outstanding each bond has warrants attached to purchase 5 shares of stock at $25 per share. The company would expect that all of the warrants will be exercised as the warrants are in the money and about to expire. As a result the company would expect to issue 250,000 new shares. ",
+        "answers": [
+            {
+                "id": false,
+                "text": "50,000"
+            },
+            {
+                "id": true,
+                "text": "250,000"
+            },
+            {
+                "id": false,
+                "text": "500,000"
+            },
+            {
+                "id": false,
+                "text": "25,000"
+            }
+        ]
+    },
+    "securitiesce02": {
+        "question_id": 3286,
+        "text": "Which of the following prescribe that lower taxes will encourage economic activity and help the economy grow resulting in a higher overall level tax collection?",
+        "body": "",
+		"explanation": "Supply side economic policy believes that lower taxes will encourage economic activity and help the economy grow resulting in a higher overall level tax collection.",
+        "answers": [
+            {
+                "id": true,
+                "text": "Supply side policy"
+            },
+            {
+                "id": false,
+                "text": "Fiscal policy"
+            },
+            {
+                "id": false,
+                "text": "Monetary policy"
+            },
+            {
+                "id": false,
+                "text": "Keynesian policy"
+            }
+        ]
+    },
+    "securitiesce03": {
+        "question_id": 5987,
+        "text": "Which of the following companies would be considered the most highly leveraged ?",
+        "body": "",
+		"explanation": "A highly leveraged corporation is one that has borrowed a large percentage of its capital usually through the sale of bonds. When a corporation borrows money it is anticipating that it can use the borrowed funds to generate a return on the capital that is greater than the cost of that capital",
+        "answers": [
+            {
+                "id": false,
+                "text": "A small cap company who has received its total capitalization from a recent stock offering"
+            },
+            {
+                "id": true,
+                "text": "A regulated utility company whose has issued a significant amount of bonds to build a new power plant and has a small float of common stock"
+            },
+            {
+                "id": false,
+                "text": "A  NASDAQ listed issuer who has an active market and a credit facility available through a syndicate of banks"
+            },
+            {
+                "id": false,
+                "text": "A large cap company with 300,000,000 shares of common stock outstanding, 30,000,000 shares of preferred stock and  20,000,000 in long term variable rate bonds outstanding"
+            }
+        ]
+    },
+    "securitiesce04": {
+        "question_id": 5981,
+        "text": "The FOMC has been reducing the size of its balance sheet in line\nwith its mandate. Which of the following will occur?\nI. Interest rates will increase \nII. The money supply will decrease\nIII. Interest rates will decrease \nIV. The money supply will increase",
+        "body": "",
+		"explanation": "AS the FOMC sells bonds to reduce the amount of bonds it is holding on its balance sheet the money supply will be reduced as the payments for the bonds are sent to the FOMC. As the money supply shrinks interest rates will rise.  ",
+        "answers": [
+            {
+                "id": true,
+                "text": "I & II"
+            },
+            {
+                "id": false,
+                "text": "II & III"
+            },
+            {
+                "id": false,
+                "text": "II & IV"
+            },
+            {
+                "id": false,
+                "text": "I only"
+            }
+        ]
+    },
+    "securitiesce05": {
+        "question_id": 5975,
+        "text": "One reason an investor would not use internal rate of return to analyze a potential investment in common stock is:",
+        "body": "",
+		"explanation": "In order to calculate the internal rate of return an investor would need a price and maturity date. Common stock has no maturity date",
+        "answers": [
+            {
+                "id": false,
+                "text": "The market price of common stock moves to quickly"
+            },
+            {
+                "id": true,
+                "text": "There is no maturity date"
+            },
+            {
+                "id": false,
+                "text": "The issuance of new shares can cause dilution"
+            },
+            {
+                "id": false,
+                "text": "Preferred stock has a senior claim on corporate earnings and assets"
+            }
+        ]
+    },
+    "securitiesce06": {
+        "question_id": 5952,
+        "text": "An investor wants to save $100,000 to purchase a second home in 5 years. He wants to make a lump sum deposit to meet this 5 year goal. To calculate his required deposit he will need to know all of the following except:",
+        "body": "",
+		"explanation": "The investor will not need to know the future value of $100,000 as $100,000 is the amount he wants to have in the future. The investor will need to know the net present value of $100,000 based on interest rates and compounding periods. ",
+        "answers": [
+            {
+                "id": false,
+                "text": "Net present value of $100,000"
+            },
+            {
+                "id": false,
+                "text": "Compounding periods"
+            },
+            {
+                "id": false,
+                "text": "Interest rates"
+            },
+            {
+                "id": true,
+                "text": "Future value of $100,000"
+            }
+        ]
+    },
+    "securitiesce07": {
+        "question_id": 5949,
+        "text": "An investor purchased 1000 shares of XYZ at $40 12 months ago. The investor has received four quarterly dividends of 50 cents and sells the shares at $38. The investor&#8217;s total return is:",
+        "body": "",
+		"explanation": "The investor received a total of $2 in dividends and realized a $2 capital loss for a total return of $0 for the entire investment . The investor broke even when the dividends and capital loss are considered. ",
+        "answers": [
+            {
+                "id": false,
+                "text": "10 percent"
+            },
+            {
+                "id": false,
+                "text": "2.5 percent"
+            },
+            {
+                "id": false,
+                "text": "5 percent"
+            },
+            {
+                "id": true,
+                "text": "0 percent"
+            }
+        ]
+    },
+    "securitiesce08": {
+        "question_id": 5948,
+        "text": "An investor placed $5,000 in a growth fund 10 years ago. The account is now worth $10,000 as the market has performed well over the last few years. The investor&#8217;s annual return is:",
+        "body": "",
+		"explanation": "Using the rule of 72 an investor can calculate the return for a portfolio. To determine the return the investors would take the number 72 and divide it by the number of years it takes the investment to double in this case 10. 72 / 10 = 7.2%&",
+        "answers": [
+            {
+                "id": false,
+                "text": "6 percent"
+            },
+            {
+                "id": false,
+                "text": "11 percent"
+            },
+            {
+                "id": true,
+                "text": "7.2 percent"
+            },
+            {
+                "id": false,
+                "text": "9.1 percent"
+            }
+        ]
+    },
+    "securitiesce09": {
+        "question_id": 5946,
+        "text": "An investor may use the dividend end discount model to calculate an approximate:",
+        "body": "",
+		"explanation": "The dividend discount model calculates  the present value of all future dividends to be paid and is used to estimate a market price for the stock. ",
+        "answers": [
+            {
+                "id": true,
+                "text": "Market price for the stock"
+            },
+            {
+                "id": false,
+                "text": "PEG ratio"
+            },
+            {
+                "id": false,
+                "text": "Annualized current yield"
+            },
+            {
+                "id": false,
+                "text": "Holding period return"
+            }
+        ]
+    },
+    "securitiesce10": {
+        "question_id": 5892,
+        "text": "A custodial account being managed for the benefit of a minor is long 500 shares of BNM. BNM is offering new shares to finance the building of a new factory. Each share of BNM will receive 1 right to purchase the new BNM shares. It takes 2 rights plus $28 dollars per share to purchase the new BNM shares. BNM is trading in the market place at $30. Which of the following actions would the custodian be allowed to take?\n\nI. Sell the rights at the intrinsic value\nII. Sell the rights above the intrinsic value\nIII. Sell the rights below the intrinsic value\nIV. Exercise the rights",
+        "body": "",
+		"explanation": "The custodian may take all of the actions listed. A custodian is prohibited from allowing the rights to expire. Therefore, the custodian must either sell or exercise the rights. The is no regulation as to the price at which the rights may be sold",
+        "answers": [
+            {
+                "id": false,
+                "text": "II & IV"
+            },
+            {
+                "id": false,
+                "text": "I, II & III"
+            },
+            {
+                "id": false,
+                "text": "IV only"
+            },
+            {
+                "id": true,
+                "text": "I, II, III & IV"
+            }
+        ]
+    }
+};
