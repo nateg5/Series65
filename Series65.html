@@ -27,6 +27,7 @@
 		<script src="data91.json"></script>
 		<script src="data92.json"></script>
 		<script src="dataPassMasters.json"></script>
+		<script src="dataMometrix.json"></script>
     </head>
     <body>
 		<div id="question"></div>
@@ -74,7 +75,8 @@
 				...data90, 
 				...data91, 
 				...data92,
-				...dataPassMasters
+				...dataPassMasters,
+				...dataMometrix
 			};
 			let dataKeys = Object.keys(data);
 			
@@ -83,6 +85,8 @@
 					return qData.settings.question_title;
 				} else if(qData.question) {
 					return qData.question;
+				} else if(qData.prompt) {
+					return qData.prompt;
 				} else {
 					alert("ERROR: Invalid data shape for getQuestion");
 				}
@@ -103,7 +107,7 @@
 						answer: qData.answer_array[3][0].substring(3),
 						correct: qData.answer_array[3][1] === 1
 					}];
-				} else if(qData.answers) {
+				} else if(qData.answers && qData.answers[0].is_right !== undefined) {
 					return [{
 						answer: qData.answers[0].name,
 						correct: qData.answers[0].is_right
@@ -116,6 +120,20 @@
 					},{
 						answer: qData.answers[3].name,
 						correct: qData.answers[3].is_right
+					}];
+				} else if(qData.answers && qData.answers[0].content) {
+					return [{
+						answer: qData.answers[0].content,
+						correct: qData.answers[0].correct
+					},{
+						answer: qData.answers[1].content,
+						correct: qData.answers[1].correct
+					},{
+						answer: qData.answers[2].content,
+						correct: qData.answers[2].correct
+					},{
+						answer: qData.answers[3].content,
+						correct: qData.answers[3].correct
 					}];
 				} else {
 					alert("ERROR: Invalid data shape for getAnswers");

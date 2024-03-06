@@ -1,0 +1,1445 @@
+let dataMometrix = {
+	"mometrix01": {
+    "answers": [
+        {
+            "answer_id": 9531829,
+            "content": "<span class=\"mm-20474-1-1-3\">The Expansion phase</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531828,
+            "content": "<span class=\"mm-20474-1-1-3\">The Peak phase</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531827,
+            "content": "<span class=\"mm-20474-1-1-3\">The Contraction phase</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531826,
+            "content": "<span class=\"mm-20474-1-1-3\">The Trough phase</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-1-2\"><strong class=\"mm-20474-1-1-1\"></strong><span class=\"mm-20474-1-1-3\"> Cyclical stocks do well in an expansion phase, and value investors try and buy stocks out of favor at cheap valuations, therefore in the trough phase before an expansion.</span></p>",
+    "explanation_text": "   Cyclical stocks do well in an expansion phase, and value investors try and buy stocks out of favor at cheap valuations, therefore in the trough phase before an expansion.",
+    "prompt": "A value investor would likely try to purchase cyclical stocks at what point in the business cycle?",
+    "prompt_text": "A value investor would likely try to purchase cyclical stocks at what point in the business cycle?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-1-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-1-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-1-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-1-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix02": {
+    "answers": [
+        {
+            "answer_id": 9531833,
+            "content": "<span class=\"mm-20474-1-2-3\">The Expansion phase</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531832,
+            "content": "<span class=\"mm-20474-1-2-3\">The Peak phase</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531831,
+            "content": "<span class=\"mm-20474-1-2-3\">The Contraction phase</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531830,
+            "content": "<span class=\"mm-20474-1-2-3\">The Trough phase</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-2-2\"><strong class=\"mm-20474-1-2-1\"></strong><span class=\"mm-20474-1-2-3\"> The peak phase is where cyclical stocks are popular and richly valued. At that time defensive stocks are cheaper and should hold their value better through the contraction phase.</span></p>",
+    "explanation_text": "   The peak phase is where cyclical stocks are popular and richly valued. At that time defensive stocks are cheaper and should hold their value better through the contraction phase.",
+    "prompt": "An investor should go to defensive stocks at what point of the business cycle?",
+    "prompt_text": "An investor should go to defensive stocks at what point of the business cycle?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-2-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-2-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-2-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-2-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix03": {
+    "answers": [
+        {
+            "answer_id": 9531837,
+            "content": "<span class=\"mm-20474-1-3-3\">The reserve requirement</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531836,
+            "content": "<span class=\"mm-20474-1-3-3\">Open Market operations</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531835,
+            "content": "<span class=\"mm-20474-1-3-3\">The discount rate</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531834,
+            "content": "<span class=\"mm-20474-1-3-3\">All of the above</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-3-2\"><strong class=\"mm-20474-1-3-1\"></strong><span class=\"mm-20474-1-3-3\"> All of the above. All of these, and more, are the tools the Fed uses to \"tighten\" or \"loosen\" money in its attempts to reduce unemployment and fight inflation.</span></p>",
+    "explanation_text": "   All of the above. All of these, and more, are the tools the Fed uses to \"tighten\" or \"loosen\" money in its attempts to reduce unemployment and fight inflation.",
+    "prompt": "Monetary policy tools, used by the Federal Reserve, primarily are:",
+    "prompt_text": "Monetary policy tools, used by the Federal Reserve, primarily are:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-3-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-3-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-3-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-3-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix04": {
+    "answers": [
+        {
+            "answer_id": 9531841,
+            "content": "<span class=\"mm-20474-1-4-3\">Trade surplus</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531840,
+            "content": "<span class=\"mm-20474-1-4-3\">Trade deficit</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531839,
+            "content": "<span class=\"mm-20474-1-4-3\">Current account</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531838,
+            "content": "<span class=\"mm-20474-1-4-3\">Balance of payments</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-4-2\"><strong class=\"mm-20474-1-4-1\"></strong><span class=\"mm-20474-1-4-3\"> Balance of payments tracks a country's balance of trade as well as investments. The others are key ingredients that make up a country's balance of trade, whether positive or negative.</span></p>",
+    "explanation_text": "   Balance of payments tracks a country's balance of trade as well as investments. The others are key ingredients that make up a country's balance of trade, whether positive or negative.",
+    "prompt": "All of the following are factors of a country's balance of trade except:",
+    "prompt_text": "All of the following are factors of a country's balance of trade except:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-4-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-4-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-4-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-4-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix05": {
+    "answers": [
+        {
+            "answer_id": 9531845,
+            "content": "<span class=\"mm-20474-1-5-3\">Interest rates</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531844,
+            "content": "<span class=\"mm-20474-1-5-3\">Balance of trade</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531843,
+            "content": "<span class=\"mm-20474-1-5-3\">The business cycle</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531842,
+            "content": "<span class=\"mm-20474-1-5-3\">Gross domestic product</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-5-2\"><strong class=\"mm-20474-1-5-1\"></strong><span class=\"mm-20474-1-5-3\"> While all of these factors are influential, a country's balance of trade is most directly influential to the strength or weakness of a country's currency.</span></p>",
+    "explanation_text": "   While all of these factors are influential, a country's balance of trade is most directly influential to the strength or weakness of a country's currency.",
+    "prompt": "Which of the following is most directly correlated to a country's currency strength or weakness?",
+    "prompt_text": "Which of the following is most directly correlated to a country's currency strength or weakness?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-5-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-5-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-5-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-5-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix06": {
+    "answers": [
+        {
+            "answer_id": 9531849,
+            "content": "<span class=\"mm-20474-1-6-3\">1 and 3</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531848,
+            "content": "<span class=\"mm-20474-1-6-3\">2 and 4</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531847,
+            "content": "<span class=\"mm-20474-1-6-3\">1 and 4</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531846,
+            "content": "<span class=\"mm-20474-1-6-3\">2 and 3</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-6-4\"><strong class=\"mm-20474-1-6-1\"></strong><span class=\"mm-20474-1-6-3\"> When the risk premium widens, it implies that investors are risk averse. Usually in response to concerns for economic growth. When this happens, safer bonds are purchased and yields on riskier bonds need to be higher to attract investors.</span></p>",
+    "explanation_text": "   When the risk premium widens, it implies that investors are risk averse. Usually in response to concerns for economic growth. When this  happens,  safer bonds are purchased and yields on riskier bonds need to be higher to attract investors.",
+    "prompt": "The difference in yields between the 10-yr Treasury and high yield \"junk\" bonds is the yield spread, also called the \"risk premium\". When the spread widens, it is an indicator of which of the following?</strong></p><p class=\"mm-20474-1-6-2\"><span class=\"mm-20474-1-6-3\">1. Investor confidence in the economy</span></p><p class=\"mm-20474-1-6-2\"><span class=\"mm-20474-1-6-3\">2. Investor fears for the economy</span></p><p class=\"mm-20474-1-6-2\"><span class=\"mm-20474-1-6-3\">3. Investor preference for stocks over bonds</span></p><p class=\"mm-20474-1-6-2\"><span class=\"mm-20474-1-6-3\">4. Investor preference for safer investments</span>",
+    "prompt_text": "The difference in yields between the 10-yr Treasury and high yield \"junk\" bonds is the yield spread, also called the \"risk premium\". When the spread widens, it is an indicator of which of the following? 1. Investor confidence in the economy 2. Investor fears for the economy 3. Investor preference for stocks over bonds 4. Investor preference for safer investments",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-6-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-6-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-6-2 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-6-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-6-4 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\n"
+},
+	"mometrix07": {
+    "answers": [
+        {
+            "answer_id": 9531853,
+            "content": "<span class=\"mm-20474-1-7-3\">Employees payroll</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531852,
+            "content": "<span class=\"mm-20474-1-7-3\">SBA loan</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531851,
+            "content": "<span class=\"mm-20474-1-7-3\">Bills for inventory</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531850,
+            "content": "<span class=\"mm-20474-1-7-3\">Social Security taxes for employees</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-7-2\"><strong class=\"mm-20474-1-7-1\"></strong><span class=\"mm-20474-1-7-3\"> An SBA loan, and other loans, would be considered a long term liability, not a current liability.</span></p>",
+    "explanation_text": "   An SBA loan, and other loans, would be considered a long term liability, not a current liability.",
+    "prompt": "On a balance sheet, which of the following would not be considered a current liability?",
+    "prompt_text": "On a balance sheet, which of the following would not be considered a current liability?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-7-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-7-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-7-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-7-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix08": {
+    "answers": [
+        {
+            "answer_id": 9531857,
+            "content": "<span class=\"mm-20474-1-8-3\">Operating expenses</span>",
+            "correct": true,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531856,
+            "content": "<span class=\"mm-20474-1-8-3\">Cost of goods sold</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531855,
+            "content": "<span class=\"mm-20474-1-8-3\">Sales revenue</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531854,
+            "content": "<span class=\"mm-20474-1-8-3\">Packaging</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-8-2\"><strong class=\"mm-20474-1-8-1\"></strong><span class=\"mm-20474-1-8-3\"> Operating expenses are not considered in calculating gross margin, but are factored into the operating margin.</span></p>",
+    "explanation_text": "   Operating expenses are not considered in calculating gross margin, but are factored into the operating margin.",
+    "prompt": "On an income statement, all of the following would be factored into the gross margin except which of the following?",
+    "prompt_text": "On an income statement, all of the following would be factored into the gross margin except which of the following?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-8-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-8-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-8-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-8-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix09": {
+    "answers": [
+        {
+            "answer_id": 9531861,
+            "content": "<span class=\"mm-20474-1-9-3\">1 and 2</span>",
+            "correct": true,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531860,
+            "content": "<span class=\"mm-20474-1-9-3\">3 and 4</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531859,
+            "content": "<span class=\"mm-20474-1-9-3\">1, 2, and 3</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531858,
+            "content": "<span class=\"mm-20474-1-9-3\">All of the above</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-9-4\"><strong class=\"mm-20474-1-9-1\"></strong><span class=\"mm-20474-1-9-3\"> Stockholders' equity is equal to a company's assets minus its liabilities. Another name for this is net worth.</span></p>",
+    "explanation_text": "   Stockholders' equity is equal to a company's assets minus its liabilities. Another name for this is net worth.",
+    "prompt": "Stockholders' equity can be defined as:</strong></p><p class=\"mm-20474-1-9-2\"><span class=\"mm-20474-1-9-3\">1. Assets - Liabilities</span></p><p class=\"mm-20474-1-9-2\"><span class=\"mm-20474-1-9-3\">2. Net worth</span></p><p class=\"mm-20474-1-9-2\"><span class=\"mm-20474-1-9-3\">3. Operating profits</span></p><p class=\"mm-20474-1-9-2\"><span class=\"mm-20474-1-9-3\">4. Par value of common stock</span>",
+    "prompt_text": "Stockholders' equity can be defined as: 1. Assets - Liabilities 2. Net worth 3. Operating profits 4. Par value of common stock",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-9-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-9-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-9-2 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-9-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-9-4 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\n"
+},
+	"mometrix10": {
+    "answers": [
+        {
+            "answer_id": 9531865,
+            "content": "<span class=\"mm-20474-1-10-3\">Gross margin</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531864,
+            "content": "<span class=\"mm-20474-1-10-3\">Price to earnings multiple</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531863,
+            "content": "<span class=\"mm-20474-1-10-3\">Dividend payout ratio</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531862,
+            "content": "<span class=\"mm-20474-1-10-3\">Earnings before Interest, Taxes, Depreciation, and Amortization</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-10-2\"><strong class=\"mm-20474-1-10-1\"></strong><span class=\"mm-20474-1-10-3\"> The P/E ratio is the quickest and easiest way to determine whether a given stock is cheap or expensive. This ratio is most helpful as a way to see changes over time and compared to history.</span></p>",
+    "explanation_text": "   The P/E ratio is the quickest and easiest way to determine whether a given stock is cheap or expensive. This ratio is most helpful as a way to see changes over time and compared to history.",
+    "prompt": "Which of the following metrics give you an idea of whether or not a stock is expensive or cheap?",
+    "prompt_text": "Which of the following metrics give you an idea of whether or not a stock is expensive or cheap?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-10-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-10-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-10-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-10-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix11": {
+    "answers": [
+        {
+            "answer_id": 9531869,
+            "content": "<span class=\"mm-20474-1-11-3\">Capital Expenditures</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531868,
+            "content": "<span class=\"mm-20474-1-11-3\">Changes in operating margins</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531867,
+            "content": "<span class=\"mm-20474-1-11-3\">Changes in price to earnings ratio</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531866,
+            "content": "<span class=\"mm-20474-1-11-3\">S, G, and A expenses</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-11-2\"><strong class=\"mm-20474-1-11-1\"></strong><span class=\"mm-20474-1-11-3\"> Changes in P/E ratios are constant, moving daily with the stock price. This is publicly available information and is not something the company has any control over.</span></p>",
+    "explanation_text": "   Changes in P/E ratios are constant, moving daily with the stock price. This is publicly available information and is not something the company has any control over.",
+    "prompt": "Which of the following financial metrics will not be found in a company's 10-K?",
+    "prompt_text": "Which of the following financial metrics will not be found in a company's 10-K?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-11-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-11-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-11-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-11-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix12": {
+    "answers": [
+        {
+            "answer_id": 9531873,
+            "content": "<span class=\"mm-20474-1-12-3\">The one with the highest standard deviation</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531872,
+            "content": "<span class=\"mm-20474-1-12-3\">The one with the highest Sharpe ratio</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531871,
+            "content": "<span class=\"mm-20474-1-12-3\">The one with the highest Sortino ratio</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531870,
+            "content": "<span class=\"mm-20474-1-12-3\">The one with the highest positive Alpha</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-12-2\"><strong class=\"mm-20474-1-12-1\"></strong><span class=\"mm-20474-1-12-3\"> A fund that consistently has positive Alpha is a winner. Usually this is best when risk is taken into account. You can get a higher overall return by taking more risk, but there may be no Alpha at all and that really hurts in a down market.</span></p>",
+    "explanation_text": "   A fund that consistently has positive Alpha is a winner. Usually this is best when risk is taken into account. You can get a higher overall return by taking more risk, but there may be no Alpha at all and that really hurts in a down market.",
+    "prompt": "Which of the following mutual funds would you most like to invest in?",
+    "prompt_text": "Which of the following mutual funds would you most like to invest in?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-12-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-12-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-12-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-12-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix13": {
+    "answers": [
+        {
+            "answer_id": 9531877,
+            "content": "<span class=\"mm-20474-1-13-3\">The time value of money</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531876,
+            "content": "<span class=\"mm-20474-1-13-3\">The internal rate of return (IRR)</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531875,
+            "content": "<span class=\"mm-20474-1-13-3\">The future value</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531874,
+            "content": "<span class=\"mm-20474-1-13-3\">The net present value (NPV)</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-13-2\"><strong class=\"mm-20474-1-13-1\"></strong><span class=\"mm-20474-1-13-3\"> You would need to calculate the future value of that $100,000 at a rate of return available to you to determine whether it's better to receive the money now or later</span></p>",
+    "explanation_text": "   You would need to calculate the future value of that $100,000 at a rate of return available to you to determine whether it's better to receive the money now or later",
+    "prompt": "If someone offered you $100,000 today, or $120,000 five years from now, you would need to calculate what in order to make a good decision?",
+    "prompt_text": "If someone offered you $100,000 today, or $120,000 five years from now, you would need to calculate what in order to make a good decision?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-13-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-13-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-13-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-13-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix14": {
+    "answers": [
+        {
+            "answer_id": 9531881,
+            "content": "<span class=\"mm-20474-1-14-3\">3'11\"</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531880,
+            "content": "<span class=\"mm-20474-1-14-3\">4'0\"</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531879,
+            "content": "<span class=\"mm-20474-1-14-3\">4'1\"</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531878,
+            "content": "<span class=\"mm-20474-1-14-3\">3'9\"</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-14-2\"><strong class=\"mm-20474-1-14-1\"></strong><span class=\"mm-20474-1-14-3\"> The median is the number in the middle, not the average. Four kids are under 4' and four kids are over 4'.</span></p>",
+    "explanation_text": "   The median is the number in the middle, not the average. Four kids are under 4' and four kids are over 4'.",
+    "prompt": "In a classroom of kids, 2 kids are 3'4\" tall, 2 kids are 3'6\" tall, 2 kids are 4' tall, 2 kids are 4'3\" tall, and 2 kids are 4'8\" tall. What is the median height?",
+    "prompt_text": "In a classroom of kids, 2 kids are 3'4\" tall, 2 kids are 3'6\" tall, 2 kids are 4' tall, 2 kids are 4'3\" tall, and 2 kids are 4'8\" tall. What is the median height?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-14-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-14-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-14-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-14-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix15": {
+    "answers": [
+        {
+            "answer_id": 9531885,
+            "content": "<span class=\"mm-20474-1-15-3\">Inflation risk</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531884,
+            "content": "<span class=\"mm-20474-1-15-3\">Greener grass principle</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531883,
+            "content": "<span class=\"mm-20474-1-15-3\">Opportunity cost</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531882,
+            "content": "<span class=\"mm-20474-1-15-3\">Market risk</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-15-2\"><strong class=\"mm-20474-1-15-1\"></strong><span class=\"mm-20474-1-15-3\"> The 3% return you could have had is the opportunity cost given up in favor of a potentially higher return. Opportunity cost being perceived very high is often what drags investors into the stock market at highs rather than lows.</span></p>",
+    "explanation_text": "   The 3% return you could have had is the opportunity cost given up in favor of a potentially higher return. Opportunity cost being perceived very high is often what drags investors into the stock market at highs rather than lows.",
+    "prompt": "Forsaking a guaranteed return of 3% in order to pursue a 10% return is known as what?",
+    "prompt_text": "Forsaking a guaranteed return of 3% in order to pursue a 10% return is known as what?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-15-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-15-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-15-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-15-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix16": {
+    "answers": [
+        {
+            "answer_id": 9531889,
+            "content": "<span class=\"mm-20474-1-16-3\">Interest rate risk</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531888,
+            "content": "<span class=\"mm-20474-1-16-3\">Credit risk</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531887,
+            "content": "<span class=\"mm-20474-1-16-3\">Purchasing power risk</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531886,
+            "content": "<span class=\"mm-20474-1-16-3\">All of the above</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-16-2\"><strong class=\"mm-20474-1-16-1\"></strong><span class=\"mm-20474-1-16-3\"> Particularly with interest rates and yields so low today, fixed income investors have to worry about all of these risks.</span></p>",
+    "explanation_text": "   Particularly with interest rates and yields so low today, fixed income investors have to worry about all of these risks.",
+    "prompt": "A retiree today heavily invested in fixed income faces which of the following risks?",
+    "prompt_text": "A retiree today heavily invested in fixed income faces which of the following risks?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-16-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-16-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-16-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-16-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix17": {
+    "answers": [
+        {
+            "answer_id": 9531893,
+            "content": "<span class=\"mm-20474-1-17-3\">Using ETFs instead of individual stocks</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531892,
+            "content": "<span class=\"mm-20474-1-17-3\">Investing in multiple countries</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531891,
+            "content": "<span class=\"mm-20474-1-17-3\">Buy deep value equities</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531890,
+            "content": "<span class=\"mm-20474-1-17-3\">Using mutual funds instead of individual stocks</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-17-2\"><strong class=\"mm-20474-1-17-1\"></strong><span class=\"mm-20474-1-17-3\"> While buying deep value stocks can be a good investing strategy, it does not necessarily help you avoid any non-systematic risks.</span></p>",
+    "explanation_text": "   While buying deep value stocks can be a good investing strategy, it does not necessarily help you avoid any non-systematic risks.",
+    "prompt": "Which of the following is not a good way to diversify non-systematic risk in a portfolio?",
+    "prompt_text": "Which of the following is not a good way to diversify non-systematic risk in a portfolio?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-17-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-17-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-17-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-17-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix18": {
+    "answers": [
+        {
+            "answer_id": 9531897,
+            "content": "<span class=\"mm-20474-1-18-3\">Default risk</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531896,
+            "content": "<span class=\"mm-20474-1-18-3\">Liquidity risk</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531895,
+            "content": "<span class=\"mm-20474-1-18-3\">Currency risk</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531894,
+            "content": "<span class=\"mm-20474-1-18-3\">Purchasing power risk</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-18-2\"><strong class=\"mm-20474-1-18-1\"></strong><span class=\"mm-20474-1-18-3\"> Purchasing power risk, or inflation risk, is one of the most overlooked and ignored by conservative investors. To balance this risk, they are often required to take on more risk of another kind.</span></p>",
+    "explanation_text": "   Purchasing power risk, or inflation risk, is one of the most overlooked and ignored by conservative investors. To balance this risk, they are often required to take on more risk of another kind.",
+    "prompt": "One of the most overlooked risks by conservative investors is:",
+    "prompt_text": "One of the most overlooked risks by conservative investors is:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-18-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-18-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-18-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-18-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix19": {
+    "answers": [
+        {
+            "answer_id": 9531901,
+            "content": "<span class=\"mm-20474-1-19-3\">Reinvestment risk</span>",
+            "correct": true,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531900,
+            "content": "<span class=\"mm-20474-1-19-3\">Political risk</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531899,
+            "content": "<span class=\"mm-20474-1-19-3\">Currency risk</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531898,
+            "content": "<span class=\"mm-20474-1-19-3\">Opportunity cost</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-19-2\"><strong class=\"mm-20474-1-19-1\"></strong><span class=\"mm-20474-1-19-3\"> Typically, EM equities are invested in simply for capital appreciation, not income. Income investors tend to prefer much less volatility than is normal in emerging markets.</span></p>",
+    "explanation_text": "    Typically,  EM equities are invested in simply for capital appreciation, not income. Income investors tend to prefer much less volatility than is normal in emerging markets.",
+    "prompt": "Emerging markets equity investors generally don't have to worry about which of the following risks?",
+    "prompt_text": "Emerging markets equity investors generally don't have to worry about which of the following risks?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-19-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-19-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-19-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-19-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix20": {
+    "answers": [
+        {
+            "answer_id": 9531905,
+            "content": "<span class=\"mm-20474-1-20-3\">Repurchase agreements</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531904,
+            "content": "<span class=\"mm-20474-1-20-3\">US T-bills</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531903,
+            "content": "<span class=\"mm-20474-1-20-3\">Banker's Acceptance</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531902,
+            "content": "<span class=\"mm-20474-1-20-3\">Reverse repurchase agreements</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-20-2\"><strong class=\"mm-20474-1-20-1\"></strong><span class=\"mm-20474-1-20-3\"> Banker's acceptance is commonly used among buyers and sellers in different countries involving the purchase of widgets.</span></p>",
+    "explanation_text": "   Banker's acceptance is commonly used among buyers and sellers in different countries involving the purchase of widgets.",
+    "prompt": "What kind of money market security is most often used for international business transactions?",
+    "prompt_text": "What kind of money market security is most often used for international business transactions?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-20-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-20-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-20-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-20-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix21": {
+    "answers": [
+        {
+            "answer_id": 9531909,
+            "content": "<span class=\"mm-20474-1-21-3\">Commercial paper</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531908,
+            "content": "<span class=\"mm-20474-1-21-3\">Repurchase agreements</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531907,
+            "content": "<span class=\"mm-20474-1-21-3\">Bankers Acceptance</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531906,
+            "content": "<span class=\"mm-20474-1-21-3\">T-bills</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-21-2\"><strong class=\"mm-20474-1-21-1\"></strong><span class=\"mm-20474-1-21-3\"> Repurchase agreements are primarily a private transaction, with no real secondary market. This illiquidity makes it very important to know your counterparty very well.</span></p>",
+    "explanation_text": "   Repurchase agreements are primarily a private transaction, with no real secondary market. This illiquidity makes it very important to know your counterparty very well.",
+    "prompt": "Which money market instrument doesn't really have a secondary, liquid market?",
+    "prompt_text": "Which money market instrument doesn't really have a secondary, liquid market?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-21-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-21-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-21-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-21-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix22": {
+    "answers": [
+        {
+            "answer_id": 9531913,
+            "content": "<span class=\"mm-20474-1-22-3\">Commercial paper</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531912,
+            "content": "<span class=\"mm-20474-1-22-3\">T-bills</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531911,
+            "content": "<span class=\"mm-20474-1-22-3\">CDs</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531910,
+            "content": "<span class=\"mm-20474-1-22-3\">Tax exempt municipal notes</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-22-2\"><strong class=\"mm-20474-1-22-1\"></strong><span class=\"mm-20474-1-22-3\"> All things being equal, the tax free nature of municipal notes will result in a lower rate of interest, which after taxes are considered is likely to be competitive.</span></p>",
+    "explanation_text": "   All things being equal, the tax free nature of municipal notes will result in a lower rate of interest, which after taxes are considered is likely to be competitive.",
+    "prompt": "Which money market instrument would normally pay a lower interest rate than others of similar maturity?",
+    "prompt_text": "Which money market instrument would normally pay a lower interest rate than others of similar maturity?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-22-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-22-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-22-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-22-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix23": {
+    "answers": [
+        {
+            "answer_id": 9531917,
+            "content": "<span class=\"mm-20474-1-23-3\">Safety</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531916,
+            "content": "<span class=\"mm-20474-1-23-3\">High interest rates</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531915,
+            "content": "<span class=\"mm-20474-1-23-3\">Local and state tax treatment</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531914,
+            "content": "<span class=\"mm-20474-1-23-3\">Liquidity</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-23-2\"><strong class=\"mm-20474-1-23-1\"></strong><span class=\"mm-20474-1-23-3\"> As the \"safest\" investment in the world, US bonds don't pay as much as any other type of bond, but this is offset by the superior safety and liquidity.</span></p>",
+    "explanation_text": "   As the \"safest\" investment in the world, US bonds don't pay as much as any other type of bond, but this is offset by the superior safety and liquidity.",
+    "prompt": "Which of the following is not a reason for investing in US Government bonds?",
+    "prompt_text": "Which of the following is not a reason for investing in US Government bonds?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-23-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-23-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-23-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-23-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix24": {
+    "answers": [
+        {
+            "answer_id": 9531921,
+            "content": "<span class=\"mm-20474-1-24-3\">TIPS</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531920,
+            "content": "<span class=\"mm-20474-1-24-3\">T-bills</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531919,
+            "content": "<span class=\"mm-20474-1-24-3\">I Bonds</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531918,
+            "content": "<span class=\"mm-20474-1-24-3\">Zero coupon bonds</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-24-2\"><strong class=\"mm-20474-1-24-1\"></strong><span class=\"mm-20474-1-24-3\"> I bonds can only be redeemed by the US Government itself. They are non-negotiable, and are simply savings bonds, not securities.</span></p>",
+    "explanation_text": "   I bonds can only be redeemed by the US Government itself. They are non-negotiable, and are simply savings bonds, not securities.",
+    "prompt": "Which of the following bonds does not have a secondary market?",
+    "prompt_text": "Which of the following bonds does not have a secondary market?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-24-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-24-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-24-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-24-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix25": {
+    "answers": [
+        {
+            "answer_id": 9531925,
+            "content": "<span class=\"mm-20474-1-25-3\">At parity</span>",
+            "correct": true,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531924,
+            "content": "<span class=\"mm-20474-1-25-3\">At a premium</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531923,
+            "content": "<span class=\"mm-20474-1-25-3\">At a discount</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531922,
+            "content": "<span class=\"mm-20474-1-25-3\">At equivalency</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-25-2\"><strong class=\"mm-20474-1-25-1\"></strong><span class=\"mm-20474-1-25-3\"> A convertible bond that is trading exactly at the stock conversion price is said to be at parity.</span></p>",
+    "explanation_text": "   A convertible bond that is trading exactly at the stock conversion price is said to be at parity.",
+    "prompt": "If a bond, convertible into common at a 25:1 ratio, is trading at $1,250 and the stock price is $50, you would say the bond is:",
+    "prompt_text": "If a bond, convertible into common at a 25:1 ratio, is trading at $1,250 and the stock price is $50, you would say the bond is:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-25-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-25-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-25-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-25-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix26": {
+    "answers": [
+        {
+            "answer_id": 9531929,
+            "content": "<span class=\"mm-20474-1-26-3\">In a rising rate environment</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531928,
+            "content": "<span class=\"mm-20474-1-26-3\">In a falling rate environment</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531927,
+            "content": "<span class=\"mm-20474-1-26-3\">In a steady interest rate environment</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531926,
+            "content": "<span class=\"mm-20474-1-26-3\">The interest rate environment is not relevant</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-26-2\"><strong class=\"mm-20474-1-26-1\"></strong><span class=\"mm-20474-1-26-3\"> When rates are falling, issuers have the opportunity to refinance their debt at lower rates, making it more likely they will call their older, higher rate debt.</span></p>",
+    "explanation_text": "   When rates are falling, issuers have the opportunity to refinance their debt at lower rates, making it more likely they will call their older, higher rate debt.",
+    "prompt": "In which of the following interest rate environments are bonds most likely to be called?",
+    "prompt_text": "In which of the following interest rate environments are bonds most likely to be called?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-26-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-26-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-26-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-26-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix27": {
+    "answers": [
+        {
+            "answer_id": 9531933,
+            "content": "<span class=\"mm-20474-1-27-3\">Reinvestment risk</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531932,
+            "content": "<span class=\"mm-20474-1-27-3\">Political risk</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531931,
+            "content": "<span class=\"mm-20474-1-27-3\">Currency risk</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531930,
+            "content": "<span class=\"mm-20474-1-27-3\">Inflation risk</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-27-2\"><strong class=\"mm-20474-1-27-1\"></strong><span class=\"mm-20474-1-27-3\"> Eurodollar bonds are denominated and pay in US dollars, thereby eliminating currency risk. This can be a great way to get exposure to overseas markets without worrying about the currencies.</span></p>",
+    "explanation_text": "   Eurodollar bonds are denominated and pay in US dollars, thereby eliminating currency risk. This can be a great way to get exposure to overseas markets without worrying about the currencies.",
+    "prompt": "Which of the following can you avoid by investing in international Eurodollar bonds?",
+    "prompt_text": "Which of the following can you avoid by investing in international Eurodollar bonds?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-27-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-27-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-27-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-27-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix28": {
+    "answers": [
+        {
+            "answer_id": 9531937,
+            "content": "<span class=\"mm-20474-1-28-3\">Yield to maturity</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531936,
+            "content": "<span class=\"mm-20474-1-28-3\">Yield to call</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531935,
+            "content": "<span class=\"mm-20474-1-28-3\">Nominal yield</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531934,
+            "content": "<span class=\"mm-20474-1-28-3\">Current yield</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-28-2\"><strong class=\"mm-20474-1-28-1\"></strong><span class=\"mm-20474-1-28-3\"> The nominal yield, or coupon rate, does not change over the life of the security.</span></p>",
+    "explanation_text": "   The nominal yield, or coupon rate, does not change over the life of the security.",
+    "prompt": "For a holder of a discount bond, which of the following will not be moved by a change in interest rates?",
+    "prompt_text": "For a holder of a discount bond, which of the following will not be moved by a change in interest rates?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-28-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-28-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-28-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-28-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix29": {
+    "answers": [
+        {
+            "answer_id": 9531941,
+            "content": "<span class=\"mm-34016-1-29-3\">S&amp;P AA</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531940,
+            "content": "<span class=\"mm-34016-1-29-3\">Fitch's BBB</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531939,
+            "content": "<span class=\"mm-34016-1-29-3\">S&amp;P A</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531938,
+            "content": "<span class=\"mm-34016-1-29-3\">Fitch's BB</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-34016-1-29-2\"><strong class=\"mm-34016-1-29-1\"></strong><span class=\"mm-34016-1-29-3\"> Fitch's, and S&amp;P's, BBB rating is equivalent to Moody's Baa.</span></p>",
+    "explanation_text": "   Fitch's, and S&P's, BBB rating is equivalent to Moody's Baa.",
+    "prompt": "A bond rating from Moody's of Baa is equal to:",
+    "prompt_text": "A bond rating from Moody's of Baa is equal to:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-34016-1-29-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-34016-1-29-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-34016-1-29-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-34016-1-29-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix30": {
+    "answers": [
+        {
+            "answer_id": 9531945,
+            "content": "<span class=\"mm-20474-1-30-3\">$29.25</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531944,
+            "content": "<span class=\"mm-20474-1-30-3\">$28.75</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531943,
+            "content": "<span class=\"mm-20474-1-30-3\">$28.25</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531942,
+            "content": "<span class=\"mm-20474-1-30-3\">$25</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-30-2\"><strong class=\"mm-20474-1-30-1\"></strong><span class=\"mm-20474-1-30-3\"> Simply divide the bond's price by the conversion ratio to get the stock's price. Arbitragers sometimes specialize in taking advantage of the discounts or premiums of convertibles compared to the related stock.</span></p>",
+    "explanation_text": "   Simply divide the bond's price by the conversion ratio to get the stock's price. Arbitragers sometimes specialize in taking advantage of the discounts or premiums of convertibles compared to the related stock.",
+    "prompt": "If a convertible bond is convertible at 40:1, and the bond is trading at $1,150, what is the stock's price?",
+    "prompt_text": "If a convertible bond is convertible at 40:1, and the bond is trading at $1,150, what is the stock's price?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-30-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-30-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-30-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-30-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix31": {
+    "answers": [
+        {
+            "answer_id": 9531949,
+            "content": "<span class=\"mm-20474-1-31-3\">Warrants</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531948,
+            "content": "<span class=\"mm-20474-1-31-3\">REITs</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531947,
+            "content": "<span class=\"mm-20474-1-31-3\">ADRs</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531946,
+            "content": "<span class=\"mm-20474-1-31-3\">Preferred stocks</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-31-2\"><strong class=\"mm-20474-1-31-1\"></strong><span class=\"mm-20474-1-31-3\"> American Depository Receipts are the simplest way to invest in foreign stocks. These shares remove some of the worries of investing in countries with less rigorous regulations.</span></p>",
+    "explanation_text": "   American Depository Receipts are the simplest way to invest in foreign stocks. These shares remove some of the worries of investing in countries with less rigorous regulations.",
+    "prompt": "The best way for an American investor to get exposure to foreign stocks:",
+    "prompt_text": "The best way for an American investor to get exposure to foreign stocks:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-31-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-31-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-31-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-31-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix32": {
+    "answers": [
+        {
+            "answer_id": 9531953,
+            "content": "<span class=\"mm-20474-1-32-3\">Senior position in a liquidation event</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531952,
+            "content": "<span class=\"mm-20474-1-32-3\">Senior position in dividend payments</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531951,
+            "content": "<span class=\"mm-20474-1-32-3\">Greater chance for capital gains</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531950,
+            "content": "<span class=\"mm-20474-1-32-3\">Don't have to bother with voting rights issues</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-32-2\"><strong class=\"mm-20474-1-32-1\"></strong><span class=\"mm-20474-1-32-3\"> Common stocks are much more likely to have capital gains than preferred. Preferred stock doesn't have voting rights.</span></p>",
+    "explanation_text": "   Common stocks are much more likely to have capital gains than  preferred . Preferred stock doesn't have voting rights.",
+    "prompt": "Which is not a benefit of investing in Preferred stock over common stock?",
+    "prompt_text": "Which is not a benefit of investing in Preferred stock over common stock?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-32-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-32-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-32-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-32-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix33": {
+    "answers": [
+        {
+            "answer_id": 9531957,
+            "content": "<span class=\"mm-20474-1-33-3\">19.2%</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531956,
+            "content": "<span class=\"mm-20474-1-33-3\">23%</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531955,
+            "content": "<span class=\"mm-20474-1-33-3\">24.7%</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531954,
+            "content": "<span class=\"mm-20474-1-33-3\">27.5%</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-33-2\"><strong class=\"mm-20474-1-33-1\"></strong><span class=\"mm-20474-1-33-3\"> The total return of capital appreciation plus dividends is 24.7%. $54.25 minus $45.50 is $8.75 of capital appreciation, plus dividends of $2.50 equals $11.25 of total return.  $11.25 return on $45.50 is 24.7%.  </span></p>",
+    "explanation_text": "   The total return of capital appreciation plus dividends is 24.7%. $54.25 minus $45.50 is $8.75 of capital appreciation, plus dividends of $2.50 equals $11.25 of total return.  $11.25 return on $45.50 is 24.7%.  ",
+    "prompt": "What is the total return for a stock that was bought at $45.50, and is now at $54.25 and paid dividends of $2.50?",
+    "prompt_text": "What is the total return for a stock that was bought at $45.50, and is now at $54.25 and paid dividends of $2.50?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-33-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-33-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-33-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-33-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix34": {
+    "answers": [
+        {
+            "answer_id": 9531961,
+            "content": "<span class=\"mm-47317-1-34-3\">A preferred stock paying 6%</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531960,
+            "content": "<span class=\"mm-47317-1-34-3\">A corporate bond paying 7%</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531959,
+            "content": "<span class=\"mm-47317-1-34-3\">A municipal bond paying 5%</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531958,
+            "content": "<span class=\"mm-47317-1-34-3\">A common stock growing by 5%</span>",
+            "correct": true,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-47317-1-34-2\"><strong class=\"mm-47317-1-34-1\"></strong><span class=\"mm-47317-1-34-3\"> A common stock growing by 5% would double in approximately 14 years. 72 divided by 5 = 14.4.</span></p>",
+    "explanation_text": "   A  common stock growing by  5% would double in approximately 14 years. 72 divided by 5 = 14.4.",
+    "prompt": "Using the Rule of 72, which of the following investments would double in 14 years?",
+    "prompt_text": "Using the Rule of 72, which of the following investments would double in 14 years?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-47317-1-34-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-47317-1-34-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-47317-1-34-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-47317-1-34-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix35": {
+    "answers": [
+        {
+            "answer_id": 9531965,
+            "content": "<span class=\"mm-20474-1-35-3\">REITs</span>",
+            "correct": true,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531964,
+            "content": "<span class=\"mm-20474-1-35-3\">Preferred stock in a real estate company</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531963,
+            "content": "<span class=\"mm-20474-1-35-3\">Common stock in a real estate company</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531962,
+            "content": "<span class=\"mm-20474-1-35-3\">ADRs</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-35-2\"><strong class=\"mm-20474-1-35-1\"></strong><span class=\"mm-20474-1-35-3\"> REITs, or Real Estate Investment Trusts, are the best way for most people to invest in commercial real estate.</span></p>",
+    "explanation_text": "   REITs, or Real Estate Investment Trusts, are the best way for most people to invest in commercial real estate.",
+    "prompt": "The best option for someone wanting to invest in real estate, but needing liquidity, is:",
+    "prompt_text": "The best option for someone wanting to invest in real estate, but needing liquidity, is:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-35-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-35-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-35-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-35-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix36": {
+    "answers": [
+        {
+            "answer_id": 9531969,
+            "content": "<span class=\"mm-20474-1-36-3\">Price to Earnings ratio</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531968,
+            "content": "<span class=\"mm-20474-1-36-3\">Market Capitalization</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531967,
+            "content": "<span class=\"mm-20474-1-36-3\">Price to Book ratio</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531966,
+            "content": "<span class=\"mm-20474-1-36-3\">Price to Sales ratio</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-36-2\"><strong class=\"mm-20474-1-36-1\"></strong><span class=\"mm-20474-1-36-3\"> The Market Cap is simply the value of all of the outstanding shares. The market cap will grow as the share price grows, or vice versa.</span></p>",
+    "explanation_text": "   The Market Cap is simply the value of all of the outstanding shares. The market cap will grow as the share price grows, or vice versa.",
+    "prompt": "All of the following are fundamental ways to value a stock, except:",
+    "prompt_text": "All of the following are fundamental ways to value a stock, except:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-36-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-36-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-36-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-36-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix37": {
+    "answers": [
+        {
+            "answer_id": 9531973,
+            "content": "<span class=\"mm-20474-1-37-3\">1 and 2</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531972,
+            "content": "<span class=\"mm-20474-1-37-3\">2 and 3</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531971,
+            "content": "<span class=\"mm-20474-1-37-3\">3 and 4</span>",
+            "correct": true,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531970,
+            "content": "<span class=\"mm-20474-1-37-3\">2 and 4</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-37-4\"><strong class=\"mm-20474-1-37-1\"></strong><span class=\"mm-20474-1-37-3\"> Both the A/D ratio and moving averages are forms of technical analysis, not fundamental. P/E and P/S ratios are both valuation metrics used by fundamental investors.</span></p>",
+    "explanation_text": "   Both the A/D ratio and moving averages are forms of technical analysis, not fundamental. P/E and P/S ratios are both valuation metrics used by fundamental investors.",
+    "prompt": "Which combination of factors is most likely to be used by fundamental investors?</strong></p><p class=\"mm-20474-1-37-2\"><span class=\"mm-20474-1-37-3\">1. 200 day moving average</span></p><p class=\"mm-20474-1-37-2\"><span class=\"mm-20474-1-37-3\">2. Advance/Decline ratio</span></p><p class=\"mm-20474-1-37-2\"><span class=\"mm-20474-1-37-3\">3. Price/Sales ratio</span></p><p class=\"mm-20474-1-37-2\"><span class=\"mm-20474-1-37-3\">4. Price/Earnings ratio</span>",
+    "prompt_text": "Which combination of factors is most likely to be used by fundamental investors? 1. 200 day moving average 2. Advance/Decline ratio 3. Price/Sales ratio 4. Price/Earnings ratio",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-37-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-37-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-37-2 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-37-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-37-4 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\n"
+},
+	"mometrix38": {
+    "answers": [
+        {
+            "answer_id": 9531977,
+            "content": "<span class=\"mm-20474-1-38-3\">Diversification</span>",
+            "correct": true,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531976,
+            "content": "<span class=\"mm-20474-1-38-3\">Professional management</span>",
+            "correct": false,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531975,
+            "content": "<span class=\"mm-20474-1-38-3\">Better performance</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531974,
+            "content": "<span class=\"mm-20474-1-38-3\">Reduced expenses</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-20474-1-38-2\"><strong class=\"mm-20474-1-38-1\"></strong><span class=\"mm-20474-1-38-3\"> Diversification is the overwhelming benefit of pooled investments to the individual investor. The expenses and performance may be good or bad, expensive or cheap. And ETFs are often not managed at all.</span></p>",
+    "explanation_text": "   Diversification is the overwhelming benefit of pooled investments to the individual investor. The expenses and performance may be good or bad, expensive or cheap. And ETFs are often not managed at all.",
+    "prompt": "The primary benefit of a pooled investment is:",
+    "prompt_text": "The primary benefit of a pooled investment is:",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-20474-1-38-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-20474-1-38-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-20474-1-38-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-20474-1-38-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+},
+	"mometrix39": {
+    "answers": [
+        {
+            "answer_id": 9531981,
+            "content": "<span class=\"mm-44859-1-39-3\">A Balanced fund</span>",
+            "correct": false,
+            "id": "1",
+            "name": "a"
+        },
+        {
+            "answer_id": 9531980,
+            "content": "<span class=\"mm-44859-1-39-3\">A Hedge fund</span>",
+            "correct": true,
+            "id": "2",
+            "name": "b"
+        },
+        {
+            "answer_id": 9531979,
+            "content": "<span class=\"mm-44859-1-39-3\">An Equity Income fund</span>",
+            "correct": false,
+            "id": "3",
+            "name": "c"
+        },
+        {
+            "answer_id": 9531978,
+            "content": "<span class=\"mm-44859-1-39-3\">A Growth fund</span>",
+            "correct": false,
+            "id": "4",
+            "name": "d"
+        }
+    ],
+    "explanation": "<p class=\"mm-44859-1-39-2\"><strong class=\"mm-44859-1-39-1\"></strong><span class=\"mm-44859-1-39-3\"> A hedge fund is different from a mutual fund in that it is only available to accredited investors, employs alternative investment strategies, and has limited windows for contributing and withdrawing capital.</span></p>",
+    "explanation_text": "   A hedge fund  is different from a mutual fund in that it is only available to accredited investors, employs alternative investment strategies, and has limited windows for contributing and withdrawing capital .",
+    "prompt": "Which of the following is not a type of mutual fund?",
+    "prompt_text": "Which of the following is not a type of mutual fund?",
+    "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-44859-1-39-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-44859-1-39-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-44859-1-39-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-44859-1-39-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
+}
+};
