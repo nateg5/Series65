@@ -974,7 +974,7 @@ let data84 = {
                 0
             ],
             [
-                "B) Hold the preferred stock to continue the 5½% yield.",
+                "B) Hold the preferred stock to continue the 5.5% yield.",
                 0,
                 0
             ],
@@ -992,7 +992,7 @@ let data84 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Your customer owns $100 par 5½% callable convertible preferred stock convertible into 4 shares of common stock at $25. What should she be advised to do if the board of directors were to call all the preferred at 106 when the common stock is trading at $25.50?",
+            "question_title": "Your customer owns $100 par 5.5% callable convertible preferred stock convertible into 4 shares of common stock at $25. What should she be advised to do if the board of directors were to call all the preferred at 106 when the common stock is trading at $25.50?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",

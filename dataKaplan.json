@@ -1,0 +1,852 @@
+let dataKaplan = {
+	"kaplan01": {
+		"answers": [{
+			"content": "be sure that all recommendations to clients are suitable",
+			"correct": false
+		},{
+			"content": "charge fees that are reasonable under the circumstances of the account",
+			"correct": false
+		},{
+			"content": "disclose all potential conflicts of interest",
+			"correct": false
+		},{
+			"content": "always place the client's interest ahead of its own",
+			"correct": true
+		}],
+		"explanation": "Although each of these is a requirement for acting ethically as an investment adviser, the only choice that specifically reflects the obligation as a fiduciary is to place the interest of the clients first.",
+		"prompt": "One of the distinguishing characteristics of an investment adviser is that of fiduciary responsibility to clients. That responsibility specifically requires the IA to"
+	},
+	"kaplan02": {
+		"answers": [{
+			"content": "Direct ownership of real estate properties",
+			"correct": true
+		},{
+			"content": "Investment in a real estate investment trust (REIT)",
+			"correct": false
+		},{
+			"content": "Private market mortgage lending by an insurance company",
+			"correct": false
+		},{
+			"content": "Investment in a real estate mutual fund",
+			"correct": false
+		}],
+		"explanation": "Real estate investments take four major forms: private equity, publicly-traded equity, private debt, and publicly-traded debt. Private equity investment in real estate refers to direct ownership of real estate properties. Mortgage lending by banks or insurance companies is best described as private debt. Indirect ownership of real estate through equity securities such as REITs is an example of publicly-traded equity.",
+		"prompt": "Which of the following most accurately identifies a private equity investment in income-producing real estate?"
+	},
+	"kaplan03": {
+		"answers": [{
+			"content": "A stock dividend for which the stockholders give nothing of value",
+			"correct": false
+		},{
+			"content": "Any bona fide pledge or loan",
+			"correct": false
+		},{
+			"content": "Preemptive rights",
+			"correct": true
+		},{
+			"content": "An act incidental to a class vote by stockholders pursuant to the applicable corporate statute on a merger",
+			"correct": false
+		}],
+		"explanation": "The preemptive right frequently given to common stockholders allowing them to purchase shares of a forthcoming issue is considered to be an offer of that upcoming issue. The terms \"sale\" or \"sell\" include every contract of sale, contract to sell, or any disposition of a security for value. A gift of a security is not considered a sale. The terms \"offer\" and \"offer to sell\" represent any effort to dispose of a security for value. This does not include bona fide loans, stock dividends, or dispositions pursuant to corporate statutes.",
+		"prompt": "The terms \"offer,\" \"offer to sell,\" \"sale,\" and \"sell\" include which of the following?"
+	},
+	"kaplan04": {
+		"answers": [{
+			"content": "A vacation trip to Orlando",
+			"correct": true
+		},{
+			"content": "Milk, bread, and eggs",
+			"correct": false
+		},{
+			"content": "Paying for the minor's share of the heating and lighting expenses",
+			"correct": false
+		},{
+			"content": "A new suit",
+			"correct": false
+		}],
+		"explanation": "Although the custodian has wide latitude in how money in this account may be spent, in general, it is not permitted to use it for the basic necessities, such as food, clothing, and shelter.",
+		"prompt": "Money in an UTMA may be used to pay for certain expenses relating to the minor. Which of the following would be permitted usage of funds in an UTMA?"
+	},
+	"kaplan05": {
+		"answers": [{
+			"content": "only the exchange is obligated to perform",
+			"correct": false
+		},{
+			"content": "only the seller is obligated to perform",
+			"correct": false
+		},{
+			"content": "both the buyer and the seller are obligated to perform",
+			"correct": true
+		},{
+			"content": "only the buyer is obligated to perform",
+			"correct": false
+		}],
+		"explanation": "Among the ways in which futures differ from options is that both parties, long and short, are obligated to execute the contract. At expiration date, if not exercised before, the buyer must purchase at the contract price and the seller must deliver at the contract price. In the case of options, the buyer (long position) is the one who chooses to exercise or not, and it is the seller (short position) who becomes obligated to perform.",
+		"prompt": "An investor goes short 5 soybean futures contracts on the Chicago Mercantile Exchange (CME). When the contract expires,"
+	},
+	"kaplan06": {
+		"answers": [{
+			"content": "Heavy industries such as steel",
+			"correct": false
+		},{
+			"content": "Cyclical industries",
+			"correct": false
+		},{
+			"content": "Defensive industries",
+			"correct": false
+		},{
+			"content": "Utilities",
+			"correct": true
+		}],
+		"explanation": "Utility stocks tend to be interest rate sensitive for two reasons. First, they are typically bought for income portfolios, and, as such, changes to interest rates impact their price. Second, because utilities are typically the most highly leveraged of all industries, an increase in interest rates could substantially increase their debt service costs and thus reduce earnings.",
+		"prompt": "The Federal Reserve Board has just taken action leading to an increase in interest rates. Which of the following industries is most likely to be affected adversely by this action?"
+	},
+	"kaplan07": {
+		"answers": [{
+			"content": "appreciation",
+			"correct": false
+		},{
+			"content": "inflation rate",
+			"correct": false
+		},{
+			"content": "marginal tax bracket",
+			"correct": true
+		},{
+			"content": "dividends",
+			"correct": false
+		}],
+		"explanation": "The real rate of return is another term for inflation-adjusted return. It is the total return, which is appreciation plus income (dividends), which is then adjusted for the inflation rate as expressed by the CPI. Tax bracket is necessary to compute after-tax return.appreciation",
+		"prompt": "In order to compute an investor's real rate of return on a common stock holding, all of the following are necessary EXCEPT"
+	},
+	"kaplan08": {
+		"answers": [{
+			"content": "the LIBOR",
+			"correct": true
+		},{
+			"content": "the Eurobond rate",
+			"correct": false
+		},{
+			"content": "the U.S. Treasury bill rate",
+			"correct": false
+		},{
+			"content": "the Fed funds rate",
+			"correct": false
+		}],
+		"explanation": "LIBOR stands for London Interbank Offered Rate and, for the rest of the world outside of the U.S., is the standard upon which short-term rates are based.",
+		"prompt": "A European corporation seeking a short-term loan would probably be most concerned about an increase to:"
+	},
+	"kaplan09": {
+		"answers": [{
+			"content": "1 year after discovery or 3 years after the action, whichever is sooner",
+			"correct": true
+		},{
+			"content": "1 year after discovery of the action",
+			"correct": false
+		},{
+			"content": "2 years after discovery or 3 years after the action, whichever is sooner",
+			"correct": false
+		},{
+			"content": "2 years after the action",
+			"correct": false
+		}],
+		"explanation": "In the federal regulations, the statute of limitations for a civil action is the sooner of 1 year after discovery or 3 years after the action. Under the USA, it is the sooner of 2 years after discovery or 3 years after the action.",
+		"prompt": "Under federal law, the statute of limitations for civil liability is"
+	},
+	"kaplan10": {
+		"answers": [{
+			"content": "I only",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": false
+		},{
+			"content": "II only",
+			"correct": true
+		},{
+			"content": "II and III",
+			"correct": false
+		}],
+		"explanation": "Under federal law, publishers of bona fide newspapers, magazines, and financial publications of general and regular circulation are excluded from the definition of an investment adviser. Under state law, the publication of investment advice that is not based on the specific investment situation of each client excludes the publisher from the definition of an investment adviser. Based on these definitions, the publisher of an investment advisory newsletter providing only impersonal investment advice available only on a subscription basis is not required to register under federal or state law. The investment adviser representatives of a federal registered adviser are required to register in each state in which they have a place of business. The Uniform Securities Act provides a de minimis standard exemption from state registration for advisers who have no place of business in a state and have fewer than six clients resident in the state. A person employed by and supervised by a federal registered investment adviser who is not an investment adviser representative with natural person clients (as defined by federal law) is not required to register with state Administrators.",
+		"prompt": "Which of the following is (are) required to register with a state Administrator?<br><br>I. An adviser who only provides impersonal investment advice through newspaper columns, magazine articles, or financial publication of general and regular circulation<br>II. Investment adviser representatives of federal registered advisers who have natural person clients and have a place of business in the state<br>III. An investment adviser who has no place of business in the state and has 5 advisory clients in the state<br>IV. A person who is an officer of a federal registered investment adviser who has no natural person clients"
+	},
+	"kaplan11": {
+		"answers": [{
+			"content": "treat the crime as any felony",
+			"correct": false
+		},{
+			"content": "treat the crime as a nonfinancial misdemeanor",
+			"correct": true
+		},{
+			"content": "treat the crime as a nonfinancial felony",
+			"correct": false
+		},{
+			"content": "censure the investment adviser for even thinking of employing this individual",
+			"correct": false
+		}],
+		"explanation": "Even though the crime is a felony in the state where registration is being sought, the applicant's record shows a misdemeanor and, therefore, this individual would not be subject to statutory disqualification.",
+		"prompt": "An applicant for registration as an IAR in this state was convicted 4 years ago of a nonfinancially related crime in another state. Under that state's laws, the crime was a misdemeanor, but under this state's laws, it is a felony. When viewing this IAR's application, the Administrator will"
+	},
+	"kaplan12": {
+		"answers": [{
+			"content": "close of business Tuesday, close of business Wednesday",
+			"correct": true
+		},{
+			"content": "close of business Monday, close of business Friday",
+			"correct": false
+		},{
+			"content": "close of business Monday, close of business Wednesday",
+			"correct": false
+		},{
+			"content": "close of business Tuesday, close of business Friday",
+			"correct": false
+		}],
+		"explanation": "Unless otherwise exempted, every investment adviser registered or required to be registered under the Act shall by the close of business on the next business day notify the Administrator if such investment adviser's net worth is less than the minimum required. After transmitting such notice, each investment adviser shall file by the close of business on the next business day a report with the Administrator of its financial condition.",
+		"prompt": "A state-registered investment adviser with discretionary authority over client accounts discovered on Monday, that the firm's net worth is below the required amount. He must notify the administrator and then file a report no later than the"
+	},
+	"kaplan13": {
+		"answers": [{
+			"content": "Utility company stock",
+			"correct": false
+		},{
+			"content": "Tobacco stock",
+			"correct": false
+		},{
+			"content": "Food chain stock",
+			"correct": false
+		},{
+			"content": "Steel company stock",
+			"correct": true
+		}],
+		"explanation": "Steel is cyclical and is not considered defensive; defensive stocks are generally less affected by the business cycle.",
+		"prompt": "Which of the following would NOT be considered a defensive security?"
+	},
+	"kaplan14": {
+		"answers": [{
+			"content": "charges for late payments",
+			"correct": false
+		},{
+			"content": "account inactivity fee",
+			"correct": false
+		},{
+			"content": "issuance of a stock certificate",
+			"correct": false
+		},{
+			"content": "advisory fees",
+			"correct": true
+		}],
+		"explanation": "There are 3 primary expenses involved with brokerage accounts that are not included in the fee disclosure template. Those are:<br>1. commissions;<br>2. markups and markdowns; and<br>3. advisory fees for those firms that are also registered as investment advisers.",
+		"prompt": "A working group convened by NASAA has developed a model fee disclosure schedule to help investors better understand the costs involved in doing business with their broker-dealer. The template has broker-dealers disclose all of the following fees EXCEPT"
+	},
+	"kaplan15": {
+		"answers": [{
+			"content": "approval was granted by an officer of the firm",
+			"correct": false
+		},{
+			"content": "cleared with the Administrator",
+			"correct": false
+		},{
+			"content": "there was a transaction with a client of both entities, but the trade was not based upon advisory services rendered",
+			"correct": true
+		},{
+			"content": "the transaction was in an exempt security",
+			"correct": false
+		}],
+		"explanation": "Under those conditions- where a firm is registered as both a BD and an IA - the disclosure requirements incumbent upon IAs do not apply when the transaction is solely related to the firm's capacity as a BD.",
+		"prompt": "One of the differences between broker-dealers and investment advisers is the disclosures that must be made when the IA is acting as a principal or agent in a transaction with an advisory client. In the case of a firm registered in both capacities, those disclosures would not be required when"
+	},
+	"kaplan16": {
+		"answers": [{
+			"content": "A broker-dealer who has no place of business in the state and whose only clients in the state are limited to insurance companies, banks, and broker-dealers",
+			"correct": false
+		},{
+			"content": "An investment adviser who has no place of business in the state and communicates with only 5 advisory clients in the state for the year",
+			"correct": false
+		},{
+			"content": "An investment adviser who has a place of business in the state and whose only clients in the state are insurance companies, banks, and broker-dealers",
+			"correct": true
+		},{
+			"content": "ABC State Bank, which provides investment advice in its branches throughout the state",
+			"correct": false
+		}],
+		"explanation": "Because the investment adviser has a place of business within the state and is acting as investment adviser in the state, it must register, regardless of the fact that the only clients are financial institutions. Notice that the state registration rules are different for broker-dealers and investment advisers. Banks are exempt from registration as broker-dealers or as investment advisers, as are investment advisers with no place of business in the state and fewer than 6 clients in the state in a 12-month period (de minimis standard).",
+		"prompt": "Which of the following is required to register in a state under the Uniform Securities Act?"
+	},
+	"kaplan17": {
+		"answers": [{
+			"content": "has acted ethically because her actions are in the client's best interest, not her own.",
+			"correct": false
+		},{
+			"content": "has committed the unethical business practice of guaranteeing against loss.",
+			"correct": true
+		},{
+			"content": "has committed the unethical business practice of recommending a wash sale.",
+			"correct": false
+		},{
+			"content": "has acted ethically because she has not guaranteed a profit to the client.",
+			"correct": false
+		}],
+		"explanation": "The unethical business practice of guaranteeing against loss can take several forms. This is one of them ? offering to buy back a security at the purchase price. A wash sale involves an investor repurchasing a security sold at a loss and has no relevance to this question - it is a tax issue. The prohibition against guarantees does not require that the client be assured a profit, only that there is no loss. Even when an IAR is confident that an investment is in the client's best interest, a guarantee may not be offered.",
+		"prompt": "An investment adviser representative has uncovered an unusual investment opportunity that she believes is perfect for one of her clients. When presenting the recommendation to the client, it becomes clear that the client is concerned about the potential of loss. To alleviate that concern, the IAR tells the client that she agrees to repurchase the security from the client anytime within the next 60 days at the original purchase price. In so doing, the IAR"
+	},
+	"kaplan18": {
+		"answers": [{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "I, II, and IV",
+			"correct": true
+		},{
+			"content": "III and IV",
+			"correct": false
+		},{
+			"content": "I and IV",
+			"correct": false
+		}],
+		"explanation": "A registration statement will always include the expected use of the proceeds of the offering, as well as short biographies of the members of the board of directors (and key officers as well). This question stated that it was the company's IPO, so there could not be any previous stock performance, although the public offering price is not determined until the effective date, the expected range is indicated to the state(s).",
+		"prompt": "ABCO Materials, Inc., is in the process of raising money from the public for the first time. Which of the following must be disclosed in ABCO's registration statement filed with the Administrator?<br><br>I. Biographical sketches of each of the members of the board of directors, as well as ABCO's principal officers<br>II. Expected use of the proceeds of the offering<br>III. Performance of the company's stock over the last five years or since the founding of the company, whichever is the shorter period<br>IV. Expected range of the public offering price"
+	},
+	"kaplan19": {
+		"answers": [{
+			"content": "a fiscal year",
+			"correct": true
+		},{
+			"content": "a 9-month year",
+			"correct": false
+		},{
+			"content": "an accounting year",
+			"correct": false
+		},{
+			"content": "an alternative year",
+			"correct": false
+		}],
+		"explanation": "Fiscal-year accounting is the term used to describe whenever an entity ends its accounting year on a date other than December 31.",
+		"prompt": "A corporation ends its accounting year on September 30. It would be correct to state that it uses"
+	},
+	"kaplan20": {
+		"answers": [{
+			"content": "A fixed annuity contract",
+			"correct": true
+		},{
+			"content": "Bonds issued by the Canadian national government",
+			"correct": false
+		},{
+			"content": "Treasury bonds issued by the U.S. government",
+			"correct": false
+		},{
+			"content": "Common stock issued by a bank",
+			"correct": false
+		}],
+		"explanation": "A fixed annuity contract is an insurance contract, not a security.",
+		"prompt": "Which of the following is NOT defined as a security under the USA?"
+	},
+	"kaplan21": {
+		"answers": [{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": true
+		},{
+			"content": "I and IV",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": false
+		}],
+		"explanation": "If the value of the U.S. dollar increases against other currencies, then U.S. exports cost more for foreign markets to purchase. This also makes foreign imports less expensive for U.S. consumers.",
+		"prompt": "If the value of the U.S. dollar increases against other currencies, which of the following are TRUE?<br><br>I. U.S. exports are more competitive in foreign countries.<br>II. U.S. exports are less competitive in foreign countries.<br>III. Foreign imports into the United States are more competitive in U.S. markets.<br>IV. Foreign imports into the United States are less competitive in U.S. markets."
+	},
+	"kaplan22": {
+		"answers": [{
+			"content": "2 years from discovery or 3 years from occurrence, whichever is later.",
+			"correct": false
+		},{
+			"content": "1 year from discovery or 2 years from occurrence, whichever is sooner.",
+			"correct": false
+		},{
+			"content": "2 years from discovery or 3 years from occurrence, whichever is sooner.",
+			"correct": true
+		},{
+			"content": "1 year from discovery or 2 years from occurrence, whichever is later.",
+			"correct": false
+		}],
+		"explanation": "The civil liabilities provisions of the Uniform Securities Act provide for a statute of limitations equal to the sooner of 2 years from the date of discovery or 3 years from the date of the violation.",
+		"prompt": "A customer determines that he has been sold unregistered, nonexempt securities in a prohibited transaction. In accordance with the USA, he can exercise the right to file a civil suit within"
+	},
+	"kaplan23": {
+		"answers": [{
+			"content": "The Sharpe ratio cannot be used to measure risk-adjusted performance for a single security.",
+			"correct": false
+		},{
+			"content": "The Sharpe ratio uses beta in its formula.",
+			"correct": false
+		},{
+			"content": "Portfolios with lower Sharpe ratios provided higher excess returns per unit of risk assumed than those with higher Sharpe ratios.",
+			"correct": false
+		},{
+			"content": "The Sharpe ratio is often used to measure risk-adjusted return of an entire portfolio.",
+			"correct": true
+		}],
+		"explanation": "The Sharpe ratio is used to measure risk-adjusted performance of either a portfolio or an individual security. The Sharpe ratio uses standard deviation as the denominator in its formula: the higher the Sharpe ratio, the better the portfolio or security has performed on a risk-adjusted basis.",
+		"prompt": "Which of the following statements regarding the Sharpe ratio is TRUE?"
+	},
+	"kaplan24": {
+		"answers": [{
+			"content": "Future value is the future amount to which a sum of money today will increase on the basis of a defined interest rate and period.",
+			"correct": false
+		},{
+			"content": "Compound interest is interest earned on the initial investment.",
+			"correct": true
+		},{
+			"content": "Compound interest is interest earned on interest.",
+			"correct": false
+		},{
+			"content": "Future value of an ordinary annuity is the future amount to which a series of deposits of equal size will increase.",
+			"correct": false
+		}],
+		"explanation": "Compound interest is interest earned on interest that has been added to the original principal. For example, $1,000 earning 5% compounded annually earns $50 the first year and then 5% of $1,050 or $52.50 the 2nd year.",
+		"prompt": "Which of the following statements regarding the time value of money is NOT correct?"
+	},
+	"kaplan25": {
+		"answers": [{
+			"content": "The efficient frontier represents individual securities.",
+			"correct": false
+		},{
+			"content": "As the correlation coefficient moves from +1 to zero, the potential for diversification diminishes.",
+			"correct": false
+		},{
+			"content": "The efficient frontier represents portfolios that have the lowest expected return for each level of risk.",
+			"correct": false
+		},{
+			"content": "When a risk-averse investor is confronted with two investment opportunities having the same expected return, the investor will take the opportunity with the lower risk.",
+			"correct": true
+		}],
+		"explanation": "It is expected that investors will always choose the lower risk investment if both generate the same return. The other statements are incorrect. As the correlation coefficient declines, the potential for greater diversification increases.",
+		"prompt": "Which of the following statements is correct?"
+	},
+	"kaplan26": {
+		"answers": [{
+			"content": "I only",
+			"correct": false
+		},{
+			"content": "I, II, and III",
+			"correct": true
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "II only",
+			"correct": false
+		}],
+		"explanation": "Under the broadcast and publishing exceptions, the Administrator does not have jurisdiction if the offer is made in a TV or radio broadcast originating outside the state or in a newspaper published outside the state. Furthermore, if a newspaper is published inside a state but more than 2/3 of its circulation is outside the state, the Administrator does not have jurisdiction.",
+		"prompt": "An Administrator does not have jurisdiction over an offer to sell that is made in<br><br>I. a TV broadcast originating outside the state<br>II. a newspaper published outside the state<br>III. a newspaper published inside the state where more than 2/3 of its circulation is outside the state"
+	},
+	"kaplan27": {
+		"answers": [{
+			"content": "$0.25",
+			"correct": true
+		},{
+			"content": "$0.63",
+			"correct": false
+		},{
+			"content": "$2",
+			"correct": false
+		},{
+			"content": "within the allowable range of NASAA's 5% markup policy.",
+			"correct": false
+		}],
+		"explanation": "The spread is the difference between the bid (35) and the ask (35.25) prices. In this question, that is 25 cents ($0.25). The 7 by 9 means that the market maker is willing to buy up to 700 shares at the $35 bid and sell up to 900 shares at the $35.25 ask. NASAA does not have a markup policy; the 5% Policy is FINRA's.",
+		"prompt": "A broker-dealer receives a request from a client to purchase an OTC stock. When the broker-dealer's trading department contacts the market maker in the stock, she receives a quote of 35 - 35.25, 7 by 9. Based on this information, the spread is"
+	},
+	"kaplan28": {
+		"answers": [{
+			"content": "Investment Company Act of 1940",
+			"correct": false
+		},{
+			"content": "Securities Act of 1933",
+			"correct": false
+		},{
+			"content": "Securities Exchange Act of 1934",
+			"correct": true
+		},{
+			"content": "Trust Indenture Act of 1939",
+			"correct": false
+		}],
+		"explanation": "The Securities Exchange Act of 1934 mandates that public issuers file annual and quarterly reports with the SEC.",
+		"prompt": "Which of the following acts requires publicly traded corporations to issue annual reports?"
+	},
+	"kaplan29": {
+		"answers": [{
+			"content": "They have a high degree of transparency.",
+			"correct": true
+		},{
+			"content": "They require large entry-level investment amounts.",
+			"correct": false
+		},{
+			"content": "Their investment style is generally aimed at producing returns in up or down markets.",
+			"correct": false
+		},{
+			"content": "Many hedge funds can take short positions.",
+			"correct": false
+		}],
+		"explanation": "Hedge funds are unregulated pooled investment vehicles with limited transparency. Because of the lack of transparency, they are generally only marketed to accredited investors. This is because they are considered too risky for the less financially-sophisticated investor. Minimum initial investment levels are usually high. Hedge funds can use sophisticated techniques such as short selling, leverage, and derivatives.",
+		"prompt": "Which of the following least accurately describes hedge funds?"
+	},
+	"kaplan30": {
+		"answers": [{
+			"content": "the Administrator may reduce the required time that the registration statement must be on file prior to becoming effective",
+			"correct": false
+		},{
+			"content": "state registration must be effective prior to federal registration",
+			"correct": true
+		},{
+			"content": "the registration becomes effective at the state level concurrent with SEC registration if the Administrator has not entered an order to deny it",
+			"correct": false
+		},{
+			"content": "the registration statement must contain or be accompanied by consent to service of process",
+			"correct": false
+		}],
+		"explanation": "State registration must be coordinated with federal registration. In most cases, the registration statement must be on file with the Administrator for 10 days, but the Administrator has the power to shorten that period. The registration statement becomes effective concurrent with the SEC and must contain or be accompanied by consent to service of process.",
+		"prompt": "Each of the following statements regarding registration of securities by coordination is true EXCEPT"
+	},
+	"kaplan31": {
+		"answers": [{
+			"content": "internal rate of return (IRR)",
+			"correct": true
+		},{
+			"content": "real rate of return",
+			"correct": false
+		},{
+			"content": "risk-adjusted rate of return",
+			"correct": false
+		},{
+			"content": "holding period return",
+			"correct": false
+		}],
+		"explanation": "The internal rate of return compounds returns and takes into consideration the time value of money. Real rate of return considers the inflation rate and risk-adjusted return is another way of stating the Sharpe ratio.",
+		"prompt": "A measurement of investment return that takes the time value of money into consideration is"
+	},
+	"kaplan32": {
+		"answers": [{
+			"content": "the currency used is generally something other than the U.S. dollar",
+			"correct": false
+		},{
+			"content": "intrinsic value does not affect the premium",
+			"correct": false
+		},{
+			"content": "it can only be exercised on the expiration date",
+			"correct": false
+		},{
+			"content": "its value is based on some underlying asset",
+			"correct": true
+		}],
+		"explanation": "Although the unique characteristic of a European option is that it can only be exercised on its expiration date, that doesn't answer this question. It is a derivative like any other option because its value is based on the underlying asset.",
+		"prompt": "A client calls to say he has just read about a European option and doesn't know what it is. You would explain that it is a derivative because"
+	},
+	"kaplan33": {
+		"answers": [{
+			"content": "annually",
+			"correct": false
+		},{
+			"content": "monthly",
+			"correct": false
+		},{
+			"content": "quarterly",
+			"correct": true
+		},{
+			"content": "with every transaction",
+			"correct": false
+		}],
+		"explanation": "An investment adviser in possession of customer assets must send a statement to the customer at least every three months. The statement must list the securities and funds held by the adviser and their location, and it must show all transactions in the account since the last statement date.",
+		"prompt": "An investment adviser with custody of customer funds and securities must send the customer a statement of account activity no less frequently than"
+	},
+	"kaplan34": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "I and IV",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": true
+		}],
+		"explanation": "The key here is to recognize that with DPPs, the customer's age is a relevant consideration in determining suitability. DPPs are long-term, illiquid, and high-risk investments. It is unlikely that DPPs would be suitable for a customer near retirement age, regardless of the customer's financial situation.",
+		"prompt": "Which of the following must be considered in evaluating the suitability of a DPP investment for a customer?<br><br>I. Risk tolerance<br>II. Other holdings<br>III. Financial situation<br>IV. Age"
+	},
+	"kaplan35": {
+		"answers": [{
+			"content": "its sensitivity to changes in interest rates changes.",
+			"correct": true
+		},{
+			"content": "its rating might be affected.",
+			"correct": false
+		},{
+			"content": "its maturity date changes.",
+			"correct": false
+		},{
+			"content": "the income received by the bondholder changes.",
+			"correct": false
+		}],
+		"explanation": "A bond's duration measures its sensitivity to changes in market interest rates. The longer the duration, the greater the sensitivity (bigger the price swings). As a bond approaches its maturity date, its duration gets shorter and shorter. The rate of income on a bond is set at issuance. The nominal (coupon) yield never changes - that is why bonds are known as fixed-income investments. Duration has nothing to do with a bond's rating and, as is the case with the coupon, a bond's maturity date is set when the bond is issued.",
+		"prompt": "As a bond's duration changes,"
+	},
+	"kaplan36": {
+		"answers": [{
+			"content": "every December 31, unless otherwise specified by state law",
+			"correct": true
+		},{
+			"content": "semiannually",
+			"correct": false
+		},{
+			"content": "licenses are permanent unless revoked, suspended, or canceled",
+			"correct": false
+		},{
+			"content": "annually upon the date of original registration",
+			"correct": false
+		}],
+		"explanation": "Under the Uniform Securities Act, registrations must be renewed every December 31. Registrations are not permanent and can be denied, revoked, or canceled according to the terms of the act.",
+		"prompt": "Broker-dealers, investment advisers, and agents must renew their licenses with the state Administrator:"
+	},
+	"kaplan37": {
+		"answers": [{
+			"content": "Private equity fund",
+			"correct": false
+		},{
+			"content": "Index ETF",
+			"correct": true
+		},{
+			"content": "Hedge fund",
+			"correct": false
+		},{
+			"content": "Venture capital fund",
+			"correct": false
+		}],
+		"explanation": "ETFs are rarely organized as a limited partnership while the other choices almost always are.",
+		"prompt": "Which of the following would be least likely to be organized as a limited partnership?"
+	},
+	"kaplan38": {
+		"answers": [{
+			"content": "systematic risk",
+			"correct": true
+		},{
+			"content": "opportunity cost",
+			"correct": false
+		},{
+			"content": "beta",
+			"correct": false
+		},{
+			"content": "business risk",
+			"correct": false
+		}],
+		"explanation": "Systematic risk (market risk) is the danger that a specific stock's price will be driven by factors largely independent of its issuer such as a severe market plunge. Business risk is unique to each business entity. Beta is a measure of a stock's volatility relative to the overall market. Opportunity cost refers to the return given up in order to invest in another instrument or project.",
+		"prompt": "On October 15, 2008, the Dow Jones Industrial Average lost 733 points, the largest single point drop in its history. After the markets closed on Tuesday, October 14th, ABC Manufacturing Company released its 3rd quarter operating results with earnings that surpassed all estimates. However, by the close of the market on October 15th, the price of the stock was down 15 points. This is an example of"
+	},
+	"kaplan39": {
+		"answers": [{
+			"content": "They must bear a reasonable rate of interest.",
+			"correct": false
+		},{
+			"content": "They must be made in accordance with the loan provisions stipulated in the 401(k) plan.",
+			"correct": false
+		},{
+			"content": "They must be made available to highly compensated employees in amounts greater than that made available to other employees.",
+			"correct": true
+		},{
+			"content": "They must be adequately secured.",
+			"correct": false
+		}],
+		"explanation": "Loans must be repaid with interest, generally within 5 years. They must be secured and made in accordance with plan provisions. Loans may not be made available to highly compensated employees in amounts greater than that made available to other employees.",
+		"prompt": "Which of the following statements regarding loans from 401(k) plans is NOT correct?"
+	},
+	"kaplan40": {
+		"answers": [{
+			"content": "insuring the portfolio",
+			"correct": false
+		},{
+			"content": "growth investing",
+			"correct": false
+		},{
+			"content": "buying and holding",
+			"correct": false
+		},{
+			"content": "asset allocation",
+			"correct": true
+		}],
+		"explanation": "Asset allocation is the process of determining how the funds in a portfolio will be apportioned among different categories of investments. The objective is to develop an investment portfolio that is consistent with the investor's financial profile and investment objectives.",
+		"prompt": "The process of determining how a portfolio's funds will be apportioned among different categories of investments is known as"
+	},
+	"kaplan41": {
+		"answers": [{
+			"content": "the estate of a deceased individual.",
+			"correct": false
+		},{
+			"content": "the CEO of a company whose stock is NYSE-traded.",
+			"correct": false
+		},{
+			"content": "a person deemed mentally incompetent.",
+			"correct": true
+		},{
+			"content": "two unrelated individuals.",
+			"correct": false
+		}],
+		"explanation": "A broker-dealer can only open an account with a legal person. Those deemed mentally incompetent are not persons under the law. Deceased individuals are not persons either, but their estate is so an account may be opened in the name of the estate. Although the CEO's account would have to be monitored for any hint of insider trading, one's position in a listed company is not an impediment to opening a brokerage account. There is no legal requirement that the owners of a joint account be related; friends are fine as are business partners.",
+		"prompt": "A registered broker-dealer would not be able to open an account for"
+	},
+	"kaplan42": {
+		"answers": [{
+			"content": "7.95%",
+			"correct": true
+		},{
+			"content": "12.00%",
+			"correct": false
+		},{
+			"content": "10.95%",
+			"correct": false
+		},{
+			"content": "8.76%",
+			"correct": false
+		}],
+		"explanation": "First, compute Dan's after-tax rate of return of 10.95% as follows: .15 x (1 - .27), or .73 = .1095. Then, compute Dan's inflation-adjusted, or real, rate of return by subtracting the 3% inflation rate from his 10.95% after-tax return.",
+		"prompt": "Dan is the owner of a mutual fund that returned him a before-tax return of 15% last year. Inflation is running at an annual rate of 3%, and Dan is in a 27% marginal income tax bracket. What has been Dan's approximate inflation- adjusted after-tax return on the fund over the course of the last year (rounded to the nearest 2 decimal points)?"
+	},
+	"kaplan43": {
+		"answers": [{
+			"content": "buying a call on the short stock.",
+			"correct": false
+		},{
+			"content": "buying a put on the short stock.",
+			"correct": true
+		},{
+			"content": "selling a put on the short stock.",
+			"correct": false
+		},{
+			"content": "entering a buy stop order for the short stock.",
+			"correct": false
+		}],
+		"explanation": "The risk in selling a stock short is that the price of the stock will rise rather than fall. Those who purchase put options have the same market view as those who sell short-they will profit if the price of the security declines. Buying a put would be the equivalent of \"doubling down\" on your bet. The best way to hedge (protect) a short stock position is to purchase a call option on the security because that gives you a guaranteed \"buy-back\" price regardless of how high the stock's price rises. If you sell a put on the stock and the price rises, the put will expire and the seller will have the premium to partially offset any loss. If the short seller enters a buy stop order, once the price rises (or goes through) the stop price, a market order to buy the stock will be entered and the position will be closed out preventing any further loss.",
+		"prompt": "A high-risk investment strategy is the short sale of stock. Each of the following is a method of offering some degree of protection EXCEPT"
+	},
+	"kaplan44": {
+		"answers": [{
+			"content": "When the client is a bank or financial institution in the business of loaning money",
+			"correct": false
+		},{
+			"content": "When the client is an affiliate of the investment adviser",
+			"correct": false
+		},{
+			"content": "When the client is a broker-dealer",
+			"correct": false
+		},{
+			"content": "When the client is an immediate family member",
+			"correct": true
+		}],
+		"explanation": "It is unethical to borrow money or securities from a client, unless the client is a broker-dealer, a bank or other financial institution in the business of loaning money, or an affiliated person of the adviser. Owing money or securities to a client is not only unethical, it could also influence advice rendered to a client, creating a potential conflict of interest. Even when the client is an immediate family member, borrowing must not take place unless it meets one of the conditions state above. How do we know the family member does not meet one of those conditions? We know because nothing in the question indicates such and, on the exam, if such is the case, it will be clearly spelled out.",
+		"prompt": "Under NASAA's Model Rule on Unethical Business Practices of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers, when is it unethical for an investment adviser to borrow money from a client?"
+	},
+	"kaplan45": {
+		"answers": [{
+			"content": "Issuing cease and desist orders without a hearing",
+			"correct": false
+		},{
+			"content": "Issuing subpoenas to persons residing outside the Administrator's state",
+			"correct": false
+		},{
+			"content": "Suspending an agent's registration without an opportunity for a hearing",
+			"correct": true
+		},{
+			"content": "Conducting investigations of broker-dealers residing outside the Administrator's state",
+			"correct": false
+		}],
+		"explanation": "Under the USA, no suspension or revocation may take place without an opportunity for a hearing.",
+		"prompt": "The Uniform Securities Act invests the Administrator with many powers over the activities of agents and broker-dealers. Which of the following actions does NOT fall within the Administrator's powers?"
+	},
+	"kaplan46": {
+		"answers": [{
+			"content": "30%",
+			"correct": false
+		},{
+			"content": "14.4%",
+			"correct": false
+		},{
+			"content": "6.25%",
+			"correct": false
+		},{
+			"content": "25%",
+			"correct": true
+		}],
+		"explanation": "Earnings per share are typically calculated for a year. If the quarterly dividend rate of $0.15 is continued, that will be an annual payout of $0.60 ($0.15 x 4). So the annual dividend of $0.60 is divided by $2.40 to calculate what percentage of earnings is paid as a dividend; or rather, the dividend payout ratio (0.60 ÷ 2.40 = 25%).",
+		"prompt": "ALFA Enterprises pays a quarterly dividend of $0.15 and has earnings per share of $2.40. Assuming that payout rate is continued, what is the dividend payout ratio?"
+	},
+	"kaplan47": {
+		"answers": [{
+			"content": "Like traditional IRAs, Roth contribution eligibility is restricted by active participation in an employer's retirement plan.",
+			"correct": false
+		},{
+			"content": "Roth IRAs are not subject to the minimum distribution rules until the death of the owner/participant of the plan.",
+			"correct": true
+		},{
+			"content": "Like traditional IRAs, Roth IRA contributions may not be made after the participant reaches age 72.",
+			"correct": false
+		},{
+			"content": "Roth IRA withdrawals are tax free in their entirety regardless of the participant's age at withdrawal.",
+			"correct": false
+		}],
+		"explanation": "Unlike traditional IRAs, Roth IRAs are not subject to the minimum distribution rules regarding a participant's age (72). Rather, distributions need not be made until the death of the owner/participant. For a Roth IRA withdrawal to be entirely tax free, it must be made following a 5-year holding period after the first contribution and after the participant reaches age 59 1/2. Effective with the SECURE Act, there are no age limitations for contributions for any retirement plan.",
+		"prompt": "Which of the following statements regarding Roth IRAs is TRUE?"
+	},
+	"kaplan48": {
+		"answers": [{
+			"content": "that includes food and energy prices.",
+			"correct": false
+		},{
+			"content": "that excludes certain volatile goods prices.",
+			"correct": true
+		},{
+			"content": "for producers' raw materials.",
+			"correct": false
+		},{
+			"content": "the central bank views as acceptable.",
+			"correct": false
+		}],
+		"explanation": "Core inflation is measured using a price index that excludes food and energy prices. The primary reason for that is the volatility of those two.",
+		"prompt": "Core inflation is best described as an inflation rate"
+	},
+	"kaplan49": {
+		"answers": [{
+			"content": "A letter offering a security for sale was sent to a client in this state from an agent in another state.",
+			"correct": false
+		},{
+			"content": "A mass mailing offering a security for sale was made in this state.",
+			"correct": false
+		},{
+			"content": "A radio broadcast advertising a security was made from a neighboring state.",
+			"correct": true
+		},{
+			"content": "A television broadcast advertising a security for sale was made from this state.",
+			"correct": false
+		}],
+		"explanation": "Radio or TV broadcasts made from outside the state do not come under the Administrator's jurisdiction. The letter sent from out of state does because the offer is being made in this state.",
+		"prompt": "Under which of the following circumstances would the Administrator of this state not have jurisdiction?"
+	},
+	"kaplan50": {
+		"answers": [{
+			"content": "Secretary of a branch office sales manager",
+			"correct": false
+		},{
+			"content": "Clerk at a broker-dealer who is authorized to take orders",
+			"correct": true
+		},{
+			"content": "Silent partner of a broker-dealer",
+			"correct": false
+		},{
+			"content": "Broker-dealer executive who does not solicit or transact business",
+			"correct": false
+		}],
+		"explanation": "Anyone who solicits or receives an order while representing a broker-dealer is an agent. Silent partners, administrative personnel, and executives of broker-dealers with no sales responsibilities are not agents under the terms of the USA because they do not solicit or receive orders.",
+		"prompt": "Which of the following persons is defined as an agent by the Uniform Securities Act?"
+	}
+};
