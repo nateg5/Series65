@@ -30,6 +30,7 @@
 		<script src="dataMometrix.json"></script>
 		<script src="dataAchievable.json"></script>
 		<script src="dataSecuritiesce.json"></script>
+		<script src="dataSolomon.json"></script>
     </head>
     <body>
 		<div id="question"></div>
@@ -80,19 +81,22 @@
 				...dataPassMasters,
 				...dataMometrix,
 				...dataAchievable,
-				...dataSecuritiesce
+				...dataSecuritiesce,
+				...dataSolomon
 			};
 			let dataKeys = Object.keys(data);
 			
 			let getQuestion = (qData) => {
 				if(qData.settings) {
 					return qData.settings.question_title;
-				} else if(qData.question) {
+				} else if(qData.question && qData.question.constructor === String) {
 					return qData.question;
 				} else if(qData.prompt) {
 					return qData.prompt;
 				} else if(qData.text) {
 					return qData.text;
+				} else if(qData.question && qData.question.constructor === Object) {
+					return qData.question.question;
 				} else {
 					alert("ERROR: Invalid data shape for getQuestion");
 				}
@@ -155,6 +159,20 @@
 						answer: qData.answers[3].text,
 						correct: qData.answers[3].id
 					}];
+				} else if(qData.answers && qData.answers[0].answer) {
+					return [{
+						answer: qData.answers[0].answer,
+						correct: qData.answers[0].correct === "1"
+					},{
+						answer: qData.answers[1].answer,
+						correct: qData.answers[1].correct === "1"
+					},{
+						answer: qData.answers[2].answer,
+						correct: qData.answers[2].correct === "1"
+					},{
+						answer: qData.answers[3].answer,
+						correct: qData.answers[3].correct === "1"
+					}];
 				} else {
 					alert("ERROR: Invalid data shape for getAnswers");
 				}
@@ -165,6 +183,8 @@
 					return qData.correct_info_text;
 				} else if(qData.explanation) {
 					return qData.explanation;
+				} else if(qData.question && qData.question.explanation) {
+					return qData.question.explanation;
 				} else {
 					alert("ERROR: Invalid data shape for getExplanation");
 				}

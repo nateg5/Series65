@@ -1,0 +1,392 @@
+let dataSolomon = {
+	"solomon01": {
+    "question": {
+        "question_id": "48454",
+        "question": "Kevin owns $500,000 in Treasury bonds, and wishes to use Treasury bond futures contracts to fully hedge his position.  Assuming a contract size of $100,000, how should Kevin hedge his position?",
+        "explanation": "Since Kevin owns Treasury bonds, he will gain on his bond holding when Treasury prices increase, and lose on his bond holding when Treasury prices decrease.  To hedge his bond holdings with futures, the futures position must move in the opposite direction:  lose when Treasury prices increase, and gain when Treasury prices decrease.  A short position on the Treasury futures will exhibit this gain/loss profile.  Since the contract size is given as $100,000, and Kevin wants to fully hedge his $500,000 of bond holdings, he needs to go short enough contracts to get $500,000 of futures exposure:  $500,000 exposure desired/$100,000 per contract = 5 contracts.  Kevin needs to short 5 contracts to fully hedge.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "48454",
+            "answer_id": "13817",
+            "answer": "Go short 5 contracts",
+            "correct": "1"
+        },
+        {
+            "question_id": "48454",
+            "answer_id": "13820",
+            "answer": "Go long 500 contracts",
+            "correct": "0"
+        },
+        {
+            "question_id": "48454",
+            "answer_id": "13819",
+            "answer": "Go short 500 contracts",
+            "correct": "0"
+        },
+        {
+            "question_id": "48454",
+            "answer_id": "13818",
+            "answer": "Go long 5 contracts",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "1"
+	},
+	"solomon02": {
+    "question": {
+        "question_id": "47572",
+        "question": "Trapezoid Investments is an investment adviser that manages client portfolios.  Trapezoid Investments is considering charging several clients a fee based on its portfolio performance vs. the performance of the S&P 500.  For which of the following clients is such an arrangement allowable?  <br />I. Maria, a client with $100,000 in assets to invest with Trapezoid  <br />II. Cory, who has $2,000,000 of assets to invest with Trapezoid   <br />III. A mutual fund",
+        "explanation": "In general, advisers managing an investment portfolio should be compensated as a percentage of assets under management over a specified time period.  However, an adviser is allowed to charge certain \"sophisticated\" investors an advisory fee based on portfolio performance vs. an index.  Among these investors are people or businesses with over $1,000,000 in assets under management, and registered investment companies, such as mutual funds.  So Trapezoid may charge a fee based on performance vs. the S&P 500 to Cory (Item II), since Cory has over $1,000,000 to invest, and to the mutual fund (Item III).  Maria (Item I), with only $100,000 to invest, does not meet the criteria for a sophisticated investor, so Trapezoid cannot structure her fees to be based on performance vs. the S&P 500.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47572",
+            "answer_id": "10291",
+            "answer": "I, II, and III",
+            "correct": "0"
+        },
+        {
+            "question_id": "47572",
+            "answer_id": "10289",
+            "answer": "None of the choices listed",
+            "correct": "0"
+        },
+        {
+            "question_id": "47572",
+            "answer_id": "10292",
+            "answer": "II and III only",
+            "correct": "1"
+        },
+        {
+            "question_id": "47572",
+            "answer_id": "10290",
+            "answer": "III only",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "2"
+	},
+	"solomon03": {
+    "question": {
+        "question_id": "47565",
+        "question": "<div>Tina is an investment adviser with three\nclients, Chad, Clarence, and Sally.&nbsp; Tina\nhas signatory power over Chad's checking account.&nbsp; Tina serves as a trustee for a trust owned by\nClarence.&nbsp; Tina has little contact with\nSally and bills her custodian directly.&nbsp;\nTina does speak regularly with Jessica, a lawyer who independently oversees\nTina's management of Sally's account.&nbsp; Tina\nhas custody of which of the accounts?&nbsp; &nbsp;</div><div><b><br></b>I. Chad's account  <br>II. Clarence's account  <br>III. Sally's account\n</div>",
+        "explanation": "<p><p>Several arrangements can lead to an\nadviser being deemed to have custody of an account, including having signatory\npower over a client's checking account, serving as a trustee of a client's\ntrust fund, and obtaining advisory fees by directly billing client custodians\nwithout effective oversight by the client or an independent party.&nbsp; Tina has custody for Chad's account by having\nsignatory power over his checking account (Item I).&nbsp; Tina also has custody for Clarence's account,\nby being a trustee for his trust fund (Item II).&nbsp; Despite directly billing Sally's custodian,\nTina does not have custody over Sally's account since Jessica is serving as an\nindependent party providing oversight (Item III).&nbsp;</p><br></p>",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47565",
+            "answer_id": "10263",
+            "answer": "I and III only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47565",
+            "answer_id": "10262",
+            "answer": "II and III only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47565",
+            "answer_id": "10261",
+            "answer": "I and II only",
+            "correct": "1"
+        },
+        {
+            "question_id": "47565",
+            "answer_id": "10264",
+            "answer": "I, II, and III",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "3"
+	},
+	"solomon04": {
+    "question": {
+        "question_id": "47540",
+        "question": "On March 1, Derek files an application with the state securities Administrator to become an investment adviser representative.  If the Administrator does not enter any order or rule to change the normal effective date of the application, Derek's application will become effective",
+        "explanation": "For an investment adviser representative, the application for registration becomes effective at noon of the thirtieth day after an application is filed. For Derek, 30 days after March 1 is March 31, so Derek's application becomes effective on March 31 at noon.  Note the Administrator may by rule or order specify an earlier effective date, or may defer the effective date if an amendment has been filed to the original application.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47540",
+            "answer_id": "10162",
+            "answer": "at noon on March 31",
+            "correct": "1"
+        },
+        {
+            "question_id": "47540",
+            "answer_id": "10161",
+            "answer": "upon receipt by the administrator",
+            "correct": "0"
+        },
+        {
+            "question_id": "47540",
+            "answer_id": "10164",
+            "answer": "at noon on April 30",
+            "correct": "0"
+        },
+        {
+            "question_id": "47540",
+            "answer_id": "10163",
+            "answer": "at noon on March 11",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "4"
+	},
+	"solomon05": {
+    "question": {
+        "question_id": "47484",
+        "question": "Company XYZ has a December 31 fiscal year-end date and is required to comply with the SEC financial reporting requirements.  Which of the following is true?  <br>I. Company XYZ must file a 10-Q within 40 to 45 days of June 30  <br>II. Company XYZ must file a 10-K within 60 to 90 days of December 31<br>III. Company XYZ must file a 3-Q as of September 30<br>IV. Company XYZ must file an 8-K within 60 to 90 days of December 31",
+        "explanation": "The Securities Exchange Act of 1934 allows the SEC to require corporations to file financial information on a regular basis.  The SEC currently requires an annual report, known as a 10-K, to be filed within 60 to 90 days of the end of each company's fiscal year.  The SEC also requires quarterly reports, known as 10-Q's, to be filed within 40 to 45 days of the end of each fiscal quarter (three-month period).  Since XYZ has a December 31 fiscal year-end, it must file a 10-K within 60 to 90 days of December 31.  Statement II is therefore true.  XYZ is also required to file 10-Q's within 40 to 45 days of its quarter-end dates of March 31, June 30, and September 30.  Statement I is therefore also true. The SEC does not have a requirement known as the “3-Q“, so Statement III is not true (as noted above, a 10-Q is due for within 40 to 45 days of September 30). The 8-K is for reporting special events, rather than being part of a company's annual and quarterly reporting, so Statement IV is not true.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47484",
+            "answer_id": "9938",
+            "answer": "I and II",
+            "correct": "1"
+        },
+        {
+            "question_id": "47484",
+            "answer_id": "9939",
+            "answer": "III and IV",
+            "correct": "0"
+        },
+        {
+            "question_id": "47484",
+            "answer_id": "9937",
+            "answer": "I and IV",
+            "correct": "0"
+        },
+        {
+            "question_id": "47484",
+            "answer_id": "9940",
+            "answer": "II and III",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "5"
+	},
+	"solomon06": {
+    "question": {
+        "question_id": "47518",
+        "question": "Which two of the following investment and allocation strategies are most closely associated with a belief in efficient markets?  <br />I. Active  <br />II. Passive  <br />III. Tactical  <br />IV. Strategic",
+        "explanation": "Efficient market theory (EMT) maintains that all information is already taken into account in a investment's price, so there is little use in actively trying to pick one investment over another.  An active management strategy (Item I) relies on actively determining that one investment is more attractive than another.  Such a strategy is less in line with EMT than a passive strategy (Item II), which typically just involves buying an index and not actively buying and selling stocks.  Similarly, a tactical asset allocation strategy (Item III) involves trying to time the market to seek outperformance, and is less in line with the EMT than a strategic investment strategy (Item IV), which involves picking a long term asset allocation and sticking to it.  Of the choices given, the passive investment strategy (Item II) and strategic asset allocation strategy (Item IV) are the two strategies most aligned with the EMT.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47518",
+            "answer_id": "10074",
+            "answer": "I and IV",
+            "correct": "0"
+        },
+        {
+            "question_id": "47518",
+            "answer_id": "10076",
+            "answer": "II and IV",
+            "correct": "1"
+        },
+        {
+            "question_id": "47518",
+            "answer_id": "10073",
+            "answer": "I and III",
+            "correct": "0"
+        },
+        {
+            "question_id": "47518",
+            "answer_id": "10075",
+            "answer": "II and III",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "6"
+	},
+	"solomon07": {
+    "question": {
+        "question_id": "47505",
+        "question": "Renee, Rick, and Roberta open up an investment advisory firm.  They structure the firm as a general partnership, with equal ownership among them.  Edna, a client of Rick's, is unhappy and files a lawsuit against the firm.  Which of the following is liable for damages that may result from Edna's case?  <br>I. The partnership as an entity  <br>II. Rick personally  <br>III. Renee personally  <br>IV. Roberta personally\n",
+        "explanation": "In a general partnership, two or more persons own the business jointly and are subject to creditors and lawsuits personally.  In this case, as general partners, Renee, Rick, and Roberta are all liable for damages that result from Edna's lawsuit (Items II, III, and IV).  The partnership as an entity (Item I) does not have any legal liability that can attach to it.  It is not relevant that Rick was the person who actually was dealing with Edna as a client, all partners are liable in a general partnership.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47505",
+            "answer_id": "10023",
+            "answer": "II, III, and IV only",
+            "correct": "1"
+        },
+        {
+            "question_id": "47505",
+            "answer_id": "10024",
+            "answer": "II only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47505",
+            "answer_id": "10022",
+            "answer": "I only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47505",
+            "answer_id": "10021",
+            "answer": "I, II, III and IV",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "7"
+	},
+	"solomon08": {
+    "question": {
+        "question_id": "47537",
+        "question": "Al is an investment adviser with his only office located in the State of Apple.  Al has fifteen clients, all of which are located in the State of Banana.  Five of those clients are pension plans, each with assets over $1 million.  Al does fee-for-service financial planning for his other ten clients, who are individuals each with assets under $250,000.  Under the Uniform Securities Act, which State must Al register in?  <br />I. State of Apple  <br />II. State of Banana",
+        "explanation": "Under the Uniform Securities Act, an investment adviser does not need to register in a state if the adviser has no place of business in the state and only has clients in the state that are certain entities such as broker-dealers, other investment advisers, federal covered advisers, banks, insurance companies, and employee benefit plans with assets no less than $1,000,000.  Such an adviser may also have up to five clients not among these entities without registering.  Al has a place of business in Apple, so he must register in Apple (Item I).  Al has more than five clients who are individuals in Banana (he has ten), therefore Al must also register in Banana (Item II).  Note Al would not have to register in Banana if he only had the pension plans as clients, or if he had five or fewer individual clients living in Banana.  The fact that the individuals each have under $250,000 in assets is not relevant to the question.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47537",
+            "answer_id": "10151",
+            "answer": "both I and II",
+            "correct": "1"
+        },
+        {
+            "question_id": "47537",
+            "answer_id": "10149",
+            "answer": "I only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47537",
+            "answer_id": "10150",
+            "answer": "II only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47537",
+            "answer_id": "10152",
+            "answer": "neither I nor II",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "8"
+	},
+	"solomon09": {
+    "question": {
+        "question_id": "47545",
+        "question": "Sunny Brokers is a broker-dealer registered in the State of Summer.  Sunny Brokers has no place of business in the State of Winter, but is considering taking on some clients there.  Which clients can Sunny Brokers take on without having to register in the State of Winter?  <br />I. Cloudy Brokers, a broker-dealer domiciled in the capital city of the State of Winter  <br />II. Winter Bank, a community bank serving the rural areas of the State of Winter  <br />III. The pension trust for the State of Winter police force",
+        "explanation": "A broker-dealer who has no place of business in a state is allowed to have institutional clients in the state without having to register in that state.  Institutional clients include other broker-dealers, banks, pension trusts, and other financial institutions.  Sunny Brokers, having no place of business in the State of Winter, will not have to register in the State of Winter if it takes on Cloudy Brokers (Item I) as a client, since Cloudy Brokers is another broker-dealer.  If Sunny Brokers takes on Winter Bank (Item II), it won't need to register since Winter Bank is a bank.  Finally, Sunny Brokers won't need to register if it takes on the Winter police force pension trust, as a pension trust is an institutional client.  Sunny can take on all three clients without having to register in the State of Winter.  Note the location of a firm within the State of Winter - whether downtown or rural - is not relevant.",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47545",
+            "answer_id": "10184",
+            "answer": "I, II and III",
+            "correct": "1"
+        },
+        {
+            "question_id": "47545",
+            "answer_id": "10182",
+            "answer": "II only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47545",
+            "answer_id": "10181",
+            "answer": "I only",
+            "correct": "0"
+        },
+        {
+            "question_id": "47545",
+            "answer_id": "10183",
+            "answer": "I and III only",
+            "correct": "0"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "9"
+	},
+	"solomon10": {
+    "question": {
+        "question_id": "47514",
+        "question": "Given the following assumptions for stock ABC, what is its expected return using the Capital Asset Pricing Model (CAPM)?  Risk Free Rate: 1%, Expected Return on general stock market: 7%, Beta: 1.5, Sharpe Ratio: 2.",
+        "explanation": "The formula for the Capital Asset Pricing Model (CAPM) is given by  the following:  Return on Stock = Risk Free Rate + Beta of Stock x (Return on Market - Risk Free Rate).  Plugging in for Stock ABC gives Return on Stock ABC = 1% + [1.5 x (7% - 1%) = 10%].  Note the Sharpe Ratio is not used in the CAPM formula.\n",
+        "exhibit": "0"
+    },
+    "answers": [
+        {
+            "question_id": "47514",
+            "answer_id": "10058",
+            "answer": "13%",
+            "correct": "0"
+        },
+        {
+            "question_id": "47514",
+            "answer_id": "10060",
+            "answer": "15%",
+            "correct": "0"
+        },
+        {
+            "question_id": "47514",
+            "answer_id": "10059",
+            "answer": "11.5%",
+            "correct": "0"
+        },
+        {
+            "question_id": "47514",
+            "answer_id": "10057",
+            "answer": "10%",
+            "correct": "1"
+        }
+    ],
+    "selection": "0",
+    "isComplete": false,
+    "flagged": false,
+    "timeSpent": "0",
+    "index": "10"
+	}
+};
