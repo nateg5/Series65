@@ -1,0 +1,836 @@
+let dataStudy = {
+	"study01": {
+    "id": 1712634,
+    "quizId": 259365,
+    "prompt": "<p>The management team at a large corporation is looking over the different types of preferred stock owed to their investors. For their meeting, they have decided to focus on one type of preferred stock since it is tied to their target metrics. As they look over the metrics for the quarter, they determine the stockholders are able to receive a special dividend since the company met the target goals. Which of the following types of preferred stock is the team focusing on?</p>",
+    "wikiPrompt": "The management team at a large corporation is looking over the different types of preferred stock owed to their investors. For their meeting, they have decided to focus on one type of preferred stock since it is tied to their target metrics. As they look over the metrics for the quarter, they determine the stockholders are able to receive a special dividend since the company met the target goals. Which of the following types of preferred stock is the team focusing on?",
+    "explanation": "<p>Participating in preferred stock allows shareholders to earn a special dividend. This is given out when the company meets a certain target metric or goal.</p>",
+    "wikiExplanation": "Participating in preferred stock allows shareholders to earn a special dividend. This is given out when the company meets a certain target metric or goal.",
+    "correctQuizQuestionOptionId": 7032130,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:12-07:00",
+    "sourceAcademyAssetId": 15736,
+    "options": [
+        {
+            "id": 7032134,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Callable</p>",
+            "wikiText": "Callable"
+        },
+        {
+            "id": 7032132,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Convertible</p>",
+            "wikiText": "Convertible"
+        },
+        {
+            "id": 7032128,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Cumulative</p>",
+            "wikiText": "Cumulative"
+        },
+        {
+            "id": 7032130,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Participating</p>",
+            "wikiText": "Participating"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7032130",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53288
+},
+	"study02": {
+    "id": 1712378,
+    "quizId": 259365,
+    "prompt": "<p>As opposed to the characteristics of common stock, which of the following are the characteristics of preferred stock?</p>\n<p>I. more conservative</p>\n<p>II. more intrinsic risk, more potential reward</p>\n<p>III. enables voting rights in a company</p>\n<p>IV. higher likelihood of a dividend</p>",
+    "wikiPrompt": "As opposed to the characteristics of common stock, which of the following are the characteristics of preferred stock?\n\nI. more conservative\nII. more intrinsic risk, more potential reward\nIII. enables voting rights in a company\nIV. higher likelihood of a dividend",
+    "explanation": "<p>The correct answer is: \" II and IV.\" Preferred stocks, as opposed to common stocks, generally offer investors higher risk but higher potential profits. Preferred stock also gives investors priority in receiving dividends. Common stocks, unlike preferred stocks, offer investors voting rights in a company.</p>",
+    "wikiExplanation": "The correct answer is: \" II and IV.\" Preferred stocks, as opposed to common stocks, generally offer investors higher risk but higher potential profits. Preferred stock also gives investors priority in receiving dividends. Common stocks, unlike preferred stocks, offer investors voting rights in a company.",
+    "correctQuizQuestionOptionId": 7386326,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:03-07:00",
+    "sourceAcademyAssetId": 54009,
+    "options": [
+        {
+            "id": 7386322,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>I and IV</p>",
+            "wikiText": "I and IV"
+        },
+        {
+            "id": 7386328,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>III and IV</p>",
+            "wikiText": "III and IV"
+        },
+        {
+            "id": 7386326,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>II and IV</p>",
+            "wikiText": "II and IV"
+        },
+        {
+            "id": 7386324,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>I and III</p>",
+            "wikiText": "I and III"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7386326",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53284
+},
+	"study03": {
+    "id": 1712086,
+    "quizId": 259365,
+    "prompt": "<p>All of the following financial advisors are required to register with the SEC except:</p>",
+    "wikiPrompt": "All of the following financial advisors are required to register with the SEC except:",
+    "explanation": "<p>The correct answer is a foreign investment advisor who manages assets of $16 million and advises more than 11 U.S clients. The actual requirement is a foreign investment advisor who manages assets over $25 million and advises more than 14 U.S clients.</p>",
+    "wikiExplanation": "The correct answer is a foreign investment advisor who manages assets of $16 million and advises more than 11 U.S clients. The actual requirement is a foreign investment advisor who manages assets over $25 million and advises more than 14 U.S clients.",
+    "correctQuizQuestionOptionId": 6903170,
+    "dateCreated": "2022-10-20T16:42:55-07:00",
+    "sourceAcademyAssetId": 646017,
+    "options": [
+        {
+            "id": 6903172,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>An advisor who manages $110 million of regulatory assets</p>",
+            "wikiText": "An advisor who manages $110 million of regulatory assets"
+        },
+        {
+            "id": 6903168,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>A private fund advisor who manages $200 million of regulatory assets</p>",
+            "wikiText": "A private fund advisor who manages $200 million of regulatory assets"
+        },
+        {
+            "id": 6903166,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>An advisor who manages $70 million in assets in a state without a security regulatory agency.</p>",
+            "wikiText": "An advisor who manages $70 million in assets in a state without a security regulatory agency."
+        },
+        {
+            "id": 6903170,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>A foreign investment advisor who manages assets of $16 million and advises 11 U.S clients</p>",
+            "wikiText": "A foreign investment advisor who manages assets of $16 million and advises 11 U.S clients"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "6903170",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53234
+},
+	"study04": {
+    "id": 1712604,
+    "quizId": 259365,
+    "prompt": "<p>The owner of a small business has tasked one of his managers to create an annual report for the business. The owner has already drafted a letter about the goals of the company, while another associate has provided the balance sheet, income statement, and cash flow statement. The manager working on the annual report is currently creating a document with data from the previous years in business and has made sure to record all important data from the previous decade. Which of the following is still necessary to complete the annual report?</p>",
+    "wikiPrompt": "The owner of a small business has tasked one of his managers to create an annual report for the business. The owner has already drafted a letter about the goals of the company, while another associate has provided the balance sheet, income statement, and cash flow statement. The manager working on the annual report is currently creating a document with data from the previous years in business and has made sure to record all important data from the previous decade. Which of the following is still necessary to complete the annual report?",
+    "explanation": "<p>This example shows a manager who has already received the needed financial statements and a letter from the owner. The manager would still need to obtain market information concerning the products and services provided by the business,</p>",
+    "wikiExplanation": "This example shows a manager who has already received the needed financial statements and a letter from the owner. The manager would still need to obtain market information concerning the products and services provided by the business,",
+    "correctQuizQuestionOptionId": 7108710,
+    "dateCreated": "2022-10-20T16:43:12-07:00",
+    "sourceAcademyAssetId": 238839,
+    "options": [
+        {
+            "id": 7108706,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Letter from the company president</p>",
+            "wikiText": "Letter from the company president"
+        },
+        {
+            "id": 7108708,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Ten-to-fifteen year results</p>",
+            "wikiText": "Ten-to-fifteen year results"
+        },
+        {
+            "id": 7108710,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Marketing</p>",
+            "wikiText": "Marketing"
+        },
+        {
+            "id": 7108712,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Financial statements</p>",
+            "wikiText": "Financial statements"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7108710",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53234
+},
+	"study05": {
+    "id": 1712682,
+    "quizId": 259365,
+    "prompt": "<p>Securities refer to negotiable economic instruments holding some monetary value. Which of the following represents a type of security whose cost is settled by the value of underlying commodities, bonds, or stocks?</p>",
+    "wikiPrompt": "Securities refer to negotiable economic instruments holding some monetary value. Which of the following represents a type of security whose cost is settled by the value of underlying commodities, bonds, or stocks?",
+    "explanation": "<p>The correct answer is Derivative securities. Other factors, such as the cost of commodities, bonds, or stocks, usually predetermine its prices.</p>\n<p>Debt, Equity, and Hybrid securities are all incorrect answers. Debt securities refer to a type of security representing borrowed money to be repaid. The amount to be paid is under terms instructing the interest rates, loan size, renewal date, and maturity. Equity security signifies ownership interest apprehended by stakeholders in a trust, Partnership, or company. Hybrid represents the combination of characteristics portrayed by equity and debt securities.</p>",
+    "wikiExplanation": "The correct answer is Derivative securities. Other factors, such as the cost of commodities, bonds, or stocks, usually predetermine its prices.\n\nDebt, Equity, and Hybrid securities are all incorrect answers. Debt securities refer to a type of security representing borrowed money to be repaid. The amount to be paid is under terms instructing the interest rates, loan size, renewal date, and maturity. Equity security signifies ownership interest apprehended by stakeholders in a trust, Partnership, or company. Hybrid represents the combination of characteristics portrayed by equity and debt securities.",
+    "correctQuizQuestionOptionId": 7251366,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:13-07:00",
+    "sourceAcademyAssetId": 13662,
+    "options": [
+        {
+            "id": 7251362,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Debt</p>",
+            "wikiText": "Debt"
+        },
+        {
+            "id": 7251368,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Hybrid</p>",
+            "wikiText": "Hybrid"
+        },
+        {
+            "id": 7251364,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Equity</p>",
+            "wikiText": "Equity"
+        },
+        {
+            "id": 7251366,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Derivative</p>",
+            "wikiText": "Derivative"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7251366",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53456
+},
+	"study06": {
+    "id": 1712690,
+    "quizId": 259365,
+    "prompt": "<p>Which of the following trading strategies is characterized by a market price that persists inside the line of resistance and support?</p>",
+    "wikiPrompt": "Which of the following trading strategies is characterized by a market price that persists inside the line of resistance and support?",
+    "explanation": "<p>The correct answer is range trading. This type of trading strategy is characterized by a market price that persists inside the line of resistance and support.</p>\n<p>Breakout trading, Reversal trading, and Momentum trading are all incorrect. Breakout trading refers to a strategy of going on a particular trend. Reversal trading is a strategy established on recognizing when the present trend is about to change direction. Momentum trading refers to a strategy established on trends of the prices and directions they are about to take.</p>",
+    "wikiExplanation": "The correct answer is range trading. This type of trading strategy is characterized by a market price that persists inside the line of resistance and support.\n\n\nBreakout trading, Reversal trading, and Momentum trading are all incorrect. Breakout trading refers to a strategy of going on a particular trend. Reversal trading is a strategy established on recognizing when the present trend is about to change direction. Momentum trading refers to a strategy established on trends of the prices and directions they are about to take.",
+    "correctQuizQuestionOptionId": 7251434,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:13-07:00",
+    "sourceAcademyAssetId": 216867,
+    "options": [
+        {
+            "id": 7251440,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Momentum</p>",
+            "wikiText": "Momentum"
+        },
+        {
+            "id": 7251438,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Reversal</p>",
+            "wikiText": "Reversal"
+        },
+        {
+            "id": 7251434,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Range</p>",
+            "wikiText": "Range"
+        },
+        {
+            "id": 7251436,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Breakout</p>",
+            "wikiText": "Breakout"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7251434",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53456
+},
+	"study07": {
+    "id": 1712506,
+    "quizId": 259365,
+    "prompt": "<p>A financial advisor is meeting with a 50-year-old client who is trying to decide which type of retirement plan best suits her needs. The client is planning on joining an industry that is in constant flux, so she expects to change jobs when new opportunities arise. The client would also like the option of withdrawing $10,000 tax-free to pay a down payment on a house that will serve as her primary residence after she is retired at sixty-five. The client would prefer a retirement plan that would allow her to not pay taxes on any growth of their investment. Which of the following types of retirement plans best fits the individual's needs?</p>",
+    "wikiPrompt": "A financial advisor is meeting with a 50-year-old client who is trying to decide which type of retirement plan best suits her needs. The client is planning on joining an industry that is in constant flux, so she expects to change jobs when new opportunities arise. The client would also like the option of withdrawing $10,000 tax-free to pay a down payment on a house that will serve as her primary residence after she is retired at sixty-five. The client would prefer a retirement plan that would allow her to not pay taxes on any growth of their investment. Which of the following types of retirement plans best fits the individual's needs?",
+    "explanation": "<p>The correct answer is: \"Roth 401(k).\" The client would most likely prefer a Roth 401(k) plan since a worker who changes employers could roll over a 401(k) into an IRA, but traditional pension plans like a defined-contribution pension or defined benefit pension remain linked with the employer and require the employee to be vested before the client would be eligible for the pension. A Roth 401(k), unlike a traditional IRA, is not taxed upon withdrawal of the growth, and up to $10,000 can be withdrawn early if that money would be used to purchase a primary residence.</p>",
+    "wikiExplanation": "The correct answer is: \"Roth 401(k).\" The client would most likely prefer a Roth 401(k) plan since a worker who changes employers could roll over a 401(k) into an IRA, but traditional pension plans like a defined-contribution pension or defined benefit pension remain linked with the employer and require the employee to be vested before the client would be eligible for the pension. A Roth 401(k), unlike a traditional IRA, is not taxed upon withdrawal of the growth, and up to $10,000 can be withdrawn early if that money would be used to purchase a primary residence.",
+    "correctQuizQuestionOptionId": 7393476,
+    "dateCreated": "2022-10-20T16:43:05-07:00",
+    "sourceAcademyAssetId": 16103,
+    "options": [
+        {
+            "id": 7393480,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>defined-contribution pension plan</p>",
+            "wikiText": "defined-contribution pension plan"
+        },
+        {
+            "id": 7393474,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>traditional 401(k)</p>",
+            "wikiText": "traditional 401(k)"
+        },
+        {
+            "id": 7393478,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>defined-benefit pension plan</p>",
+            "wikiText": "defined-benefit pension plan"
+        },
+        {
+            "id": 7393476,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Roth 401(k)</p>",
+            "wikiText": "Roth 401(k)"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7393476",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53422
+},
+	"study08": {
+    "id": 1712770,
+    "quizId": 259365,
+    "prompt": "<p>A worker retired the last year from XYZ Ltd. The company has in place a traditional 401(k) plan that he contributed to during his entire career and has a balance of $230,000. He understands that he has an option of leaving his 401(k) where it is, but decides he wants to invest in other things that are not in the 401(k) plan. He contacts his human resource department and he was furnished with a distribution packet with the following options:</p>\n<p>I Leave the money in the existing plan</p>\n<p>II Check payable directly to XYZ</p>\n<p>III Rollover into new employer's plan</p>\n<p>IV Rollover into IRA</p>\n<p>Which option(s) enables the worker to transfer his retirement funds to an individual retirement account?</p>",
+    "wikiPrompt": "A worker retired the last year from  XYZ Ltd. The company has in place a traditional 401(k) plan that he contributed to during his entire career and has a balance of $230,000. He understands that he has an option of leaving his 401(k) where it is, but decides he wants to invest in other things that are not in the 401(k) plan. He contacts his human resource department and he was furnished with a distribution packet with the following options:\nI Leave the money in the existing plan\nII Check payable directly to XYZ\nIII Rollover into new employer's plan\nIV Rollover into IRA\nWhich option(s) enables the worker to transfer his retirement funds to an individual retirement account?",
+    "explanation": "<p>The correct answer option is <b>IV Rollover into IRA</b>. By picking this option, the worker can transfer money from his current 401(k) plan into an IRA, giving him additional freedom to choose investments that match his financial objectives and preferences.</p>",
+    "wikiExplanation": "The correct answer option is __IV Rollover into IRA__. By picking this option, the worker can transfer money from his current 401(k) plan into an IRA, giving him additional freedom to choose investments that match his financial objectives and preferences.",
+    "correctQuizQuestionOptionId": 7351964,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:14-07:00",
+    "sourceAcademyAssetId": 16757,
+    "options": [
+        {
+            "id": 7351966,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>III and IV</p>",
+            "wikiText": "III and IV"
+        },
+        {
+            "id": 7351970,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>III only</p>",
+            "wikiText": "III only"
+        },
+        {
+            "id": 7351968,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>II, III, and IV</p>",
+            "wikiText": "II, III, and IV"
+        },
+        {
+            "id": 7351964,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>IV only</p>",
+            "wikiText": "IV only"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7351964",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53422
+},
+	"study09": {
+    "id": 1712386,
+    "quizId": 259365,
+    "prompt": "<p>One of the leaders of upper management at a corporation, named Bill, has a distinct role within the company. Bill is considered the face of the company and is responsible for overlooking corporate strategies. While he has much influence over the company, he also is liable to the stakeholders if the company fails. Which of the following corporate officer roles does Bill have in the corporation?</p>",
+    "wikiPrompt": "One of the leaders of upper management at a corporation, named Bill, has a distinct role within the company. Bill is considered the face of the company and is responsible for overlooking corporate strategies. While he has much influence over the company, he also is liable to the stakeholders if the company fails. Which of the following corporate officer roles does Bill have in the corporation?",
+    "explanation": "<p>The example describes the role of a chief executive officer or CEO. The CEO is the face of the company and oversees the corporate strategies.</p>",
+    "wikiExplanation": "The example describes the role of a chief executive officer or CEO. The CEO is the face of the company and oversees the corporate strategies.",
+    "correctQuizQuestionOptionId": 7038772,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:03-07:00",
+    "sourceAcademyAssetId": 13439,
+    "options": [
+        {
+            "id": 7038772,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Chief executive officer</p>",
+            "wikiText": "Chief executive officer"
+        },
+        {
+            "id": 7038778,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Chief marketing officer</p>",
+            "wikiText": "Chief marketing officer"
+        },
+        {
+            "id": 7038774,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Chief financial officer</p>",
+            "wikiText": "Chief financial officer"
+        },
+        {
+            "id": 7038776,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Chief operating officer</p>",
+            "wikiText": "Chief operating officer"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7038772",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53296
+},
+	"study10": {
+    "id": 1712644,
+    "quizId": 259365,
+    "prompt": "<p>An investor is looking to add another asset to his portfolio. As he conducts some research about the potential companies, he also wants to ensure the transaction makes sense financially. He has been calculating the values of the companies, among other data. He now wants to check whether the stock price is undervalued or overvalued. Which of the following ratios should he use to determine this?</p>",
+    "wikiPrompt": "An investor is looking to add another asset to his portfolio. As he conducts some research about the potential companies, he also wants to ensure the transaction makes sense financially. He has been calculating the values of the companies, among other data. He now wants to check whether the stock price is undervalued or overvalued. Which of the following ratios should he use to determine this?",
+    "explanation": "<p>The investor in this example should make use of the P/E ratio. The P/E ratio, or price-to-earnings ratio is used to determine if the stock price is undervalued or overvalued.</p>",
+    "wikiExplanation": "The investor in this example should make use of the P/E ratio. The P/E ratio, or price-to-earnings ratio is used to determine if the stock price is undervalued or overvalued.",
+    "correctQuizQuestionOptionId": 7029728,
+    "dateCreated": "2022-10-20T16:43:12-07:00",
+    "sourceAcademyAssetId": 243723,
+    "options": [
+        {
+            "id": 7029732,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Cash flow to debt ratio</p>",
+            "wikiText": "Cash flow to debt ratio"
+        },
+        {
+            "id": 7029728,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>P/E ratio</p>",
+            "wikiText": "P/E ratio"
+        },
+        {
+            "id": 7029730,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Debt-to-equity value ratio</p>",
+            "wikiText": "Debt-to-equity value ratio"
+        },
+        {
+            "id": 7029734,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Quick ratio</p>",
+            "wikiText": "Quick ratio"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7029728",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53302
+},
+	"study11": {
+    "id": 1712376,
+    "quizId": 259365,
+    "prompt": "<p>AWidgetCo decided to reward a long-time employee with the opportunity to purchase stock options at a grant price of $45 per share. The employee then purchased 400 shares of the stock at the grant price. After a decade, the stock price climbs to the current price of $76 per share. What is the current intrinsic value of the employee's unexercised stock option?</p>",
+    "wikiPrompt": "AWidgetCo decided to reward a long-time employee with the opportunity to purchase stock options at a grant price of $45 per share. The employee then purchased 400 shares of the stock at the grant price. After a decade, the stock price climbs to the current price of $76 per share. What is the current intrinsic value of the employee's unexercised stock option?",
+    "explanation": "<p>The correct answer is: \"$12,400.\" To calculate the intrinsic value (V), subtract the grant price (GP) from the market price (MP), then multiply that total by the number of shares (S): (MP - GP) x S = V, or (76 - 45) x 400 = 12,400.</p>",
+    "wikiExplanation": "The correct answer is: \"$12,400.\" To calculate the intrinsic value (V), subtract the grant price (GP) from the market price (MP), then multiply that total by the number of shares (S): (MP - GP) x S = V, or (76 - 45) x 400 = 12,400.",
+    "correctQuizQuestionOptionId": 7386320,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:03-07:00",
+    "sourceAcademyAssetId": 7865,
+    "options": [
+        {
+            "id": 7386316,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>$30,400</p>",
+            "wikiText": "$30,400"
+        },
+        {
+            "id": 7386320,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>$12,400</p>",
+            "wikiText": "$12,400"
+        },
+        {
+            "id": 7386318,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>$18,000</p>",
+            "wikiText": "$18,000"
+        },
+        {
+            "id": 7386314,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>$24,800</p>",
+            "wikiText": "$24,800"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7386320",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53290
+},
+	"study12": {
+    "id": 1712638,
+    "quizId": 259365,
+    "prompt": "<p>Concerning stocks, which of the following represents the first day which an employee is able to exercise their option to purchase shares of the company?</p>",
+    "wikiPrompt": "Concerning stocks, which of the following represents the first day which an employee is able to exercise their option to purchase shares of the company?",
+    "explanation": "<p>The vesting date is the first day when employees can begin to purchase shares of the company. The exercise date is the day options are used, while the grant date is the day the options are provided to the employee.</p>",
+    "wikiExplanation": "The vesting date is the first day when employees can begin to purchase shares of the company. The exercise date is the day options are used, while the grant date is the day the options are provided to the employee.",
+    "correctQuizQuestionOptionId": 7032144,
+    "marker": "0:00",
+    "dateCreated": "2022-10-20T16:43:12-07:00",
+    "sourceAcademyAssetId": 310909,
+    "options": [
+        {
+            "id": 7032148,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Exercise date</p>",
+            "wikiText": "Exercise date"
+        },
+        {
+            "id": 7032150,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Expiration date</p>",
+            "wikiText": "Expiration date"
+        },
+        {
+            "id": 7032146,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Grant date</p>",
+            "wikiText": "Grant date"
+        },
+        {
+            "id": 7032144,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Vesting date</p>",
+            "wikiText": "Vesting date"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7032144",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53290
+},
+	"study13": {
+    "id": 1109561,
+    "quizId": 259365,
+    "prompt": "<p>The stock market is facing an alpha risk. Investors should:</p>",
+    "wikiPrompt": "The stock market is facing an alpha risk. Investors should:",
+    "explanation": "<p>An alpha risk refers to a risk that impacts the entire stock market, so investors will have to be aware that the values of all stocks within their portfolios will decrease.</p>",
+    "wikiExplanation": "An alpha risk refers to a risk that impacts the entire stock market, so investors will have to be aware that the values of all stocks within their portfolios will decrease. ",
+    "correctQuizQuestionOptionId": 4731073,
+    "marker": "0:00",
+    "dateCreated": "2021-01-22T10:53:05-08:00",
+    "sourceAcademyAssetId": 150012,
+    "options": [
+        {
+            "id": 4731071,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Determine which industries are more vulnerable and sell the stocks associated with these</p>",
+            "wikiText": "Determine which industries are more vulnerable and sell the stocks associated with these"
+        },
+        {
+            "id": 4731075,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Invest in stocks that will not be impacted by the risk</p>",
+            "wikiText": "Invest in stocks that will not be impacted by the risk"
+        },
+        {
+            "id": 4731073,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Understand that their stock values will decrease</p>",
+            "wikiText": "Understand that their stock values will decrease"
+        },
+        {
+            "id": 4731069,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Identify the stocks that will be better performing and sell these</p>",
+            "wikiText": "Identify the stocks that will be better performing and sell these"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "4731073",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53250
+},
+	"study14": {
+    "id": 1712226,
+    "quizId": 259365,
+    "prompt": "<p>An investor has $500,000 to invest and tells his advisor he wants to invest the money in large and small companies. The advisor's investment strategy is 70% of the client's portfolio would be invested in more established companies that usually have lower returns, and 30% of the portfolio would be invested in companies that are more flexible and agile with greater returns but are riskier. The advisor invested 30% of the client's money in:</p>",
+    "wikiPrompt": "An investor has $500,000 to invest and tells his advisor he wants to invest the money in large and small companies.  The advisor's investment strategy is 70% of the client's portfolio would be invested in more established companies that usually have lower returns, and 30% of the portfolio would be invested in companies that are more flexible and agile with greater returns but are riskier.  The advisor invested 30% of the client's money in:",
+    "explanation": "<p>Market capitalization, or cap, describes a company's size. Small cap companies are very flexible and agile and have growth opportunities. Because small cap companies are smaller than large cap companies, they pose a greater risk for an investor but can generate a higher return. In contrast, large cap companies are more established and well-known and have higher stock prices. Large cap companies' stability tends to lead to lower risk for the investor, thus, lower returns.</p>",
+    "wikiExplanation": "Market capitalization, or cap, describes a company's size.  Small cap companies are very flexible and agile and have growth opportunities.  Because small cap companies are smaller than large cap companies, they pose a greater risk for an investor but can generate a higher return.  In contrast, large cap companies are more established and well-known and have higher stock prices.  Large cap companies' stability tends to lead to lower risk for the investor, thus, lower returns.",
+    "correctQuizQuestionOptionId": 7392614,
+    "dateCreated": "2022-10-20T16:42:57-07:00",
+    "sourceAcademyAssetId": 351905,
+    "options": [
+        {
+            "id": 7392616,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Large cap companies</p>",
+            "wikiText": "Large cap companies"
+        },
+        {
+            "id": 7392618,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Medium cap companies</p>",
+            "wikiText": "Medium cap companies"
+        },
+        {
+            "id": 7392614,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Small cap companies</p>",
+            "wikiText": "Small cap companies"
+        },
+        {
+            "id": 7392620,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Micro-cap companies</p>",
+            "wikiText": "Micro-cap companies"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7392614",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53406
+},
+	"study15": {
+    "id": 1712392,
+    "quizId": 259365,
+    "prompt": "<p>An investor is performing a technical analysis of his portfolio to determine the progress made in the last year. He uses a trading chart to make a comparison of the previous results to the expected results of his investments. While analyzing these charts, he looks at how the price has moved over time. He looks at the changes for the previous year. Which of the following elements is the focus of the technical analysis in this example?</p>",
+    "wikiPrompt": "An investor is performing a technical analysis of his portfolio to determine the progress made in the last year. He uses a trading chart to make a comparison of the previous results to the expected results of his investments. While analyzing these charts, he looks at how the price has moved over time. He looks at the changes for the previous year. Which of the following elements is the focus of the technical analysis in this example?",
+    "explanation": "<p>In the example, the investor is focused on time intervals. The time intervals show how the price has moved over time and are indicated on the x-axis.</p>",
+    "wikiExplanation": "In the example, the investor is focused on time intervals. The time intervals show how the price has moved over time and are indicated on the x-axis.",
+    "correctQuizQuestionOptionId": 7042044,
+    "dateCreated": "2022-10-20T16:43:03-07:00",
+    "sourceAcademyAssetId": 142220,
+    "options": [
+        {
+            "id": 7042048,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Historical price movement</p>",
+            "wikiText": "Historical price movement"
+        },
+        {
+            "id": 7042050,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Analysis tools</p>",
+            "wikiText": "Analysis tools"
+        },
+        {
+            "id": 7042046,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Price</p>",
+            "wikiText": "Price"
+        },
+        {
+            "id": 7042044,
+            "type": "TEXT",
+            "status": "ACTIVE",
+            "text": "<p>Time intervals</p>",
+            "wikiText": "Time intervals"
+        }
+    ],
+    "score": 0,
+    "status": "ACTIVE",
+    "questionBank": {
+        "id": 259365,
+        "academyAssetId": 645751,
+        "status": "ACTIVE",
+        "dateCreated": "2021-01-22T10:53:05-08:00",
+        "title": "",
+        "description": ""
+    },
+    "type": "MULTIPLE_CHOICE",
+    "correctAnswer": "7042044",
+    "questionConfigsMap": {},
+    "examTaxonomyNodeId": 53304
+}
+};

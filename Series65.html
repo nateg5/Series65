@@ -32,6 +32,7 @@
 		<script src="dataSecuritiesce.json"></script>
 		<script src="dataSolomon.json"></script>
 		<script src="dataKaplan.json"></script>
+		<script src="dataStudy.json"></script>
     </head>
     <body>
 		<div id="question"></div>
@@ -84,7 +85,8 @@
 				...dataAchievable,
 				...dataSecuritiesce,
 				...dataSolomon,
-				...dataKaplan
+				...dataKaplan,
+				...dataStudy
 			};
 			let dataKeys = Object.keys(data);
 			
@@ -174,6 +176,20 @@
 					},{
 						answer: qData.answers[3].answer,
 						correct: qData.answers[3].correct === "1"
+					}];
+				} else if(qData.options) {
+					return [{
+						answer: qData.options[0].wikiText,
+						correct: qData.options[0].id === qData.correctQuizQuestionOptionId
+					},{
+						answer: qData.options[1].wikiText,
+						correct: qData.options[1].id === qData.correctQuizQuestionOptionId
+					},{
+						answer: qData.options[2].wikiText,
+						correct: qData.options[2].id === qData.correctQuizQuestionOptionId
+					},{
+						answer: qData.options[3].wikiText,
+						correct: qData.options[3].id === qData.correctQuizQuestionOptionId
 					}];
 				} else {
 					alert("ERROR: Invalid data shape for getAnswers");
