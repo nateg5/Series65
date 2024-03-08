@@ -1,0 +1,342 @@
+let dataEmpireStockBrokerOnline = {
+	"empireStockBrokerOnline01": {
+		"answers": [{
+			"content": "stock splits",
+			"correct": false
+		},{
+			"content": "stock dividends",
+			"correct": true
+		},{
+			"content": "Board of Directors",
+			"correct": false
+		},{
+			"content": "None of the above are exceptions",
+			"correct": false
+		}],
+		"explanation": "Stockholders of a company have the right to vote on splits, but not on dividends. Dividends are determined by the Board of Directors of the company instead of the investors.",
+		"prompt": "Common stockholders have the right to vote for all of the following EXCEPT"
+	},
+	"empireStockBrokerOnline02": {
+		"answers": [{
+			"content": "$0.16",
+			"correct": false
+		},{
+			"content": "$0.50",
+			"correct": false
+		},{
+			"content": "$1.60",
+			"correct": false
+		},{
+			"content": "$5.00",
+			"correct": true
+		}],
+		"explanation": "Prices of US Government bonds are quoted in 32nds. Therefore, .16 = 16/32 . 16/32 = .5 = $5 (Reminder: Move the decimal one spot to the right to multiply the price by 10).",
+		"prompt": "A T- bond increased in value by .16. The bond increased in value by"
+	},
+	"empireStockBrokerOnline03": {
+		"answers": [{
+			"content": "The mutual fund will sue the investor for the remaining unpaid sales charges",
+			"correct": false
+		},{
+			"content": "The mutual fund applies an 8-1/2% penalty",
+			"correct": false
+		},{
+			"content": "The mutual fund may sell shares purchased by the customer from the escrow account to make up the discount",
+			"correct": true
+		},{
+			"content": "The issuer of the mutual fund may take the client to arbitration since the LOI is binding",
+			"correct": false
+		}],
+		"explanation": "If an investor fails to satisfy the LOI (Letter of Intent) within 13 months, the mutual fund will sell the investor's shares in the escrow account to make up for the discounted sales charge plus penalties.",
+		"prompt": "If an investor does not satisfy the LOI, which of the following occurs?"
+	},
+	"empireStockBrokerOnline04": {
+		"answers": [{
+			"content": "0.25%",
+			"correct": true
+		},{
+			"content": "0.50%",
+			"correct": false
+		},{
+			"content": "0.75%",
+			"correct": false
+		},{
+			"content": "1.00%",
+			"correct": false
+		}],
+		"explanation": "The maximum 12b-1 for a no-load fund is 0.25% of NAV. If the fund charges a sales charge, the maximum 12b-1 fee is 0.75% of NAV.",
+		"prompt": "What is the maximum annual 12b-1 fee for a no load fund?"
+	},
+	"empireStockBrokerOnline05": {
+		"answers": [{
+			"content": "34",
+			"correct": true
+		},{
+			"content": "44",
+			"correct": false
+		},{
+			"content": "46",
+			"correct": false
+		},{
+			"content": "56",
+			"correct": false
+		}],
+		"explanation": "Since this investor bought the stock for $40 per share but got back $6 per share for selling the option, the breakeven point is 34 ($40 - $6).",
+		"prompt": "An investor buys 100 shares of DEF at $40 and writes a DEF May 50 call for 6. What is the breakeven point?"
+	},
+	"empireStockBrokerOnline06": {
+		"answers": [{
+			"content": "The interest rate that banks charge each other for overnight loans",
+			"correct": true
+		},{
+			"content": "The interest rate that the banks charge their best customers for loans",
+			"correct": false
+		},{
+			"content": "The interest rate that the Fed charges banks for loans",
+			"correct": false
+		},{
+			"content": "The interest rate charged in margin accounts",
+			"correct": false
+		}],
+		"explanation": "The Fed Funds rate is the interest rate that banks charge each other for overnight loans.",
+		"prompt": "The Fed Funds rate is:"
+	},
+	"empireStockBrokerOnline07": {
+		"answers": [{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "I and IV",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": true
+		},{
+			"content": "II and IV",
+			"correct": false
+		}],
+		"explanation": "Utility companies pay high dividends since utility companies do not need to reinvest much money into their own companies. Most utility companies are large size companies already. In addition, the PE ratio of the company would be low since dividends and PE are opposite in any company.",
+		"prompt": "Which of the following are characteristics of utility companies?<br><br>I. High PE<br>II. Low PE<br>III. High dividend payout<br>IV. Low dividend payout"
+	},
+	"empireStockBrokerOnline08": {
+		"answers": [{
+			"content": "7%",
+			"correct": false
+		},{
+			"content": "8%",
+			"correct": true
+		},{
+			"content": "15%",
+			"correct": false
+		},{
+			"content": "cannot be determined",
+			"correct": false
+		}],
+		"explanation": "The active rate of return is the rate of return on a managed investment company compared to an index with similar investments. However, the question asks for the passive rate of return, which is the rate of return for the index.",
+		"prompt": "A mutual fund manager has established an annual rate of return of 15% compared to a benchmark portfolio of 8%. The passive rate of return would be"
+	},
+	"empireStockBrokerOnline09": {
+		"answers": [{
+			"content": "active rate of return",
+			"correct": false
+		},{
+			"content": "real rate of return",
+			"correct": false
+		},{
+			"content": "standard deviation",
+			"correct": false
+		},{
+			"content": "net present value",
+			"correct": true
+		}],
+		"explanation": "The net present value of an investment is a comparison of the actual rate of return compared to the required or internal rate of return. Investors would use this calculation to determine if they are earning more or less than required to turn their present value into future value.",
+		"prompt": "The calculation used to compare the actual rate of return compared to the internal rate of return is the"
+	},
+	"empireStockBrokerOnline10": {
+		"answers": [{
+			"content": "4:1",
+			"correct": false
+		},{
+			"content": "1:3",
+			"correct": false
+		},{
+			"content": "3:1",
+			"correct": false
+		},{
+			"content": "1:4",
+			"correct": true
+		}],
+		"explanation": "",
+		"prompt": "A company has the following items on its balance sheet:<br><br>Long term liabilities $10,000,000<br>Par value of common stock $5,000,000<br>Paid in capital $10,000,000<br>Retained earnings $25,000,000<br><br>The debt to equity ratio of the company is"
+	},
+	"empireStockBrokerOnline11": {
+		"answers": [{
+			"content": "Corporate charter",
+			"correct": false
+		},{
+			"content": "Corporate resolution",
+			"correct": true
+		},{
+			"content": "Both Corporate charter and Corporate resolution",
+			"correct": false
+		},{
+			"content": "Neither Corporate charter nor Corporate resolution",
+			"correct": false
+		}],
+		"explanation": "A corporate resolution is always required to be obtained by a brokerage or advisory firm when opening a corporate account to show who makes investment decisions. However, a corporate charter or corporate by-laws would only be necessary if a company wishes to open a margin account.",
+		"prompt": "In order for a corporation to open a cash account, it would need to send a brokerage firm a copy of a:"
+	},
+	"empireStockBrokerOnline12": {
+		"answers": [{
+			"content": "$15,000 loss for the current year",
+			"correct": false
+		},{
+			"content": "$3,000 loss for the current year, $3,000 carried over into the next year",
+			"correct": false
+		},{
+			"content": "$3,000 loss for the current year, $12,000 carried over into the next year",
+			"correct": true
+		},{
+			"content": "$3,000 loss for the current year, $22,000 carried over into the next year",
+			"correct": false
+		}],
+		"explanation": "At the end of each calendar year, an investor may only claim $3,000 in net capital losses a write off against income. However, there is no limit to the amount of money the investor may carry over to next year. In this example, the investor lost $15,000 net in the current year. Therefore, $3,000 in losses may be claimed in the current year, while the remaining $12,000 may be carried over into the next year.",
+		"prompt": "An investor had the following investment results for the current year: <br><br>Capital Gains $10,000<br><br>Capital Losses $25,000<br><br>What is the tax status for this investor?"
+	},
+	"empireStockBrokerOnline13": {
+		"answers": [{
+			"content": "The capacity of the trade",
+			"correct": false
+		},{
+			"content": "Commissions charged",
+			"correct": false
+		},{
+			"content": "Markups charged",
+			"correct": true
+		},{
+			"content": "None of the above are exceptions; all of these must be included",
+			"correct": false
+		}],
+		"explanation": "Markups are charged in dealer (principal) transactions rather than broker (agency) transactions.",
+		"prompt": "All of the following must be disclosed to a customer in an agency transaction EXCEPT:"
+	},
+	"empireStockBrokerOnline14": {
+		"answers": [{
+			"content": "The amount of money deposited",
+			"correct": false
+		},{
+			"content": "The value of the separate account",
+			"correct": false
+		},{
+			"content": "A or B, whichever is lower",
+			"correct": false
+		},{
+			"content": "A or B, whichever is higher",
+			"correct": true
+		}],
+		"explanation": "If purchasing a death benefit rider in an annuity, the amount left for the beneficiary in the event of the owner’s death is the amount of money deposited or the value of the separate account, whichever is greater.",
+		"prompt": "If an investor purchases a death benefit rider in an annuity, what is the death benefit left for a beneficiary in the event of death during the surrender period?"
+	},
+	"empireStockBrokerOnline15": {
+		"answers": [{
+			"content": "II only",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": true
+		},{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": false
+		}],
+		"explanation": "The items subject to AMT (Alternative Minimum Tax) are excess write-offs (accelerated above straight line) in DPPs and interest received in IDRs (private activity bonds). Public activity bonds are municipal bonds issued to fund a facility used by the municipality (GO and revenue bonds).",
+		"prompt": "Which of the following are tax preference items subject to the Alternative Minimum Tax?<br><br>I. Straight line depreciation<br>II. Excess accelerated depreciation<br>III. Interest on public activity bonds<br>IV. Interest on private activity bonds"
+	},
+	"empireStockBrokerOnline16": {
+		"answers": [{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "I and IV",
+			"correct": false
+		},{
+			"content": "II, III, and IV",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": true
+		}],
+		"explanation": "",
+		"prompt": "Which of the following does not have to register as a broker-dealer in state A?<br><br>I. An agent in state B calling a client in state A<br>II. A bank located in state A<br>III. A firm located in state B, which has financial institutions as its only clients in state A<br>IV. A corporation that issues securities in state A"
+	},
+	"empireStockBrokerOnline17": {
+		"answers": [{
+			"content": "Notification",
+			"correct": false
+		},{
+			"content": "Coordination",
+			"correct": false
+		},{
+			"content": "Qualification",
+			"correct": true
+		},{
+			"content": "Cannot be determined",
+			"correct": false
+		}],
+		"explanation": "Since intrastate offerings are not registered with the SEC, the state examines the company more closely with registration by qualification.",
+		"prompt": "Securities issued through an intrastate initial public offering would most likely register with states by"
+	},
+	"empireStockBrokerOnline18": {
+		"answers": [{
+			"content": "II only",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "I, II, and III",
+			"correct": true
+		}],
+		"explanation": "In answer I, the advisor is trying to make the value of her investment appreciate in value by recommending the stock to all clients whether suitable or not. Answer II is a violation since the adviser did not follow the customer’s instructions. Answer III is a violation since a client cannot cosign a loan for an adviser or lend money to the advisor.",
+		"prompt": "Which of the following violates the Investment Advisers Act of 1940?<br><br>I. An advisor buys a stock and recommends the stock to all her clients after telling them that she owns the stock<br>II. An advisor receives an unsolicited order to buy ABC stock but the advisor buys DEF stock for the client since she knows that ABC is in severe financial difficulty<br>III. An advisor has an investor cosign a loan from a bank that is also a client of the advisor"
+	},
+	"empireStockBrokerOnline19": {
+		"answers": [{
+			"content": "It must be forwarded to the SEC",
+			"correct": false
+		},{
+			"content": "It must be forwarded to a principal",
+			"correct": true
+		},{
+			"content": "It must be forwarded to the state Administrator",
+			"correct": false
+		},{
+			"content": "It does not have to be forwarded since the client is not complaining about the agent",
+			"correct": false
+		}],
+		"explanation": "Any written complaints whether referring to a specific agent or not must always be forwarded to a principal. The complaint needs to be sent to the Administrator only upon request.",
+		"prompt": "An agent receives a letter from a client that states the client is unhappy with the firm's recommendations. Which of the following must be done with the letter?"
+	},
+	"empireStockBrokerOnline20": {
+		"answers": [{
+			"content": "I only",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "II, III, and IV",
+			"correct": true
+		},{
+			"content": "I, II, III, and IV",
+			"correct": false
+		}],
+		"explanation": "Banks and savings institutions do not have to register as investment advisors. If a person only deals with institutions and broker-dealers and has no place of business in the state, the person does not have to register as an advisor. However, the person in answer II has a place of business in the state. When having an office in the state, the person must register as an adviser. Furthermore, anyone who is giving advice incidental to his or her profession is not considered an advisor. Incidental means offering services for free.",
+		"prompt": "A person providing investment advice does not have to register as an investment adviser in the state if the person:<br><br>I. Is a bank or savings institution<br>II. Only deals with financial institutions and has no place of business within the state<br>III. Only deals with broker-dealers and/or investment advisers and has no place of business in the state<br>IV. Is giving advice incidental to his or her profession"
+	}
+};
