@@ -1,0 +1,512 @@
+let dataBestTestReview = {
+	"bestTestReview01": {
+		"answers": [{
+			"content": "LLC",
+			"correct": true
+		},{
+			"content": "Limited Partnership",
+			"correct": false
+		},{
+			"content": "General Partnership",
+			"correct": false
+		},{
+			"content": "C Corporation",
+			"correct": false
+		}],
+		"explanation": "Limited liability is satisfied by the LLC and the C Corp. A Limited Partnership would not fit the bill, because it has to have a General Partner who assumes full general liability for the debts of the business, which is not what your client wants. A General Partnership is unacceptable for the same reason. The LLC has flow through tax benefits because it is not a taxable entity, whereas a C Corporation is a taxable business entity.",
+		"prompt": "One of your IA clients plans to start a new business. He and several associates wish to have limited liability and flow through tax benefits, yet have control of the enterprise. Which of the below would meet these objectives?"
+	},
+	"bestTestReview02": {
+		"answers": [{
+			"content": "commercial paper",
+			"correct": false
+		},{
+			"content": "negotiable CD",
+			"correct": true
+		},{
+			"content": "T-bill",
+			"correct": false
+		},{
+			"content": "STRIPS",
+			"correct": false
+		}],
+		"explanation": "Unlike zero coupon instruments, negotiable/tradable certificates of deposit are offered at par and make periodic interest payments.",
+		"prompt": "Which of the following debt instruments would not initially be offered at a discount?"
+	},
+	"bestTestReview03": {
+		"answers": [{
+			"content": "an equity demand.",
+			"correct": false
+		},{
+			"content": "a margin call.",
+			"correct": false
+		},{
+			"content": "a maintenance call.",
+			"correct": true
+		},{
+			"content": "a Reg. T call.",
+			"correct": false
+		}],
+		"explanation": "When long equity drops below 25%, which is the minimum maintenance requirement under the rules of the self-regulatory organizations such as the NYSE or FINRA, the demand for additional equity/ additional funds is referred to as a 'maintenance call.' You may see it referred to as a 'house call,' in that it is coming from the 'brokerage house.'",
+		"prompt": "When the market value of the long position in a client's margin account deteriorates to the point at which additional equity is required, the demand for additional funds is referred to as:"
+	},
+	"bestTestReview04": {
+		"answers": [{
+			"content": "an ascending yield curve.",
+			"correct": false
+		},{
+			"content": "a downward sloping yield curve.",
+			"correct": false
+		},{
+			"content": "a descending yield curve.",
+			"correct": false
+		},{
+			"content": "an inverted yield curve.",
+			"correct": true
+		}],
+		"explanation": "When the yield curve is sloping downward, analysts refer to it as either a negative yield curve or an inverted yield curve.",
+		"prompt": "In a research report provided to a client discussing the credit markets, there is a graph which shows the comparative yields on US Treasury securities of varying maturities. If the graphic depiction appears to be sloping downward, analysts describe this as:"
+	},
+	"bestTestReview05": {
+		"answers": [{
+			"content": "all of the above",
+			"correct": false
+		},{
+			"content": "I only",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": false
+		},{
+			"content": "I, II and IV",
+			"correct": true
+		}],
+		"explanation": "Personal property includes cars, furniture, electronic devices, jewelry, etc. Those are family assets and show up on a balance sheet. Real estate is the home, which is most definitely an asset, and if there is a mortgage on the home, that shows up as a liability. Depreciation is a tax write-off only available to businesses, not families.",
+		"prompt": "A family balance sheet would show which of the following?<br>I.     personal property<br>II.    real estate<br>III.   depreciation<br>IV.   mortgage"
+	},
+	"bestTestReview06": {
+		"answers": [{
+			"content": "beta minus alpha, divided by standard deviation",
+			"correct": false
+		},{
+			"content": "actual return minus risk-free return, divided by standard deviation",
+			"correct": true
+		},{
+			"content": "discounted cash flow divided by investment's cost basis",
+			"correct": false
+		},{
+			"content": "internal rate of return divided by S&P 500 Index rate of return",
+			"correct": false
+		}],
+		"explanation": "Actual return of an investment or a portfolio, to the degree it exceeds the 3 month T-bill rate which is referred to as the 'risk free return,' divided by the standard deviation of the investment or the portfolio, will provide a number which may be positive, zero or negative. The more positive it is, the better-compensated the investor is for the amount of risk the investor has taken.",
+		"prompt": "Which of the below properly represents the formula for the Sharpe Ratio?"
+	},
+	"bestTestReview07": {
+		"answers": [{
+			"content": "401(k) plan",
+			"correct": false
+		},{
+			"content": "403(b) plan",
+			"correct": false
+		},{
+			"content": "401(k) plan and 403(b) plan",
+			"correct": false
+		},{
+			"content": "529 plan",
+			"correct": true
+		}],
+		"explanation": "The Securities & Exchange Commission has deemed Section 529 college saving plans to be 'municipal fund securities.' A securities license is required to sell them. This is NOT true of retirement plans, such as IRAs, Keoghs, 401(k) and 403(b) plans, which are not considered securities, though the money IN the plans is frequently invested IN securities.",
+		"prompt": "Which of the below are considered securities?"
+	},
+	"bestTestReview08": {
+		"answers": [{
+			"content": "8% debentures due in 20 years",
+			"correct": false
+		},{
+			"content": "6.5% collateral trust certificates due in 21 years",
+			"correct": false
+		},{
+			"content": "6.0% US Treasury Bonds due in 24 years",
+			"correct": false
+		},{
+			"content": "Zero coupon bonds maturing in 22 years",
+			"correct": true
+		}],
+		"explanation": "",
+		"prompt": "Which of the following debt securities would likely have the longest duration?"
+	},
+	"bestTestReview09": {
+		"answers": [{
+			"content": "short put.",
+			"correct": false
+		},{
+			"content": "long put.",
+			"correct": false
+		},{
+			"content": "long call.",
+			"correct": true
+		},{
+			"content": "GTC stop order.",
+			"correct": false
+		}],
+		"explanation": "Three of the four answers shown are hedges for a short seller. The short put provides a modest amount of hedge through the receipt of the premium income. The GTC stop order placed above the market (buy stop order) will be triggered if the stock rises high enough to touch the stop price. But there is no guaranteed execution price with a stop order, therefore the client's attempt to limit loss might be compromised with a stop order. However, buying a call option guarantees the client the right to buy 100 shares of the subject stock at a guaranteed exercise or strike price, making it the most effective of the hedges. Buying a put option would be a wonderful hedge for a long stock position, not short stock.",
+		"prompt": "Though there are several methods of hedging a short stock position, the method below which is considered the most effective hedge would be the:"
+	},
+	"bestTestReview10": {
+		"answers": [{
+			"content": "by advisers to make disclosure of their investment policies.",
+			"correct": false
+		},{
+			"content": "by advisers which have custody of customer assets.",
+			"correct": true
+		},{
+			"content": "by advisers who wish to file their registration forms Electronically.",
+			"correct": false
+		},{
+			"content": "by advisers who wish to change from state covered to fed covered.",
+			"correct": false
+		}],
+		"explanation": "Form ADV–E is the formed used to account for the cash and securities of customers which are held in the custody of a registered investment advisory firm.",
+		"prompt": "Under the Investment Advisers Act of 1940, Form ADV-E is generally used:"
+	},
+	"bestTestReview11": {
+		"answers": [{
+			"content": "if it's an account of an immediate family member.",
+			"correct": false
+		},{
+			"content": "if specific approval is requested and obtained from the appropriate SRO.",
+			"correct": false
+		},{
+			"content": "if approved by the broker-dealer and the sharing is in direct proportion to the financial contribution to the account by the agent.",
+			"correct": true
+		},{
+			"content": "under no circumstances.",
+			"correct": false
+		}],
+		"explanation": "Opening a joint account with a customer is permitted, whether a family member or not, only if the broker-dealer approves it, and the sharing in the gains and losses of that account are in proportion to the money put into the account by the agent. For example, if the rep puts in 50% of the money, the rep can only share 50% of the account's performance. Please note that an IAR cannot have a joint account with an IA client.",
+		"prompt": "An agent of a broker-dealer may share in the profits and losses of a customer's account:"
+	},
+	"bestTestReview12": {
+		"answers": [{
+			"content": "a client who is a senior officer of a commercial bank",
+			"correct": false
+		},{
+			"content": "a mortgage broker",
+			"correct": false
+		},{
+			"content": "the IA",
+			"correct": true
+		},{
+			"content": "all of the above would comply if documented properly",
+			"correct": false
+		}],
+		"explanation": "It is permissible to borrow money from your employer, in this case the IA, Fulton Advisory Group. It is permissible to borrow from a bank or other entity regularly engaged in the business of lending money, but that does NOT include employees who arrange for the loans, such as bank officers and mortgage brokers.",
+		"prompt": "The Fulton Advisory Group has IARs in several states. One of the IARs wishes to borrow money for personal purposes and has inquired of Fulton's compliance officer what the rules and regulations will allow regarding borrowing and lending. The IAR borrowing from which of the below would comply?"
+	},
+	"bestTestReview13": {
+		"answers": [{
+			"content": "private hedge fund",
+			"correct": false
+		},{
+			"content": "open-end investment company",
+			"correct": false
+		},{
+			"content": "closed-end investment company",
+			"correct": true
+		},{
+			"content": "all of the above",
+			"correct": false
+		}],
+		"explanation": "Closed-end shares trade on the major stock exchanges. The market price is based upon the same economic factor as other listed common stocks – supply & demand. The bid and ask price of a closed-end fund is not dependent upon the value of the fund's portfolio, which is quite opposite from how the open-end fund (mutual fund) works, where pricing is directly based upon net asset value of the portfolio. Additionally, neither private hedge funds nor mutual funds trade on an exchange. Answer C. is the only choice which trades on an exchange.",
+		"prompt": "Considering each of the investment vehicles shown below, which trades on an exchange at a price which is unrelated to its underlying value?"
+	},
+	"bestTestReview14": {
+		"answers": [{
+			"content": "requires the brochure to be furnished to the new advisory client at least 48 hours prior to signing the investment advisory contract.",
+			"correct": false
+		},{
+			"content": "requires the brochure to be furnished no later than at the time the new advisory client signs the investment advisory contract.",
+			"correct": true
+		},{
+			"content": "requires that the brochure be furnished to the new advisory client with 5 business days of signing the investment advisory contact.",
+			"correct": false
+		},{
+			"content": "requires the brochure only be provided to new advisory clients where the contract calls for performance-oriented fees.",
+			"correct": false
+		}],
+		"explanation": "The law states that a brochure can be provided 48 hours in advance, but must be provided no later than at the time the new client signs the advisory contract.",
+		"prompt": "Among its many provisions, the Brochure Rule:"
+	},
+	"bestTestReview15": {
+		"answers": [{
+			"content": "annuities",
+			"correct": true
+		},{
+			"content": "mutual funds",
+			"correct": false
+		},{
+			"content": "Roth IRA",
+			"correct": false
+		},{
+			"content": "gold and/or other precious metals",
+			"correct": false
+		}],
+		"explanation": "Longevity risk is the risk of outliving your money. The insurance company annuity product is designed to provide the customer/annuitant with a payment for life, no matter how long the annuitant shall live.",
+		"prompt": "Among the investment products available for an IAR to recommend to clients, which one of the following would tend to provide the best protection against longevity risk?"
+	},
+	"bestTestReview16": {
+		"answers": [{
+			"content": "1",
+			"correct": true
+		},{
+			"content": "3",
+			"correct": false
+		},{
+			"content": "7",
+			"correct": false
+		},{
+			"content": "Negative 1",
+			"correct": false
+		}],
+		"explanation": "Step 1 in solving for Alpha is multiply the S&P return times the beta of the investor's investment position:<br>5% times 1.4 = 7.0%<br><br>Step 2 is to subtract the Actual Return minus the answer to Step 1:<br>8.0% minus 7.0% = 1.0<br>This is referred to as the Alpha",
+		"prompt": "An investor's portfolio has returned 8% in the past year. If the beta of the portfolio is 1.4, and the S&P 500 Index earned 5% in the past year, the investor's portfolio has an alpha of:"
+	},
+	"bestTestReview17": {
+		"answers": [{
+			"content": "5% and 15%",
+			"correct": false
+		},{
+			"content": "0% and 20%",
+			"correct": true
+		},{
+			"content": "9.5% and 10.5%",
+			"correct": false
+		},{
+			"content": "Insufficient data to compute",
+			"correct": false
+		}],
+		"explanation": "According to statistical analysis, there is a 95% likelihood that a portfolio's annual return will be, in any given year, within a range of twice the standard deviation of the portfolio. With a standard deviation of 5%, this means that one could expect a return of 2 times 5%, or 10%, either higher, or lower, than the average return of the portfolio.<br><br>With an average return of 10%, this means the range of returns in any given year in the future could be as low as 0.00% and as high as 20.00%. These numbers are found by subtracting 10% from the average and adding 10% to the average [10% minus 10% and 10% plus 10%].",
+		"prompt": "An investment has historically achieved an average annual rate of return of 10% with a standard deviation of 5%. Based upon these data, the investment could be expected, with 95% likelihood, to earn with the range of:"
+	},
+	"bestTestReview18": {
+		"answers": [{
+			"content": "current yield",
+			"correct": false
+		},{
+			"content": "holding period return",
+			"correct": false
+		},{
+			"content": "net present value",
+			"correct": true
+		},{
+			"content": "the quick asset ratio",
+			"correct": false
+		}],
+		"explanation": "Only NPV (net present value) factors in the time value of money, which is integral to computing the discounting of future cash flow.",
+		"prompt": "Discounted cash flow techniques include which of the following?"
+	},
+	"bestTestReview19": {
+		"answers": [{
+			"content": "$4.50",
+			"correct": false
+		},{
+			"content": "$4.21",
+			"correct": true
+		},{
+			"content": "$4.29",
+			"correct": false
+		},{
+			"content": "$4.00",
+			"correct": false
+		}],
+		"explanation": "$60 per month for 4 months is a total cash outlay of $240. To calculate how many shares were purchased with that $240, we must find out how many shares were purchased in each of the four months:<br>$60 divided by $3 = 20<br>$60 divided by $4 = 15<br>$60 divided by $5 = 12<br>$60 divided by $6 = 10<br>Total shares bought = 57 shares<br>To find the AVERAGE COST for each share: $240 divided by 57 shares = $4.21",
+		"prompt": "An investor invests $60 on the first of every month in the ABC mutual fund. If the offering price of the fund on the first of each month for the next four months is $3.00, $4.00, $5.00 and $6.00 respectively, what is the investor's average cost per share over this four-month period?"
+	},
+	"bestTestReview20": {
+		"answers": [{
+			"content": "all of the above",
+			"correct": false
+		},{
+			"content": "I, II and IV",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": true
+		},{
+			"content": "I and IV",
+			"correct": false
+		}],
+		"explanation": "Asset class means a broad category, not a specific asset within the broad category. Therefore, real estate is a broad category, collectibles is also a broad category, but gold is a specific asset within the category of commodities, and NASDAQ equities is within the broad category of securities.",
+		"prompt": "When reviewing the items listed below, which represent an 'Asset Class?'<br>I.     gold<br>II.    real estate<br>III.   collectibles<br>IV.   NASDAQ equities"
+	},
+	"bestTestReview21": {
+		"answers": [{
+			"content": "a general partnership",
+			"correct": false
+		},{
+			"content": "an LLC",
+			"correct": true
+		},{
+			"content": "a C corp.",
+			"correct": false
+		},{
+			"content": "a sole proprietorship",
+			"correct": false
+		}],
+		"explanation": "Limited liability companies (LLC) grant to the owners, called members, liability that is limited to their investment in the business, and LLCs are 'flow through entities' which means the business enterprise does not pay tax — the owners do.<br><br>Looking at the other answers: GP has full unlimited liability; C Corps are taxed entities; sole proprietors have full unlimited liability.",
+		"prompt": "A business enterprise featuring limited liability as well as pass-through tax consequences would include:"
+	},
+	"bestTestReview22": {
+		"answers": [{
+			"content": "criminal penalties including substantial prison sentences",
+			"correct": false
+		},{
+			"content": "substantial six-figure and larger fines",
+			"correct": false
+		},{
+			"content": "civil penalties",
+			"correct": false
+		},{
+			"content": "all of the above",
+			"correct": true
+		}],
+		"explanation": "This is fairly straightforward. These are all among the many potential penalties for in any way violating the AML regulations.",
+		"prompt": "AML (Anti-money laundering) regulations when violated can lead to which of the following sanctions against a firm and/or any registered personnel who played any role in enabling the violative behavior?"
+	},
+	"bestTestReview23": {
+		"answers": [{
+			"content": "must have played an active role in aiding and abetting the money laundering.",
+			"correct": false
+		},{
+			"content": "must have benefited from the money laundering.",
+			"correct": false
+		},{
+			"content": "may only need to be shown to have turned a blind eye to the activity.",
+			"correct": true
+		},{
+			"content": "must have initiated the activity.",
+			"correct": false
+		}],
+		"explanation": "As attractive as some of the other answers may appear, the word MUST is a red flag any time is shows up in a test question.",
+		"prompt": "In order to be held liable in an AML legal prosecution, an RR:"
+	},
+	"bestTestReview24": {
+		"answers": [{
+			"content": "broker/dealer records used to verify a customer's identification must be retained no less than 5 years after the closing of the account.",
+			"correct": false
+		},{
+			"content": "the name and address of the customer must be obtained.",
+			"correct": false
+		},{
+			"content": "the customer's taxpayer ID # or social security number must be obtained.",
+			"correct": false
+		},{
+			"content": "none of the above",
+			"correct": true
+		}],
+		"explanation": "Since all three answers, a, b, and c, are correct statements of fact, NONE of these answers is UNTRUE.",
+		"prompt": "In order to be compliant with the rules regarding proper customer identification at the time a customer wishes to open a new account, which of the following statements are untrue:"
+	},
+	"bestTestReview25": {
+		"answers": [{
+			"content": "a principal of the IA submits testimonial commentary about the IA or an IAR on an independent social media website.",
+			"correct": false
+		},{
+			"content": "an IA or IAR compensating an individual to post commentary on an independent social media site.",
+			"correct": false
+		},{
+			"content": "an IA drawing attention on its own website solely to favorable commentary about the IA at an independent social media site.",
+			"correct": false
+		},{
+			"content": "all of the above",
+			"correct": true
+		}],
+		"explanation": "There are numerous restrictions on posting commentary about the work or skill of an IA/IAR. Each of these answers describe acts with are violations of the federal law.",
+		"prompt": "In accordance with the Investment Adviser Act of 1940 and amendments thereto, which of the following activities would constitute a violation of the SEC policy regarding use of testimonials by an IA or an IAR?"
+	},
+	"bestTestReview26": {
+		"answers": [{
+			"content": "employee training",
+			"correct": false
+		},{
+			"content": "maintenance of the minimum required insurance coverage mandated by the regulatory bodies to cover cybersecurity breaches",
+			"correct": true
+		},{
+			"content": "the use of appropriate anti-virus and anti-malware programs",
+			"correct": false
+		},{
+			"content": "none of these are exceptions",
+			"correct": false
+		}],
+		"explanation": "Though it is recommended to have insurance to cover cybersecurity events/breaches, there currently is no minimum required coverage.",
+		"prompt": "There are numerous restrictions on posting commentary about the work or skill of an When addressing the issue of cybersecurity, IAs and BDs must have procedures in place to maximize the safeguarding of sensitive private client information. Among those procedures would be included each of the below except:"
+	},
+	"bestTestReview27": {
+		"answers": [{
+			"content": "foreign investment interest in NYSE and NASDAQ stocks.",
+			"correct": false
+		},{
+			"content": "after-hours and pre-market order activity.",
+			"correct": false
+		},{
+			"content": "an alternative trading system used by institutional-sized traders seeking to move large blocks of stock not on the traditional exchanges.",
+			"correct": true
+		},{
+			"content": "global events that are so significant they can dramatically move the stock market in either direction.",
+			"correct": false
+		}],
+		"explanation": "A fair amount of institutional and large block trading is done outside the regular readily transparent channels of trading and execution. The industry has given this type of activity the name 'dark pools' as a result of the lack of ready transparency.",
+		"prompt": "The term 'dark pools' is used in the securities markets to identify which of the following?"
+	},
+	"bestTestReview28": {
+		"answers": [{
+			"content": "the investment behavior of those who engage in day trading.",
+			"correct": false
+		},{
+			"content": "the investment behavior of those who do at least 5 trades per week on average.",
+			"correct": false
+		},{
+			"content": "the use of powerful computers programmed with algorithms designed to automatically enter and exit stock positions within extremely short time frames.",
+			"correct": true
+		},{
+			"content": "a type of trading which utilizes satellite technology to transmit orders to the exchanges from anywhere in the world.",
+			"correct": false
+		}],
+		"explanation": "HFT is done on and by computers which are programmed to be capable of executing 100's if not 1000's of trades within extremely short periods of time, often buying and selling the same security within less than one second to profit from extremely small price movements.",
+		"prompt": "HFT (high frequency trading) is best described as:"
+	},
+	"bestTestReview29": {
+		"answers": [{
+			"content": "median",
+			"correct": false
+		},{
+			"content": "mode",
+			"correct": false
+		},{
+			"content": "mean",
+			"correct": false
+		},{
+			"content": "advance/decline ratio",
+			"correct": true
+		}],
+		"explanation": "Median, Mode and Mean are all considered measures of central tendency, from the concept that they purport to find a point 'in between extremes.' The Advance/Decline ratio is a measure of the breadth of the market on a given day, and does not reflect any central tendency.",
+		"prompt": "Measures of central tendency exclude:"
+	},
+	"bestTestReview30": {
+		"answers": [{
+			"content": "to track the movement of the broad market or a particular underlying index.",
+			"correct": false
+		},{
+			"content": "to invest in a portfolio designed to profit as the broad market or a specific index declines in value.",
+			"correct": true
+		},{
+			"content": "to acquire an interest in a portfolio that purchases bonds at discounts which have been caused by the inverse relationship of rising interest rates and declining bond pricing.",
+			"correct": false
+		},{
+			"content": "to trade mutual funds on margin.",
+			"correct": false
+		}],
+		"explanation": "The word inverse is the key. The contrarian investor is the one who believes one can profit by investing contrary, or opposite, or inversely, to what the mainstream of market opinion is at the time. As the market goes down, inverse ETFs go up.",
+		"prompt": "Inverse ETFs would be an appropriate recommendation to a client seeking:"
+	}
+};
