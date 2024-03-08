@@ -37,6 +37,8 @@
 		<script src="dataEmpireStockBrokerOnline.json"></script>
     </head>
     <body>
+		<div id="questionNumber"></div>
+		<div>&nbsp;</div>
 		<div id="question"></div>
 		<div>&nbsp;</div>
 		<div>
@@ -250,6 +252,7 @@
 				let qData = filteredData[randomDataKeys[randomDataKeysIndex]];
 				randomDataKeysIndex++;
 				
+				document.getElementById("questionNumber").innerHTML = "Question " + randomDataKeysIndex;
 				document.getElementById("question").innerHTML = getQuestion(qData);
 				
 				let answers = getAnswers(qData);
