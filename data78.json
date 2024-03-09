@@ -182,13 +182,13 @@ let data78 = {
             ],
             [
                 "C) Country B's imports from Country A will increase",
-                0,
-                0
+                1,
+                1
             ],
             [
                 "D) the free trade agreement will be abrogated",
-                1,
-                1
+                0,
+                0
             ]
         ],
         "settings": {
