@@ -350,13 +350,13 @@ let data90 = {
             ],
             [
                 "C) an agreement whereby a registrant will be bound by any legal action or subpoena served on the Administrator as if it had been served on the registrant",
-                0,
-                0
+                1,
+                1
             ],
             [
                 "D) a legal procedure that authorizes the Administrator to issue injunctions",
-                1,
-                1
+                0,
+                0
             ]
         ],
         "settings": {
