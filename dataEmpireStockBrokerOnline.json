@@ -234,7 +234,7 @@ let dataEmpireStockBrokerOnline = {
 			"content": "A or B, whichever is higher",
 			"correct": true
 		}],
-		"explanation": "If purchasing a death benefit rider in an annuity, the amount left for the beneficiary in the event of the owner’s death is the amount of money deposited or the value of the separate account, whichever is greater.",
+		"explanation": "If purchasing a death benefit rider in an annuity, the amount left for the beneficiary in the event of the owner's death is the amount of money deposited or the value of the separate account, whichever is greater.",
 		"prompt": "If an investor purchases a death benefit rider in an annuity, what is the death benefit left for a beneficiary in the event of death during the surrender period?"
 	},
 	"empireStockBrokerOnline15": {
@@ -302,7 +302,7 @@ let dataEmpireStockBrokerOnline = {
 			"content": "I, II, and III",
 			"correct": true
 		}],
-		"explanation": "In answer I, the advisor is trying to make the value of her investment appreciate in value by recommending the stock to all clients whether suitable or not. Answer II is a violation since the adviser did not follow the customer’s instructions. Answer III is a violation since a client cannot cosign a loan for an adviser or lend money to the advisor.",
+		"explanation": "In answer I, the advisor is trying to make the value of her investment appreciate in value by recommending the stock to all clients whether suitable or not. Answer II is a violation since the adviser did not follow the customer's instructions. Answer III is a violation since a client cannot cosign a loan for an adviser or lend money to the advisor.",
 		"prompt": "Which of the following violates the Investment Advisers Act of 1940?<br><br>I. An advisor buys a stock and recommends the stock to all her clients after telling them that she owns the stock<br>II. An advisor receives an unsolicited order to buy ABC stock but the advisor buys DEF stock for the client since she knows that ABC is in severe financial difficulty<br>III. An advisor has an investor cosign a loan from a bank that is also a client of the advisor"
 	},
 	"empireStockBrokerOnline19": {
