@@ -217,7 +217,7 @@ let dataBestTestReview = {
 			"content": "all of the above",
 			"correct": false
 		}],
-		"explanation": "Closed-end shares trade on the major stock exchanges. The market price is based upon the same economic factor as other listed common stocks – supply & demand. The bid and ask price of a closed-end fund is not dependent upon the value of the fund's portfolio, which is quite opposite from how the open-end fund (mutual fund) works, where pricing is directly based upon net asset value of the portfolio. Additionally, neither private hedge funds nor mutual funds trade on an exchange. Answer C. is the only choice which trades on an exchange.",
+		"explanation": "Closed-end shares trade on the major stock exchanges. The market price is based upon the same economic factor as other listed common stocks - supply & demand. The bid and ask price of a closed-end fund is not dependent upon the value of the fund's portfolio, which is quite opposite from how the open-end fund (mutual fund) works, where pricing is directly based upon net asset value of the portfolio. Additionally, neither private hedge funds nor mutual funds trade on an exchange. Answer C. is the only choice which trades on an exchange.",
 		"prompt": "Considering each of the investment vehicles shown below, which trades on an exchange at a price which is unrelated to its underlying value?"
 	},
 	"bestTestReview14": {
