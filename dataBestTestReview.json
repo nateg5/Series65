@@ -439,7 +439,7 @@ let dataBestTestReview = {
 			"correct": false
 		}],
 		"explanation": "Though it is recommended to have insurance to cover cybersecurity events/breaches, there currently is no minimum required coverage.",
-		"prompt": "There are numerous restrictions on posting commentary about the work or skill of an When addressing the issue of cybersecurity, IAs and BDs must have procedures in place to maximize the safeguarding of sensitive private client information. Among those procedures would be included each of the below except:"
+		"prompt": "When addressing the issue of cybersecurity, IAs and BDs must have procedures in place to maximize the safeguarding of sensitive private client information. Among those procedures would be included each of the below except:"
 	},
 	"bestTestReview27": {
 		"answers": [{
