@@ -778,7 +778,7 @@ let dataKaplan = {
 			"content": "25%",
 			"correct": true
 		}],
-		"explanation": "Earnings per share are typically calculated for a year. If the quarterly dividend rate of $0.15 is continued, that will be an annual payout of $0.60 ($0.15 x 4). So the annual dividend of $0.60 is divided by $2.40 to calculate what percentage of earnings is paid as a dividend; or rather, the dividend payout ratio (0.60 ÷ 2.40 = 25%).",
+		"explanation": "Earnings per share are typically calculated for a year. If the quarterly dividend rate of $0.15 is continued, that will be an annual payout of $0.60 ($0.15 x 4). So the annual dividend of $0.60 is divided by $2.40 to calculate what percentage of earnings is paid as a dividend; or rather, the dividend payout ratio (0.60 / 2.40 = 25%).",
 		"prompt": "ALFA Enterprises pays a quarterly dividend of $0.15 and has earnings per share of $2.40. Assuming that payout rate is continued, what is the dividend payout ratio?"
 	},
 	"kaplan47": {
