@@ -260,7 +260,7 @@
 				let qData = filteredData[randomDataKeys[randomDataKeysIndex]];
 				randomDataKeysIndex++;
 				
-				document.getElementById("questionNumber").innerHTML = "Question " + randomDataKeysIndex;
+				document.getElementById("questionNumber").innerHTML = "Question " + randomDataKeysIndex + " of " + randomDataKeys.length;
 				document.getElementById("question").innerHTML = getQuestion(qData);
 				
 				let answers = getAnswers(qData);
