@@ -217,7 +217,7 @@ let dataSecuritiesce = {
     },
     "securitiesce10": {
         "question_id": 5892,
-        "text": "A custodial account being managed for the benefit of a minor is long 500 shares of BNM. BNM is offering new shares to finance the building of a new factory. Each share of BNM will receive 1 right to purchase the new BNM shares. It takes 2 rights plus $28 dollars per share to purchase the new BNM shares. BNM is trading in the market place at $30. Which of the following actions would the custodian be allowed to take?\n\nI. Sell the rights at the intrinsic value\nII. Sell the rights above the intrinsic value\nIII. Sell the rights below the intrinsic value\nIV. Exercise the rights",
+        "text": "A custodial account being managed for the benefit of a minor is long 500 shares of BNM. BNM is offering new shares to finance the building of a new factory. Each share of BNM will receive 1 right to purchase the new BNM shares. It takes 2 rights plus $28 dollars per share to purchase the new BNM shares. BNM is trading in the market place at $30. Which of the following actions would the custodian be allowed to take?<br><br>I. Sell the rights at the intrinsic value<br>II. Sell the rights above the intrinsic value<br>III. Sell the rights below the intrinsic value<br>IV. Exercise the rights",
         "body": "",
 		"explanation": "The custodian may take all of the actions listed. A custodian is prohibited from allowing the rights to expire. Therefore, the custodian must either sell or exercise the rights. The is no regulation as to the price at which the rights may be sold",
         "answers": [
