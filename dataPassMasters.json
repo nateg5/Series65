@@ -1361,7 +1361,7 @@ let dataPassMasters = {
     },
     "54604": {
         "id": 54604,
-        "question": "<p><span>You are reading the annual report for Disney. You notice that PricewaterhouseCoopers LLP has been the auditor since 1938. In their letter to the board it states, “In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of October 2, 2021, and October 3, 2020, and the results of its operations and its cash flows for each of the three years in the period ended October 2, 2021, in conformity with accounting principles generally accepted in the United States of America.” Which of the following types of opinions is this?</span></p>",
+        "question": "<p><span>You are reading the annual report for Disney. You notice that PricewaterhouseCoopers LLP has been the auditor since 1938. In their letter to the board it states, \"In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of October 2, 2021, and October 3, 2020, and the results of its operations and its cash flows for each of the three years in the period ended October 2, 2021, in conformity with accounting principles generally accepted in the United States of America.\" Which of the following types of opinions is this?</span></p>",
         "category": "Financial Reporting II",
         "position": 41,
         "audio_expl": "/api/v1/additional_func/get_file/audio_expl/54604",
