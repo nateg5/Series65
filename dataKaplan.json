@@ -285,7 +285,7 @@ let dataKaplan = {
 			"content": "has acted ethically because she has not guaranteed a profit to the client.",
 			"correct": false
 		}],
-		"explanation": "The unethical business practice of guaranteeing against loss can take several forms. This is one of them ? offering to buy back a security at the purchase price. A wash sale involves an investor repurchasing a security sold at a loss and has no relevance to this question - it is a tax issue. The prohibition against guarantees does not require that the client be assured a profit, only that there is no loss. Even when an IAR is confident that an investment is in the client's best interest, a guarantee may not be offered.",
+		"explanation": "The unethical business practice of guaranteeing against loss can take several forms. This is one of them - offering to buy back a security at the purchase price. A wash sale involves an investor repurchasing a security sold at a loss and has no relevance to this question - it is a tax issue. The prohibition against guarantees does not require that the client be assured a profit, only that there is no loss. Even when an IAR is confident that an investment is in the client's best interest, a guarantee may not be offered.",
 		"prompt": "An investment adviser representative has uncovered an unusual investment opportunity that she believes is perfect for one of her clients. When presenting the recommendation to the client, it becomes clear that the client is concerned about the potential of loss. To alleviate that concern, the IAR tells the client that she agrees to repurchase the security from the client anytime within the next 60 days at the original purchase price. In so doing, the IAR"
 	},
 	"kaplan18": {

@@ -26,7 +26,7 @@ let data84 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "As defined in the Securities Exchange Act of 1934, the term municipal security would include all of the following EXCEPT",
+            "question_title": "As defined in the Securities Exchange Act of 1934, the term municipal security would exclude all of the following EXCEPT",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",
