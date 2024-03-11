@@ -353,7 +353,7 @@ let dataSolomon = {
 	"solomon10": {
     "question": {
         "question_id": "47514",
-        "question": "Given the following assumptions for stock ABC, what is its expected return using the Capital Asset Pricing Model (CAPM)?  Risk Free Rate: 1%, Expected Return on general stock market: 7%, Beta: 1.5, Sharpe Ratio: 2.",
+        "question": "Given the following assumptions for stock ABC, what is its expected return using the Capital Asset Pricing Model (CAPM)?  <br>Risk Free Rate: 1%, <br>Expected Return on general stock market: 7%, <br>Beta: 1.5, <br>Sharpe Ratio: 2.",
         "explanation": "The formula for the Capital Asset Pricing Model (CAPM) is given by  the following:  Return on Stock = Risk Free Rate + Beta of Stock x (Return on Market - Risk Free Rate).  Plugging in for Stock ABC gives Return on Stock ABC = 1% + [1.5 x (7% - 1%) = 10%].  Note the Sharpe Ratio is not used in the CAPM formula.\n",
         "exhibit": "0"
     },
