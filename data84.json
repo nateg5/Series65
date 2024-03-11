@@ -207,7 +207,7 @@ let data84 = {
             "file_upload_limit": "0",
             "file_upload_type": ""
         },
-        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"To determine a taxable bond's after-tax rate of return, multiply the coupon rate by the complement of the client's marginal federal income tax bracket. The client's tax bracket is 28% (0.28), so the complement is 100% − 28% (1.00 − 0.28) = 0.72.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">To determine a taxable bond's after-tax rate of return, multiply the coupon rate by the complement of the client's marginal federal income tax bracket. The client's tax bracket is 28% (0.28), so the complement is 100% − 28% (1.00 − 0.28) = 0.72.<br /><br />U13LO6</span>"
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"To determine a taxable bond's after-tax rate of return, multiply the coupon rate by the complement of the client's marginal federal income tax bracket. The client's tax bracket is 28% (0.28), so the complement is 100% - 28% (1.00 - 0.28) = 0.72.\\n\\nU13LO6\"}\" data-sheets-userformat=\"{\"2\":12672,\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">To determine a taxable bond's after-tax rate of return, multiply the coupon rate by the complement of the client's marginal federal income tax bracket. The client's tax bracket is 28% (0.28), so the complement is 100% - 28% (1.00 - 0.28) = 0.72.<br /><br />U13LO6</span>"
     },
     "3377": {
         "question_type_new": "0",
