@@ -135,8 +135,8 @@ let data91 = {
             ],
             [
                 "B) A financial planner or other person that provides investment advisory services to others for compensation",
-                0,
-                0
+                1,
+                1
             ],
             [
                 "C) A bank whose deposits are insured by the FDIC",
