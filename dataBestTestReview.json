@@ -132,7 +132,7 @@ let dataBestTestReview = {
 			"content": "Zero coupon bonds maturing in 22 years",
 			"correct": true
 		}],
-		"explanation": "",
+		"explanation": "When maturities are relatively the same, as shown in this question, the bond with the lowest coupon will have the longest duration. Clearly the lowest coupon in this question is the Zero. Think of duration as the number of years into an issue at which the investor has received enough cash flow from the semi-annual interest payments to have paid the investor back for his or her original cost. Since zeroes pay no semi-annual interest, one has to wait until the maturity date to get back the original investment. The duration of a zero coupon bond is the number of years until its maturity date.",
 		"prompt": "Which of the following debt securities would likely have the longest duration?"
 	},
 	"bestTestReview09": {
