@@ -353,7 +353,7 @@ let dataBestTestReview = {
 			"content": "a sole proprietorship",
 			"correct": false
 		}],
-		"explanation": "Limited liability companies (LLC) grant to the owners, called members, liability that is limited to their investment in the business, and LLCs are 'flow through entities' which means the business enterprise does not pay tax — the owners do.<br><br>Looking at the other answers: GP has full unlimited liability; C Corps are taxed entities; sole proprietors have full unlimited liability.",
+		"explanation": "Limited liability companies (LLC) grant to the owners, called members, liability that is limited to their investment in the business, and LLCs are 'flow through entities' which means the business enterprise does not pay tax - the owners do.<br><br>Looking at the other answers: GP has full unlimited liability; C Corps are taxed entities; sole proprietors have full unlimited liability.",
 		"prompt": "A business enterprise featuring limited liability as well as pass-through tax consequences would include:"
 	},
 	"bestTestReview22": {
