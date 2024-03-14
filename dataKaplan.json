@@ -115,7 +115,7 @@ let dataKaplan = {
 			"content": "dividends",
 			"correct": false
 		}],
-		"explanation": "The real rate of return is another term for inflation-adjusted return. It is the total return, which is appreciation plus income (dividends), which is then adjusted for the inflation rate as expressed by the CPI. Tax bracket is necessary to compute after-tax return.appreciation",
+		"explanation": "The real rate of return is another term for inflation-adjusted return. It is the total return, which is appreciation plus income (dividends), which is then adjusted for the inflation rate as expressed by the CPI. Tax bracket is necessary to compute after-tax return.",
 		"prompt": "In order to compute an investor's real rate of return on a common stock holding, all of the following are necessary EXCEPT"
 	},
 	"kaplan08": {
