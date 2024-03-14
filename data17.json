@@ -2559,7 +2559,7 @@ let data17 = {
             "file_upload_limit": "0",
             "file_upload_type": ""
         },
-        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If U.S. interest rates rise, foreign investors would invest in U.S. dollar–denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If U.S. interest rates rise, foreign investors would invest in U.S. dollar–denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.<br /><br />U8LO1</span>"
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"If U.S. interest rates rise, foreign investors would invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.\\n\\nU8LO1\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">If U.S. interest rates rise, foreign investors would invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.<br /><br />U8LO1</span>"
     },
     "2627": {
         "question_type_new": "0",

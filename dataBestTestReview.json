@@ -166,7 +166,7 @@ let dataBestTestReview = {
 			"content": "by advisers who wish to change from state covered to fed covered.",
 			"correct": false
 		}],
-		"explanation": "Form ADV–E is the formed used to account for the cash and securities of customers which are held in the custody of a registered investment advisory firm.",
+		"explanation": "Form ADV-E is the formed used to account for the cash and securities of customers which are held in the custody of a registered investment advisory firm.",
 		"prompt": "Under the Investment Advisers Act of 1940, Form ADV-E is generally used:"
 	},
 	"bestTestReview11": {

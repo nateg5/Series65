@@ -320,7 +320,7 @@ let data88 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "An investor has just received an inheritance of $100,000 and has decided to use the money to buy a new home. Because it will take time to decide where to buy, it is expected that the purchase will not be made for another 6–9 months. If this investor placed the money into a broad market index ETF, the primary risk taken would be",
+            "question_title": "An investor has just received an inheritance of $100,000 and has decided to use the money to buy a new home. Because it will take time to decide where to buy, it is expected that the purchase will not be made for another 6-9 months. If this investor placed the money into a broad market index ETF, the primary risk taken would be",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",
