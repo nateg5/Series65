@@ -166,7 +166,7 @@ let dataEmpireStockBrokerOnline = {
 			"content": "1:4",
 			"correct": true
 		}],
-		"explanation": "",
+		"explanation": "The debt to equity ratio is calculated by dividing long term liabilities by stockholders’ equity. The stockholders’ equity can be calculated by adding par value of common and preferred stock issued to the paid in capital and retained earnings. Therefore, $10,000,000 / $40,000,000 = 1:4.",
 		"prompt": "A company has the following items on its balance sheet:<br><br>Long term liabilities $10,000,000<br>Par value of common stock $5,000,000<br>Paid in capital $10,000,000<br>Retained earnings $25,000,000<br><br>The debt to equity ratio of the company is"
 	},
 	"empireStockBrokerOnline11": {
