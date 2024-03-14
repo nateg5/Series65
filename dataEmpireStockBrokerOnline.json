@@ -268,7 +268,7 @@ let dataEmpireStockBrokerOnline = {
 			"content": "I, II, III, and IV",
 			"correct": true
 		}],
-		"explanation": "",
+		"explanation": "The question is asking who must register as a broker-dealer. For answer I, an agent is a salesperson, not a broker-dealer. In answer II, a bank is exempt from the definition of a broker-dealer. In answer III, the firm only deals with financial institutions, and therefore, the firm does not have to register as a broker-dealer. For answer IV, the corporation must register as an issuer.",
 		"prompt": "Which of the following does not have to register as a broker-dealer in state A?<br><br>I. An agent in state B calling a client in state A<br>II. A bank located in state A<br>III. A firm located in state B, which has financial institutions as its only clients in state A<br>IV. A corporation that issues securities in state A"
 	},
 	"empireStockBrokerOnline17": {
