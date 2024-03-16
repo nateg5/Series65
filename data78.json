@@ -585,7 +585,7 @@ let data78 = {
             "file_upload_limit": "0",
             "file_upload_type": ""
         },
-        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The contraction phase is characterized by business sales falling, unemployment increasing, and the gross domestic product (GDP) growth falling. DUPLICATE\\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The contraction phase is characterized by business sales falling, unemployment increasing, and the gross domestic product (GDP) growth falling. DUPLICATE<br /><br />U8LO2</span>"
+        "correct_info_text": "<span data-sheets-value=\"{\"1\":2,\"2\":\"The contraction phase is characterized by business sales falling, unemployment increasing, and the gross domestic product (GDP) growth falling. \\n\\nU8LO2\"}\" data-sheets-userformat=\"{\"2\":12674,\"4\":{\"1\":2,\"2\":16777215},\"10\":2,\"11\":3,\"15\":\"Arial\",\"16\":10}\">The contraction phase is characterized by business sales falling, unemployment increasing, and the gross domestic product (GDP) growth falling. <br /><br />U8LO2</span>"
     },
     "3230": {
         "question_type_new": "0",
