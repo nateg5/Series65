@@ -73,9 +73,9 @@ let dataSecuritiesce = {
     },
     "securitiesce04": {
         "question_id": 5981,
-        "text": "The FOMC has been reducing the size of its balance sheet in line\nwith its mandate. Which of the following will occur?\nI. Interest rates will increase \nII. The money supply will decrease\nIII. Interest rates will decrease \nIV. The money supply will increase",
+        "text": "The FOMC has been reducing the size of its balance sheet in line\nwith its mandate. Which of the following will occur?<br><br>I. Interest rates will increase <br>II. The money supply will decrease<br>III. Interest rates will decrease <br>IV. The money supply will increase",
         "body": "",
-		"explanation": "AS the FOMC sells bonds to reduce the amount of bonds it is holding on its balance sheet the money supply will be reduced as the payments for the bonds are sent to the FOMC. As the money supply shrinks interest rates will rise.  ",
+		"explanation": "As the FOMC sells bonds to reduce the amount of bonds it is holding on its balance sheet the money supply will be reduced as the payments for the bonds are sent to the FOMC. As the money supply shrinks interest rates will rise.  ",
         "answers": [
             {
                 "id": true,
