@@ -331,12 +331,12 @@ let dataEmpireStockBrokerOnline = {
 			"correct": false
 		},{
 			"content": "II, III, and IV",
-			"correct": true
+			"correct": false
 		},{
 			"content": "I, II, III, and IV",
-			"correct": false
+			"correct": true
 		}],
-		"explanation": "Banks and savings institutions do not have to register as investment advisors. If a person only deals with institutions and broker-dealers and has no place of business in the state, the person does not have to register as an advisor. However, the person in answer II has a place of business in the state. When having an office in the state, the person must register as an adviser. Furthermore, anyone who is giving advice incidental to his or her profession is not considered an advisor. Incidental means offering services for free.",
+		"explanation": "Banks and savings institutions do not have to register as investment advisors. If a person only deals with institutions and broker-dealers and has no place of business in the state, the person does not have to register as an advisor. Furthermore, anyone who is giving advice incidental to his or her profession is not considered an advisor. Incidental means offering services for free.",
 		"prompt": "A person providing investment advice does not have to register as an investment adviser in the state if the person:<br><br>I. Is a bank or savings institution<br>II. Only deals with financial institutions and has no place of business within the state<br>III. Only deals with broker-dealers and/or investment advisers and has no place of business in the state<br>IV. Is giving advice incidental to his or her profession"
 	}
 };
