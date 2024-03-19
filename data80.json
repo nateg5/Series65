@@ -261,8 +261,8 @@ let data80 = {
             ],
             [
                 "B) They help in portfolio performance measurement.",
-                1,
-                1
+                0,
+                0
             ],
             [
                 "C) They act as a market barometer.",
@@ -271,8 +271,8 @@ let data80 = {
             ],
             [
                 "D) They are a lagging indicator of an economy's corporate performance.",
-                0,
-                0
+                1,
+                1
             ]
         ],
         "settings": {
