@@ -488,7 +488,7 @@ let data84 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Which of the following would best describes a Yankee bond?",
+            "question_title": "Which of the following would best describe a Yankee bond?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",
