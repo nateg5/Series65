@@ -908,7 +908,7 @@ let data82 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "A client is considering the purchase of American depositary receipts (ADRs). She is looking to further diversify her portfolio. Which of the following is not a feature of this type of investment vehicle?",
+            "question_title": "A client is considering the purchase of American depositary receipts (ADRs). She is looking to further diversify her portfolio. Which of the following is NOT a feature of this type of investment vehicle?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",
