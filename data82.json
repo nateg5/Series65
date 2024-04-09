@@ -932,7 +932,7 @@ let data82 = {
                 0
             ],
             [
-                "B) An emerging market is a market in a highly-developed foreign economy with stable political and social institutions.",
+                "B) An emerging market is a market in a highly developed foreign economy with stable political and social institutions.",
                 1,
                 1
             ],
@@ -950,7 +950,7 @@ let data82 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Which of the following statements regarding international investing is not correct?",
+            "question_title": "Which of the following statements regarding international investing is NOT correct?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",

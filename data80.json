@@ -362,7 +362,7 @@ let data80 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Which of the following statements about the consumer price index (CPI) is NOT true?",
+            "question_title": "Which of the following statements about the Consumer Price Index (CPI) is NOT true?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",
@@ -465,7 +465,7 @@ let data80 = {
         "question_type_new": "0",
         "answer_array": [
             [
-                "A) the business cycle is heading toward a trough.",
+                "A) the business cycle is heading towards a trough.",
                 0,
                 0
             ],
@@ -950,7 +950,7 @@ let data80 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Which of the following would probably not be an attractive investment during periods of rising inflation?",
+            "question_title": "Which of the following would probably NOT be an attractive investment during periods of rising inflation?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",

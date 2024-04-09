@@ -222,9 +222,24 @@
 			for(let i = 0; i < dataKeys.length; i++) {
 				let found = false;
 				for(let j = i + 1; j < dataKeys.length; j++) {
-					if(getQuestion(data[dataKeys[i]]) === getQuestion(data[dataKeys[j]])) {
-						found = true;
-						break;
+					if(getQuestion(data[dataKeys[i]]).toUpperCase() === getQuestion(data[dataKeys[j]]).toUpperCase()) {
+					    let answers1 = getAnswers(data[dataKeys[i]]);
+						let answers2 = getAnswers(data[dataKeys[j]]);
+						
+						let foundAnswersCount = 0;
+						
+						for(let k = 0; k < answers1.length; k++) {
+						    for(let l = 0; l < answers2.length; l++) {
+							    if(JSON.stringify(answers1[k]).toUpperCase() === JSON.stringify(answers2[l]).toUpperCase()) {
+									foundAnswersCount++;
+								}
+							}
+						}
+						
+						if(foundAnswersCount === 4) {
+							found = true;
+							break;
+						}
 					}
 				}
 				if(!found) {

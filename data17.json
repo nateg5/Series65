@@ -1683,22 +1683,22 @@ let data17 = {
         "question_type_new": "0",
         "answer_array": [
             [
-                "A) the SEC.",
+                "A) the SEC",
                 1,
                 1
             ],
             [
-                "B) the Investment Advisers Association (IAA).",
+                "B) the Investment Advisers Association (IAA)",
                 0,
                 0
             ],
             [
-                "C) FINRA.",
+                "C) FINRA",
                 0,
                 0
             ],
             [
-                "D) the Administrator.",
+                "D) the Administrator",
                 0,
                 0
             ]
@@ -3032,7 +3032,7 @@ let data17 = {
                 0
             ],
             [
-                "B) An emerging market is a market in a highly-developed foreign economy with stable political and social institutions.",
+                "B) An emerging market is a market in a highly developed foreign economy with stable political and social institutions.",
                 1,
                 1
             ],
@@ -3050,7 +3050,7 @@ let data17 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Which of the following statements regarding international investing is not correct?",
+            "question_title": "Which of the following statements regarding international investing is NOT correct?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",

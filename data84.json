@@ -465,22 +465,22 @@ let data84 = {
         "question_type_new": "0",
         "answer_array": [
             [
-                "A) U.S. dollar-denominated bond issued by a U.S. entity inside the United States",
+                "A) A U.S. dollar-denominated bond issued by a U.S. entity inside the United States",
                 0,
                 0
             ],
             [
-                "B) U.S. dollar-denominated bond issued by a non-U.S. entity inside the United States",
+                "B) A U.S. dollar-denominated bond issued by a non-U.S. entity inside the United States",
                 1,
                 1
             ],
             [
-                "C) U.S. dollar-denominated bond issued by a non-U.S. entity outside the United States",
+                "C) A U.S. dollar-denominated bond issued by a non-U.S. entity outside the United States",
                 0,
                 0
             ],
             [
-                "D) U.S. dollar-denominated bond issued by a U.S. entity outside the United States",
+                "D) A U.S. dollar-denominated bond issued by a U.S. entity outside the United States",
                 0,
                 0
             ]
@@ -507,12 +507,12 @@ let data84 = {
         "question_type_new": "0",
         "answer_array": [
             [
-                "A) A U.S. dollar-denominated bond issued by a U.S. entity outside the United States.",
+                "A) A U.S. dollar-denominated bond issued by a U.S. entity outside the United States",
                 0,
                 0
             ],
             [
-                "B) A U.S. dollar-denominated bond issued by a non-U.S. entity outside the United States.",
+                "B) A U.S. dollar-denominated bond issued by a non-U.S. entity outside the United States",
                 0,
                 0
             ],
@@ -522,7 +522,7 @@ let data84 = {
                 1
             ],
             [
-                "D) A U.S. dollar-denominated bond issued by a U.S. entity inside the United States.",
+                "D) A U.S. dollar-denominated bond issued by a U.S. entity inside the United States",
                 0,
                 0
             ]

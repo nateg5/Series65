@@ -255,12 +255,12 @@ let data78 = {
         "question_type_new": "0",
         "answer_array": [
             [
-                "A) The best way to control the money supply is to raise taxes, which, in turn, will reduce the amount of money in the economy and lower prices.",
+                "A) The best way to control the money supply is to raise taxes which will reduce the amount of money in the economy and lower prices.",
                 0,
                 0
             ],
             [
-                "B) The amount of money in the economy determines the overall price level over time and, therefore, the Federal Reserve should control the growth in the amount of money in the economy in a gradual and predictable way.",
+                "B) The amount of money in the economy determines the overall price level over time, therefore the Federal Reserve should control the growth in the amount of money in the economy in a gradual and predictable way.",
                 1,
                 1
             ],
@@ -270,7 +270,7 @@ let data78 = {
                 0
             ],
             [
-                "D) The amount of money in the economy is not significant because economic activity reflects the value of real goods and services and, therefore, the Federal Reserve should not attempt to manage the money supply.",
+                "D) The amount of money in the economy is not significant because economic activity reflects the value of real goods and services, therefore the Federal Reserve should not attempt to manage the money supply.",
                 0,
                 0
             ]
