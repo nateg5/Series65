@@ -698,7 +698,7 @@ let data91 = {
         "settings": {
             "required": 1,
             "answerEditor": "text",
-            "question_title": "Who of the following is not exempt from registration as an investment adviser under the Investment Advisers Act of 1940?",
+            "question_title": "Who of the following is not exempt from registration as an investment adviser under the Investment Advisers Act of 1940?",
             "featureImageID": "",
             "featureImageSrc": "",
             "matchAnswer": "random",
