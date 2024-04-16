@@ -341,6 +341,7 @@
 						questionAnswered = true;
 						incorrectCount++;
 						updateScore();
+						randomDataKeys.push(randomDataKeys[randomDataKeysIndex-1]);
 					}
 					document.getElementById("result").innerHTML = "Incorrect";
 					document.getElementById("result").style.color = "red";
