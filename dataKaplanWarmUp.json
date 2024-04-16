@@ -35,16 +35,16 @@ dataKaplanWarmUp = {
 	},
 	"kaplanWarmUp03": {
 		"answers": [{
-			"content": "The client initially has a specified minimum amount of assets under management or a specified minimum net worth.",
+			"content": "I. The client initially has a specified minimum amount of assets under management or a specified minimum net worth.",
 			"correct": false
 		},{
-			"content": "Compensation paid in this way is for gains reduced by losses over a minimum period of 1 year.",
+			"content": "II. Compensation paid in this way is for gains reduced by losses over a minimum period of 1 year.",
 			"correct": false
 		},{
-			"content": "The client understands the proposed compensation and believes that it is a fair method of compensation.",
+			"content": "III. The client understands the proposed compensation and believes that it is a fair method of compensation.",
 			"correct": false
 		},{
-			"content": "Both A and B are correct.",
+			"content": "Both I and II are correct.",
 			"correct": true
 		}],
 		"explanation": "The SEC permits performance-based fees if the following conditions are met: (1) the client has at least a specified minimum in assets under management or a net worth of a specified minimum, and (2) the compensation is based on gains and losses combined over at least a year's time. It is not necessary that the client understand what is going on because the SEC believes that someone with the required assets should have enough financial savvy to take the higher risk.",
@@ -64,7 +64,7 @@ dataKaplanWarmUp = {
 			"content": "No securities are exempt from the antifraud provisions of the act.",
 			"correct": true
 		}],
-		"explanation": "Neither exempt securities nor exempt transactions are exempt from the USA's antifraud provisions. The best way to look at this question is to ask yourself, “When would I be permitted to engage in fraudulent activity?”",
+		"explanation": "Neither exempt securities nor exempt transactions are exempt from the USA's antifraud provisions. The best way to look at this question is to ask yourself, \"When would I be permitted to engage in fraudulent activity?\"",
 		"prompt": "Which of the following statements regarding the antifraud provisions of the Uniform Securities Act (USA) is TRUE?"
 	},
 	"kaplanWarmUp05": {
