@@ -13,7 +13,7 @@ dataKaplanWarmUp = {
 			"content": "Financial status and history of the company",
 			"correct": false
 		}],
-		"explanation": "A preliminary prospectus is printed before the final price is established, although it may indicate an expected price range that is subject to change. The red ink disclaimer of possible changes is required on the red herring’s cover. Use of the proceeds, financial statements, and the business history of the company are required in the preliminary prospectus.",
+		"explanation": "A preliminary prospectus is printed before the final price is established, although it may indicate an expected price range that is subject to change. The red ink disclaimer of possible changes is required on the red herring's cover. Use of the proceeds, financial statements, and the business history of the company are required in the preliminary prospectus.",
 		"prompt": "Which of the following is NOT required in a preliminary prospectus?"
 	},
 	"kaplanWarmUp02": {
@@ -47,7 +47,7 @@ dataKaplanWarmUp = {
 			"content": "Both A and B are correct.",
 			"correct": true
 		}],
-		"explanation": "The SEC permits performance-based fees if the following conditions are met: (1) the client has at least a specified minimum in assets under management or a net worth of a specified minimum, and (2) the compensation is based on gains and losses combined over at least a year’s time. It is not necessary that the client understand what is going on because the SEC believes that someone with the required assets should have enough financial savvy to take the higher risk.",
+		"explanation": "The SEC permits performance-based fees if the following conditions are met: (1) the client has at least a specified minimum in assets under management or a net worth of a specified minimum, and (2) the compensation is based on gains and losses combined over at least a year's time. It is not necessary that the client understand what is going on because the SEC believes that someone with the required assets should have enough financial savvy to take the higher risk.",
 		"prompt": "Under which of the following circumstances does the SEC allow an investment adviser to charge performance-based fees?"
 	},
 	"kaplanWarmUp04": {
@@ -64,7 +64,7 @@ dataKaplanWarmUp = {
 			"content": "No securities are exempt from the antifraud provisions of the act.",
 			"correct": true
 		}],
-		"explanation": "Neither exempt securities nor exempt transactions are exempt from the USA’s antifraud provisions. The best way to look at this question is to ask yourself, “When would I be permitted to engage in fraudulent activity?”",
+		"explanation": "Neither exempt securities nor exempt transactions are exempt from the USA's antifraud provisions. The best way to look at this question is to ask yourself, “When would I be permitted to engage in fraudulent activity?”",
 		"prompt": "Which of the following statements regarding the antifraud provisions of the Uniform Securities Act (USA) is TRUE?"
 	},
 	"kaplanWarmUp05": {
@@ -98,8 +98,8 @@ dataKaplanWarmUp = {
 			"content": "III and IV",
 			"correct": false
 		}],
-		"explanation": "A disclosure brochure is not required to be delivered if the client is a registered investment company or if the advisory service is of an impersonal nature and costs less than $500. A brochure is required when the service provided is an individual supervisory service, and the client’s net worth has no bearing on brochure delivery requirements.",
-		"prompt": "The Investment Advisers Act of 1940 requires delivery of a brochure containing information about the adviser’s background and business practices in which of the following situations? <br> <br>I. The service provided is an individual supervisory service. <br>II. The client is an investment company. <br>III. The contract is for an impersonal advisory service requiring payment of less than $500. <br>IV. The client is an individual with net worth of more than $1 million."
+		"explanation": "A disclosure brochure is not required to be delivered if the client is a registered investment company or if the advisory service is of an impersonal nature and costs less than $500. A brochure is required when the service provided is an individual supervisory service, and the client's net worth has no bearing on brochure delivery requirements.",
+		"prompt": "The Investment Advisers Act of 1940 requires delivery of a brochure containing information about the adviser's background and business practices in which of the following situations? <br> <br>I. The service provided is an individual supervisory service. <br>II. The client is an investment company. <br>III. The contract is for an impersonal advisory service requiring payment of less than $500. <br>IV. The client is an individual with net worth of more than $1 million."
 	},
 	"kaplanWarmUp07": {
 		"answers": [{
@@ -133,7 +133,7 @@ dataKaplanWarmUp = {
 			"correct": true
 		}],
 		"explanation": "All of the securities listed are exempt from registration under the Uniform Securities Act. There are many different exemptions, but all of them seem to carry a common thread. Either the issuer is someone above reproach (a government or a charity), or it is regulated by someone else (a public utility or a bank).",
-		"prompt": "Which of the following securities are exempt from the registration requirements of the Uni- form Securities Act?<br><br>I. Investment contract issued in connection with an employee pension plan<br>II. Securities issued by St. Paul’s Catholic Church in Tempe, Arizona<br>III. Securities issued by a regulated public util- ity<br>IV. Securities issued by the provincial govern- ment of Ontario, Canada"
+		"prompt": "Which of the following securities are exempt from the registration requirements of the Uniform Securities Act?<br><br>I. Investment contract issued in connection with an employee pension plan<br>II. Securities issued by St. Paul's Catholic Church in Tempe, Arizona<br>III. Securities issued by a regulated public utility<br>IV. Securities issued by the provincial government of Ontario, Canada"
 	},
 	"kaplanWarmUp09": {
 		"answers": [{
@@ -167,24 +167,24 @@ dataKaplanWarmUp = {
 			"correct": false
 		}],
 		"explanation": "A consultant who advises pension funds on the merits of investment managers and their approaches to the market is specifically described as an investment adviser in Release IA-1092. Note that the sports representative in this case does not make specific investment recommendations. The recommendation that a person place funds in a commercial bank does not, of itself, constitute investment advice. The teacher is engaged in an educational exercise in which no compensation is received.",
-		"prompt": "In which of the following circumstances is a person most likely to be considered an invest- ment adviser?"
+		"prompt": "In which of the following circumstances is a person most likely to be considered an investment adviser?"
 	},
 	"kaplanWarmUp11": {
 		"answers": [{
-			"content": "Customer’s state of residence",
+			"content": "Customer's state of residence",
 			"correct": false
 		},{
-			"content": "Customer’s tax status",
+			"content": "Customer's tax status",
 			"correct": false
 		},{
-			"content": "Municipal security’s rating",
+			"content": "Municipal security's rating",
 			"correct": false
 		},{
 			"content": "All of the above",
 			"correct": true
 		}],
-		"explanation": "The customer’s state of residence and tax status are essential when determining suitability for a municipal security. The security’s rating is also critical because it measures the safety and quality of the bond.",
-		"prompt": "Which of the following must an investment adviser representative consider before recom- mending a municipal security to a customer?"
+		"explanation": "The customer's state of residence and tax status are essential when determining suitability for a municipal security. The security's rating is also critical because it measures the safety and quality of the bond.",
+		"prompt": "Which of the following must an investment adviser representative consider before recommending a municipal security to a customer?"
 	},
 	"kaplanWarmUp12": {
 		"answers": [{
@@ -201,7 +201,7 @@ dataKaplanWarmUp = {
 			"correct": false
 		}],
 		"explanation": "Corporate securities are considered riskier than government agency issues. Agency issues have only a slight risk of default because they are backed by revenues from taxes, fees, and interest income. Agency issues include GNMAs, which are backed by the full faith and credit of the government. Some agency issues are exempt from state and local taxation, but they are not exempt from federal taxation. Congress authorizes these agencies to issue debt securities.",
-		"prompt": "All of the following statements regarding gov- ernment agency securities are true EXCEPT"
+		"prompt": "All of the following statements regarding government agency securities are true EXCEPT"
 	},
 	"kaplanWarmUp13": {
 		"answers": [{
@@ -251,8 +251,8 @@ dataKaplanWarmUp = {
 			"content": "6%",
 			"correct": false
 		}],
-		"explanation": "The interest on the municipal bond is free of income tax. Therefore, the after- tax return is the same as the coupon, 8%. Subtracting the 3% CPI gives us an inflation-adjusted return of 5%",
-		"prompt": "An investor in the 25% marginal income tax bracket owns a municipal bond with an 8% coupon. If the CPI is 3%, what is the investor’s inflation-adjusted after-tax return?"
+		"explanation": "The interest on the municipal bond is free of income tax. Therefore, the after-tax return is the same as the coupon, 8%. Subtracting the 3% CPI gives us an inflation-adjusted return of 5%",
+		"prompt": "An investor in the 25% marginal income tax bracket owns a municipal bond with an 8% coupon. If the CPI is 3%, what is the investor's inflation-adjusted after-tax return?"
 	},
 	"kaplanWarmUp16": {
 		"answers": [{
@@ -302,8 +302,8 @@ dataKaplanWarmUp = {
 			"content": "An oil and gas exploration program that is going to strike",
 			"correct": false
 		}],
-		"explanation": "High quality dividend paying preferred stocks will give her a reasonable income without great risk. Options are not income vehicles and are not income producing. Municipal bonds are not generally appropriate for low income clients because there would be little after- tax benefits. Oil and gas programs are speculative and not appropriate.",
-		"prompt": "If an elderly widow with no independent income other than Social Security payments wishes to invest the proceeds from her recently deceased husband’s life insurance, which of the following would be the most suitable recom- mendation?"
+		"explanation": "High quality dividend paying preferred stocks will give her a reasonable income without great risk. Options are not income vehicles and are not income producing. Municipal bonds are not generally appropriate for low income clients because there would be little after-tax benefits. Oil and gas programs are speculative and not appropriate.",
+		"prompt": "If an elderly widow with no independent income other than Social Security payments wishes to invest the proceeds from her recently deceased husband's life insurance, which of the following would be the most suitable recommendation?"
 	},
 	"kaplanWarmUp19": {
 		"answers": [{
@@ -319,8 +319,8 @@ dataKaplanWarmUp = {
 			"content": "convexity",
 			"correct": false
 		}],
-		"explanation": "Standard deviation measures how much an investment’s returns have fluctuated over a given period of time. The higher the investment’s standard deviation, the higher the risk.",
-		"prompt": "The statistical measurement that indicates how much an investment’s returns have fluctuated, compared to its average return, over a given period of time is known as"
+		"explanation": "Standard deviation measures how much an investment's returns have fluctuated over a given period of time. The higher the investment's standard deviation, the higher the risk.",
+		"prompt": "The statistical measurement that indicates how much an investment's returns have fluctuated, compared to its average return, over a given period of time is known as"
 	},
 	"kaplanWarmUp20": {
 		"answers": [{
