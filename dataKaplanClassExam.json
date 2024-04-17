@@ -341,19 +341,19 @@ dataKaplanClassExam = {
 	},
 	"kaplanClassExam21": {
 		"answers": [{
-			"content": "The annual interest the issuer pays on the bond",
+			"content": "I. The annual interest the issuer pays on the bond",
 			"correct": false
 		},{
-			"content": "The annual interest the issuer pays on a bond relative to its market price",
+			"content": "II. The annual interest the issuer pays on a bond relative to its market price",
 			"correct": false
 		},{
-			"content": "The annual interest rate an issuer pays on a bond relative to the annual dividend rate an issuer pays on its cumulative preferred stock",
+			"content": "III. The annual interest rate an issuer pays on a bond relative to the annual dividend rate an issuer pays on its cumulative preferred stock",
 			"correct": false
 		},{
-			"content": "The annualized impact of a bond's market discount or premium over its holding period return",
+			"content": "IV. The annualized impact of a bond's market discount or premium over its holding period return",
 			"correct": true
 		}],
-		"explanation": "YTM shows a reduction in annualized total return due to a premium paid or an increase in return from a discount. Choice A is incorrect because it describes the nominal (also called stated or coupon) or the annual interest that the issuer must pay to the bondholder. Choice B is incorrect because it describes a bond's current yield, which ignores gain or loss from premium or discount. Choice C is incorrect because yield to maturity does not compare an issuer's bond yields against its preferred stock yields. The YTM expresses an investor's total return from a bond considering both the coupon yield plus the par value at maturity.",
+		"explanation": "YTM shows a reduction in annualized total return due to a premium paid or an increase in return from a discount. Choice I is incorrect because it describes the nominal (also called stated or coupon) or the annual interest that the issuer must pay to the bondholder. Choice II is incorrect because it describes a bond's current yield, which ignores gain or loss from premium or discount. Choice III is incorrect because yield to maturity does not compare an issuer's bond yields against its preferred stock yields. The YTM expresses an investor's total return from a bond considering both the coupon yield plus the par value at maturity.",
 		"prompt": "What does a bond's yield to maturity (YTM) indicate?"
 	},
 	"kaplanClassExam22": {
