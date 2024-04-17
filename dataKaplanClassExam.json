@@ -163,10 +163,10 @@ dataKaplanClassExam = {
 			"content": "Earnings on investments are not taxed during the accumulation period.",
 			"correct": true
 		},{
-			"content": "Distributions must begin the year after the year the owner reaches age 70 1⁄2.",
+			"content": "Distributions must begin the year after the year the owner reaches age 70 1/2.",
 			"correct": false
 		}],
-		"explanation": "The common factor for both traditional and Roth IRAs is that investment earnings are not taxed during the accumulation period. Traditional IRAs offer tax-deductible contributions but withdrawals are taxed. Roth IRAs do not offer tax-deductible contributions, but qualified withdrawals are tax free. Traditional IRAs require distributions to begin in the year after the year an owner reaches age 701⁄2, but this is not true for Roth IRAs.",
+		"explanation": "The common factor for both traditional and Roth IRAs is that investment earnings are not taxed during the accumulation period. Traditional IRAs offer tax-deductible contributions but withdrawals are taxed. Roth IRAs do not offer tax-deductible contributions, but qualified withdrawals are tax free. Traditional IRAs require distributions to begin in the year after the year an owner reaches age 70 1/2, but this is not true for Roth IRAs.",
 		"prompt": "Which of the following statements regarding both traditional and Roth IRAs is TRUE?"
 	},
 	"kaplanClassExam11": {
@@ -387,7 +387,7 @@ dataKaplanClassExam = {
 			"content": "Capital gains tax on earnings exceeding basis",
 			"correct": false
 		}],
-		"explanation": "Distributions from a nonqualified plan represent both a return of the original investment made in the plan with after-tax dollars (a nontaxable return of capital) and the income from that investment. The income was deferred from tax over the plan's life, so it is taxable as ordinary income once distributed. A 10% penalty tax applies only if distributions begin before age 591⁄2.",
+		"explanation": "Distributions from a nonqualified plan represent both a return of the original investment made in the plan with after-tax dollars (a nontaxable return of capital) and the income from that investment. The income was deferred from tax over the plan's life, so it is taxable as ordinary income once distributed. A 10% penalty tax applies only if distributions begin before age 59 1/2.",
 		"prompt": "If your 60-year-old customer purchases a nonqualified variable annuity and withdraws some of her funds before the contract is annuitized, what are the consequences of this action?"
 	},
 	"kaplanClassExam24": {
