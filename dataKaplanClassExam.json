@@ -1,0 +1,682 @@
+dataKaplanClassExam = {
+	"kaplanClassExam01": {
+		"answers": [{
+			"content": "Stock in a growth fund",
+			"correct": true
+		},{
+			"content": "Initial public offerings of small companies",
+			"correct": false
+		},{
+			"content": "Options on large-cap common stock",
+			"correct": false
+		},{
+			"content": "Partnership interests in an oil and gas drilling program",
+			"correct": false
+		}],
+		"explanation": "The IRA for this couple should be established with an objective of long-term appreciation. IPOs of small companies and options on large-cap common stock are riskier investments and are generally considered inappropriate for IRAs. The DPP is inappropriate because tax losses in an IRA cannot be used to offset gains.",
+		"prompt": "Which of the following is the most suitable in- vestment for the IRAs of a young couple with a combined annual income of $42,000?"
+	},
+	"kaplanClassExam02": {
+		"answers": [{
+			"content": "it may avoid taxation by distributing all of its net investment income to shareholders",
+			"correct": false
+		},{
+			"content": "it may be either diversified or non- diversified",
+			"correct": false
+		},{
+			"content": "there is a continuous public offering",
+			"correct": true
+		},{
+			"content": "there are a wide variety of objectives available for investors to select from",
+			"correct": false
+		}],
+		"explanation": "The reason open-end investment companies have that name is because of the nature of their continuous public offering of new shares. In simple terms, they are “open” while a closed-end investment company is limited to a fixed offering (“closed”). All of the other characteristics listed are common to both of these management investment companies.",
+		"prompt": "The Investment Company Act of 1940 in- cludes several different types of entities in its definition of investment company. Among them is the management company which is further classified as either open-end or closed-end. Although there are a number of similarities be- tween these two, one characteristic of an open- end investment company that distinguishes it from a closed-end investment company is that"
+	},
+	"kaplanClassExam03": {
+		"answers": [{
+			"content": "$200,000 net worth or $200,000 annual income",
+			"correct": false
+		},{
+			"content": "$200,000 net worth and $100,000 annual income",
+			"correct": false
+		},{
+			"content": "$1 million of net worth, exclusive of primary residence, or $200,000 annual income",
+			"correct": true
+		},{
+			"content": "$1 million net worth, exclusive of primary residence, and $100,000 annual income",
+			"correct": false
+		}],
+		"explanation": "Under Rule 501 of Regulation D, the SEC defines an accredited investor as an individual who either has a net worth of at least $1 million, excluding the value of the primary residence, or has had annual income of at least $200,000 ($300,000 joint return) in the last 2 years with the same or more expected this year.",
+		"prompt": "In certain situations, a private placement requires an investor meet the definition of ac- credited investor. Under which of the follow- ing circumstances will an investor be consid- ered accredited?"
+	},
+	"kaplanClassExam04": {
+		"answers": [{
+			"content": "I, II, and III",
+			"correct": true
+		},{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": false
+		},{
+			"content": "III and IV",
+			"correct": false
+		}],
+		"explanation": "The term sale does not include a bona fide pledge. It does include securities given as a bonus with a purchase and gifts of assessable stock because the owner of the assessable stock may be called upon to come up with additional money. Sales of rights or warrants are considered offers of the underlying security.",
+		"prompt": "Under the Uniform Securities Act, which of the following statements regarding a sale, an offer, or an offer and sale are TRUE?<br><br>I. Any security given or delivered with or as a bonus for any purchase of securities is considered to have been offered and sold for value.<br>II. A purported gift of assessable stock is con- sidered to involve an offer and sale.<br>III. Every sale or offer of a warrant or stock right to purchase or subscribe to another security is considered to include an offer of the other security.<br>IV. A bona fide pledge is considered an offer and sale."
+	},
+	"kaplanClassExam05": {
+		"answers": [{
+			"content": "Rent-free use of unused space in the broker-dealer’s office",
+			"correct": false
+		},{
+			"content": "Providing access to the broker-dealer’s computerized accounting system allowing the investment adviser to prepare its financial statements",
+			"correct": false
+		},{
+			"content": "Clearance and settlement services provided by the broker-dealer",
+			"correct": true
+		},{
+			"content": "Reimbursement for travel expenses incurred to attend a seminar on the latest compliance trends for registered investment advisers",
+			"correct": false
+		}],
+		"explanation": "Section 28(e) of the Securities Exchange Act of 1934 provides a safe harbor for research and brokerage services provided in exchange for directed transactions. Clearance and settlement of trades is a qualifying brokerage service.",
+		"prompt": "Which of the following would qualify under the Section 28(e) safe harbor provisions for soft dollar compensation?"
+	},
+	"kaplanClassExam06": {
+		"answers": [{
+			"content": "the sole owner of the investment advisory firm pledges the firm as collateral for a bank loan",
+			"correct": false
+		},{
+			"content": "the sole proprietor of an investment advisory firm sells the firm to another adviser",
+			"correct": false
+		},{
+			"content": "the death of a partner holding a minority interest causes no change in the ownership interests of the remaining partners",
+			"correct": true
+		},{
+			"content": "two investment advisory firms intend to merge, causing a change in the majority interest of the partners",
+			"correct": false
+		}],
+		"explanation": "Written consent for assignment is required of clients whenever a change in a majority interest in an investment management partnership is involved. The death of a partner with a minority interest does not require consent for assignment. The sole owner of the advisory firm cannot pledge the firm as collateral without client consent. However, consent is required when there is a change in nonminority ownership through death. The merger of partnerships involves a change in majority interest, which requires consent.",
+		"prompt": "The Uniform Securities Act requires client consent for assignment of the investment advi- sory contract in all of the following situations EXCEPT"
+	},
+	"kaplanClassExam07": {
+		"answers": [{
+			"content": "30",
+			"correct": false
+		},{
+			"content": "60",
+			"correct": true
+		},{
+			"content": "90",
+			"correct": false
+		},{
+			"content": "270",
+			"correct": false
+		}],
+		"explanation": "An agent may appeal a final order of the state Administrator. A written petition must be filed with the appropriate court within 60 days of the entry of the Administrator’s order, and the court may then affirm or set aside (vacate) the revocation order.",
+		"prompt": "Under the USA, an agent may file for a review of an Administrator’s revocation order within how many days of revocation?"
+	},
+	"kaplanClassExam08": {
+		"answers": [{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": true
+		}],
+		"explanation": "The Uniform Securities Act exempts from registration and disclosure requirements all of the securities listed. Banks, for example, are under the regulatory supervision of other government agencies. Regulated common carriers are exempt as is any security issued or guaranteed by the federal or local governmental units of the United States and Canada.",
+		"prompt": "Securities issued by which of the following are exempt from the registration and advertising filing requirements of the USA?<br><br>I. The United States or any territory<br>II. A state or political subdivision of a state<br>III. A common carrier (e.g., a railroad) regu- lated in respect to its rates and charges by the United States or a state<br>IV. Banks and savings institutions"
+	},
+	"kaplanClassExam09": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "I and III",
+			"correct": true
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "I, II, and III",
+			"correct": false
+		}],
+		"explanation": "An Administrator’s denial of a security’s registration must be in the public interest. The underwriter’s compensation may not be excessive.",
+		"prompt": "Which of the following statements would justify an Administrator’s denial of a security’s registration?<br><br>I. The order is in the public interest.<br>II. The company has not been paying divi- dends.<br>III. The underwriter’s compensation is exces- sive."
+	},
+	"kaplanClassExam10": {
+		"answers": [{
+			"content": "Contributions are deductible.",
+			"correct": false
+		},{
+			"content": "Withdrawals at retirement are tax free.",
+			"correct": false
+		},{
+			"content": "Earnings on investments are not taxed during the accumulation period.",
+			"correct": true
+		},{
+			"content": "Distributions must begin the year after the year the owner reaches age 70 1⁄2.",
+			"correct": false
+		}],
+		"explanation": "The common factor for both traditional and Roth IRAs is that investment earnings are not taxed during the accumulation period. Traditional IRAs offer tax-deductible contributions but withdrawals are taxed. Roth IRAs do not offer tax-deductible contributions, but qualified withdrawals are tax free. Traditional IRAs require distributions to begin in the year after the year an owner reaches age 701⁄2, but this is not true for Roth IRAs.",
+		"prompt": "Which of the following statements regarding both traditional and Roth IRAs is TRUE?"
+	},
+	"kaplanClassExam11": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "III and IV",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": true
+		}],
+		"explanation": "The Uniform Securities Act specifically excludes these four choices from the definition of offer and sale.",
+		"prompt": "Which of the following are neither an offer nor a sale according to the Uniform Securities Act?<br><br>I. Reclassification of the issuer’s securities<br>II. Bona fide pledge or loan<br>III. Act incident to a judicially approved reorganization in which a security is issued in exchange for one or more outstanding shares<br>IV. Stock dividend of stock other than the is- suer’s for which nothing of value was given"
+	},
+	"kaplanClassExam12": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": true
+		},{
+			"content": "III and IV",
+			"correct": false
+		}],
+		"explanation": "A publisher of a financial newspaper and a CPA who, as an incidental part of his practice, suggests investing in municipal bonds are not investment advisers.",
+		"prompt": "Which of the following are NOT investment advisers according to SEC Release IA-1092?<br><br>I. Broker-dealer who charges for investment advice<br>II. Publisher of a financial newspaper<br>III. Person who sells securities analysis<br>IV. CPA who, as an incidental part of his prac- tice, suggests that high-tax bracket clients invest in municipal bonds."
+	},
+	"kaplanClassExam13": {
+		"answers": [{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "I and IV",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": true
+		},{
+			"content": "II and IV",
+			"correct": false
+		}],
+		"explanation": "An investment adviser representative is always an individual (natural) person. Employees who solicit business on behalf of investment advisers and those persons who supervise other employees are investment adviser representatives.",
+		"prompt": "The term investment adviser representative in- cludes which of the following?<br><br>I. A receptionist for an adviser<br>II. An employee of an investment adviser who solicits new business for the adviser<br>III. A supervisor who oversees employees that manage client portfolios for an adviser<br>IV. An investment advisory firm registered in the state of Texas"
+	},
+	"kaplanClassExam14": {
+		"answers": [{
+			"content": "a violation because the agent acted without discretionary authority",
+			"correct": true
+		},{
+			"content": "permissible because the agent is obligated to get the best price for the customer",
+			"correct": false
+		},{
+			"content": "a violation because the agent is required to execute sell transactions immediately after the order is placed",
+			"correct": false
+		},{
+			"content": "permissible because the agent is not permitted to guarantee a price to a customer",
+			"correct": false
+		}],
+		"explanation": "An agent may determine the price and timing of a transaction without discretionary authority. In this situation, the agent acted without authority when the amount of the security sold was changed. An agent is not necessarily required to execute a transaction immediately after an order is placed. While it is true that the agent cannot guarantee a price to a customer, the agent cannot take discretion to achieve a specific price without written authority from the client.",
+		"prompt": "A customer placed an order with an agent to sell 100 shares of ABC to have cash for an urgent purchase the next day, and he instructed the agent to limit any losses. The agent did not have discretionary authority over the account. The agent waited to sell the shares, hoping to get a better price for the customer. The price of the shares went down, so the agent sold 50 ABC shares to limit the customer’s losses. Ac- cording to the Uniform Securities Act, this is"
+	},
+	"kaplanClassExam15": {
+		"answers": [{
+			"content": "surety bonds are not required for investment advisers that do not have custody of customer securities",
+			"correct": false
+		},{
+			"content": "Administrators may inspect an investment adviser’s records held out of state without prior notice",
+			"correct": false
+		},{
+			"content": "surety bonds are not required for investment advisers that exercise discretion over customer accounts",
+			"correct": true
+		},{
+			"content": "Administrators may require minimum financial requirements for investment advisers whether or not they have custody of customer securities",
+			"correct": false
+		}],
+		"explanation": "Surety bonds are required for investment advisers that exercise discretion over customer accounts as well as those that maintain custody. The Administrator may inspect an investment adviser’s records held out of state without prior notice and require minimum financial requirements for investment advisers whether or not they have custody of securities.",
+		"prompt": "Under the Uniform Securities Act, all of the following statements are true EXCEPT"
+	},
+	"kaplanClassExam16": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "I, II, and IV",
+			"correct": true
+		},{
+			"content": "II and IV",
+			"correct": false
+		},{
+			"content": "III and IV",
+			"correct": false
+		}],
+		"explanation": "Any conviction for a felony or securities-related misdemeanor that occurred within the previous 10 years must be disclosed. Failure to disclose a suspension by FINRA or a bankruptcy filing are causes for disciplinary action on the Administrator’s part. Advisory groups may employ representatives as independent contractors.",
+		"prompt": "Under the Uniform Securities Act, which of the following are cause for disciplinary review action by the state securities Administrator?<br><br>I. Joe files an application for registration as an investment adviser and omits the fact that he was convicted of fraud 8 years ago.<br>II. Teresa, a registered investment adviser, failed to disclose that she recently filed for bankruptcy protection.<br>III. The ABC Advisory Group employs several representatives as independent contractors.<br>IV. FINRA suspended Ed from conduct- ing business in the securities industry for 6 months."
+	},
+	"kaplanClassExam17": {
+		"answers": [{
+			"content": "solely in the interest of plan participants and beneficiaries",
+			"correct": false
+		},{
+			"content": "with care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in like capacity and familiar with such matters would use in the conduct of an enterprise of a like character (prudent expert rule)",
+			"correct": false
+		},{
+			"content": "in accordance with the governing plan documents unless they are not consistent with ERISA",
+			"correct": false
+		},{
+			"content": "confining investments to only those most likely to achieve growth",
+			"correct": true
+		}],
+		"explanation": "Under ERISA, a fiduciary is not required to confine investments to only those most likely to achieve growth; other objectives, such as income and preservation of capital should be considered as well. The fiduciary is required to diversify investments so as to minimize the risk of losses, unless doing so is clearly not prudent under the circumstances.",
+		"prompt": "Under ERISA, a fiduciary must act in all of the following ways EXCEPT"
+	},
+	"kaplanClassExam18": {
+		"answers": [{
+			"content": "a buy stop order",
+			"correct": false
+		},{
+			"content": "a buy limit order",
+			"correct": false
+		},{
+			"content": "a market not held order",
+			"correct": false
+		},{
+			"content": "a buy stop limit order",
+			"correct": true
+		}],
+		"explanation": "The customer has specified a buy stop limit order. If the stock rises to the stop price of $140, the order is triggered and then becomes a buy limit order at 144, meaning an order to buy at $144 or lower. A market not held order allows the broker to submit a market order and is not held or committed to executing the order at a specific price.",
+		"prompt": "A client places an order to buy 300 DWQ at 140 stop, but not over 144. This is"
+	},
+	"kaplanClassExam19": {
+		"answers": [{
+			"content": "a premium",
+			"correct": false
+		},{
+			"content": "a discount",
+			"correct": false
+		},{
+			"content": "the bid price",
+			"correct": true
+		},{
+			"content": "the ask price",
+			"correct": false
+		}],
+		"explanation": "When a client is selling securities, the quoted price represents the amount the dealer is bidding to buy them. It is true that the quoted price here is at a premium, but that doesn’t answer the question as specifically.",
+		"prompt": "A client owns U.S. Treasury bonds and wishes to liquidate the position. The client receives a quote of 102.19 from a bond dealer. This represents"
+	},
+	"kaplanClassExam20": {
+		"answers": [{
+			"content": "zero-coupon bonds backed by the U.S. Treasury",
+			"correct": true
+		},{
+			"content": "corporate bonds with high rates of interest",
+			"correct": false
+		},{
+			"content": "municipal bonds for their tax benefits",
+			"correct": false
+		},{
+			"content": "common stock",
+			"correct": false
+		}],
+		"explanation": "Treasury STRIPS are guaranteed by the U.S. government, so there is virtually no chance of default. They are zero-coupon bonds and offer no current income, which is appropriate for a client who wants 100% return paid at a future date for college expenses.",
+		"prompt": "If your customer wants to set aside $40,000 for when his child starts college but does not want to endanger the principal, you should recom- mend"
+	},
+	"kaplanClassExam21": {
+		"answers": [{
+			"content": "The annual interest the issuer pays on the bond",
+			"correct": false
+		},{
+			"content": "The annual interest the issuer pays on a bond relative to its market price",
+			"correct": false
+		},{
+			"content": "The annual interest rate an issuer pays on a bond relative to the annual dividend rate an issuer pays on its cumulative preferred stock",
+			"correct": false
+		},{
+			"content": "The annualized impact of a bond’s market discount or premium over its holding period return",
+			"correct": true
+		}],
+		"explanation": "YTM shows a reduction in annualized total return due to a premium paid or an increase in return from a discount. Choice A is incorrect because it describes the nominal (also called stated or coupon) or the annual interest that the issuer must pay to the bondholder. Choice B is incorrect because it describes a bond’s current yield, which ignores gain or loss from premium or discount. Choice C is incorrect because yield to maturity does not compare an issuer’s bond yields against its preferred stock yields. The YTM expresses an investor’s total return from a bond considering both the coupon yield plus the par value at maturity.",
+		"prompt": "What does a bond’s yield to maturity (YTM) indicate?"
+	},
+	"kaplanClassExam22": {
+		"answers": [{
+			"content": "received prior to the initial trade in the account",
+			"correct": false
+		},{
+			"content": "received promptly after the initial trade in the account",
+			"correct": true
+		},{
+			"content": "properly notarized",
+			"correct": false
+		},{
+			"content": "approved by a designated principal prior to the initial trade in the account",
+			"correct": false
+		}],
+		"explanation": "The NASAA policy states that it is contrary to high standards of commercial honor and just and equitable principles of trade for any broker-dealer to execute any transaction in a margin account without securing from the customer a properly executed written margin agreement promptly after the initial transaction in the account.",
+		"prompt": "Opening a margin account involves the sub- mission of a number of documents, including a properly executed margin agreement. Under the NASAA Statement of Policy on Dishonest or Unethical Business Practices of Broker-deal- ers and Agents, those documents must be"
+	},
+	"kaplanClassExam23": {
+		"answers": [{
+			"content": "Ordinary income tax on earnings exceeding basis",
+			"correct": true
+		},{
+			"content": "10% penalty tax plus payment of ordinary income tax on all funds withdrawn",
+			"correct": false
+		},{
+			"content": "10% penalty tax plus payment of ordinary income tax on all funds withdrawn exceeding basis",
+			"correct": false
+		},{
+			"content": "Capital gains tax on earnings exceeding basis",
+			"correct": false
+		}],
+		"explanation": "Distributions from a nonqualified plan represent both a return of the original investment made in the plan with after-tax dollars (a nontaxable return of capital) and the income from that investment. The income was deferred from tax over the plan’s life, so it is taxable as ordinary income once distributed. A 10% penalty tax applies only if distributions begin before age 591⁄2.",
+		"prompt": "If your 60-year-old customer purchases a non- qualified variable annuity and withdraws some of her funds before the contract is annuitized, what are the consequences of this action?"
+	},
+	"kaplanClassExam24": {
+		"answers": [{
+			"content": "a discount",
+			"correct": false
+		},{
+			"content": "a premium",
+			"correct": true
+		},{
+			"content": "par",
+			"correct": false
+		},{
+			"content": "parity",
+			"correct": false
+		}],
+		"explanation": "If YTM is less than nominal yield, the bond must be trading at a premium.",
+		"prompt": "A 6% corporate bond trading at a yield to maturity of 5.8% is trading at"
+	},
+	"kaplanClassExam25": {
+		"answers": [{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "I, III, and IV",
+			"correct": true
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "III and IV",
+			"correct": false
+		}],
+		"explanation": "The secondary market is the trading market. In the trading market, a trade can take place on a stock exchange, in the unlisted or OTC market, by trading listed securities in the OTC market, or in direct institution-to-institution trades via a service like INSTINET (the fourth market). New issues are considered to be sold in the primary market.",
+		"prompt": "Which of the following trades occur in the secondary market?<br><br>I. Specialist (DMM) on the NYSE buying stock as principal<br>II. Corporate bond syndicate selling new is- sues to the public<br>III. An agent buying unlisted securities for a client<br>IV. Insurance company buying corporate bonds directly from another insurance company"
+	},
+	"kaplanClassExam26": {
+		"answers": [{
+			"content": "S&P 500 index fund manager",
+			"correct": false
+		},{
+			"content": "An international index fund manager",
+			"correct": false
+		},{
+			"content": "A small-cap growth fund manager",
+			"correct": false
+		},{
+			"content": "A large-cap growth manager",
+			"correct": true
+		}],
+		"explanation": "A large-cap growth manager is the most appropriate for the client because large capitalization stocks are generally less volatile and provide long-term capital growth. Index funds do not employ stock selection methods, they merely replicate the index.",
+		"prompt": "Which of the following investment manage- ment styles would you recommend to a risk- averse client who believes in the added value that professional stock selection can offer but is seeking long-term capital gains?"
+	},
+	"kaplanClassExam27": {
+		"answers": [{
+			"content": "the Anti-Money Laundering Act of 2001",
+			"correct": false
+		},{
+			"content": "the Dodd-Frank Act of 2010",
+			"correct": false
+		},{
+			"content": "the Sarbanes-Oxley Act of 2002",
+			"correct": false
+		},{
+			"content": "the USA PATRIOT Act of 2001",
+			"correct": true
+		}],
+		"explanation": "As an effort to curb the flow of money for terrorist activities, among its other provisions, the USA PATRIOT Act of 2001 incorporated the customer identification program (CIP). Financial institutions must incorporate CIPs to verify the identity of individuals opening new accounts.",
+		"prompt": "When opening an account for a new customer, broker-dealers must maintain customer identi- fication programs for the purpose of verifying the client’s identity. This requirement was mandated by"
+	},
+	"kaplanClassExam28": {
+		"answers": [{
+			"content": "AMF stock with a beta coefficient of 1.0",
+			"correct": false
+		},{
+			"content": "DOH stock with a beta coefficient of .7",
+			"correct": false
+		},{
+			"content": "GHI stock with a beta coefficient of 1.3",
+			"correct": true
+		},{
+			"content": "Convertible bonds of MTN, a highly profitable large-cap company",
+			"correct": false
+		}],
+		"explanation": "Beta coefficients greater than 1 signify that the stock will fluctuate more than the market as a whole. In general, the higher the beta, the greater the risk. Such risk-taking is appropriate for investors who seek aggressive investment strategies.",
+		"prompt": "If an investor is pursuing an aggressive invest- ment strategy, which of the following purchases is most suitable for him?"
+	},
+	"kaplanClassExam29": {
+		"answers": [{
+			"content": "Buy 3 GHI 50 puts",
+			"correct": false
+		},{
+			"content": "Buy 3 GHI 50 calls",
+			"correct": false
+		},{
+			"content": "Sell 3 GHI 50 puts",
+			"correct": false
+		},{
+			"content": "Sell 3 GHI 50 calls",
+			"correct": true
+		}],
+		"explanation": "The only position that does not require any cash outlay is the sale of an option. In fact, the client would receive money from the sale (the premium). Selling calls offers some protection (to the extent of the premium received) for those with long positions while selling puts protects those who are short. The greatest protection would be offered by purchasing 3 GHI 50 puts, but that would cost money and the question specifically stated “no cash outlay”",
+		"prompt": "An investor owns 300 shares of GHI common stock at a cost of $40 per share. GHI is cur- rently selling for $53.76 per share. The investor is concerned that current economic conditions do not hold a promising outlook for GHI, but he is reluctant to sell at this time. Which of the following option positions would offer protection with no cash outlay?"
+	},
+	"kaplanClassExam30": {
+		"answers": [{
+			"content": "I, II, III, IV",
+			"correct": false
+		},{
+			"content": "I, III, II, IV",
+			"correct": true
+		},{
+			"content": "III, I, II, IV",
+			"correct": false
+		},{
+			"content": "IV, I, II, III",
+			"correct": false
+		}],
+		"explanation": "The order in a liquidation is as follows: the IRS and other government agencies, secured debt holders, unsecured debt holders and general creditors, holders of subordinated bonds, preferred stockholders, and, finally, common stockholders.",
+		"prompt": "A publicly traded corporation has filed for bankruptcy. In what order would the following list of interested parties receive payment?<br><br>I. Holders of secured debt<br>II. Holders of subordinated debentures<br>III. General creditors<br>IV. Preferred stockholders"
+	},
+	"kaplanClassExam31": {
+		"answers": [{
+			"content": "A corporation is required to pay a cash dividend to stockholders if the earnings are sufficient, especially if it is preferred stock.",
+			"correct": false
+		},{
+			"content": "Dividends have a significant influence on the value of the corporation’s stock.",
+			"correct": true
+		},{
+			"content": "A growth company would be more likely to pay a cash dividend than a stock dividend.",
+			"correct": false
+		},{
+			"content": "Because of its priority, the dividend on a company’s preferred stock will always be higher than the dividend on its common stock.",
+			"correct": false
+		}],
+		"explanation": "Dividends play a large role in what someone is willing to pay for the stock. For example, the dividend discount model (DDM) values a stock as the discounted present value of future dividends. A company is not required to pay dividends. A growth company will tend not to pay cash dividends but rather use the money for expansion. The dividend on a company’s preferred stock is fixed at issuance – it can never increase. If the company is successful, it may well happen that its common stock dividend will be higher than that on the preferred.",
+		"prompt": "Which of the following statements regarding dividends is TRUE?"
+	},
+	"kaplanClassExam32": {
+		"answers": [{
+			"content": "they compute their net asset values",
+			"correct": false
+		},{
+			"content": "they actively manage their portfolios",
+			"correct": false
+		},{
+			"content": "they have stated investment objectives",
+			"correct": false
+		},{
+			"content": "their shares are traded in the secondary market",
+			"correct": true
+		}],
+		"explanation": "Shares of open-end companies do not trade in the secondary market. Both open-end and closed-end companies compute their net asset values, actively manage their portfolios, and have stated investment objectives.",
+		"prompt": "Open- and closed-end investment companies have all of the following in common EXCEPT"
+	},
+	"kaplanClassExam33": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "II and IV",
+			"correct": false
+		},{
+			"content": "III and IV",
+			"correct": false
+		},{
+			"content": "I, II, III, and IV",
+			"correct": true
+		}],
+		"explanation": "All of the issuers listed are exempt from the registration provisions of the Uniform Securities Act.",
+		"prompt": "Securities issued by which of the following would be exempt from the registration require- ments of the Uniform Securities Act?<br><br>I. Nonprofit organization<br>II. Exchange-listed security<br>III. Federal savings and loan association<br>IV. Federal credit union"
+	},
+	"kaplanClassExam34": {
+		"answers": [{
+			"content": "The total of the two may not exceed 5%.",
+			"correct": false
+		},{
+			"content": "The firm is in violation of trading rules acting as both principal and agent in the same transaction.",
+			"correct": true
+		},{
+			"content": "The firm is acting properly in its role as a market maker.",
+			"correct": false
+		},{
+			"content": "The firm is engaging in a prohibited practice known as selling away.",
+			"correct": false
+		}],
+		"explanation": "A firm may not act as a broker and a dealer in the same transaction regardless of the amount of the markup. Additionally, the firm is not acting properly as a dealer by charging a commission and a markup, and the firm is not engaged in selling away. Selling away refers to the sale of securities outside an associated person’s regular business.",
+		"prompt": "If a firm executes a customer order and disclos- es on the confirmation both a commission and a markup, which of the following statements is TRUE?"
+	},
+	"kaplanClassExam35": {
+		"answers": [{
+			"content": "a face-amount certificate company",
+			"correct": false
+		},{
+			"content": "an unit investment trust",
+			"correct": false
+		},{
+			"content": "an investment company",
+			"correct": true
+		},{
+			"content": "an investment partnership",
+			"correct": false
+		}],
+		"explanation": "By definition under the Investment Company Act of 1940, an investment company is in the business of investing, reinvesting, trading, owning, and holding securities and owns or intends to own securities that exceed 40% of its assets.",
+		"prompt": "According to the Investment Company Act of 1940, if an issuer is in the business of investing, reinvesting, trading, owning, or holding securi- ties and owns or intends to own securities that exceed 40% of its assets, it is classified as"
+	},
+	"kaplanClassExam36": {
+		"answers": [{
+			"content": "vote in elections for the board of directors",
+			"correct": false
+		},{
+			"content": "examine the books of the corporation",
+			"correct": false
+		},{
+			"content": "receive all announced dividends",
+			"correct": false
+		},{
+			"content": "claim company assets in bankruptcy after creditors’ interests have been satisfied",
+			"correct": true
+		}],
+		"explanation": "The residual right of common shareholders refers to their position in the event of bankruptcy. Common shareholders have rights to vote for the board of directors, to inspect the books of the company, and to receive dividends.",
+		"prompt": "The residual right of common stockholders refers to their right to"
+	},
+	"kaplanClassExam37": {
+		"answers": [{
+			"content": "the FINRA 5% markup policy",
+			"correct": false
+		},{
+			"content": "buyers bidding directly against each other for the securities at a central marketplace",
+			"correct": false
+		},{
+			"content": "negotiation between buyers and sellers",
+			"correct": true
+		},{
+			"content": "buyers and sellers bidding directly against each other in a double auction market",
+			"correct": false
+		}],
+		"explanation": "The OTC market is a negotiated market, not an auction market. Dealers one-on- one negotiate trades in an OTC stock. The FINRA 5% markup policy is a guide to use in determining the markup/ markdown/commission on an OTC trade but not the price (and the FINRA rule has no application on this exam).",
+		"prompt": "Stock prices in the over-the-counter market are determined by"
+	},
+	"kaplanClassExam38": {
+		"answers": [{
+			"content": "I and II",
+			"correct": false
+		},{
+			"content": "I and III",
+			"correct": false
+		},{
+			"content": "II and III",
+			"correct": false
+		},{
+			"content": "I, II, and III",
+			"correct": true
+		}],
+		"explanation": "The purchase of a put allows the stockholder to lock in a sale price and thus protect a capital gain or avoid a loss. If the price continued to rise, the investor would not exercise the put but let the put option expire and sell the stock at the higher market price.",
+		"prompt": "An investor with a long position in a stock, who then purchases a put option on that stock, may<br><br>I. participate in additional gains if the secu- rity continues to increase in price<br>II. avoid selling at a loss if the price of the stock drops below the strike price<br>III. protect a profit in the current stock posi- tion"
+	},
+	"kaplanClassExam39": {
+		"answers": [{
+			"content": "Members of a limited liability company (LLC) are not personally liable for debts that arise under the LLC.",
+			"correct": false
+		},{
+			"content": "Limited partners actively manage the investments in the partnership but are not liable for funds in excess of the amounts they have invested.",
+			"correct": true
+		},{
+			"content": "A sole proprietorship account is for tax and legal purposes, indistinguishable from the business owner.",
+			"correct": false
+		},{
+			"content": "An S corporation is a form of incorporation that is taxed as a partnership but in all other respects operates like a regular corporation.",
+			"correct": false
+		}],
+		"explanation": "Limited partners are passive investors in a partnership whose liability is limited to the amount of funds they have invested plus any funds committed to, but not yet forwarded to the general partner. They do not manage the funds in the partnership; the general partner has that responsibility. Owners, called members, are not personally liable for the debts that arise under an LLC. The LLC is a separate legal entity from its owners. A sole proprietorship account is the business account of an individual business owner and is handled in much the same way as an individual account. An S corporation is taxed as a partnership, although it operates like a regular corporation.",
+		"prompt": "Which of the following statements is NOT true?"
+	},
+	"kaplanClassExam40": {
+		"answers": [{
+			"content": "a large-cap stock",
+			"correct": true
+		},{
+			"content": "a small-cap stock",
+			"correct": false
+		},{
+			"content": "an AAA corporate bond",
+			"correct": false
+		},{
+			"content": "a cumulative preferred stock",
+			"correct": false
+		}],
+		"explanation": "The dividend growth model is a method to value the common stock of a company on the basis of assumed constant growth of dividends in the future. Therefore, it can only be applied to a corporation whose dividends might be expected to increase. It is far more likely that a large-cap stock will be paying dividends than a small-cap stock. Bonds don’t pay any dividends and, in any event, their interest, just like the dividends on preferred stock, is fixed; there is no growth possible.",
+		"prompt": "One method used by some analysts to estimate the future value of a stock is the dividend growth model. This model would probably be most useful in the case of"
+	}
+};
