@@ -31,7 +31,7 @@ dataKaplanClassExam = {
 			"correct": false
 		}],
 		"explanation": "The reason open-end investment companies have that name is because of the nature of their continuous public offering of new shares. In simple terms, they are \"open\" while a closed-end investment company is limited to a fixed offering (\"closed\"). All of the other characteristics listed are common to both of these management investment companies.",
-		"prompt": "The Investment Company Act of 1940 includes several different types of entities in its definition of investment company. Among them is the management company which is further classified as either open-end or closed-end. Although there are a number of similarities between these two, one characteristic of an openend investment company that distinguishes it from a closed-end investment company is that"
+		"prompt": "The Investment Company Act of 1940 includes several different types of entities in its definition of investment company. Among them is the management company which is further classified as either open-end or closed-end. Although there are a number of similarities between these two, one characteristic of an open-end investment company that distinguishes it from a closed-end investment company is that"
 	},
 	"kaplanClassExam03": {
 		"answers": [{
