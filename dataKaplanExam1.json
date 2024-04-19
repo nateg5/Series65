@@ -85,7 +85,7 @@ dataKaplanExam1 = {
             }
         ],
         "explanation": "An offer can only be made with an effective prospectus. A red herring is neither an offer to sell nor an offer of a solicitation to buy; it may only be used to obtain indications of interest.",
-        "prompt": "Under which of the following cases could an agent offer a security for sale? <br><br>I. A registration statement has been filed with the SEC but has not yet become effective. <br>II. A registration statement has been filed with the SEC and has become effective. <br>III. The agent is aware of negotiations going on between an issuer and the employing brokerdealer’s investment banking department."
+        "prompt": "Under which of the following cases could an agent offer a security for sale? <br><br>I. A registration statement has been filed with the SEC but has not yet become effective. <br>II. A registration statement has been filed with the SEC and has become effective. <br>III. The agent is aware of negotiations going on between an issuer and the employing brokerdealer's investment banking department."
     },
     "kaplanExam1_5": {
         "answers": [
@@ -283,7 +283,7 @@ dataKaplanExam1 = {
             }
         ],
         "explanation": "Section 30(d) of the act requires semiannual reports from the fund. Although filing is required with the SEC, the company does not file with its shareholders. In the description of the types of investment companies, holding companies (which invest in other companies for the purpose of management control) are not included.",
-        "prompt": "Which of the following statements under the Investment Company Act of 1940 are TRUE? <br><br>I. Holding companies are not included in the definition of an investment company. <br>II. Investment companies are prohibited from owning more than 3% of another investment company’s shares. <br>III. Mutual funds must file semiannual reports with their shareholders and the SEC."
+        "prompt": "Which of the following statements under the Investment Company Act of 1940 are TRUE? <br><br>I. Holding companies are not included in the definition of an investment company. <br>II. Investment companies are prohibited from owning more than 3% of another investment company's shares. <br>III. Mutual funds must file semiannual reports with their shareholders and the SEC."
     },
     "kaplanExam1_14": {
         "answers": [
@@ -392,8 +392,8 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "Preferred stock carries a fixed dividend that must be paid before any distribution to common stockholders—hence the name preferred. However, unlike the interest on a debt security, there is no obligation to pay the dividend. Therefore, the yield on a company’s preferred stock is invariably higher than that on its debt issues. Disadvantages of owning preferred stock are that the fixed return may not keep up with inflation and, regardless of corporate earnings, the dividend will not change, so there is no hope for increased income.",
-        "prompt": "Among the advantages of including preferred stock in an investor’s portfolio are <br><br>I. dividends must be paid before any distribution to common stockholders <br>II. a rate of return that is likely to keep pace with inflation <br>III. the opportunity for increased income if the issuer’s profits increase <br>IV. a fixed rate of return that is likely higher than that for a debt security offered by the same issuer"
+        "explanation": "Preferred stock carries a fixed dividend that must be paid before any distribution to common stockholders—hence the name preferred. However, unlike the interest on a debt security, there is no obligation to pay the dividend. Therefore, the yield on a company's preferred stock is invariably higher than that on its debt issues. Disadvantages of owning preferred stock are that the fixed return may not keep up with inflation and, regardless of corporate earnings, the dividend will not change, so there is no hope for increased income.",
+        "prompt": "Among the advantages of including preferred stock in an investor's portfolio are <br><br>I. dividends must be paid before any distribution to common stockholders <br>II. a rate of return that is likely to keep pace with inflation <br>III. the opportunity for increased income if the issuer's profits increase <br>IV. a fixed rate of return that is likely higher than that for a debt security offered by the same issuer"
     },
     "kaplanExam1_19": {
         "answers": [
@@ -480,8 +480,8 @@ dataKaplanExam1 = {
                 "correct": true
             }
         ],
-        "explanation": "Choice A would be correct if the question referred to Moody’s.",
-        "prompt": "According to Standard and Poor’s rating system, the 4 highest grades of bonds (from best to lowest grade) are"
+        "explanation": "Choice A would be correct if the question referred to Moody's.",
+        "prompt": "According to Standard and Poor's rating system, the 4 highest grades of bonds (from best to lowest grade) are"
     },
     "kaplanExam1_23": {
         "answers": [
@@ -700,8 +700,8 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "John’s investment in the yacht-building business suffered a loss as a result of legislative risk. In other words, the rules of the game (i.e., tax laws) changed after John purchased the security.",
-        "prompt": "John purchased securities in the yacht-building business. Two years ago, his securities had lost most of their value as a result of a congressionally imposed luxury tax on purchases of more than $30,000. John’s purchase of an investment in the yacht-building business suffered"
+        "explanation": "John's investment in the yacht-building business suffered a loss as a result of legislative risk. In other words, the rules of the game (i.e., tax laws) changed after John purchased the security.",
+        "prompt": "John purchased securities in the yacht-building business. Two years ago, his securities had lost most of their value as a result of a congressionally imposed luxury tax on purchases of more than $30,000. John's purchase of an investment in the yacht-building business suffered"
     },
     "kaplanExam1_33": {
         "answers": [
@@ -736,15 +736,15 @@ dataKaplanExam1 = {
                 "correct": false
             },
             {
-                "content": "dividing the remainder of the risk-free rate subtracted from the security’s actual return by its standard deviation",
+                "content": "dividing the remainder of the risk-free rate subtracted from the security's actual return by its standard deviation",
                 "correct": true
             },
             {
-                "content": "dividing the security’s price by its beta",
+                "content": "dividing the security's price by its beta",
                 "correct": false
             }
         ],
-        "explanation": "The return from a security can be adjusted for the risk associated with it by subtracting the risk-free rate from the security’s actual return and then dividing that by its standard deviation, the basic measure of unsystematic risk. This is commonly known as the Sharpe ratio.",
+        "explanation": "The return from a security can be adjusted for the risk associated with it by subtracting the risk-free rate from the security's actual return and then dividing that by its standard deviation, the basic measure of unsystematic risk. This is commonly known as the Sharpe ratio.",
         "prompt": "Risk-adjusted return is calculated by"
     },
     "kaplanExam1_35": {
@@ -776,19 +776,19 @@ dataKaplanExam1 = {
                 "correct": false
             },
             {
-                "content": "a measure of a bond’s volatility with respect to a change in interest rates",
+                "content": "a measure of a bond's volatility with respect to a change in interest rates",
                 "correct": true
             },
             {
-                "content": "the deviation of a bond’s returns from its average returns",
+                "content": "the deviation of a bond's returns from its average returns",
                 "correct": false
             },
             {
-                "content": "identical to a bond’s maturity",
+                "content": "identical to a bond's maturity",
                 "correct": false
             }
         ],
-        "explanation": "Duration measures a bond’s sensitivity to a change in interest rates. The longer the duration, the greater the change in a bond’s price with respect to interest rate changes.",
+        "explanation": "Duration measures a bond's sensitivity to a change in interest rates. The longer the duration, the greater the change in a bond's price with respect to interest rate changes.",
         "prompt": "Duration is"
     },
     "kaplanExam1_37": {
@@ -838,7 +838,7 @@ dataKaplanExam1 = {
     "kaplanExam1_39": {
         "answers": [
             {
-                "content": "the difference between an investment’s present value and its cost",
+                "content": "the difference between an investment's present value and its cost",
                 "correct": false
             },
             {
@@ -876,8 +876,8 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "First, compute Dan’s after-tax rate of return of 10.95% as follows: .15 × (1 − .27), or .73 = .1095. Then, compute Dan’s inflation-adjusted, or real, rate of return by subtracting the 3% inflation rate from his 10.95% after-tax return.",
-        "prompt": "Dan is the owner of a mutual fund that returned him a before-tax return of 15% last year. Inflation is running at an annual rate of 3%, and Dan is in a 27% marginal income tax bracket. What has been Dan’s approximate inflation-adjusted aftertax return on the fund over the course of the last year (rounded to the nearest 2 decimal points)?"
+        "explanation": "First, compute Dan's after-tax rate of return of 10.95% as follows: .15 × (1 − .27), or .73 = .1095. Then, compute Dan's inflation-adjusted, or real, rate of return by subtracting the 3% inflation rate from his 10.95% after-tax return.",
+        "prompt": "Dan is the owner of a mutual fund that returned him a before-tax return of 15% last year. Inflation is running at an annual rate of 3%, and Dan is in a 27% marginal income tax bracket. What has been Dan's approximate inflation-adjusted aftertax return on the fund over the course of the last year (rounded to the nearest 2 decimal points)?"
     },
     "kaplanExam1_41": {
         "answers": [
@@ -898,7 +898,7 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "Because dollar-weighted returns reflect the individual investor’s cash deposits and withdrawals from the investment account, it is the preferred measure of return for them. On the other hand, time-weighted returns are generally a more important tool to show portfolio manager performance.",
+        "explanation": "Because dollar-weighted returns reflect the individual investor's cash deposits and withdrawals from the investment account, it is the preferred measure of return for them. On the other hand, time-weighted returns are generally a more important tool to show portfolio manager performance.",
         "prompt": "Which two of the following statements are CORRECT? <br><br>I. Time-weighted returns are generally of more use than dollar-weighted returns to evaluate portfolio manager performance. <br>II. Time-weighted returns are generally of more use than dollar-weighted returns to evaluate individual investor performance. <br>III. Dollar-weighted returns are generally of more use than time-weighted returns to evaluate portfolio manager performance. <br>IV. Dollar-weighted returns are generally of more use than time-weighted returns to evaluate individual investor performance."
     },
     "kaplanExam1_42": {
@@ -965,7 +965,7 @@ dataKaplanExam1 = {
             }
         ],
         "explanation": "Total return is all distributions plus/minus appreciation/depreciation. In this question, the $1,300 includes the $250 capital gain so all we add is the $20 dividend. $320 divided by $1,000 equals 32% total return.",
-        "prompt": "An investor invests $1,000 into the shares of the Stratford Growth and Income Fund, an open-end investment company registered under the Investment Company Act of 1940. On the purchase application, the investor checked the boxes signifying that dividends were to be paid out in cash and capital gains were to be reinvested. During year, the fund pays dividends of $20 and distributes a $250 capital gain. At the end of the year, the fund’s value is $1,300. The total return to this investor was"
+        "prompt": "An investor invests $1,000 into the shares of the Stratford Growth and Income Fund, an open-end investment company registered under the Investment Company Act of 1940. On the purchase application, the investor checked the boxes signifying that dividends were to be paid out in cash and capital gains were to be reinvested. During year, the fund pays dividends of $20 and distributes a $250 capital gain. At the end of the year, the fund's value is $1,300. The total return to this investor was"
     },
     "kaplanExam1_45": {
         "answers": [
@@ -1004,7 +1004,7 @@ dataKaplanExam1 = {
                 "correct": true
             },
             {
-                "content": "in the event of death, the decedent’s interest in the account goes to the other party",
+                "content": "in the event of death, the decedent's interest in the account goes to the other party",
                 "correct": false
             }
         ],
