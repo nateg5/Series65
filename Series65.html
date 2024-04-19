@@ -37,6 +37,8 @@
 		<script src="dataBestTestReview.json"></script>
 		<script src="dataEmpireStockBrokerOnline.json"></script>
 		<script src="dataKaplanWarmUp.json"></script>
+		<script src="dataKaplanClassExam.json"></script>
+		<script src="dataKaplanExam1.json"></script>
     </head>
     <body>
 		<div id="questionNumber"></div>
@@ -97,7 +99,9 @@
 				...dataStudy,
 				...dataBestTestReview,
 				...dataEmpireStockBrokerOnline,
-				...dataKaplanWarmUp
+				...dataKaplanWarmUp,
+				...dataKaplanClassExam,
+				...dataKaplanExam1
 			};
 			let dataKeys = Object.keys(data);
 			
