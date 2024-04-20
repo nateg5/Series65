@@ -833,7 +833,7 @@ dataKaplanExam1 = {
             }
         ],
         "explanation": "In an efficient market, all participants have equal access to information and, therefore, stock prices reflect that equality almost immediately.",
-        "prompt": "“Stock prices adjust rapidly to the release of all new public information.” This statement is an expression of which of the following ideas?"
+        "prompt": "\"Stock prices adjust rapidly to the release of all new public information.\" This statement is an expression of which of the following ideas?"
     },
     "kaplanExam1_39": {
         "answers": [
