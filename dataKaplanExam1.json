@@ -156,23 +156,23 @@ dataKaplanExam1 = {
     "kaplanExam1_8": {
         "answers": [
             {
-                "content": "establish specific statutory standards for contractual agreements between corporations issuing bonds and the representatives of investors who own the bonds",
+                "content": "I. establish specific statutory standards for contractual agreements between corporations issuing bonds and the representatives of investors who own the bonds",
                 "correct": false
             },
             {
-                "content": "protect the public against unfair and inequitable practices in the over-the-counter market and on stock exchanges",
+                "content": "II. protect the public against unfair and inequitable practices in the over-the-counter market and on stock exchanges",
                 "correct": true
             },
             {
-                "content": "reimburse customers of failed broker-dealers",
+                "content": "III. reimburse customers of failed broker-dealers",
                 "correct": false
             },
             {
-                "content": "establish standards to govern activities of organizations that engage in the business of providing securities investment advice Unit 1 Unit Test 249",
+                "content": "IV. establish standards to govern activities of organizations that engage in the business of providing securities investment advice Unit 1 Unit Test 249",
                 "correct": false
             }
         ],
-        "explanation": "Choice A relates to the Trust Indenture Act of 1939 (not tested); Choice C relates to SIPA of 1970, which created SIPC (also not tested); and Choice D relates to the Investment Advisers Act of 1940.",
+        "explanation": "Choice I relates to the Trust Indenture Act of 1939 (not tested); Choice III relates to SIPA of 1970, which created SIPC (also not tested); and Choice IV relates to the Investment Advisers Act of 1940.",
         "prompt": "A principal purpose of the Securities Exchange Act of 1934 is generally considered to be to"
     },
     "kaplanExam1_9": {
@@ -238,7 +238,7 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "The term any person does not include the designated agent of an investment club. Groups put together for the purpose of investing together, such as an investment club or clients of an investment adviser, do not qualify. Although there are exceptions, the exam will deal with accounts for minor children only. ANSWERS AND RATIONALES 262 Series 65 Uniform Investment Adviser Law Exam, 10th Edition",
+        "explanation": "The term any person does not include the designated agent of an investment club. Groups put together for the purpose of investing together, such as an investment club or clients of an investment adviser, do not qualify. Although there are exceptions, the exam will deal with accounts for minor children only.",
         "prompt": "The Investment Company Act of 1940 permits a reduction in sales charge when reaching a breakpoint for"
     },
     "kaplanExam1_12": {
@@ -392,7 +392,7 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "Preferred stock carries a fixed dividend that must be paid before any distribution to common stockholders—hence the name preferred. However, unlike the interest on a debt security, there is no obligation to pay the dividend. Therefore, the yield on a company's preferred stock is invariably higher than that on its debt issues. Disadvantages of owning preferred stock are that the fixed return may not keep up with inflation and, regardless of corporate earnings, the dividend will not change, so there is no hope for increased income.",
+        "explanation": "Preferred stock carries a fixed dividend that must be paid before any distribution to common stockholders-hence the name preferred. However, unlike the interest on a debt security, there is no obligation to pay the dividend. Therefore, the yield on a company's preferred stock is invariably higher than that on its debt issues. Disadvantages of owning preferred stock are that the fixed return may not keep up with inflation and, regardless of corporate earnings, the dividend will not change, so there is no hope for increased income.",
         "prompt": "Among the advantages of including preferred stock in an investor's portfolio are <br><br>I. dividends must be paid before any distribution to common stockholders <br>II. a rate of return that is likely to keep pace with inflation <br>III. the opportunity for increased income if the issuer's profits increase <br>IV. a fixed rate of return that is likely higher than that for a debt security offered by the same issuer"
     },
     "kaplanExam1_19": {
@@ -524,7 +524,7 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "The current yield of any security, equity, or debt is always the income return (dividend or interest) divided by the current market price. In this case, it is 5 5 110 5 . = %",
+        "explanation": "The current yield of any security, equity, or debt is always the income return (dividend or interest) divided by the current market price. In this case, it is 5.5 / 110 = 5%",
         "prompt": "The current yield on a bond with a coupon rate of 5.5% selling at 110 is"
     },
     "kaplanExam1_25": {
@@ -678,7 +678,7 @@ dataKaplanExam1 = {
                 "correct": true
             }
         ],
-        "explanation": "Foreign interest rate differentials are not reflected in an upward sloping yield curve. Interest rate differentials between countries reflect differences in domestic monetary and fiscal conditions. The time value of money is reflected in the upward sloping yield curve. Longer-term rates require higher rates to compensate for loss of current buying power and liquidity. Longerterm funds bear a higher risk of default than do shorter-term funds and, as a result, command higher rates. Increasing inflation expectations cause the yield curve to slope upward to compensate lenders for the loss of future buying power.",
+        "explanation": "Foreign interest rate differentials are not reflected in an upward sloping yield curve. Interest rate differentials between countries reflect differences in domestic monetary and fiscal conditions. The time value of money is reflected in the upward sloping yield curve. Longer-term rates require higher rates to compensate for loss of current buying power and liquidity. Longer-term funds bear a higher risk of default than do shorter-term funds and, as a result, command higher rates. Increasing inflation expectations cause the yield curve to slope upward to compensate lenders for the loss of future buying power.",
         "prompt": "An upward sloping yield curve represents all of the following EXCEPT"
     },
     "kaplanExam1_32": {
@@ -850,7 +850,7 @@ dataKaplanExam1 = {
                 "correct": true
             },
             {
-                "content": "the one discount rate that equates the future value of an investment with its net present value 686 Series 65 Uniform Investment Adviser Law Exam, 10th Edition",
+                "content": "the one discount rate that equates the future value of an investment with its net present value",
                 "correct": false
             }
         ],
@@ -876,7 +876,7 @@ dataKaplanExam1 = {
                 "correct": false
             }
         ],
-        "explanation": "First, compute Dan's after-tax rate of return of 10.95% as follows: .15 × (1 − .27), or .73 = .1095. Then, compute Dan's inflation-adjusted, or real, rate of return by subtracting the 3% inflation rate from his 10.95% after-tax return.",
+        "explanation": "First, compute Dan's after-tax rate of return of 10.95% as follows: .15 * (1 - .27), or .73 = .1095. Then, compute Dan's inflation-adjusted, or real, rate of return by subtracting the 3% inflation rate from his 10.95% after-tax return.",
         "prompt": "Dan is the owner of a mutual fund that returned him a before-tax return of 15% last year. Inflation is running at an annual rate of 3%, and Dan is in a 27% marginal income tax bracket. What has been Dan's approximate inflation-adjusted aftertax return on the fund over the course of the last year (rounded to the nearest 2 decimal points)?"
     },
     "kaplanExam1_41": {
@@ -920,7 +920,7 @@ dataKaplanExam1 = {
                 "correct": true
             }
         ],
-        "explanation": "Sector rotation is the practice of moving out of those industries that are heading for a decline and into those whose fortunes are likely to rise as the economy follows the business cycle. 696 Series 65 Uniform Investment Adviser Law Exam, 10th Edition",
+        "explanation": "Sector rotation is the practice of moving out of those industries that are heading for a decline and into those whose fortunes are likely to rise as the economy follows the business cycle. ",
         "prompt": "A portfolio manager who routinely shifts portfolio assets to take advantage of the business cycle is said to be engaging in"
     },
     "kaplanExam1_43": {
