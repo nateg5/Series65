@@ -1,0 +1,1014 @@
+let dataKaplanExam2 = {
+    "kaplanExam2_1": {
+        "answers": [
+            {
+                "content": "“The SEC has approved of this issue and that's why I'm so glad to be able to offer it to you.”",
+                "correct": true
+            },
+            {
+                "content": "“This issue is lawful for sale.”",
+                "correct": false
+            },
+            {
+                "content": "“This issue is suitable for you on the basis of your objectives and the personal profile you have provided me.”",
+                "correct": false
+            },
+            {
+                "content": "None the above.",
+                "correct": false
+            }
+        ],
+        "explanation": "The SEC never approves of an issue. The other statements are permissible.",
+        "prompt": "Which of the following statements may NOT be made by an agent in regard to a security registered with the SEC under the Act of 1933?"
+    },
+    "kaplanExam2_2": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "The Illinois Tool Company is a corporation, even though it has a state in its name.",
+        "prompt": "Under the Securities Exchange Act of 1934, the term municipal security would include a(n) <br><br>I. New Jersey Turnpike revenue bond <br>II. Illinois Tool Company debt issue backed by their full faith and credit <br>III. State of Texas general obligation bond"
+    },
+    "kaplanExam2_3": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II only",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            }
+        ],
+        "explanation": "Treasury bills are defined as government securities, not municipal securities. Under federal law, Canadian cities (or provinces) are not municipal securities.",
+        "prompt": "Under the Securities Exchange Act of 1934, the term municipal security would NOT include a(n) <br><br>I. City of Chicago school district bond <br>II. U.S. Treasury Bill <br>III. Province of Ontario library construction bond"
+    },
+    "kaplanExam2_4": {
+        "answers": [
+            {
+                "content": "Determining the specific price",
+                "correct": false
+            },
+            {
+                "content": "Determining the specific time",
+                "correct": false
+            },
+            {
+                "content": "Making the decisions in the account while awaiting delivery of the proper paperwork",
+                "correct": false
+            },
+            {
+                "content": "Picking the specific security",
+                "correct": true
+            }
+        ],
+        "explanation": "An agent exercising discretion is picking the specific security, and/or the specific amount, and/or the specific action (buy or sell). Time or price are excluded from the definition of discretion. An agent cannot make any discretionary decisions in the account until the proper authorizations have been received and approved.",
+        "prompt": "There are certain circumstances under which clients might wish to give their agents discretionary power over their account. An agent empowered to do which of the following would be considered using discretion?"
+    },
+    "kaplanExam2_5": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the USA, only individuals can be agents. A person who sells securities for a broker-dealer is an agent. An administrative person, such as the assistant to the president of a broker-dealer, is considered an agent if he takes securities orders from the public. Corporate entities are excluded from the definition of an agent. Brokerdealers and issuers are not agents.",
+        "prompt": "Which of the following would be an agent as the term is defined in the Uniform Securities Act? <br><br>I. A representative of a licensed broker-dealer who sells securities to the general public <br>II. An assistant to the president of a broker-dealer who accepts orders on behalf of the senior partners <br>III. A subsidiary of a major commercial bank registered as a broker-dealer that sells securities to the public <br>IV. An issuer of nonexempt securities registered in the state and sold to the general public"
+    },
+    "kaplanExam2_6": {
+        "answers": [
+            {
+                "content": "must register as an agent of the issuer",
+                "correct": false
+            },
+            {
+                "content": "need not register as an agent of the issuer under any circumstances",
+                "correct": false
+            },
+            {
+                "content": "may receive commissions without registration",
+                "correct": false
+            },
+            {
+                "content": "must register as an agent if commissions or other remuneration will be received by the employee, either directly or indirectly",
+                "correct": true
+            }
+        ],
+        "explanation": "Under the USA, an individual is an agent when effecting transactions with an issuer's existing employees if commissions are paid. Therefore, Choice B is not correct because there are cases where the employee would have to register as an agent.",
+        "prompt": "A publicly traded corporation offers its employees an opportunity to purchase shares of the company's common stock directly from the issuer. A specific employee of the company is designated to process any orders for that stock. Under the USA, the employee"
+    },
+    "kaplanExam2_7": {
+        "answers": [
+            {
+                "content": "Silent partner of a broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "Secretary of a branch office sales manager",
+                "correct": false
+            },
+            {
+                "content": "Clerk at a broker-dealer who is authorized to take orders",
+                "correct": true
+            },
+            {
+                "content": "President of the state university who sits on the broker-dealer's board of directors",
+                "correct": false
+            }
+        ],
+        "explanation": "Anyone who solicits or receives an order while representing a broker-dealer is an agent. Silent partners, administrative personnel, and executives of brokerdealers, such as outside directors, who have nothing to do with the sales end of the business are not agents under the terms of the USA because they do not solicit or receive orders or supervise those who do. Remember, broker-dealers are not agents; agents represent broker-dealers. If, however, any of these individuals were authorized to accept orders, or supervise those that do, registration as an agent would be required. Unit 1 Answers and Rationales 263",
+        "prompt": "Which of the following persons is defined as an agent by the Uniform Securities Act?"
+    },
+    "kaplanExam2_8": {
+        "answers": [
+            {
+                "content": "a broker-dealer who sells registered securities to the general public",
+                "correct": false
+            },
+            {
+                "content": "an individual who represents an issuer of a security issued by a Canadian province",
+                "correct": false
+            },
+            {
+                "content": "an individual representing a broker-dealer who sells federal covered securities",
+                "correct": true
+            },
+            {
+                "content": "an individual who represents an issuer in an exempt transaction Unit 1 Unit Test 251",
+                "correct": false
+            }
+        ],
+        "explanation": "An individual employed by a brokerdealer who sells securities to the public is an agent under the Uniform Securities Act. The USA defines an agent as “any individual other than a broker-dealer who represents a broker-dealer or issuer in effecting or attempting to effect purchases or sales of securities.” The law excludes those individuals from the definition of an agent who represent an issuer in exempt transactions, selling certain exempt securities (Canadian provincial securities are on that list), and transactions with issuers' employees when no commission is paid. There is virtually no case in which a salesperson representing a broker-dealer is not an agent.",
+        "prompt": "Under the Uniform Securities Act, an agent is"
+    },
+    "kaplanExam2_9": {
+        "answers": [
+            {
+                "content": "Because they are not being compensated, none of the interns need to register.",
+                "correct": false
+            },
+            {
+                "content": "The second and third interns would be required to register.",
+                "correct": false
+            },
+            {
+                "content": "Only the third intern would have to register.",
+                "correct": true
+            },
+            {
+                "content": "All of the interns would need to register.",
+                "correct": false
+            }
+        ],
+        "explanation": "An employee of a broker-dealer, permanent or temporary, compensated or not, does not have to register if their only function is clerical or administrative. Compiling data is clerical and following up with clients to determine how they wish to receive documents for a purchase they've already made is simply an administrative task. However, making an offer of a security clearly requires registration.",
+        "prompt": "GEMCO Securities, a registered broker-dealer, has a policy of hiring unpaid interns from top business schools. GEMCO is currently the lead underwriter on a new issue and has assigned three of its interns to specific tasks. One is doing entering the data as indications of interest are received, the second is calling clients to offer to deliver their prospectus via email instead of mail, and the third is calling clients to offer the new issue and accept indications of interest. Which of the interns would need to register as agents?"
+    },
+    "kaplanExam2_10": {
+        "answers": [
+            {
+                "content": "First Federal Trust Company",
+                "correct": false
+            },
+            {
+                "content": "XYZ broker-dealer with an office in the state whose only clients are insurance companies",
+                "correct": true
+            },
+            {
+                "content": "An agent effecting transactions for a brokerdealer",
+                "correct": false
+            },
+            {
+                "content": "A broker-dealer with no place of business in the state who only does business with other broker-dealers in the state",
+                "correct": false
+            }
+        ],
+        "explanation": "Any broker-dealer with an office in the state, regardless of the nature of its clients, is defined as a broker-dealer under the USA. If the firm did not have an office in the state and its only clients were institutions such as insurance companies, or other broker-dealers as in Choice D, it would be excluded from the definition. Banks or trust companies and agents are never broker-dealers.",
+        "prompt": "Under the USA, which of the following is considered a broker-dealer in a state?"
+    },
+    "kaplanExam2_11": {
+        "answers": [
+            {
+                "content": "A guaranteed, lump-sum payment to a beneficiary under a modified endowment policy",
+                "correct": false
+            },
+            {
+                "content": "Fixed, guaranteed payments made for life or for a specified period under an annuity contract",
+                "correct": false
+            },
+            {
+                "content": "Commodity futures contracts",
+                "correct": false
+            },
+            {
+                "content": "An investment contract",
+                "correct": true
+            }
+        ],
+        "explanation": "Investment contracts are defined as a security under the Uniform Securities Act. In fact, the term is often used as a synonym for a security. A guaranteed, lump-sum payment to a beneficiary is an endowment policy excluded from the definition of a security. Fixed, guaranteed payments made for life or for a specified period are fixed annuity contracts not defined as securities. Commodity futures contracts and the commodities themselves are not securities. It is much easier to remember what is not a security than what is.",
+        "prompt": "Which of the following is defined as a security under the Uniform Securities Act?"
+    },
+    "kaplanExam2_12": {
+        "answers": [
+            {
+                "content": "Underwriter",
+                "correct": false
+            },
+            {
+                "content": "The person requesting the exemption",
+                "correct": true
+            },
+            {
+                "content": "State Administrator",
+                "correct": false
+            },
+            {
+                "content": "There is no need to prove eligibility for an exemption.",
+                "correct": false
+            }
+        ],
+        "explanation": "The burden of proof for claiming eligibility for an exemption falls to the person claiming the exemption. In the event the registration statement was filed by someone other than the issuer (such as selling stockholders or a broker-dealer), that person must prove the claim.",
+        "prompt": "Under the Uniform Securities Act, which of the following persons is responsible for proving that a securities issue is exempt from registration?"
+    },
+    "kaplanExam2_13": {
+        "answers": [
+            {
+                "content": "coordination",
+                "correct": false
+            },
+            {
+                "content": "integration",
+                "correct": false
+            },
+            {
+                "content": "notice filing",
+                "correct": false
+            },
+            {
+                "content": "qualification",
+                "correct": true
+            }
+        ],
+        "explanation": "Registration by qualification is the only registration method where the Administrator sets the effective date. The effective date under registration by coordination is set by the SEC, and notice filing is merely the filing of certain documents by certain federal covered securities.",
+        "prompt": "Registration is effective when ordered by the Administrator in the case of registration by"
+    },
+    "kaplanExam2_14": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "A client calling to purchase stock is an unsolicited transaction, probably the most common of the exempt transactions. Any sale to an institutional client is an exempt transaction, whereas those to individuals, unless unsolicited, generally are not. Please note, even though the Treasury bonds are an exempt security, because the transaction was solicited by an agent to an individual client, it is not an exempt transaction. ",
+        "prompt": "Under the Uniform Securities Act, which of the following would be considered an exempt transaction? <br><br>I. An existing client calls you to purchase 1,000 shares of a common stock that is not registered in this state <br>II. At the suggestion of the agent handling her account, a client purchases some U.S. Treasury bonds for inclusion in her IRA <br>III. Shares of a bank's IPO are sold to an institutional client <br>IV. Shares of an insurance company's IPO are sold to an individual client"
+    },
+    "kaplanExam2_15": {
+        "answers": [
+            {
+                "content": "sells a large block of an unregistered nonexempt security to an individual who meets the definition of an accredited investor",
+                "correct": false
+            },
+            {
+                "content": "sells a large block of an unregistered nonexempt security to an insurance company that is not authorized to do business in this state",
+                "correct": true
+            },
+            {
+                "content": "sells a retail client $10,000 of U.S. Treasury bonds",
+                "correct": false
+            },
+            {
+                "content": "receives an unsolicited order from a client to purchase heating oil contracts",
+                "correct": false
+            }
+        ],
+        "explanation": "The sale of a security to an institution, such as an insurance company, is considered an exempt transaction. The fact that the company is not authorized to do business in the state only means that its securities would not be exempt, but that does not change the fact that this is a sale to an institution and is, therefore, exempt. The term accredited investor is meaningless here, only institutions qualify for exempt treatment, not rich people. The T-bonds are an exempt security, but the sale to a retail client is not an exempt transaction. Heating oil contracts are a commodity, not a security.",
+        "prompt": "A transactional exemption would be available under the USA when an agent for a broker-dealer"
+    },
+    "kaplanExam2_16": {
+        "answers": [
+            {
+                "content": "a period determined by the Administrator for each issue",
+                "correct": false
+            },
+            {
+                "content": "1 year from the effective date",
+                "correct": true
+            },
+            {
+                "content": "1 year from the date of issue",
+                "correct": false
+            },
+            {
+                "content": "1 year from the previous January 1",
+                "correct": false
+            }
+        ],
+        "explanation": "On the state level, securities registration statements are generally effective for 1 year from the effective date. However, the effective date may be extended for a longer period during which the security is being offered or distributed in a nonexempt transaction by the issuer or other person on whose behalf the offering is being made or by any underwriter who is still offering part of an unsold allotment or subscription taken by him as a participant in the distribution.",
+        "prompt": "In general, registration statements for securities under the Uniform Securities Act are effective for"
+    },
+    "kaplanExam2_17": {
+        "answers": [
+            {
+                "content": "24 shares",
+                "correct": false
+            },
+            {
+                "content": "20 shares",
+                "correct": true
+            },
+            {
+                "content": "2.4 shares",
+                "correct": false
+            },
+            {
+                "content": "20 shares plus cash for fractional shares ",
+                "correct": false
+            }
+        ],
+        "explanation": "par conversion price = number of shares = $ , 1 000 50 20 shares",
+        "prompt": "BFJ Corp's 5% convertible bond is trading at 120. The bond is convertible at $50. An investor buying the bond now and immediately converting into common stock, would receive"
+    },
+    "kaplanExam2_18": {
+        "answers": [
+            {
+                "content": "they are considered relatively safe investments",
+                "correct": false
+            },
+            {
+                "content": "they are direct obligations of the U.S. government",
+                "correct": true
+            },
+            {
+                "content": "they trade openly",
+                "correct": false
+            },
+            {
+                "content": "older ones have coupons attached, new ones are book entry",
+                "correct": false
+            }
+        ],
+        "explanation": "The only government agency that is a direct obligation of the U.S. government is the Ginnie Mae security. All of the others are moral obligations.",
+        "prompt": "All of the following are true of government agency bonds EXCEPT"
+    },
+    "kaplanExam2_19": {
+        "answers": [
+            {
+                "content": "they are backed by the U.S. government",
+                "correct": false
+            },
+            {
+                "content": "they provide funds for residential mortgages",
+                "correct": false
+            },
+            {
+                "content": "interest on GNMAs is not exempt from state and local taxes",
+                "correct": false
+            },
+            {
+                "content": "interest is paid semiannually",
+                "correct": true
+            }
+        ],
+        "explanation": "GMNAs make payment monthly, unlike virtually all other debt securities, which make payments semiannually.",
+        "prompt": "All of the following are true about GNMAs EXCEPT"
+    },
+    "kaplanExam2_20": {
+        "answers": [
+            {
+                "content": "$25,000",
+                "correct": false
+            },
+            {
+                "content": "$100,000",
+                "correct": true
+            },
+            {
+                "content": "$500,000",
+                "correct": false
+            },
+            {
+                "content": "$1,000,000",
+                "correct": false
+            }
+        ],
+        "explanation": "Negotiable CDs, sometimes referred to as jumbo CDs, have a minimum denomination of $100,000. They are unsecured, interest-bearing obligations of banks. ",
+        "prompt": "One of the more popular money market instruments is the negotiable CD. These normally are found in minimum denominations of"
+    },
+    "kaplanExam2_21": {
+        "answers": [
+            {
+                "content": "credit",
+                "correct": true
+            },
+            {
+                "content": "liquidity",
+                "correct": false
+            },
+            {
+                "content": "prepayment",
+                "correct": false
+            },
+            {
+                "content": "reinvestment",
+                "correct": false
+            }
+        ],
+        "explanation": "In the past, CMOs generally carried AAA or AA ratings and, thus, had little credit risk. After the sub-prime meltdown of 2007–2008, we're not sure how NASAA is treating these now. Until we post something different on the Exam-Tips & Contents Updates, stick with the historically correct choice.",
+        "prompt": "Historically, all of the following are risks generally associated with CMOs EXCEPT"
+    },
+    "kaplanExam2_22": {
+        "answers": [
+            {
+                "content": "An investment managed by others",
+                "correct": false
+            },
+            {
+                "content": "Flow-through of income and expenses of a business to the individual limited partner",
+                "correct": false
+            },
+            {
+                "content": "Legislative risk",
+                "correct": false
+            },
+            {
+                "content": "Tax-free income",
+                "correct": true
+            }
+        ],
+        "explanation": "The income from limited partnerships is not tax exempt. An investor, however, may use a tax loss from a partnership to offset the income from another passive investment. In limited partnerships, the investor enjoys the advantages and disadvantages of owning a business without having to actually manage one. Limited partnerships are vulnerable to legislative changes that adversely affect ownership of such investments.",
+        "prompt": "Which of the following is NOT a characteristic of owning a limited partnership?"
+    },
+    "kaplanExam2_23": {
+        "answers": [
+            {
+                "content": "Growth",
+                "correct": false
+            },
+            {
+                "content": "Income",
+                "correct": false
+            },
+            {
+                "content": "Tax-advantaged income",
+                "correct": false
+            },
+            {
+                "content": "Retirement",
+                "correct": true
+            }
+        ],
+        "explanation": "Retirement savings and income are objectives of an investor, not of an investment company fund (the fund is not looking to retire when it is 65 years old). Growth, income, and tax-advantaged income are examples of investment company objectives.",
+        "prompt": "Which of the following is NOT an investment objective that must be stated in an investment company's prospectus?"
+    },
+    "kaplanExam2_24": {
+        "answers": [
+            {
+                "content": "Derivative securities can be sold on listed exchanges or in the over-the-counter market.",
+                "correct": false
+            },
+            {
+                "content": "An option contract is a derivative security because it has no value independent of the value of an underlying security.",
+                "correct": false
+            },
+            {
+                "content": "An option contract's price fluctuates in relationship to the time remaining to expiration as well as with the price movement of the underlying security.",
+                "correct": false
+            },
+            {
+                "content": "An owner of a put has the obligation to purchase securities at a designated price (the strike price) before a specified date (the expiration date).",
+                "correct": true
+            }
+        ],
+        "explanation": "An owner of a put has the right, not the obligation, to sell, not purchase, a security at a designated price (the strike price) before a specified date (the expiration date).",
+        "prompt": "Which of the following statements regarding derivative securities is NOT true?"
+    },
+    "kaplanExam2_25": {
+        "answers": [
+            {
+                "content": "capital gains tax on $125,000.",
+                "correct": false
+            },
+            {
+                "content": "ordinary income tax on $125,000.",
+                "correct": true
+            },
+            {
+                "content": "ordinary income tax on $125,000 with a 10% tax penalty.",
+                "correct": false
+            },
+            {
+                "content": "partly ordinary income and partly capital gains depending on the length of time the variable annuity was in force.",
+                "correct": false
+            }
+        ],
+        "explanation": "Any increase in the value of a variable annuity is taxed as ordinary income, never capital gain. In this case, there is no 10% penalty tax because the client is over 59½ years old.",
+        "prompt": "A client has invested $25,000 into a variable annuity which has grown to $150,000 over the accumulation period. At age 60, the account is liquidated. The tax treatment of the withdrawal would be"
+    },
+    "kaplanExam2_26": {
+        "answers": [
+            {
+                "content": "costs",
+                "correct": false
+            },
+            {
+                "content": "portfolio turnover",
+                "correct": false
+            },
+            {
+                "content": "liquidity",
+                "correct": true
+            },
+            {
+                "content": "services offered",
+                "correct": false
+            }
+        ],
+        "explanation": "Shares in an open-end investment company (mutual fund) are liquid. The issuer of the shares is required to redeem them at their net asset value and, therefore, should not be a consideration in comparing mutual funds with the same objective. Sales loads, management fees, and operating expenses reduce an investor's return. Most of these fees continue throughout",
+        "prompt": "When advising an investor on the purchase of mutual funds, the registered representative should instruct the client to compare open-end mutual funds with the same objective for all of the following EXCEPT"
+    },
+    "kaplanExam2_27": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Durable goods and capital goods are more affected by a recession than are nondurable goods and services. This is primarily because they are larger items, last for a longer period, and are somewhat discretionary.",
+        "prompt": "When discussing employment and production, which of the following industries are typically more affected by a recession? <br><br>I. Capital goods <br>II. Consumer durable goods <br>III. Consumer nondurable goods <br>IV. Services"
+    },
+    "kaplanExam2_28": {
+        "answers": [
+            {
+                "content": "Federal funds rate is the rate the Federal Reserve charges for overnight loans to member commercial banks.",
+                "correct": true
+            },
+            {
+                "content": "The prime rate is the interest rate that large U.S. money center commercial banks charge their most creditworthy corporate borrowers.",
+                "correct": false
+            },
+            {
+                "content": "The discount rate is the rate the New York Federal Reserve Bank charges for short-term loans to member banks.",
+                "correct": false
+            },
+            {
+                "content": "Broker loan rate is the interest rate banks charge broker-dealers on money they borrow to lend to margin account customers. ",
+                "correct": false
+            }
+        ],
+        "explanation": "The federal funds rate is the rate that member banks charge each other for overnight loans of $1 million or more; it is not the rate that the Federal Reserve charges member banks for overnight loans.",
+        "prompt": "Which of the following statements regarding significant interest rates in the U.S. economy is NOT true?"
+    },
+    "kaplanExam2_29": {
+        "answers": [
+            {
+                "content": "The dollar buys more foreign currency.",
+                "correct": false
+            },
+            {
+                "content": "U.S. exports become less competitive.",
+                "correct": false
+            },
+            {
+                "content": "Foreign securities denominated in their domestic currency decrease in value to the U.S. investor.",
+                "correct": false
+            },
+            {
+                "content": "An increase in U.S. interest rates might strengthen the dollar.",
+                "correct": true
+            }
+        ],
+        "explanation": "When U.S. interest rates rise, foreign investors invest in U.S. dollar-denominated securities, thereby increasing the demand for dollars and causing the dollar to strengthen.",
+        "prompt": "If the dollar weakens, which of the following statements is TRUE?"
+    },
+    "kaplanExam2_30": {
+        "answers": [
+            {
+                "content": "the Consumer Price Index excluding energy and food prices",
+                "correct": true
+            },
+            {
+                "content": "the Consumer Price Index excluding housing and automobiles",
+                "correct": false
+            },
+            {
+                "content": "the total of the leading indicators, excluding stock prices",
+                "correct": false
+            },
+            {
+                "content": "the figure used to determine annual increases, if any, to Social Security benefits",
+                "correct": false
+            }
+        ],
+        "explanation": "Because of their high volatility, economists exclude energy and food prices from core inflation figures. Social Security adjustments (and many others as well) are based upon the CPI itself, not the core.",
+        "prompt": "Your client calls you after reading a story in the business section of his local newspaper. It seems that the article focused on changes to the core CPI and the client wants to know how that is different from the normal CPI. You should explain that it is"
+    },
+    "kaplanExam2_31": {
+        "answers": [
+            {
+                "content": "A decrease in consumer demand",
+                "correct": false
+            },
+            {
+                "content": "An increase in the value of the dollar",
+                "correct": false
+            },
+            {
+                "content": "An increase in purchasing power",
+                "correct": false
+            },
+            {
+                "content": "A decrease in the value of the monetary unit",
+                "correct": true
+            }
+        ],
+        "explanation": "We tend to think solely in terms of our dollar, but inflation can occur worldwide and leads to a decrease in the purchasing power (or value) of the monetary unit in use in any particular jurisdiction. Inflation is commonly caused by increased consumer demand, not a decrease.",
+        "prompt": "Which of these is a definition of inflation?"
+    },
+    "kaplanExam2_32": {
+        "answers": [
+            {
+                "content": "the account must be liquidated and the proceeds split evenly among the 2 survivors and the decedent's estate",
+                "correct": false
+            },
+            {
+                "content": "the 2 survivors continue as cotenants with the decedent's estate",
+                "correct": true
+            },
+            {
+                "content": "trading is discontinued until the executor names a replacement for the deceased",
+                "correct": false
+            },
+            {
+                "content": "the account is converted to joint with rights of survivorship Unit 4 Unit Test 687",
+                "correct": false
+            }
+        ],
+        "explanation": "The decedent's estate becomes a tenant in common with the survivors.",
+        "prompt": "If 3 individuals have a tenants in common account with a firm and one individual dies, then"
+    },
+    "kaplanExam2_33": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "II, III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "Each of these persons is in a relationship of trust to the customer and is therefore a fiduciary.",
+        "prompt": "Which of the following are fiduciaries? <br><br>I. Executor of an estate <br>II. Administrator of a trust <br>III. Custodian of an UGMA account <br>IV. Investment adviser representative granted with discretionary authority over the account"
+    },
+    "kaplanExam2_34": {
+        "answers": [
+            {
+                "content": "An UGMA account may have only one custodian for only one minor.",
+                "correct": false
+            },
+            {
+                "content": "Only an adult can make a gift to a minor.",
+                "correct": false
+            },
+            {
+                "content": "The maximum amount of money an adult can give to a minor in any one year is $14,000.",
+                "correct": true
+            },
+            {
+                "content": "Once a gift is given to a minor, it cannot be reclaimed.",
+                "correct": false
+            }
+        ],
+        "explanation": "Any adult can give a gift to a minor in a custodial account. There is no limitation on the size of the gift. However, any gift in excess of $14,000 (or such higher number as indexing provides for) will possibly subject the donor to a gift tax liability.",
+        "prompt": "Under the UGMA, which of the following statements is NOT true?"
+    },
+    "kaplanExam2_35": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I, III and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The only types of accounts that may have the Transfer on Death (TOD) designation are individual and JTWROS. Minors can not designate a beneficiary. Upon the death of a minor, any assets belong in the deceased's estate.",
+        "prompt": "Which of the following accounts could be opened with a TOD designation? <br><br>I. Individual <br>II. Joint tenants in common <br>III. Joint tenants with rights of survivorship <br>IV. UTMA"
+    },
+    "kaplanExam2_36": {
+        "answers": [
+            {
+                "content": "retirement needs",
+                "correct": false
+            },
+            {
+                "content": "death and disability needs",
+                "correct": false
+            },
+            {
+                "content": "educational level",
+                "correct": true
+            },
+            {
+                "content": "current income",
+                "correct": false
+            }
+        ],
+        "explanation": "A client's educational level is not as important as retirement, death and disability, and current income. However, the adviser should take note of the client's educational level to ensure that the client fully understands the investments recommended. Also, a person with a professional educational background may have more employment opportunities and be able to take more risk as a result.",
+        "prompt": "In making suitable investment recommendations, the least significant element would be the client's"
+    },
+    "kaplanExam2_37": {
+        "answers": [
+            {
+                "content": "investment adviser",
+                "correct": false
+            },
+            {
+                "content": "estate creditors",
+                "correct": false
+            },
+            {
+                "content": "estate's executor or administrator",
+                "correct": true
+            },
+            {
+                "content": "attorney with guardianship over the surviving children",
+                "correct": false
+            }
+        ],
+        "explanation": "Only the estate administrator or executor can make investment management and distribution decisions. This does not mean that the executor must manage the account, only that decisions as to who will do the management are within his purview. A guardian with authority over the children does not necessarily have power over the estate unless the guardian is also the administrator or the executor of the estate.",
+        "prompt": "An estate account with an investment adviser must be managed at the direction of the"
+    },
+    "kaplanExam2_38": {
+        "answers": [
+            {
+                "content": "have funds withdrawn from the account at the direction of the beneficiary",
+                "correct": false
+            },
+            {
+                "content": "arrange to have the trust's funds pledged to support a loan for the trustee",
+                "correct": false
+            },
+            {
+                "content": "have a check drawn on the account, and payable to the trustee for trustee expenses",
+                "correct": true
+            },
+            {
+                "content": "place the securities in the trust fund in a non-custodial brokerage account",
+                "correct": false
+            }
+        ],
+        "explanation": "The trustee can be reimbursed for trustee expenses that are reasonable. A trust account must be managed by the trustee and not by the beneficiary. Only the trustee can withdraw funds, provided the withdrawal is done in a manner consistent with the trust document. Trust funds must be placed in custodial accounts, not in noncustodial accounts.",
+        "prompt": "Since a trust account is managed for the beneficial interest of the beneficiary, the investment adviser representative can"
+    },
+    "kaplanExam2_39": {
+        "answers": [
+            {
+                "content": "Use of index funds in conjunction with selecting specific securities in the index to overweight certain sectors",
+                "correct": false
+            },
+            {
+                "content": "Investment in small capitalization technology securities",
+                "correct": false
+            },
+            {
+                "content": "Exclusive use of index funds",
+                "correct": true
+            },
+            {
+                "content": "Value investing",
+                "correct": false
+            }
+        ],
+        "explanation": "A passive investment style uses index funds because the manager does not believe that returns above the averages can be sustained for any length of time because the market is efficiently priced. Use of index funds in conjunction with specific securities in order to overweight sectors is an active style. Investment in small capitalization technology securities involves actively selecting securities that the manager believes will perform well or better than the market. Value investing involves the active search for securities that are undervalued by the market. Unit 4 Answers and Rationales 697",
+        "prompt": "Which of the following is an example of a passive investment management style?"
+    },
+    "kaplanExam2_40": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The investment adviser representative must consider a client's volatility tolerance, investment time frame, liquidity needs, and comfort with different types of investments. These are all elements in the understanding of a customer's attitude toward risk.",
+        "prompt": "In determining an investor's risk tolerance, an investment adviser representative must consider <br><br>I. level of tolerance toward market volatility <br>II. investment time horizon, long term or short term <br>III. liquidity requirements <br>IV. investment temperament"
+    },
+    "kaplanExam2_41": {
+        "answers": [
+            {
+                "content": "draft tax and estate documents to ensure compliance with current law in order to provide substantial after-tax returns",
+                "correct": true
+            },
+            {
+                "content": "discuss the tax implications of investments",
+                "correct": false
+            },
+            {
+                "content": "explain the taxable status of particular investments",
+                "correct": false
+            },
+            {
+                "content": "consider tax implications as a way of improving a client's after-tax returns ",
+                "correct": false
+            }
+        ],
+        "explanation": "An investment adviser representative must not draft estate documents. This should only be drafted by an attorney because it constitutes practicing law. An investment adviser representative should, however, discuss tax implications of investments as a way of improving a client's after-tax returns.",
+        "prompt": "With respect to taxation, the investment adviser representative should not"
+    },
+    "kaplanExam2_42": {
+        "answers": [
+            {
+                "content": "An investor buys the same number of shares each interval, averaging out his purchase prices over time.",
+                "correct": false
+            },
+            {
+                "content": "An investor sells shares when the market rises and buys shares when the market declines in order to average his costs.",
+                "correct": false
+            },
+            {
+                "content": "An investor invests a set amount of money each interval to buy more shares when the prices are low and fewer shares when prices are high.",
+                "correct": true
+            },
+            {
+                "content": "An investor averages the costs of his shares purchased and then enters limit orders to purchase additional shares at the average price.",
+                "correct": false
+            }
+        ],
+        "explanation": "Dollar cost averaging involves investing a set amount of money each interval. If the market fluctuates, this will cause the client to buy more shares when the prices are low and fewer shares when prices are high. The result of this is a lower average cost per share than average price paid. An investor who sells shares when the market rises and buys shares when the market declines is not dollar cost averaging, but is attempting to time the market. An investor who averages the cost of the shares purchased and then enters limit orders to purchase additional shares at the average price is not engaged in a dollar cost averaging program. In dollar cost averaging, the same dollar amount is invested each interval.",
+        "prompt": "Which of the following statements is an accurate description of dollar cost averaging?"
+    },
+    "kaplanExam2_43": {
+        "answers": [
+            {
+                "content": "Earned income includes salary, bonus, and income as an owner of a limited partnership.",
+                "correct": true
+            },
+            {
+                "content": "Passive income is derived from rental property, limited partnerships, and enterprises in which an individual is not actively involved.",
+                "correct": false
+            },
+            {
+                "content": "Portfolio income includes dividends, interest, and net capital gains derived from the sale of securities.",
+                "correct": false
+            },
+            {
+                "content": "Items that must be added back into taxable income for calculation of the alternative minimum tax (AMT) include: accelerated depreciation on property placed in service after 1986; local taxes and interest on investments that do not generate income; and incentive stock options exceeding the fair market value of the employer's stock.",
+                "correct": false
+            }
+        ],
+        "explanation": "Earned income includes salary and bonus but not income as an owner of a limited partnership. Passive income is derived from rental property, limited partnerships, and enterprises in which an individual is not actively involved.",
+        "prompt": "Which of the following statements regarding taxation is NOT true?"
+    },
+    "kaplanExam2_44": {
+        "answers": [
+            {
+                "content": "I, II and IV",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The balance sheet contains assets and liabilities as of a specific point in time. Personal property currently owned, such as jewelry, is an asset. A loan still outstanding, such as the car loan and the debt to the dentist, are liabilities. The amount already paid for the Botox injections is no longer on the balance sheet.",
+        "prompt": "As part of its suitability determination, an IA firm requires that all potential nonbusiness clients complete a family balance sheet. Items that would be included are <br><br>I. gold jewelry <br>II. loan secured by the family automobile <br>III. the amount paid thus far this year for Botox injections <br>IV. the balance owed to the dentist for new crowns"
+    },
+    "kaplanExam2_45": {
+        "answers": [
+            {
+                "content": "$11,000",
+                "correct": false
+            },
+            {
+                "content": "$79,000",
+                "correct": false
+            },
+            {
+                "content": "$87,000",
+                "correct": true
+            },
+            {
+                "content": "$107,000",
+                "correct": false
+            }
+        ],
+        "explanation": "Distributable Net Income (DNI) is dividends and interest plus capital gains that have not been reinvested back into the trust. In this case, $24,000 + $35,000 + $28,000 = $87,000.",
+        "prompt": "During the previous fiscal year, The Kaplan Family Trust received $24,000 in dividends and $35,000 in interest from corporate bonds. Securities transactions during the year resulted in longterm capital gains of $48,000, $20,000 of which were reinvested in the corpus. The DNI for the Kaplan Family Trust is"
+    },
+    "kaplanExam2_46": {
+        "answers": [
+            {
+                "content": "the rate of tax paid on margin account interest",
+                "correct": false
+            },
+            {
+                "content": "generally lower than the effective tax rate",
+                "correct": false
+            },
+            {
+                "content": "the rate of taxation on any additional taxable income received",
+                "correct": true
+            },
+            {
+                "content": "the rate of tax paid on total taxable income",
+                "correct": false
+            }
+        ],
+        "explanation": "Marginal tax rate is defined as the rate of taxation on any additional taxable income received. It is sometimes referred to as the tax on the “next” dollar or the “last” dollar of income. The effective tax rate is the overall rate paid on the total taxable income.",
+        "prompt": "A taxpayer's marginal tax rate is"
+    }
+};

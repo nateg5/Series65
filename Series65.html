@@ -4,12 +4,12 @@
 			body {
 				font-family: arial;
 			}
-			div, button, td {
+			div, button, th, td {
 				margin: 10px;
 				font-size: 20px;
 				line-height: 1.5em;
 			}
-			td {
+			th, td {
 				padding: 10px;
 				border: 1px solid #000;
 			}
@@ -46,6 +46,7 @@
 		<script src="dataKaplanWarmUp.json"></script>
 		<script src="dataKaplanClassExam.json"></script>
 		<script src="dataKaplanExam1.json"></script>
+		<script src="dataKaplanExam2.json"></script>
     </head>
     <body>
 		<div id="questionNumber"></div>
@@ -108,7 +109,8 @@
 				...dataEmpireStockBrokerOnline,
 				...dataKaplanWarmUp,
 				...dataKaplanClassExam,
-				...dataKaplanExam1
+				...dataKaplanExam1,
+				...dataKaplanExam2
 			};
 			let dataKeys = Object.keys(data);
 			
