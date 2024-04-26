@@ -2,15 +2,15 @@ let dataKaplanExam2 = {
     "kaplanExam2_1": {
         "answers": [
             {
-                "content": "“The SEC has approved of this issue and that's why I'm so glad to be able to offer it to you.”",
+                "content": "\"The SEC has approved of this issue and that's why I'm so glad to be able to offer it to you.\"",
                 "correct": true
             },
             {
-                "content": "“This issue is lawful for sale.”",
+                "content": "\"This issue is lawful for sale.\"",
                 "correct": false
             },
             {
-                "content": "“This issue is suitable for you on the basis of your objectives and the personal profile you have provided me.”",
+                "content": "\"This issue is suitable for you on the basis of your objectives and the personal profile you have provided me.\"",
                 "correct": false
             },
             {
@@ -128,7 +128,7 @@ let dataKaplanExam2 = {
                 "correct": true
             }
         ],
-        "explanation": "Under the USA, an individual is an agent when effecting transactions with an issuer's existing employees if commissions are paid. Therefore, Choice B is not correct because there are cases where the employee would have to register as an agent.",
+        "explanation": "Under the USA, an individual is an agent when effecting transactions with an issuer's existing employees if commissions are paid. Therefore, \"need not register as an agent of the issuer under any circumstances\" is not correct because there are cases where the employee would have to register as an agent.",
         "prompt": "A publicly traded corporation offers its employees an opportunity to purchase shares of the company's common stock directly from the issuer. A specific employee of the company is designated to process any orders for that stock. Under the USA, the employee"
     },
     "kaplanExam2_7": {
@@ -150,7 +150,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "Anyone who solicits or receives an order while representing a broker-dealer is an agent. Silent partners, administrative personnel, and executives of brokerdealers, such as outside directors, who have nothing to do with the sales end of the business are not agents under the terms of the USA because they do not solicit or receive orders or supervise those who do. Remember, broker-dealers are not agents; agents represent broker-dealers. If, however, any of these individuals were authorized to accept orders, or supervise those that do, registration as an agent would be required. Unit 1 Answers and Rationales 263",
+        "explanation": "Anyone who solicits or receives an order while representing a broker-dealer is an agent. Silent partners, administrative personnel, and executives of brokerdealers, such as outside directors, who have nothing to do with the sales end of the business are not agents under the terms of the USA because they do not solicit or receive orders or supervise those who do. Remember, broker-dealers are not agents; agents represent broker-dealers. If, however, any of these individuals were authorized to accept orders, or supervise those that do, registration as an agent would be required. ",
         "prompt": "Which of the following persons is defined as an agent by the Uniform Securities Act?"
     },
     "kaplanExam2_8": {
@@ -168,11 +168,11 @@ let dataKaplanExam2 = {
                 "correct": true
             },
             {
-                "content": "an individual who represents an issuer in an exempt transaction Unit 1 Unit Test 251",
+                "content": "an individual who represents an issuer in an exempt transaction ",
                 "correct": false
             }
         ],
-        "explanation": "An individual employed by a brokerdealer who sells securities to the public is an agent under the Uniform Securities Act. The USA defines an agent as “any individual other than a broker-dealer who represents a broker-dealer or issuer in effecting or attempting to effect purchases or sales of securities.” The law excludes those individuals from the definition of an agent who represent an issuer in exempt transactions, selling certain exempt securities (Canadian provincial securities are on that list), and transactions with issuers' employees when no commission is paid. There is virtually no case in which a salesperson representing a broker-dealer is not an agent.",
+        "explanation": "An individual employed by a brokerdealer who sells securities to the public is an agent under the Uniform Securities Act. The USA defines an agent as \"any individual other than a broker-dealer who represents a broker-dealer or issuer in effecting or attempting to effect purchases or sales of securities.\" The law excludes those individuals from the definition of an agent who represent an issuer in exempt transactions, selling certain exempt securities (Canadian provincial securities are on that list), and transactions with issuers' employees when no commission is paid. There is virtually no case in which a salesperson representing a broker-dealer is not an agent.",
         "prompt": "Under the Uniform Securities Act, an agent is"
     },
     "kaplanExam2_9": {
@@ -216,7 +216,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "Any broker-dealer with an office in the state, regardless of the nature of its clients, is defined as a broker-dealer under the USA. If the firm did not have an office in the state and its only clients were institutions such as insurance companies, or other broker-dealers as in Choice D, it would be excluded from the definition. Banks or trust companies and agents are never broker-dealers.",
+        "explanation": "Any broker-dealer with an office in the state, regardless of the nature of its clients, is defined as a broker-dealer under the USA. If the firm did not have an office in the state and its only clients were institutions such as insurance companies, or other broker-dealers, it would be excluded from the definition. Banks or trust companies and agents are never broker-dealers.",
         "prompt": "Under the USA, which of the following is considered a broker-dealer in a state?"
     },
     "kaplanExam2_11": {
@@ -370,7 +370,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "par conversion price = number of shares = $ , 1 000 50 20 shares",
+        "explanation": "par / conversion price = number of shares = $1,000 / $50 = 20 shares",
         "prompt": "BFJ Corp's 5% convertible bond is trading at 120. The bond is convertible at $50. An investor buying the bond now and immediately converting into common stock, would receive"
     },
     "kaplanExam2_18": {
@@ -458,7 +458,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "In the past, CMOs generally carried AAA or AA ratings and, thus, had little credit risk. After the sub-prime meltdown of 2007–2008, we're not sure how NASAA is treating these now. Until we post something different on the Exam-Tips & Contents Updates, stick with the historically correct choice.",
+        "explanation": "In the past, CMOs generally carried AAA or AA ratings and, thus, had little credit risk. After the sub-prime meltdown of 2007-2008, we're not sure how NASAA is treating these now. Until we post something different on the Exam-Tips & Contents Updates, stick with the historically correct choice.",
         "prompt": "Historically, all of the following are risks generally associated with CMOs EXCEPT"
     },
     "kaplanExam2_22": {
@@ -546,7 +546,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "Any increase in the value of a variable annuity is taxed as ordinary income, never capital gain. In this case, there is no 10% penalty tax because the client is over 59½ years old.",
+        "explanation": "Any increase in the value of a variable annuity is taxed as ordinary income, never capital gain. In this case, there is no 10% penalty tax because the client is over 59 1/2 years old.",
         "prompt": "A client has invested $25,000 into a variable annuity which has grown to $150,000 over the accumulation period. At age 60, the account is liquidated. The tax treatment of the withdrawal would be"
     },
     "kaplanExam2_26": {
@@ -568,7 +568,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "Shares in an open-end investment company (mutual fund) are liquid. The issuer of the shares is required to redeem them at their net asset value and, therefore, should not be a consideration in comparing mutual funds with the same objective. Sales loads, management fees, and operating expenses reduce an investor's return. Most of these fees continue throughout",
+        "explanation": "Shares in an open-end investment company (mutual fund) are liquid. The issuer of the shares is required to redeem them at their net asset value and, therefore, should not be a consideration in comparing mutual funds with the same objective. Sales loads, management fees, and operating expenses reduce an investor's return. Most of these fees continue throughout the holding period and have a significant impact on performance. Portfolio turnover is significant as gains in the portfolio will likely all be short-term gains, which are usually taxable to the investor at a higher rate than long-term capital gains. Services that mutual funds offer include retirement accounts, investment plans, check-writing privileges, telephone transfers, conversion privileges, withdrawal plans, and others.",
         "prompt": "When advising an investor on the purchase of mutual funds, the registered representative should instruct the client to compare open-end mutual funds with the same objective for all of the following EXCEPT"
     },
     "kaplanExam2_27": {
@@ -696,7 +696,7 @@ let dataKaplanExam2 = {
                 "correct": false
             },
             {
-                "content": "the account is converted to joint with rights of survivorship Unit 4 Unit Test 687",
+                "content": "the account is converted to joint with rights of survivorship ",
                 "correct": false
             }
         ],
@@ -854,7 +854,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "A passive investment style uses index funds because the manager does not believe that returns above the averages can be sustained for any length of time because the market is efficiently priced. Use of index funds in conjunction with specific securities in order to overweight sectors is an active style. Investment in small capitalization technology securities involves actively selecting securities that the manager believes will perform well or better than the market. Value investing involves the active search for securities that are undervalued by the market. Unit 4 Answers and Rationales 697",
+        "explanation": "A passive investment style uses index funds because the manager does not believe that returns above the averages can be sustained for any length of time because the market is efficiently priced. Use of index funds in conjunction with specific securities in order to overweight sectors is an active style. Investment in small capitalization technology securities involves actively selecting securities that the manager believes will perform well or better than the market. Value investing involves the active search for securities that are undervalued by the market. ",
         "prompt": "Which of the following is an example of a passive investment management style?"
     },
     "kaplanExam2_40": {
@@ -1008,7 +1008,7 @@ let dataKaplanExam2 = {
                 "correct": false
             }
         ],
-        "explanation": "Marginal tax rate is defined as the rate of taxation on any additional taxable income received. It is sometimes referred to as the tax on the “next” dollar or the “last” dollar of income. The effective tax rate is the overall rate paid on the total taxable income.",
+        "explanation": "Marginal tax rate is defined as the rate of taxation on any additional taxable income received. It is sometimes referred to as the tax on the \"next\" dollar or the \"last\" dollar of income. The effective tax rate is the overall rate paid on the total taxable income.",
         "prompt": "A taxpayer's marginal tax rate is"
     }
 };
