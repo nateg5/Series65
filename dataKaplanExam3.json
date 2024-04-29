@@ -464,19 +464,19 @@ let dataKaplanExam3 = {
     "kaplanExam3_22": {
         "answers": [
             {
-                "content": "Accumulation annuity—an annuity that allows the investor to accumulate funds in a separate account before investment in an annuity",
+                "content": "Accumulation annuity-an annuity that allows the investor to accumulate funds in a separate account before investment in an annuity",
                 "correct": true
             },
             {
-                "content": "Single premium deferred annuity—an annuity with a lump-sum investment, with payment of benefits deferred until the annuitant elects to receive them",
+                "content": "Single premium deferred annuity-an annuity with a lump-sum investment, with payment of benefits deferred until the annuitant elects to receive them",
                 "correct": false
             },
             {
-                "content": "Periodic payment deferred annuity—allows a person to make periodic payments over time. The contract holder can invest money on a monthly, quarterly, or annual basis",
+                "content": "Periodic payment deferred annuity-allows a person to make periodic payments over time. The contract holder can invest money on a monthly, quarterly, or annual basis",
                 "correct": false
             },
             {
-                "content": "Immediate annuity—allows an investor to deposit a lump sum with the insurance company. Payout of the annuitant's benefits starts immediately, usually within 60 days ",
+                "content": "Immediate annuity-allows an investor to deposit a lump sum with the insurance company. Payout of the annuitant's benefits starts immediately, usually within 60 days ",
                 "correct": false
             }
         ],
