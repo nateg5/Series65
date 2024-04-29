@@ -128,7 +128,7 @@ let dataKaplanExam3 = {
                 "correct": false
             }
         ],
-        "explanation": "Creating the illusion of trading activity is market manipulation. Guaranteeing performance of a security and omitting material facts are prohibited practices but do not constitute market manipulation. Trades too large for a customer are also prohibited because they are not suitable. Unit 1 Answers and Rationales 265",
+        "explanation": "Creating the illusion of trading activity is market manipulation. Guaranteeing performance of a security and omitting material facts are prohibited practices but do not constitute market manipulation. Trades too large for a customer are also prohibited because they are not suitable. ",
         "prompt": "According to the USA, which of the following is an example of market manipulation?"
     },
     "kaplanExam3_7": {
@@ -414,7 +414,7 @@ let dataKaplanExam3 = {
                 "correct": false
             }
         ],
-        "explanation": "DPPs consist of at least one GP and one LP. The liability of the limited partners is limited to their investment, including commitments made but not yet fulfilled. On the other hand, the general partners bear the liability for the debts of the entity. Unit 2 Answers and Rationales 433",
+        "explanation": "DPPs consist of at least one GP and one LP. The liability of the limited partners is limited to their investment, including commitments made but not yet fulfilled. On the other hand, the general partners bear the liability for the debts of the entity. ",
         "prompt": "In a direct participation program, liability for the debts of the business falls upon the"
     },
     "kaplanExam3_20": {
@@ -612,7 +612,7 @@ let dataKaplanExam3 = {
                 "correct": false
             }
         ],
-        "explanation": "There is no such thing as current asset activities. Cash flow is generated through financing (issuing stock or bonds), investing (profits from investments), and, the most significant of all, operations of the entity. Unit 3 Answers and Rationales 511",
+        "explanation": "There is no such thing as current asset activities. Cash flow is generated through financing (issuing stock or bonds), investing (profits from investments), and, the most significant of all, operations of the entity. ",
         "prompt": "All of the following are considered to be components of cash flow EXCEPT"
     },
     "kaplanExam3_29": {
@@ -722,7 +722,7 @@ let dataKaplanExam3 = {
                 "correct": false
             }
         ],
-        "explanation": "One of the risks in setting up a GRAT is that if the grantor dies during the term of the trust (usually 3–10 years), the assets put in the GRAT, plus any appreciation, are included in her estate.",
+        "explanation": "One of the risks in setting up a GRAT is that if the grantor dies during the term of the trust (usually 3-10 years), the assets put in the GRAT, plus any appreciation, are included in her estate.",
         "prompt": "A wealthy individual has set up a GRAT. Should she die during the time the trust is active, how are the remaining assets in the trust taxed?"
     },
     "kaplanExam3_34": {
