@@ -1,0 +1,1014 @@
+let dataKaplanExam3 = {
+    "kaplanExam3_1": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "II only",
+                "correct": true
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the Uniform Securities Act, an issuer is any person who issues, or proposes to issue, a security. The resale of a partnership interest by an investor is a nonissuer sale because the investor is not the issuer. Examples of issuers are a municipality such as the city of Chicago, which issues tax-exempt highway improvement bonds; the AAA Manufacturing Company, which proposes to offer shares to the public even though it has not completed the offering; and the United States government, when it proposes to offer Treasury bonds.",
+        "prompt": "Under the Uniform Securities Act, an issuer is any person who issues, or proposes to issue, a security for sale to the public. According to the USA, which of the following is NOT an issuer? <br><br>I. The City of Chicago, which is involved in a distribution of tax-exempt highway improvement bonds <br>II. A partner in the AAA Oil and Gas Partnership sells his interest in the investment <br>III. The AAA Manufacturing Company, which proposes to offer shares to the public but has not completed the offering <br>IV. The U.S. government, which proposes to offer Treasury bonds"
+    },
+    "kaplanExam3_2": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Transactions by fiduciaries, such as a trustee in a bankruptcy reorganization, are exempt from registration. But only a trustee in bankruptcy is afforded this exemption, not for a family trust. An offer of a securities investment to 10 or fewer individuals (called a private placement) is also exempt from registration. Offers of pre-organization certificates are not exempt when compensation is paid.",
+        "prompt": "Which of the following transactions are exempt from registration under the USA? <br><br>I. A trustee of a corporation in bankruptcy liquidates securities to satisfy debt holders. <br>II. An offer of a securities investment is directed to 10 individuals in the state during a 12-month consecutive period. <br>III. A sale of securities by the trustee of the Lorgan Family Children's Trust. <br>IV. Agents for an entrepreneur offer preorganization certificates to fewer than 10 investors in the state for a modest commission."
+    },
+    "kaplanExam3_3": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "III only",
+                "correct": true
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "An issuer transaction is one where the issuer of the securities receives the proceeds of the sale. John's father, although a founder of the company, purchased shares directly from the company. This transaction is an issuer transaction because the firm received the funds from the sale of the shares. In all the other instances, the firm, the original issuer of the securities, did not receive the proceeds of the transaction. These transactions are called nonissuer transactions.",
+        "prompt": "Which of the following is(are) issuer transactions? <br><br>I. John inherited securities of the XYZ Corporation from his father who, as a founder to the company, received the shares directly from the company as a result of stock options. <br>II. John sold the securities he had inherited from his father to his neighbor, Peter, at the market price without charging a commission. <br>III. John's father, a founder of XYZ corporation, purchased shares of XYZ directly from the corporation subsequent to its founding without paying a commission. <br>IV. John purchased shares in XYZ Corporation in a transaction made in the over-the-counter market."
+    },
+    "kaplanExam3_4": {
+        "answers": [
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II, III, and IV",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Bonds issued by states (under the USA, the District of Columbia is considered a state) and Canadian provinces are exempt. Any security issued by a federally chartered credit union or one that is authorized to do business in the state is exempt. However, unless some other condition is given, such as the issuer's common stock is listed on an exchange or Nasdaq (making it federal covered), a corporate debenture is not an exempt security. Don't make any assumptions on the exam.",
+        "prompt": "Section 402 of the USA contains a listing of those securities that are granted an exemption from the registration and advertising filing requirements of the Act. Included in that listing would be <br><br>I. corporate debentures <br>II. bonds issued by a Canadian province <br>III. bonds issued by the District of Columbia <br>IV. securities issued by a credit union authorized to do business in the state"
+    },
+    "kaplanExam3_5": {
+        "answers": [
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV ",
+                "correct": true
+            }
+        ],
+        "explanation": "An Administrator may commence an action against an agent's registration if the agent engages in prohibited practices such as those described in each of the choices in the question.",
+        "prompt": "Under the USA, the Administrator may bring an action against an agent's registration if the agent <br><br>I. borrows money from his wealthy clients' accounts <br>II. solicits orders for nonexempt unregistered securities <br>III. buys and sells securities in accounts to generate a high level of commissions <br>IV. alters market quotations to induce a client to invest in an attractive growth stock"
+    },
+    "kaplanExam3_6": {
+        "answers": [
+            {
+                "content": "Creating the illusion of active trading",
+                "correct": true
+            },
+            {
+                "content": "Omitting material facts in a presentation",
+                "correct": false
+            },
+            {
+                "content": "Guaranteeing performance of a security",
+                "correct": false
+            },
+            {
+                "content": "Transactions in excess of a customer's financial capability",
+                "correct": false
+            }
+        ],
+        "explanation": "Creating the illusion of trading activity is market manipulation. Guaranteeing performance of a security and omitting material facts are prohibited practices but do not constitute market manipulation. Trades too large for a customer are also prohibited because they are not suitable. Unit 1 Answers and Rationales 265",
+        "prompt": "According to the USA, which of the following is an example of market manipulation?"
+    },
+    "kaplanExam3_7": {
+        "answers": [
+            {
+                "content": "Actively trading a security in which an unusually high trading volume has occurred",
+                "correct": false
+            },
+            {
+                "content": "Offering services that an agent cannot realistically perform because of his broker-dealer's limitations",
+                "correct": true
+            },
+            {
+                "content": "Altering the customer's order prior to execution at the request of a customer, which subsequently results in a substantial loss",
+                "correct": false
+            },
+            {
+                "content": "Failing to inform the firm's principal of frequent oral customer complaints",
+                "correct": false
+            }
+        ],
+        "explanation": "An agent may not offer services that he cannot perform. An agent may participate actively in trading a security in which an unusually high trading volume has occurred, provided the trading is not designed to create a false appearance of high volume. At the client's request, an agent can alter a client's order, even if the change results in a loss. An agent is only required to report written complaints to his employing principal, although it would be wise to report repeated oral complaints.",
+        "prompt": "Which of the following practices is prohibited under the Uniform Securities Act?"
+    },
+    "kaplanExam3_8": {
+        "answers": [
+            {
+                "content": "did not violate the USA if all material facts were disclosed",
+                "correct": false
+            },
+            {
+                "content": "committed an unethical sales practice because the firm has not recommended this technology stock",
+                "correct": false
+            },
+            {
+                "content": "committed an unethical business practice",
+                "correct": true
+            },
+            {
+                "content": "did not commit a violation if all clients were accurately informed of the price of the stock",
+                "correct": false
+            }
+        ],
+        "explanation": "Agents must always determine suitability before soliciting purchases or sales. The key here is that the agent recommended this stock to all clients. One investment cannot be suitable for all of your clients.",
+        "prompt": "If an agent thought that a technology stock was undervalued and actively solicited all customers, the agent"
+    },
+    "kaplanExam3_9": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "All of the practices are prohibited. An agent may not borrow money or securities from a customer unless that customer is a bank or broker-dealer in the business of lending money and/or securities. Selling speculative issues to a retired couple of modest means is an unsuitable transaction because it is not consistent with the objectives of the client. An agent must follow legal orders of the customer, even if the agent believes the order is an unwise one. An agent may not backdate confirmations for the benefit of the client.",
+        "prompt": "Which of the following actions taken by an agent are prohibited? <br><br>I. Borrowing money or securities from a high net-worth customer <br>II. Selling speculative issues to a retired couple of modest means on a fixed income <br>III. Failing to follow a customer's orders so as to prevent investment in a security not adequately covered by well-known securities analysts <br>IV. Backdating confirmations for the benefit of the client's tax reporting"
+    },
+    "kaplanExam3_10": {
+        "answers": [
+            {
+                "content": "fraudulent for nonexempt securities only",
+                "correct": false
+            },
+            {
+                "content": "fraudulent for exempt securities only",
+                "correct": false
+            },
+            {
+                "content": "fraudulent for both exempt and nonexempt securities",
+                "correct": true
+            },
+            {
+                "content": "not fraudulent if there was willful intent to omit the information",
+                "correct": false
+            }
+        ],
+        "explanation": "Material facts are facts that an investor relies on to make investment decisions. The willful omission of a material fact in the sale, purchase, or offer of a security is fraudulent. This applies whether the security offered is exempt or nonexempt.",
+        "prompt": "Fearing loss of a potential sale, an agent omits facts that a prudent investor requires to make informed decisions. Under the Uniform Securities Act, this action is"
+    },
+    "kaplanExam3_11": {
+        "answers": [
+            {
+                "content": "An agent enters into an agreement to share in the profits/losses of the customer's account without prior written consent of the employing broker-dealer.",
+                "correct": true
+            },
+            {
+                "content": "An agent and spouse jointly own their own personal trading account at the firm.",
+                "correct": false
+            },
+            {
+                "content": "An agent, with the written authorization of the customer and the broker-dealer that the agent represents, participates in the profits and losses of the account.",
+                "correct": false
+            },
+            {
+                "content": "An agent refuses a client's request to share in the performance of the client's account.",
+                "correct": false
+            }
+        ],
+        "explanation": "It is a prohibited practice under the USA for an agent to share in the profits or losses of a customer's account unless the customer and employing broker-dealer have given prior written authorization. An agent is permitted to jointly own, with spouse, a personal account at the firm and can refuse to share in a customer's account.",
+        "prompt": "According to the USA, which of the following is a prohibited activity?"
+    },
+    "kaplanExam3_12": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "Regardless of the requirements of other states, the only requirements that must be met are those of the state where the principal office is located. Among the items of advertising requiring maintenance of records is a firm's website. Personal email sent by agents that is not business related does not have to be retained. Trade blotters have a 3-year retention requirement. Please note that in most cases, broker-dealers are registered with the SEC in addition to the states in which they do business. In that case, the recordkeeping requirements of the SEC trump those of any state.",
+        "prompt": "Under the Uniform Securities Act, broker-dealers are required to prepare and maintain certain records. Which of the following statements reflects the position of the act? <br><br>I. A firm registered in more than one state must meet the recordkeeping requirements of the state where its principal office is located, even if those are less comprehensive than those of some of the other states where it is registered. <br>II. A firm must maintain records of every email sent from the office by agents. <br>III. A broker-dealer's website is considered advertising. <br>IV. Once a broker-dealer's trade blotter has been posted, it may be discarded."
+    },
+    "kaplanExam3_13": {
+        "answers": [
+            {
+                "content": "1 year of occurrence",
+                "correct": false
+            },
+            {
+                "content": "2 years of occurrence",
+                "correct": false
+            },
+            {
+                "content": "3 years of occurrence or 2 years of discovery, whichever occurs first",
+                "correct": true
+            },
+            {
+                "content": "2 years of occurrence or 3 years of discovery, whichever occurs last",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the USA, the lawsuit for recovery of damages must commence within the sooner of 3 years of occurrence of the offense or 2 years of its discovery.",
+        "prompt": "Aaron is a client of XYZ Financial Services. Over the past several years, Aaron has been suspicious of possible churning of his account, but has taken no action because account performance has been outstanding. After reviewing his most recent statement, Aaron suspects that excessive transactions have occurred. He consults his attorney, who informs him that under the USA, any lawsuit for recovery of damages under the USA must be started within"
+    },
+    "kaplanExam3_14": {
+        "answers": [
+            {
+                "content": "An Administrator's order to an issuer to suspend sale of its security as a result of improper disclosures in the registration statement",
+                "correct": false
+            },
+            {
+                "content": "An Administrator's order to refrain from a practice of business believed by that Administrator to be unfair",
+                "correct": true
+            },
+            {
+                "content": "A court-issued order requiring a business to stop an unfair practice",
+                "correct": false
+            },
+            {
+                "content": "An order from one brokerage firm to another to refrain from unfair business practices",
+                "correct": false
+            }
+        ],
+        "explanation": "A cease and desist order is a directive from an administrative agency to immediately stop a particular action. The order can come from a federal, state, or judicial body; it is not exclusive to anyone. Administrators may issue cease and desist orders with or without a prior hearing. Brokerage houses cannot issue cease and desist orders to each other. An order issued by the Administrator to halt the sale of a security is known as a stop order, not a cease and desist order. ",
+        "prompt": "Which of the following accurately describes a cease and desist order as authorized by the USA?"
+    },
+    "kaplanExam3_15": {
+        "answers": [
+            {
+                "content": "Georgia",
+                "correct": false
+            },
+            {
+                "content": "New York",
+                "correct": false
+            },
+            {
+                "content": "Both Georgia and New York",
+                "correct": true
+            },
+            {
+                "content": "The Administrator of any of the 12 states in which the agent is registered",
+                "correct": false
+            }
+        ],
+        "explanation": "Let's start with the legal stuff first. Under the Uniform Securities Act, an offer to sell or to buy is made in a state when the offer (1) originates from the state or (2) is directed by the offeror (the agent) to the state and received at the place to which it is directed (or at any post office in the state in the case of a mailed offer). Furthermore, an offer to buy or to sell is accepted in a state when acceptance is communicated to the offeror orally or in writing, inside, or outside the state. The offer originated in New York and was directed to Georgia where it was accepted. The mailing of the confirmation is of no consequence. Therefore, the Administrators of both New York and Georgia would have jurisdiction over this activity. If the check had been mailed from another state while the client was on her way home, that would have no impact on this question.",
+        "prompt": "A resident of Albany, NY, is visiting relatives in Albany, GA. While there, she receives a phone call from her agent in the Troy, NY, office of Capital City Investments who offers a security that the client immediately agrees to purchase. The next day, she sends her payment from Georgia. The agent sends the trade confirmation to the purchaser's residence address in New York. This agent is registered in 12 states, including New York and Georgia. The security is not exempt and was not registered. Which Administrator has the authority to pursue action against the agent?"
+    },
+    "kaplanExam3_16": {
+        "answers": [
+            {
+                "content": "the applicant is not qualified owing to lack of experience",
+                "correct": true
+            },
+            {
+                "content": "a willful violation of the Uniform Securities Act has taken place",
+                "correct": false
+            },
+            {
+                "content": "the applicant is financially insolvent",
+                "correct": false
+            },
+            {
+                "content": "the applicant is enjoined temporarily from engaging in the securities business",
+                "correct": false
+            }
+        ],
+        "explanation": "If the person qualifies by virtue of training or knowledge, registration cannot be denied for lack of experience only. Registration may be denied if the applicant willfully violates the Uniform Securities Act, is financially insolvent, or has been enjoined from engaging in the securities business. In certain cases, an applicant for registration as an investment adviser may have his license restricted to only acting as a broker-dealer, but that is not considered a denial.",
+        "prompt": "If it is in the public interest, the Uniform Securities Act provides that the state Administrator may deny the registration of a person for all of the following reasons EXCEPT"
+    },
+    "kaplanExam3_17": {
+        "answers": [
+            {
+                "content": "The Investment Company Act of 1940 classifies investment companies into three types: face-amount certificate companies, unit investment trusts, and management investment companies.",
+                "correct": false
+            },
+            {
+                "content": "An investment company can offer investors two ways of participating in the fund under management: through the purchase of closedend shares, or, if the investor prefers, openend redeemable shares.",
+                "correct": true
+            },
+            {
+                "content": "When investors sell or redeem their openend fund shares, they receive the net asset value (NAV) based on the forward pricing rule.",
+                "correct": false
+            },
+            {
+                "content": "When investors sell their closed-end fund shares, they may receive an amount below the current net asset value.",
+                "correct": false
+            }
+        ],
+        "explanation": "An investment company cannot offer investors two ways of participating in the fund under management. The fund must either be a closed-end fund with shares traded in the marketplace or an openend fund with redeemable shares. The Investment Company Act of 1940 classifies investment companies into three types: FACs, UITs, and management investment companies. When investors sell or redeem their open-end fund shares, they receive the NAV as of the close of the day the order was received (i.e., based on the next computed NAV after the order arrives). Because closed-end fund shares are priced based on supply and demand, the price a holder receives when selling might be more, less or the same as the NAV.",
+        "prompt": "Which of the following statements regarding investment companies is NOT true?"
+    },
+    "kaplanExam3_18": {
+        "answers": [
+            {
+                "content": "receive the benefits on a monthly basis until the time of death",
+                "correct": false
+            },
+            {
+                "content": "receive the benefits for life with a certain minimum period of time guaranteed",
+                "correct": false
+            },
+            {
+                "content": "have a joint life with last survivor clause with payments paid until the death of the last survivor",
+                "correct": false
+            },
+            {
+                "content": "receive monthly payment for a defined period and then 2 years later change the contract to payment for life",
+                "correct": true
+            }
+        ],
+        "explanation": "The contract is annuitized when the investor converts from the accumulation (pay-in) stage to the distribution (payout) stage. Once a payout option is selected, it cannot be changed. An annuity owner can elect to receive the benefits on a monthly basis until the time of death. An annuity owner can elect to receive the benefits for life with a certain minimum period of time guaranteed. In addition, an annuity owner can have a joint life with last survivor clause with payouts made until the death of the last survivor.",
+        "prompt": "An owner of an annuitized annuity can do all of the following EXCEPT"
+    },
+    "kaplanExam3_19": {
+        "answers": [
+            {
+                "content": "general partner(s)",
+                "correct": true
+            },
+            {
+                "content": "limited partner(s)",
+                "correct": false
+            },
+            {
+                "content": "shareholder(s)",
+                "correct": false
+            },
+            {
+                "content": "sole proprietor",
+                "correct": false
+            }
+        ],
+        "explanation": "DPPs consist of at least one GP and one LP. The liability of the limited partners is limited to their investment, including commitments made but not yet fulfilled. On the other hand, the general partners bear the liability for the debts of the entity. Unit 2 Answers and Rationales 433",
+        "prompt": "In a direct participation program, liability for the debts of the business falls upon the"
+    },
+    "kaplanExam3_20": {
+        "answers": [
+            {
+                "content": "Investments are limited to securities with remaining maturities of 397 days or less, with the average portfolio maturity not to exceed 60 days.",
+                "correct": false
+            },
+            {
+                "content": "Investments are limited to eligible securities determined to have minimal risk.",
+                "correct": false
+            },
+            {
+                "content": "No more than 5% of the fund's assets may be invested in below-investment-grade securities.",
+                "correct": true
+            },
+            {
+                "content": "The prospectus must prominently indicate that the U.S. government does not guarantee the fund and that there is no guarantee that the NAV will be maintained.",
+                "correct": false
+            }
+        ],
+        "explanation": "The SEC requires that money market mutual funds' investments be limited to securities that are rated in the top two ratings categories by the nationally recognized rating services (e.g., Moody's, Standard & Poor's). Investment in belowinvestment-grade securities is not allowed.",
+        "prompt": "Which of the following is NOT a restriction that the SEC has placed on money market mutual funds?"
+    },
+    "kaplanExam3_21": {
+        "answers": [
+            {
+                "content": "they trade at a price independent of their net asset value",
+                "correct": true
+            },
+            {
+                "content": "their portfolio may contain common stock, preferred stock and debt securities",
+                "correct": false
+            },
+            {
+                "content": "they are federal covered securities",
+                "correct": false
+            },
+            {
+                "content": "they were in existence prior to 1940",
+                "correct": false
+            }
+        ],
+        "explanation": "Unlike open-end companies (mutual funds) where the price is based on the net asset value (NAV), closed-end companies trade at a market price based on supply and demand which could be above, below or the same as the NAV. Both are federal covered, both can have equity and debt in their portfolios (although only closed-end companies can issue senior securities) and both were in existence prior to passage of the Investment Company Act of 1940.",
+        "prompt": "One way in which closed-end management investment companies differ from open-end investment management companies is that"
+    },
+    "kaplanExam3_22": {
+        "answers": [
+            {
+                "content": "Accumulation annuity—an annuity that allows the investor to accumulate funds in a separate account before investment in an annuity",
+                "correct": true
+            },
+            {
+                "content": "Single premium deferred annuity—an annuity with a lump-sum investment, with payment of benefits deferred until the annuitant elects to receive them",
+                "correct": false
+            },
+            {
+                "content": "Periodic payment deferred annuity—allows a person to make periodic payments over time. The contract holder can invest money on a monthly, quarterly, or annual basis",
+                "correct": false
+            },
+            {
+                "content": "Immediate annuity—allows an investor to deposit a lump sum with the insurance company. Payout of the annuitant's benefits starts immediately, usually within 60 days ",
+                "correct": false
+            }
+        ],
+        "explanation": "Accumulation does not refer to a purchase option. The pay-in period for an annuity is known as the accumulation stage. A single premium deferred annuity is an annuity with a lump-sum investment, with payment of benefits deferred until the annuitant elects to receive them. Periodic payment deferred annuities allow a person to make periodic payments over time. Immediate annuities allow an investor to deposit a lump sum with the insurance company payout of the annuitant's benefits starting immediately, usually within 60 days.",
+        "prompt": "Insurance companies selling annuities offer a variety of purchase options to owners. Which of the following definitions regarding these annuity options is NOT true?"
+    },
+    "kaplanExam3_23": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "DPPs are structured as flow-through entities giving their investors to opportunity to receive income without the partnership being taxed first. In addition, if there are losses, they get the opportunity to write-off those losses against income from other DPPs. As limited partnership vehicles, they offer their investors liability limited to their investment. They generally have very low liquidity and, instead of reducing the tax audit risk, they actually increase it.",
+        "prompt": "Benefits of investing in a DPP would include <br><br>I. liquidity <br>II. flow-through of operating losses <br>III. limited liability <br>IV. immunization against tax audit"
+    },
+    "kaplanExam3_24": {
+        "answers": [
+            {
+                "content": "The general partner (GP) is the active investor in a limited partnership and assumes responsibility for all aspects of the partnership's operations.",
+                "correct": false
+            },
+            {
+                "content": "A GP has a fiduciary relationship to the limited partners (LPs).",
+                "correct": false
+            },
+            {
+                "content": "The GP cannot borrow from the partnership, compete with the partnership, or commingle personal funds with partnership funds.",
+                "correct": false
+            },
+            {
+                "content": "The GP, as the active manager of the partnership, does not maintain a financial interest in the partnership and only receives income distributions from profits on the business prior to the limited partners.",
+                "correct": true
+            }
+        ],
+        "explanation": "General partners (GPs) must maintain a financial interest in the partnership and generally do not receive distributions from profits before those paid to the limited partners. The GP is the active investor in a limited partnership and assumes responsibility for all aspects of the partnership's operations and has a fiduciary relationship to the LPs. The GP, as a fiduciary, cannot borrow from the partnership, compete with the partnership, or commingle personal funds with partnership funds.",
+        "prompt": "Which of the following statements regarding the general partner in a direct participation program (DPP) is NOT true?"
+    },
+    "kaplanExam3_25": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I, II and IV",
+                "correct": false
+            },
+            {
+                "content": "II, III and IV",
+                "correct": true
+            },
+            {
+                "content": "IV only",
+                "correct": false
+            }
+        ],
+        "explanation": "Money randomly withdrawn (not annuitized) is handled under LIFO tax rules; money invested in an annuity represents the investor's cost basis; and on withdrawal, the amount exceeding the investor's cost basis is taxed as ordinary income. Taxes on earned dividends, interest, and capital gains are not paid annually. They are deferred and paid later, when the owner withdraws money from the contract.",
+        "prompt": "With an annuity <br><br>I. taxes on earned dividends, interest, and capital gains are paid annually, until the owner withdraws money from the contract <br>II. random withdrawals are handled under LIFO tax rules <br>III. money invested in a nonqualified annuity represents the investor's cost basis <br>IV. upon withdrawal, the amount exceeding the investor's cost basis is taxed as ordinary income"
+    },
+    "kaplanExam3_26": {
+        "answers": [
+            {
+                "content": "sells a call on a security he owns to reduce the volatility of the stock's returns and to generate income with the premium",
+                "correct": true
+            },
+            {
+                "content": "buys two calls on the same security he owns to leverage the position",
+                "correct": false
+            },
+            {
+                "content": "buys a call on a security he has sold short",
+                "correct": false
+            },
+            {
+                "content": "sells a call on an index that contains some of the securities that he has in his portfolio",
+                "correct": false
+            }
+        ],
+        "explanation": "A covered call is simply defined as an investor owning 100 shares of the underlying stock for each option written (sold). The premium received is not only a source of income, but also serves to provide downside protection to the extent of the amount received.",
+        "prompt": "Covered call writing is a strategy where an investor"
+    },
+    "kaplanExam3_27": {
+        "answers": [
+            {
+                "content": "gross revenues for the year",
+                "correct": false
+            },
+            {
+                "content": "the amount of cash and cash equivalents expended during the first half of the fiscal year as opposed to the second half",
+                "correct": false
+            },
+            {
+                "content": "the net worth of the firm at the end of the reporting period",
+                "correct": true
+            },
+            {
+                "content": "no reference to the accounting methods used to construct the balance sheet",
+                "correct": false
+            }
+        ],
+        "explanation": "The balance sheet provides a snapshot view of the financial condition of the firm at the end of the reporting period. It does not provide information on the flow of expenses, revenues, and cash during the reporting period. Gross revenues are reflected on the income statement, not on the balance sheet. The balance sheet provides a description of the assets, liabilities, and owner's equity at the end of the reporting period. References to accounting methods used are contained in the footnotes of the balance sheet.",
+        "prompt": "Balance sheets contain"
+    },
+    "kaplanExam3_28": {
+        "answers": [
+            {
+                "content": "current asset activities",
+                "correct": true
+            },
+            {
+                "content": "financing activities",
+                "correct": false
+            },
+            {
+                "content": "investing activities",
+                "correct": false
+            },
+            {
+                "content": "operating activities",
+                "correct": false
+            }
+        ],
+        "explanation": "There is no such thing as current asset activities. Cash flow is generated through financing (issuing stock or bonds), investing (profits from investments), and, the most significant of all, operations of the entity. Unit 3 Answers and Rationales 511",
+        "prompt": "All of the following are considered to be components of cash flow EXCEPT"
+    },
+    "kaplanExam3_29": {
+        "answers": [
+            {
+                "content": "8-K",
+                "correct": true
+            },
+            {
+                "content": "10-K",
+                "correct": false
+            },
+            {
+                "content": "10-Q",
+                "correct": false
+            },
+            {
+                "content": "13-F",
+                "correct": false
+            }
+        ],
+        "explanation": "The Form 8-K is filed with the SEC within 4 business days of any one of a number of significant actions, including the sale of a significant asset such as a wholly-owned subsidiary.",
+        "prompt": "If a publicly traded corporation was going to sell a wholly-owned subsidiary, the information would be made available through the filing of a Form"
+    },
+    "kaplanExam3_30": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "II only",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The future value of a dollar reflects the interest rate it earns over time. The rate of foreign exchange is not related to or used in the calculation of the future value of a dollar. The foreign exchange rate is not relevant.",
+        "prompt": "The future value of an invested dollar is dependent on <br><br>I. the exchange rate of the dollar at the beginning and end of the period <br>II. the interest rate at maturity <br>III. the rate of return it earns <br>IV. the time period over which it is invested"
+    },
+    "kaplanExam3_31": {
+        "answers": [
+            {
+                "content": "is the amount of goods and services the dollar will buy in the future at today's rate price level",
+                "correct": false
+            },
+            {
+                "content": "indicates how much needs to be invested today at a given interest rate to equal a specific cash value in the future",
+                "correct": true
+            },
+            {
+                "content": "is equal to its future value if the level of interest rates stays the same",
+                "correct": false
+            },
+            {
+                "content": "cannot be calculated without knowing the level of inflation",
+                "correct": false
+            }
+        ],
+        "explanation": "The present value of a dollar will indicate how much needs to be invested today at a given interest rate to equal a cash amount required in the future.",
+        "prompt": "The present value of a dollar"
+    },
+    "kaplanExam3_32": {
+        "answers": [
+            {
+                "content": "1 month per taxable year",
+                "correct": false
+            },
+            {
+                "content": "2 weeks per year",
+                "correct": false
+            },
+            {
+                "content": "3 weeks per year",
+                "correct": false
+            },
+            {
+                "content": "the greater of 14 days or 10% of the total days rented to others at a fair rental price ",
+                "correct": true
+            }
+        ],
+        "explanation": "The IRS allows deductions for expenses relating to owning rental property if personal use does not exceed the greater of 14 days or 10% of the total days that the property is in rental use. For example, if the client had the property rented out for 200 days, he could make personal use of it for up to 20 days that year and still be able to treat the rental as a business.",
+        "prompt": "Your client owns a beach-front home that he has been renting out to others for the past 5 years. He plans to start taking things a bit easier and wishes to make personal use of the home part of the year. Under IRS regulations, if he wanted to continue to receive the same tax benefits he's enjoyed in the past, he would be permitted to enjoy the property no more than"
+    },
+    "kaplanExam3_33": {
+        "answers": [
+            {
+                "content": "The original value plus any appreciation is taxed as part of the grantor's estate.",
+                "correct": true
+            },
+            {
+                "content": "The original value plus any appreciation passes to the beneficiaries but is subject to gift tax.",
+                "correct": false
+            },
+            {
+                "content": "The original value plus any appreciation passes to the beneficiaries and is taxed as ordinary income.",
+                "correct": false
+            },
+            {
+                "content": "No tax is due if the grantor should die during the term of the trust.",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the risks in setting up a GRAT is that if the grantor dies during the term of the trust (usually 3–10 years), the assets put in the GRAT, plus any appreciation, are included in her estate.",
+        "prompt": "A wealthy individual has set up a GRAT. Should she die during the time the trust is active, how are the remaining assets in the trust taxed?"
+    },
+    "kaplanExam3_34": {
+        "answers": [
+            {
+                "content": "following a constant ratio plan",
+                "correct": false
+            },
+            {
+                "content": "dollar cost averaging",
+                "correct": true
+            },
+            {
+                "content": "matching her employer's contribution",
+                "correct": false
+            },
+            {
+                "content": "using a tactical asset allocation style",
+                "correct": false
+            }
+        ],
+        "explanation": "Dollar cost averaging (DCA) is a funding method that consists of investing the same amount of money at fixed intervals into the same investment. Almost all participants in 401(k) plans use DCA. It is possible that the portfolio managers of the large-cap fund use a tactical style, but the investor is not buying and selling to try to time the market.",
+        "prompt": "An individual is a participant in the 401(k) plan offered by her employer. If she were to invest $400 per month into a large-cap growth fund, she would be"
+    },
+    "kaplanExam3_35": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "When a primary residence that has been lived in for at least 2 of the 5 years is sold at a profit, the first $250,000 for an individual and the first $500,000 for a married couple is not subject to taxation. Everything in excess of that is taxed as capital gain on Schedule D of the Form 1040. ",
+        "prompt": "An investment adviser representative specializes in the senior market. A number of his clients have reached the age where they are contemplating selling their homes and moving into an assisted living facility. The profit made on the sale of their homes will be used to defray the costs of their new residence. Under current tax laws, which of the following are TRUE? <br><br>I. A single person pays no tax on the first $250,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>II. A single person pays no tax on the first $500,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>III. A married couple pays no tax on the first $250,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>IV. A married couple pays no tax on the first $500,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years."
+    },
+    "kaplanExam3_36": {
+        "answers": [
+            {
+                "content": "a trader who makes a market in OTC stocks and ADRs",
+                "correct": false
+            },
+            {
+                "content": "a floor broker on the New York Stock Exchange who only executes trades for other brokers in return for commissions",
+                "correct": false
+            },
+            {
+                "content": "a member of the New York Stock Exchange who executes orders for other members and who also acts as a market maker charged with the responsibility of keeping an orderly market in designated stocks",
+                "correct": true
+            },
+            {
+                "content": "an electronic brokerage concern that executes trades online and through specialized trading order executing services",
+                "correct": false
+            }
+        ],
+        "explanation": "A specialist is a member of the NYSE who executes orders for other members and who also acts as a market maker charged with the responsibility of keeping an orderly market in designated stocks. A specialist must have sufficient capital to buy and sell from his own account in order to maintain a liquid and orderly market. A trader who makes a market in OTC stocks and ADRs is a market maker in the OTC market and not a specialist on an exchange. A specialist executes trades on an exchange.",
+        "prompt": "An exchange specialist is"
+    },
+    "kaplanExam3_37": {
+        "answers": [
+            {
+                "content": "Limit",
+                "correct": false
+            },
+            {
+                "content": "Stop",
+                "correct": false
+            },
+            {
+                "content": "Market",
+                "correct": true
+            },
+            {
+                "content": "Stop limit",
+                "correct": false
+            }
+        ],
+        "explanation": "A market order does not reflect or restrict the price at which a security is executed. A limit order limits the amount to be paid or received for securities. A stop order becomes a market order if the stock reaches or goes through the stop price. A stop limit order becomes a limit order if the stock hits or goes through the trigger price.",
+        "prompt": "Which of the following types of orders does NOT restrict the price at which an order is executed?"
+    },
+    "kaplanExam3_38": {
+        "answers": [
+            {
+                "content": "add a markup to the bid price when offering shares to a client",
+                "correct": false
+            },
+            {
+                "content": "add a markup to the offering price when selling shares to a client",
+                "correct": true
+            },
+            {
+                "content": "must always disclose the amount of markup on a client's confirmation statement",
+                "correct": false
+            },
+            {
+                "content": "must disclose to clients the amount of earnings he made on principal transactions in excess of the amount he would have made had he charged a commission",
+                "correct": false
+            }
+        ],
+        "explanation": "When selling a security to a public customer, the broker-dealer adds his markup to the ask/offer (not the bid) price. A broker does not add a markup to the bid price when offering shares to a client. The broker-dealer would mark down the bid price. A broker-dealer does not usually have to disclose to the client the amount of markup on a client's confirmation statement. If a commission were charged, however, it would have to be indicated on the confirmation statement.",
+        "prompt": "A broker-dealer acting as a principal in a trade would"
+    },
+    "kaplanExam3_39": {
+        "answers": [
+            {
+                "content": "Buy limit",
+                "correct": false
+            },
+            {
+                "content": "Buy stop",
+                "correct": true
+            },
+            {
+                "content": "Sell limit",
+                "correct": false
+            },
+            {
+                "content": "Sell stop",
+                "correct": false
+            }
+        ],
+        "explanation": "Buy stop orders are placed above the current market price and are usually used by those with short positions. As prices increase, these stop orders are triggered, sending more buy orders to the trading floors.",
+        "prompt": "Which of the following orders would be most likely to add fuel to a bullish stock market?"
+    },
+    "kaplanExam3_40": {
+        "answers": [
+            {
+                "content": "the bid",
+                "correct": false
+            },
+            {
+                "content": "a discount",
+                "correct": false
+            },
+            {
+                "content": "the offer",
+                "correct": true
+            },
+            {
+                "content": "an indication of falling interest rates ",
+                "correct": false
+            }
+        ],
+        "explanation": "A dealer's quotes consist of the bid and the offer. The bid price is what the dealer will pay a customer to purchase a security, and the offer is the dealer's selling price. In this case, the client wishes to purchase bonds, so the 98.16 represents the price the dealer is offering them for. Yes, the quote is a discount, but the better answer for this question is offer.",
+        "prompt": "An investor wishing to buy US Treasury bonds receives a quote from the dealer of 98.16. This represents"
+    },
+    "kaplanExam3_41": {
+        "answers": [
+            {
+                "content": "the broker's commission",
+                "correct": false
+            },
+            {
+                "content": "the dealer's markup",
+                "correct": false
+            },
+            {
+                "content": "the profit margin",
+                "correct": false
+            },
+            {
+                "content": "the spread",
+                "correct": true
+            }
+        ],
+        "explanation": "The dealer's quote represents the bid and the offer (ask) prices. This quote is 42 bid and 42.50 offered. The difference between these two is the spread.",
+        "prompt": "A broker-dealer quotes a stock 42 to a half. The difference between these two numbers is known as"
+    },
+    "kaplanExam3_42": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The specialist performs his activities on the floor of an exchange, while the market maker performs a similar function in the OTC market.",
+        "prompt": "It would be correct to state that <br><br>I. the specialist stands ready to buy or sell stock on the floor of an exchange in an effort to keep an orderly market <br>II. the specialist stands ready to buy or sell stock on the over-the-counter market in an effort to keep an orderly market <br>III. the market maker stands ready to buy or sell stock on the floor of an exchange in an effort to keep an orderly market <br>IV. the market maker stands ready to buy or sell stock on the over-the-counter market in an effort to keep an orderly market"
+    },
+    "kaplanExam3_43": {
+        "answers": [
+            {
+                "content": "cash account",
+                "correct": false
+            },
+            {
+                "content": "depository account",
+                "correct": false
+            },
+            {
+                "content": "margin account",
+                "correct": true
+            },
+            {
+                "content": "wrap fee account",
+                "correct": false
+            }
+        ],
+        "explanation": "When a purchase is made and only 50% of the cost of the transaction is required, the trade is being made on margin.",
+        "prompt": "A client of a brokerage firm purchases 100 shares of ABC common stock at a price of $50 per share. On settlement date, the firm journals $2,500 from the client's money market account to pay for the trade. No further call for money is made. This trade must have taken place in a"
+    },
+    "kaplanExam3_44": {
+        "answers": [
+            {
+                "content": "a Regulation T call",
+                "correct": false
+            },
+            {
+                "content": "a maintenance margin call",
+                "correct": true
+            },
+            {
+                "content": "a margin call",
+                "correct": false
+            },
+            {
+                "content": "a market call",
+                "correct": false
+            }
+        ],
+        "explanation": "The original call for funds is the Regulation T or margin call. When the call is for additional money, it is known as maintenance margin.",
+        "prompt": "You have a client with a margin account at your broker-dealer. If the market price of the securities in the account should fall to a point where you have to ask the client for additional funds, it is"
+    },
+    "kaplanExam3_45": {
+        "answers": [
+            {
+                "content": "500 shares",
+                "correct": false
+            },
+            {
+                "content": "1,000 shares",
+                "correct": false
+            },
+            {
+                "content": "10,000 shares",
+                "correct": true
+            },
+            {
+                "content": "100,000 shares",
+                "correct": false
+            }
+        ],
+        "explanation": "The term block trade refers to a transaction involving a minimum of 10,000 shares.",
+        "prompt": "The minimum size order that would be considered a block trade is"
+    },
+    "kaplanExam3_46": {
+        "answers": [
+            {
+                "content": "solely in the interest of plan participants and beneficiaries",
+                "correct": false
+            },
+            {
+                "content": "with care, skill, prudence, and caution under the circumstances then prevailing that a prudent person acting in like capacity and familiar with such matters would use in the conduct of an enterprise of a like character",
+                "correct": false
+            },
+            {
+                "content": "in accordance with the governing plan documents unless they are not consistent with ERISA",
+                "correct": false
+            },
+            {
+                "content": "confining investments to only those most likely to achieve growth",
+                "correct": true
+            }
+        ],
+        "explanation": "Under ERISA, a fiduciary is not limited to confining investments to only those most likely to achieve growth. The fiduciary is required to diversify investments so as to minimize the risk of losses, unless doing so is clearly not prudent under the circumstances.",
+        "prompt": "Under ERISA, a fiduciary must act in all of the following ways EXCEPT"
+    }
+};
