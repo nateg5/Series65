@@ -1,0 +1,1014 @@
+let dataKaplanExam4 = {
+    "kaplanExam4_1": {
+        "answers": [
+            {
+                "content": "Immediately",
+                "correct": false
+            },
+            {
+                "content": "Within 30 days after the entry of the order",
+                "correct": false
+            },
+            {
+                "content": "Within 60 days after the entry of the order",
+                "correct": true
+            },
+            {
+                "content": "Within 180 days after the entry of the order",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the USA, a registered person has up to 60 days to appeal any disciplinary finding by the state Administrator.",
+        "prompt": "If an agent chooses to appeal an Administrator's order, when must the agent file for review of the order with the appropriate court?"
+    },
+    "kaplanExam4_2": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, III, and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "With the exception of those proceedings awaiting final determination, the Administrator must provide an appropriate prior notice to the applicant as well as the employer or prospective employer of the applicant and provide the opportunity for a hearing. In addition, the Administrator may only issue a final order after findings of fact and conclusions of law. An applicant is not required to provide written acknowledgment before an order is issued.",
+        "prompt": "An Administrator may summarily suspend a registration of an agent or an IAR pending final determination of proceedings under the USA. However, the Administrator may not enter a final order without <br><br>I. appropriate prior notice to the applicant as well as the employer or prospective employer of the applicant <br>II. opportunity for a hearing <br>III. findings of fact and conclusions of law <br>IV. prior written acknowledgment of the applicant"
+    },
+    "kaplanExam4_3": {
+        "answers": [
+            {
+                "content": "do nothing, as their net worth is far in excess of the minimum requirement of $10,000",
+                "correct": false
+            },
+            {
+                "content": "send a detailed financial report to the Administrator by the close of business Friday",
+                "correct": false
+            },
+            {
+                "content": "send a detailed financial report to the Administrator by the close of business Monday",
+                "correct": true
+            },
+            {
+                "content": "need to increase the amount of their surety bond",
+                "correct": false
+            }
+        ],
+        "explanation": "A state-registered investment adviser who maintains custody of client assets must maintain net worth of at least $35,000 or a bond of the same amount (not both). If the net worth should fall below the minimum, by the close of the next business day after discovery (Friday in our example), notice of the deficiency must be sent to the Administrator of the state in which the principal office of the adviser is located. Then, by the close of business the day after that (Monday in our example), a detailed financial report, including the number of clients served by the adviser, must be sent to the Administrator. The firm would need to increase their net worth, not the bond.",
+        "prompt": "A state-registered investment adviser maintains custody of client funds and securities. On Thursday, the chief financial officer of the firm informs the chief compliance officer that their net worth is $31,578. Under the provisions of the Uniform Securities Act, the firm would"
+    },
+    "kaplanExam4_4": {
+        "answers": [
+            {
+                "content": "agent",
+                "correct": false
+            },
+            {
+                "content": "fiduciary",
+                "correct": true
+            },
+            {
+                "content": "principal",
+                "correct": false
+            },
+            {
+                "content": "custodian",
+                "correct": false
+            }
+        ],
+        "explanation": "Both federal and state law consider the relationship to be a fiduciary one.",
+        "prompt": "An investment adviser owes an undivided loyalty to its clients and therefore is considered to be a(n)"
+    },
+    "kaplanExam4_5": {
+        "answers": [
+            {
+                "content": "Big Gains Registered Investment Advisers must disclose its sources of information for specific recommendations they make to their clients.",
+                "correct": false
+            },
+            {
+                "content": "An investment adviser must obtain client permission to accept a buyout offer for all of the adviser's stock.",
+                "correct": false
+            },
+            {
+                "content": "Five Partners Advisers, Ltd., must inform all clients that one of the 5 partners has retired and been replaced by a new partner.",
+                "correct": true
+            },
+            {
+                "content": "Pledging a client's contract as collateral for a loan to the adviser would not be considered an assignment of the contract.",
+                "correct": false
+            }
+        ],
+        "explanation": "Both state and federal law require advisers operating as partnerships to notify their clients of changes in partners where it represents a minority interest in the firm. No adviser is required to disclose the sources for a particular recommendation. An advisory firm can be sold without client permission. However, if the transaction results in a change that would be deemed to be an assignment, the adviser must obtain the consent of the clients to maintain their contracts. The regulatory bodies consider a pledge of clients' contracts to be an assignment.",
+        "prompt": "Which of the following statements regarding provisions of the Investment Advisers Act of 1940 is TRUE?"
+    },
+    "kaplanExam4_6": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "Checks made out to a third party must be forwarded to that party within 3 business days of receipt or the IA will be considered to be maintaining custody. In the case of certificates or checks made out to the IA, return must be made within 3 business days of receipt in order to avoid custody issues; they are never forwarded.",
+        "prompt": "Under the NASAA Model Custody Rule, an investment adviser would be considered to have custody of client assets if that adviser inadvertently receives <br><br>I. a check from a client made out to the IA and does not return the check within 24 hours <br>II. a check from a client made out to a third party and does not forward the check within 3 business days <br>III. stock certificates from a client and does not forward them within 3 business days <br>IV. stock certificates from a client and does not return them within 3 business days"
+    },
+    "kaplanExam4_7": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III ",
+                "correct": true
+            }
+        ],
+        "explanation": "It is deemed to be an assignment whenever a majority interest in an adviser changes hands. Pledging a client's contract is considered to be an assignment. ",
+        "prompt": "Which of the following would be deemed to be an assignment of an investment advisory contract? <br><br>I. All of the stock in NLT Advisers, a corporation, is acquired by MMS Advisers, Inc. <br>II. The Lucky Seven Partnership is an investment adviser with 7 partners. Four of the partners make a fortune and decide to retire. They are replaced by new partners. <br>III. Albert is an investment adviser. His clients' accounts are automatically debited monthly for his fee. Because of this steady cash flow, his banker readily accepts a pledge of these accounts as collateral for a loan."
+    },
+    "kaplanExam4_8": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "To qualify for the intrastate exemption, there is no numerical limitation, none of the clients can be private funds, and advertising on an intrastate basis is permitted. However, no advice may be given on securities traded on a national stock exchange. Under the federal law, an exemption from registration applies if the adviser's only clients are insurance companies. And, if an adviser's only clients are private funds (regardless of how many) and AUM in the United States is less than $150 million, that adviser is exempt as well.",
+        "prompt": "Who of the following are exempt from registration as an investment adviser under the Investment Advisers Act of 1940? <br><br>I. An adviser whose clients consist solely of insurance companies <br>II. An adviser to 7 private funds with total assets under management in the U.S. of $125 million <br>III. An adviser whose only office is in Georgia who deals only with Georgia residents, none of whom is a private fund, and does not deal in securities listed on any national securities exchange <br>IV. An adviser in Florida with only 10 Florida clients who advertises in telephone and business directories and specializes in dealing in New York Stock Exchange issues"
+    },
+    "kaplanExam4_9": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "As long as a security is involved, no one is ever exempt from the USA's antifraud provisions on the exam. The SEC may cancel the registration of an adviser for one of several reasons, no longer being in business is one of them. It is always a violation to claim that the SEC (or the Administrator) has approved of your methods of doing business.",
+        "prompt": "Which of the following statements concerning investment advisers are true? <br><br>I. An investment adviser who is exempt from registration is also exempt from the antifraud provisions of the Uniform Securities Act. <br>II. The SEC can cancel the registration of a federal covered investment adviser if it finds that the adviser is no longer in business. <br>III. An investment adviser who represents that their qualifications and methods of security analysis have been passed on by the SEC has violated the act."
+    },
+    "kaplanExam4_10": {
+        "answers": [
+            {
+                "content": "there are specific educational requirements that all investment advisers must meet",
+                "correct": false
+            },
+            {
+                "content": "the term scalping is the practice whereby an investment adviser, before the dissemination of a securities recommendation, trades on the anticipated short-run market activity that may result from the recommendations",
+                "correct": true
+            },
+            {
+                "content": "an investment adviser's books and records must be maintained in an easily accessible place for 3 years under the act",
+                "correct": false
+            },
+            {
+                "content": "federal covered advisers may not maintain custody of funds and securities of clients residing in a state if custody is prohibited by the Administrator of that state",
+                "correct": false
+            }
+        ],
+        "explanation": "First of all, let's get rid of the negatives. By stating all are not true except, the question is looking for the true statement. The correct choice describes scalping, a prohibited practice. There are no educational requirements for investment advisers and books and records must be kept easily accessible for a period of 5 years, the first 2 years in an appropriate office (generally the principal office of the IA). State Administrators have no jurisdiction over federal covered advisers; if the state prohibits custody, that would only impact state-registered IAs.",
+        "prompt": "All of the following statements regarding investment advisers are NOT true EXCEPT"
+    },
+    "kaplanExam4_11": {
+        "answers": [
+            {
+                "content": "An individual who solicits potential clients to open advisory accounts",
+                "correct": false
+            },
+            {
+                "content": "A vice president of a registered investment adviser",
+                "correct": false
+            },
+            {
+                "content": "A brokerage firm that is considered to be the parent of a registered investment adviser",
+                "correct": false
+            },
+            {
+                "content": "The typist responsible for operating the desktop publishing system that prepares the investment adviser's weekly research bulletins",
+                "correct": true
+            }
+        ],
+        "explanation": "People in strictly clerical or administrative positions are not considered to be associated persons of an investment adviser. Expect to see several variations of this theme on the exam.",
+        "prompt": "Which of the following people would NOT meet the definition of a person associated with an investment adviser?"
+    },
+    "kaplanExam4_12": {
+        "answers": [
+            {
+                "content": "need client permission to make this change",
+                "correct": false
+            },
+            {
+                "content": "need SEC permission to make this change",
+                "correct": false
+            },
+            {
+                "content": "now come under the balance sheet requirements of the ADV",
+                "correct": true
+            },
+            {
+                "content": "be in violation of the law that prohibits prepayments more than 6 months in advance ",
+                "correct": false
+            }
+        ],
+        "explanation": "For federal covered investment advisers, a prepayment in excess of $1,200 and for periods of 6 months or more in advance (substantial prepayment) requires the adviser to submit an annual audited balance sheet as part of its ADV Part 2 (and brochure). Previously, even though the firm's fee was in excess of $1,200, because it was collected on a quarterly basis, the firm did not fall under the balance sheet rule. Had this been a state registered IA, the answer would have been the same, even though the dollar limit is $500 rather than $1,200. That is for the reason given above—the former fee was charged quarterly and the substantial prepayment definition requires both exceeding a stated dollar amount ($500 or $1,200) and it being for 6 months or more in advance.",
+        "prompt": "A firm is registered as an investment adviser under the Investment Advisers Act of 1940. It has decided to raise its annual management fee from $1,500 to $1,800 and require that it be paid 1 year in advance instead of quarterly. The firm would"
+    },
+    "kaplanExam4_13": {
+        "answers": [
+            {
+                "content": "If it is determined that an investment adviser is insolvent, the SEC may revoke the registration.",
+                "correct": false
+            },
+            {
+                "content": "Failure to adequately supervise a person associated with the adviser could be cause for the SEC to revoke the firm's registration.",
+                "correct": true
+            },
+            {
+                "content": "Revocation would occur, with appropriate notice, when a firm's annual updating amendment was received by the SEC 120 days after the end of the registrant's fiscal year.",
+                "correct": false
+            },
+            {
+                "content": "An investment adviser receiving substantial prepayment of fees from 50% of its clients that fails to include a copy of its balance sheet in its brochure delivered to all clients would give the SEC cause for beginning revocation proceedings.",
+                "correct": false
+            }
+        ],
+        "explanation": "Failure to supervise, if proven, is one of the most common causes for disciplinary action against a broker-dealer or investment adviser. Insolvency is not a cause for revocation under the Investment Advisers Act of 1940, but it is for a state registered investment adviser (it tough to keep these straight; please see Appendix A). A late ADV annual updating amendment might be cause for some action but almost certainly not a revocation. It is not that serious an offense. The balance sheet would only have to be part of the disclosure statement (brochure) given to those from whom substantial prepayment of fees is received.",
+        "prompt": "Which of the following statements regarding the SEC's power to revoke the registration of an investment adviser is TRUE?"
+    },
+    "kaplanExam4_14": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "These are the 2 requirements for use of the term investment counsel. Although it can be a factor, exercising discretion is not a requirement of the definition.",
+        "prompt": "An investment adviser registered with the SEC could use the term investment counsel if <br><br>I. their principal business consists of rendering investment advice <br>II. a substantial portion of their business involves investment supervisory services <br>III. they maintains full investment discretion"
+    },
+    "kaplanExam4_15": {
+        "answers": [
+            {
+                "content": "Scalping",
+                "correct": false
+            },
+            {
+                "content": "Failure to maintain a file of all advertisements circulated to 10 or more persons",
+                "correct": false
+            },
+            {
+                "content": "Maintaining required records easily accessible for only 5 years",
+                "correct": true
+            },
+            {
+                "content": "Maintaining required records easily accessible for only 2 years",
+                "correct": false
+            }
+        ],
+        "explanation": "Both state and federal law require that records be kept easily accessible for a period of no less than 5 years. What might have tricked you here is that these laws require that the records be kept in the principal office of the IA for the first 2 years. ",
+        "prompt": "Which of the following is NOT a prohibited practice under the Investment Advisers Act of 1940?"
+    },
+    "kaplanExam4_16": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "If an advertisement claims to offer something for free, it must be free of any obligation. Choices I and II have strings attached and are not free.",
+        "prompt": "A registered investment adviser runs a promotion offering free information to all who request it. Which of the following statements to people who respond do not comply with the advertising interpretation of the Uniform Securities Act? <br><br>I. \"The offer is yours, free of charge; all I need are the names of 5 friends who might be able to use our service.\" <br>II. \"Such a deal; our information about the market is free to anyone who makes only one trade with our broker-dealer affiliate.\" <br>III. \"Thank you for responding; if we can help you after you read our information, please let us know.\""
+    },
+    "kaplanExam4_17": {
+        "answers": [
+            {
+                "content": "ability to adjust the amount of premium payments",
+                "correct": false
+            },
+            {
+                "content": "the policy is guaranteed never to lapse",
+                "correct": true
+            },
+            {
+                "content": "ability to change death benefit amount",
+                "correct": false
+            },
+            {
+                "content": "when the cash value is sufficient, no premium payment is required",
+                "correct": false
+            }
+        ],
+        "explanation": "A universal life policy may lapse if the accumulation fund drops below a specified level and an additional premium is not paid.",
+        "prompt": "All of the following are advantages of universal life insurance EXCEPT"
+    },
+    "kaplanExam4_18": {
+        "answers": [
+            {
+                "content": "tax-free interest",
+                "correct": true
+            },
+            {
+                "content": "greater liquidity than found in most emerging market securities",
+                "correct": false
+            },
+            {
+                "content": "greater safety than most emerging market debt because of the collateral",
+                "correct": false
+            },
+            {
+                "content": "higher yields than on U.S. Treasury securities",
+                "correct": false
+            }
+        ],
+        "explanation": "The interest on Brady bonds is fully taxable to a U.S. investor. All of the other statements are true.",
+        "prompt": "Advantages of Brady bonds to an American investor include all of the following EXCEPT"
+    },
+    "kaplanExam4_19": {
+        "answers": [
+            {
+                "content": "Amount of insurance that can be issued",
+                "correct": false
+            },
+            {
+                "content": "Cost of the insurance",
+                "correct": false
+            },
+            {
+                "content": "Tax treatment of the death proceeds",
+                "correct": false
+            },
+            {
+                "content": "Way in which the cash values are invested",
+                "correct": true
+            }
+        ],
+        "explanation": "Variable life insurance allows the policyowner to decide how the cash value is invested through a number of subaccounts. ",
+        "prompt": "Which of the following is indicative of the primary difference between variable life insurance and straight whole life insurance?"
+    },
+    "kaplanExam4_20": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "Both closed-end funds and exchange-traded funds (ETFs) trade on stock exchanges with their prices being determined by supply and demand just like any other stock.",
+        "prompt": "Which of the following securities trade on regulated stock exchanges with their prices being determined by supply and demand? <br><br>I. Closed-end investment companies <br>II. Exchange-traded funds <br>III. Face amount certificate companies <br>IV. Mutual funds"
+    },
+    "kaplanExam4_21": {
+        "answers": [
+            {
+                "content": "hedging",
+                "correct": false
+            },
+            {
+                "content": "income",
+                "correct": true
+            },
+            {
+                "content": "profits",
+                "correct": false
+            },
+            {
+                "content": "speculation",
+                "correct": false
+            }
+        ],
+        "explanation": "Purchase of a derivative, whether an option, a forward, or futures contract, never generates income. Selling one does, but the question refers to a purchaser.",
+        "prompt": "Among the purposes of purchasing derivatives would be all of the following EXCEPT"
+    },
+    "kaplanExam4_22": {
+        "answers": [
+            {
+                "content": "DPPs",
+                "correct": false
+            },
+            {
+                "content": "REITs",
+                "correct": false
+            },
+            {
+                "content": "Warrants",
+                "correct": true
+            },
+            {
+                "content": "UITs",
+                "correct": false
+            }
+        ],
+        "explanation": " A derivative has its value based upon some underlying asset. The value of a warrant is based on the value of the security into which it is exchangeable.",
+        "prompt": "The term derivative would apply to which of the following?"
+    },
+    "kaplanExam4_23": {
+        "answers": [
+            {
+                "content": "7% coupon yielding 6.5%",
+                "correct": false
+            },
+            {
+                "content": "7% coupon yielding 7.5%",
+                "correct": true
+            },
+            {
+                "content": "10% coupon yielding 9%",
+                "correct": false
+            },
+            {
+                "content": "5% coupon yielding 5%",
+                "correct": false
+            }
+        ],
+        "explanation": "Whenever the yield is higher than the coupon, the bond is selling at a discount from the par value.",
+        "prompt": "Which of the following indicates a bond selling at a discount?"
+    },
+    "kaplanExam4_24": {
+        "answers": [
+            {
+                "content": "both offer tax-deferred growth of earnings",
+                "correct": false
+            },
+            {
+                "content": "both require the salesperson possess a securities and an insurance license",
+                "correct": false
+            },
+            {
+                "content": "the surrender charges on a mutual fund are usually higher than on a variable annuity",
+                "correct": false
+            },
+            {
+                "content": "the expense ratio of the variable annuity is usually higher than that of a comparable mutual fund",
+                "correct": true
+            }
+        ],
+        "explanation": "It is generally correct to state that variable annuities offer a way to accumulate funds on a tax-deferred basis, although generally with operating expenses somewhat higher than mutual funds with the same investment objective. There is no tax-deferral with mutual funds and no insurance license is required to sell them. Only Class B and C shares have redemption fees, a form of surrender charge, and they are invariable lower than annuity surrender charges.",
+        "prompt": "When comparing mutual funds and variable annuities, it would be correct to state that"
+    },
+    "kaplanExam4_25": {
+        "answers": [
+            {
+                "content": "derives its value from some underlying asset",
+                "correct": false
+            },
+            {
+                "content": "can only be exercised on its expiration date",
+                "correct": true
+            },
+            {
+                "content": "is primarily used for options on foreign securities",
+                "correct": false
+            },
+            {
+                "content": "is generally offered with a limited number of expiration dates.",
+                "correct": false
+            }
+        ],
+        "explanation": "The single most significant (and tested) difference between these two styles is that an American style option can be exercised anytime while a European style option can only be exercised at expiration. They both derive their value from some underlying asset which is why they are derivative securities. European style has nothing to do with the domicile of the underlying asset behind the option and these are offered with a similar range of expiration dates as are American style options.",
+        "prompt": "A European style option differs from an American style option primarily in that it"
+    },
+    "kaplanExam4_26": {
+        "answers": [
+            {
+                "content": "futures on commodities",
+                "correct": false
+            },
+            {
+                "content": "interest rate swaps",
+                "correct": false
+            },
+            {
+                "content": "REITs",
+                "correct": true
+            },
+            {
+                "content": "LEAPS",
+                "correct": false
+            }
+        ],
+        "explanation": "A derivative is something which derives its value from something else. REITs represent direct investment into real estate; the asset purchase is the actual asset. Never heard of interest rate swaps? Well, on the real exam, there will occasionally be an answer choice that you've never heard of, but it should not affect your ability to choose the correct one.",
+        "prompt": "The term derivative would not include"
+    },
+    "kaplanExam4_27": {
+        "answers": [
+            {
+                "content": "beta coefficient",
+                "correct": false
+            },
+            {
+                "content": "central tendency",
+                "correct": true
+            },
+            {
+                "content": "correlation coefficient",
+                "correct": false
+            },
+            {
+                "content": "standard deviation",
+                "correct": false
+            }
+        ],
+        "explanation": "Central tendency is usually defined as the center or middle of a distribution. The three most common tools used are mean, median, and mode.",
+        "prompt": "The terms mean, median, and mode are all measures of"
+    },
+    "kaplanExam4_28": {
+        "answers": [
+            {
+                "content": "a parent to compute the amount needed for education funding",
+                "correct": false
+            },
+            {
+                "content": "a corporation to determine the feasibility of investing in new capital equipment",
+                "correct": true
+            },
+            {
+                "content": "an investment adviser to compute the expected returns from a portfolio",
+                "correct": false
+            },
+            {
+                "content": "determining how close a stock's return is to the efficient frontier ",
+                "correct": false
+            }
+        ],
+        "explanation": "Net present value is frequently used in capital budgeting to determine which of several projects makes the most economic sense. By evaluating future cash flows against initial outlay, the projects with a positive NPV are those that are most likely to offer financial reward.",
+        "prompt": "One of the most common uses of the net present value calculation is for"
+    },
+    "kaplanExam4_29": {
+        "answers": [
+            {
+                "content": "IRR expresses the rate of interest that matches the initial investment with the present value of future cash flows",
+                "correct": false
+            },
+            {
+                "content": "investments are acceptable when their internal rates of return exceed the investor's required rate of return",
+                "correct": false
+            },
+            {
+                "content": "IRR cannot be calculated for investments with uneven cash flows",
+                "correct": true
+            },
+            {
+                "content": "IRR is the one rate of return that results in an investment having a net present value (NPV) of 0",
+                "correct": false
+            }
+        ],
+        "explanation": "IRR is the rate of interest that equates the initial investment with the present value of future cash flows; it is the rate of return that results in an investment having a net present value of 0. It is possible, although very difficult, to calculate IRR for investments with uneven cash flows such as common stocks.",
+        "prompt": "All of the following statements regarding an investment's internal rate of return (IRR) are true EXCEPT"
+    },
+    "kaplanExam4_30": {
+        "answers": [
+            {
+                "content": "credit risk",
+                "correct": false
+            },
+            {
+                "content": "reinvestment risk",
+                "correct": false
+            },
+            {
+                "content": "marketability risk",
+                "correct": false
+            },
+            {
+                "content": "interest rate risk",
+                "correct": true
+            }
+        ],
+        "explanation": "Interest rate risk is the risk that as interest rates rise, bond prices fall. Periods of inflation are accompanied by rising interest rates. Another risk in this scenario is purchasing power risk; each semiannual interest payment has less purchasing power due to inflation, and, of course, the purchasing power of the principal at maturity will be far less as well.",
+        "prompt": "The risk to bondholders that bonds may lose value during periods of increasing inflation is known as"
+    },
+    "kaplanExam4_31": {
+        "answers": [
+            {
+                "content": "Present value",
+                "correct": false
+            },
+            {
+                "content": "Expected cost of college",
+                "correct": true
+            },
+            {
+                "content": "Consumer Price Index",
+                "correct": false
+            },
+            {
+                "content": "Client's marginal federal income tax bracket",
+                "correct": false
+            }
+        ],
+        "explanation": "To determine whether the investment will satisfy the goal, the investment adviser representative needs to know the amount needed to pay for college. The information we have here will allow us to compute the future value: $25,181.70. This may not be enough to pay for even 1 year of college 12 years from now.",
+        "prompt": "Your client has $10,000 to invest today and expects to earn an after-tax return of 8% to send his daughter to college in 12 years. Which of the following is needed to determine whether the investment is likely to satisfy the client's goal?"
+    },
+    "kaplanExam4_32": {
+        "answers": [
+            {
+                "content": "A traditional IRA allows a maximum taxdeductible annual contribution of $2,500 per individual or $4,000 per couple.",
+                "correct": false
+            },
+            {
+                "content": "The income and capital gains earned in the account are tax deferred until the funds are withdrawn.",
+                "correct": true
+            },
+            {
+                "content": "Distributions without penalty may begin after age 59 1/2 and must begin by April 1 of the year preceding the year an individual turns 70 1/2.",
+                "correct": false
+            },
+            {
+                "content": "Distributions before age 59 1/2 are subject to a 10% penalty in lieu of income taxes.",
+                "correct": false
+            }
+        ],
+        "explanation": "The income and capital gains earned in the account are tax deferred until the funds are withdrawn. A traditional IRA allows a maximum tax-deductible annual contribution of $5,500 per individual ($6,500 for those age 50 and older), not $2,500 per individual. Distributions without penalty may begin after age 59 1/2 and must begin by April 1 of the year following the year an individual turns 70 1/2. Distributions before age 59 1/2 are subject to a 10% penalty and subject to taxes. ",
+        "prompt": "Which of the following statements regarding a traditional IRA for someone filing a 2016 tax return is TRUE?"
+    },
+    "kaplanExam4_33": {
+        "answers": [
+            {
+                "content": "deferral of taxes",
+                "correct": false
+            },
+            {
+                "content": "distributions without penalty can begin as early as age 59 1/2",
+                "correct": false
+            },
+            {
+                "content": "identical amounts of cash contributions are allowed",
+                "correct": true
+            },
+            {
+                "content": "there is a 50% tax penalty for insufficient distributions ",
+                "correct": false
+            }
+        ],
+        "explanation": "IRAs and Keogh plans do not have identical contribution amounts; IRAs allow a maximum of $5,500 per individual or $11,000 per couple per year, whereas Keogh plans allow substantially more. Both IRAs and Keoghs allow tax-deferred growth until the individual withdraws the funds. IRAs and Keoghs have premature distribution penalties before age 59 1/2. Once the participant reaches 70 1/2, required minimum distributions must be made or a 50% tax penalty will be assessed.",
+        "prompt": "IRAs and Keogh plans are similar in the following ways EXCEPT"
+    },
+    "kaplanExam4_34": {
+        "answers": [
+            {
+                "content": "covered call writing",
+                "correct": false
+            },
+            {
+                "content": "bank CDs",
+                "correct": false
+            },
+            {
+                "content": "works of art",
+                "correct": true
+            },
+            {
+                "content": "growth-oriented securities",
+                "correct": false
+            }
+        ],
+        "explanation": "Gems, intangibles, and works of art are ineligible investments for an IRA. Covered call writing is allowed, but speculative options strategies are not. Bank CDs are permissible investments for an IRA. Growth-oriented securities and securities in general are appropriate investment vehicles for IRAs.",
+        "prompt": "All of the following investments are eligible for a traditional IRA EXCEPT"
+    },
+    "kaplanExam4_35": {
+        "answers": [
+            {
+                "content": "A wealthy individual withdraws $10,000 from his IRA to purchase his first principal residence.",
+                "correct": true
+            },
+            {
+                "content": "A single parent withdraws funds from her IRA to pay for the education of a nephew.",
+                "correct": false
+            },
+            {
+                "content": "A single parent supplements a home equity loan with funds from her IRA to pay for an additional home (a vacation home).",
+                "correct": false
+            },
+            {
+                "content": "A person withdraws funds from his IRA to buy a principal residence after he sold his first home as a result of medical expenses.",
+                "correct": false
+            }
+        ],
+        "explanation": "Any individual withdrawing $10,000 from his IRA to purchase his first principal residence would have the penalty waived. The wealth of the individual is not relevant. The purchase must be a first-time purchase as well as the primary residence. A single parent who withdraws funds from her IRA to pay for the education of a nephew will pay a 10% tax penalty. Educational withdrawals are limited to the taxpayer or a spouse, child, or grandchild. A single parent who supplements a home equity loan with funds from her IRA to pay for an additional home will pay a penalty because only a primary residence can be purchased with early withdrawal funds. A person who withdraws funds from his IRA to buy a principal residence after he sold his first home as a result of medical expenses will pay a penalty because the purchase is not for his first principal residence.",
+        "prompt": "Which of the following is an allowable early withdrawal from a traditional IRA without penalty?"
+    },
+    "kaplanExam4_36": {
+        "answers": [
+            {
+                "content": "all corporate pension and profit-sharing plans must be established under a trust agreement",
+                "correct": false
+            },
+            {
+                "content": "all qualified retirement plans are either defined contribution or defined benefit plans",
+                "correct": false
+            },
+            {
+                "content": "they are covered under ERISA",
+                "correct": false
+            },
+            {
+                "content": "with defined benefit plans, the employee bears the investment risk",
+                "correct": true
+            }
+        ],
+        "explanation": "With defined benefit plans, the employer (not the employee) bears the investment risk. The employer must fund the defined benefits, regardless of the investment performance of funds set aside for this purpose. The retiree receives a defined benefit regardless of investment performance. All corporate pension and profit-sharing plans must be established under a trust agreement. All qualified retirement plans are either defined contribution or defined benefit plans.",
+        "prompt": "All of the following statements regarding qualified corporate retirement plans are true EXCEPT"
+    },
+    "kaplanExam4_37": {
+        "answers": [
+            {
+                "content": "a public school custodian",
+                "correct": false
+            },
+            {
+                "content": "a church minister",
+                "correct": false
+            },
+            {
+                "content": "a nurse at a nonprofit hospital",
+                "correct": false
+            },
+            {
+                "content": "a student at a nonprofit college",
+                "correct": true
+            }
+        ],
+        "explanation": "403(b) plans are available to employees of nonprofit 501(c)(3) schools, not students. 403(b) plans are also available to employees of public educational institutions such as schools. Church organization employees are allowed 403(b) plans. Employees of tax-exempt institutions such as private colleges, research and scientific foundations, private hospitals, and medical schools are allowed to establish 403(b) plans.",
+        "prompt": "Qualified annuity plans offered under Section 403(b) of the Internal Revenue Code, referred to as tax-sheltered annuities (TSAs), are not available to"
+    },
+    "kaplanExam4_38": {
+        "answers": [
+            {
+                "content": "A fiduciary sells a real estate investment to the plan at the current market rate.",
+                "correct": false
+            },
+            {
+                "content": "A fiduciary participates in a transaction on the plan's behalf that involves a party with interests adverse to those of the plan in order to ensure favorable terms for the plan.",
+                "correct": false
+            },
+            {
+                "content": "A fiduciary offers reduced commissions to the plan for transactions that are executed through his employing financial institution.",
+                "correct": false
+            },
+            {
+                "content": "The fiduciary receives fees for acting as a trustee to the plan.",
+                "correct": true
+            }
+        ],
+        "explanation": "A fiduciary can receive compensation from the sponsor of the plan for acting as a trustee, if fees are reasonable and consistent with duties performed. A fiduciary may not sell a real estate investment to the plan at the going market rate. Such self-dealing presents a conflict of interest regardless of the terms of the transaction. A fiduciary may not participate in a transaction on the plan's behalf that involves a party with interests adverse to those of the plan in order to ensure favorable terms for the plan. The situation is self-dealing and presents a conflict of interest prohibited under ERISA. Offers of reduced commissions to the plan for transactions that are executed through his employing financial institution are prohibited and a conflict of interest.",
+        "prompt": "Which of the following would not constitute a conflict of interest between the plan and a fiduciary?"
+    },
+    "kaplanExam4_39": {
+        "answers": [
+            {
+                "content": "proceeds in ESAs may be withdrawn income tax free even if the child is under age 18",
+                "correct": false
+            },
+            {
+                "content": "proceeds in 529s may be withdrawn incometax free only if used at an accredited academic institution",
+                "correct": false
+            },
+            {
+                "content": "Section 529 plans allow a gift tax exclusion equal to five times the annual limit that may be repeated every 5 years",
+                "correct": false
+            },
+            {
+                "content": "a beneficiary of an ESA who withdraws the funds for nonqualified expenses will be taxed on the entire amount of the withdrawal plus a 10% penalty",
+                "correct": true
+            }
+        ],
+        "explanation": "The tax and 10% penalty is only levied against earnings since the contributions were made with after-tax dollars. ",
+        "prompt": "All of the following are true about college funding plans EXCEPT"
+    },
+    "kaplanExam4_40": {
+        "answers": [
+            {
+                "content": "Owner-employee businesses and professional practices must show a gross profit in order to qualify for a tax-deductible contribution.",
+                "correct": false
+            },
+            {
+                "content": "A participant in a Keogh Plan may also maintain an IRA.",
+                "correct": false
+            },
+            {
+                "content": "The maximum allowable contribution to a Keogh Plan is substantially higher than that for an IRA.",
+                "correct": false
+            },
+            {
+                "content": "A former corporate employee who decides to become self-employed may not rollover any distributions from a qualified corporate plan into a rollover IRA if he has created a Keogh Plan. ",
+                "correct": true
+            }
+        ],
+        "explanation": "Rollovers are permitted into an IRA regardless of any plans maintained. Taxdeductible contributions are not allowed unless there is potentially taxable income against which to deduct. Anyone with earned income may have an IRA, regardless of participation in another qualified plan, and the Keogh Plan contribution limits are much higher than those for an IRA.",
+        "prompt": "Keogh Plans are qualified plans intended for those with self-employment income and owneremployees of unincorporated businesses or professional practices filing a Form 1040 Schedule C with the IRS. Which of the following statements relating to the Keogh Plan is NOT true?"
+    },
+    "kaplanExam4_41": {
+        "answers": [
+            {
+                "content": "Internal Revenue Service",
+                "correct": false
+            },
+            {
+                "content": "plan fiduciary",
+                "correct": false
+            },
+            {
+                "content": "plan participant",
+                "correct": true
+            },
+            {
+                "content": "Securities and Exchange Commission",
+                "correct": false
+            }
+        ],
+        "explanation": "In a 401(k) plan, a plan sponsor can shift investment risk to the employee by complying with ERISA Section 404(c) rules.",
+        "prompt": "An employer whose 401(k) plan complies with ERISA Section 404 is placing investment risk with the"
+    },
+    "kaplanExam4_42": {
+        "answers": [
+            {
+                "content": "Roger, who has completed 1 year of service",
+                "correct": false
+            },
+            {
+                "content": "Emily, who is fully vested",
+                "correct": false
+            },
+            {
+                "content": "Sam, who has completed 15 years of service",
+                "correct": false
+            },
+            {
+                "content": "Hannah, who is 55 years old",
+                "correct": true
+            }
+        ],
+        "explanation": "Catch-up contributions are allowed to participants who are age 50 and over.",
+        "prompt": "Which of the following individuals is clearly eligible to make a catch-up contribution?"
+    },
+    "kaplanExam4_43": {
+        "answers": [
+            {
+                "content": "If a portion or all of the withdrawal (QTP) is spent on anything other than qualified higher education expenses, the distributee will be taxed at her own tax rate on the earnings portion of the withdrawal.",
+                "correct": false
+            },
+            {
+                "content": "Coverdell ESAs currently permit up to $5,000 in annual contributions, whereas QTPs allow large contributions reaching as high as $250,000 and above.",
+                "correct": true
+            },
+            {
+                "content": "QTPs are extremely useful tools that provide significant tax savings, allow for substantial investments for a child's education and provide a tool for avoidance of gift and estate taxes if used correctly.",
+                "correct": false
+            },
+            {
+                "content": "Coverdell ESAs are designed to offer tax benefits to those individuals who wish to save money for a child/grandchild's higher education expenses.",
+                "correct": false
+            }
+        ],
+        "explanation": "Coverdell ESAs currently permit up to $2,000 (2016) in annual contributions, whereas QTPs (Section 529 Plans) allow large contributions reaching as high as $250,000 and above. When nonqualifying distributions are taken, any taxes are the responsibility of the distributee, defined by the IRS as the beneficiary (student) of the plan.",
+        "prompt": "Which of the following statements regarding Coverdell ESAs and QTPs is NOT correct?"
+    },
+    "kaplanExam4_44": {
+        "answers": [
+            {
+                "content": "$200",
+                "correct": false
+            },
+            {
+                "content": "$500",
+                "correct": true
+            },
+            {
+                "content": "$2,000",
+                "correct": false
+            },
+            {
+                "content": "$4,000",
+                "correct": false
+            }
+        ],
+        "explanation": "The penalty for failure to make the correct amount of required minimum distribution is 25% of the difference between the minimum required amount and the actual distribution. In this case, this would be 25% of $2,000 ($10,000 - $8,000) or $500.",
+        "prompt": "Under the minimum distribution rules, Jason is required to take a minimum distribution of $10,000 this year from his IRA. However, a distribution of only $8,000 has been made. What is the dollar amount of penalty that may be assessed in this situation?"
+    },
+    "kaplanExam4_45": {
+        "answers": [
+            {
+                "content": "a governmental plan must hold its assets in trust or custodial accounts for the benefit of individual participants",
+                "correct": true
+            },
+            {
+                "content": "a tax-exempt plan participant does not have to include plan distributions in his or her taxable income",
+                "correct": false
+            },
+            {
+                "content": "a governmental plan cannot make a distribution before the participant attains age 70 1/2",
+                "correct": false
+            },
+            {
+                "content": "a tax exempt plan's distributions are not eligible for a favorable lump sum 10-year averaging treatment",
+                "correct": false
+            }
+        ],
+        "explanation": "A governmental Section 457 plan must be funded, that is, it must hold plan assets in trusts or custodial accounts for the benefit of individual participants. Conversely, a tax-exempt (nongovernmental) Section 457 plan may not be funded.",
+        "prompt": "A basic difference between a Section 457 plan established on behalf of a governmental entity and one established by a private tax-exempt organization is that"
+    },
+    "kaplanExam4_46": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": true
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The maximum annual contribution applies as a total among your Roth and your traditional IRA. So, if the maximum is $5,500 and you put $3,000 into your Roth, you could only put $2,500 into your traditional IRA. You could do a total of $6,500 if you were 50 or older. High income level and participation in an employersponsored plan will impact the amount you may deduct but not the amount you may contribute. Even though a married couple can have their own IRAs or set up a spousal IRA if one is nonworking, that doesn't reduce the amount that either spouse can contribute.",
+        "prompt": "Which of the following could reduce the amount that an individual may contribute to a Traditional IRA? <br><br>I. Roth IRA contributions made for the year <br>II. High income level <br>III. Participation in an employer-sponsored plan <br>IV. Marital status"
+    }
+};
