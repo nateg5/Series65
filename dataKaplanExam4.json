@@ -260,7 +260,7 @@ let dataKaplanExam4 = {
                 "correct": false
             }
         ],
-        "explanation": "For federal covered investment advisers, a prepayment in excess of $1,200 and for periods of 6 months or more in advance (substantial prepayment) requires the adviser to submit an annual audited balance sheet as part of its ADV Part 2 (and brochure). Previously, even though the firm's fee was in excess of $1,200, because it was collected on a quarterly basis, the firm did not fall under the balance sheet rule. Had this been a state registered IA, the answer would have been the same, even though the dollar limit is $500 rather than $1,200. That is for the reason given above—the former fee was charged quarterly and the substantial prepayment definition requires both exceeding a stated dollar amount ($500 or $1,200) and it being for 6 months or more in advance.",
+        "explanation": "For federal covered investment advisers, a prepayment in excess of $1,200 and for periods of 6 months or more in advance (substantial prepayment) requires the adviser to submit an annual audited balance sheet as part of its ADV Part 2 (and brochure). Previously, even though the firm's fee was in excess of $1,200, because it was collected on a quarterly basis, the firm did not fall under the balance sheet rule. Had this been a state registered IA, the answer would have been the same, even though the dollar limit is $500 rather than $1,200. That is for the reason given above-the former fee was charged quarterly and the substantial prepayment definition requires both exceeding a stated dollar amount ($500 or $1,200) and it being for 6 months or more in advance.",
         "prompt": "A firm is registered as an investment adviser under the Investment Advisers Act of 1940. It has decided to raise its annual management fee from $1,500 to $1,800 and require that it be paid 1 year in advance instead of quarterly. The firm would"
     },
     "kaplanExam4_13": {
@@ -722,7 +722,7 @@ let dataKaplanExam4 = {
                 "correct": false
             }
         ],
-        "explanation": "IRAs and Keogh plans do not have identical contribution amounts; IRAs allow a maximum of $5,500 per individual or $11,000 per couple per year, whereas Keogh plans allow substantially more. Both IRAs and Keoghs allow tax-deferred growth until the individual withdraws the funds. IRAs and Keoghs have premature distribution penalties before age 59 1/2. Once the participant reaches 70 1/2, required minimum distributions must be made or a 50% tax penalty will be assessed.",
+        "explanation": "IRAs and Keogh plans do not have identical contribution amounts; IRAs allow a maximum of $7,000 per individual or $14,000 per couple per year, whereas Keogh (HR-10) plans allow substantially more (smaller of 25% of salary or $69,000). Both IRAs and Keoghs allow tax-deferred growth until the individual withdraws the funds. IRAs and Keoghs have premature distribution penalties before age 59 1/2. Once the participant reaches 73, required minimum distributions must be made or a 25% tax penalty will be assessed.",
         "prompt": "IRAs and Keogh plans are similar in the following ways EXCEPT"
     },
     "kaplanExam4_34": {
@@ -1008,7 +1008,7 @@ let dataKaplanExam4 = {
                 "correct": false
             }
         ],
-        "explanation": "The maximum annual contribution applies as a total among your Roth and your traditional IRA. So, if the maximum is $5,500 and you put $3,000 into your Roth, you could only put $2,500 into your traditional IRA. You could do a total of $6,500 if you were 50 or older. High income level and participation in an employersponsored plan will impact the amount you may deduct but not the amount you may contribute. Even though a married couple can have their own IRAs or set up a spousal IRA if one is nonworking, that doesn't reduce the amount that either spouse can contribute.",
+        "explanation": "The maximum annual contribution applies as a total among your Roth and your traditional IRA. So, if the maximum is $7,000 and you put $3,000 into your Roth, you could only put $4,000 into your traditional IRA. You could do a total of $8,000 if you were 50 or older. High income level and participation in an employersponsored plan will impact the amount you may deduct but not the amount you may contribute. Even though a married couple can have their own IRAs or set up a spousal IRA if one is nonworking, that doesn't reduce the amount that either spouse can contribute.",
         "prompt": "Which of the following could reduce the amount that an individual may contribute to a Traditional IRA? <br><br>I. Roth IRA contributions made for the year <br>II. High income level <br>III. Participation in an employer-sponsored plan <br>IV. Marital status"
     }
 };
