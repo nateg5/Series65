@@ -1,0 +1,1014 @@
+let dataKaplanExam5 = {
+    "kaplanExam5_1": {
+        "answers": [
+            {
+                "content": "\"We believe that fundamental analysis is the best way to select stocks for our clients.\"",
+                "correct": false
+            },
+            {
+                "content": "\"Our fees are nonnegotiable\" (when ADV Part 2A clearly indicates otherwise).",
+                "correct": true
+            },
+            {
+                "content": "\"We require any associated person determining general investment advice to be a CFA.\"",
+                "correct": false
+            },
+            {
+                "content": "\"We have over $40 billion in assets under management representing both institutional and retail clients.\"",
+                "correct": false
+            }
+        ],
+        "explanation": "Stating an untruth would be considered fraud. If the Form ADV Part 2 says that the fees are negotiable, you can't state that they are not. An adviser may certainly state which method of analysis he thinks is best. A firm can also set whatever standards it wishes, even though none are required by the regulatory bodies. As far as bragging about the amount of AUM, if you've got them, it is okay to flaunt them.",
+        "prompt": "Which of the following statements made by an investment adviser would be fraudulent?"
+    },
+    "kaplanExam5_2": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "Federal registration is generally required of any investment adviser managing at least $110 million in assets. The NSMIA provides that any investment adviser under contract to a registered investment company under the Investment Company Act of 1940 is required to register with the SEC as a federal covered adviser. Providing advice on federal covered securities listed on the NYSE does not make the adviser a federal covered adviser. Determining if one is a federal covered investment adviser is not based on affiliations; it is generally a function of AUM or managing an investment company.",
+        "prompt": "A federal covered investment adviser is one who <br><br>I. has $110 million or more in assets under management <br>II. manages an investment company registered under the Investment Company Act of 1940 <br>III. limits his advice to securities listed on the NYSE <br>IV. is affiliated with a federally chartered bank"
+    },
+    "kaplanExam5_3": {
+        "answers": [
+            {
+                "content": "An employee, highly skilled in evaluating securities, who performs administrative or clerical functions for an investment adviser",
+                "correct": false
+            },
+            {
+                "content": "An individual who renders fee-based advice on precious metals",
+                "correct": false
+            },
+            {
+                "content": "A solicitor for an investment advisory firm who is compensated for the service rendered",
+                "correct": true
+            },
+            {
+                "content": "An agent who offers incidental advice on securities whose sole compensation is from commissions on transactions",
+                "correct": false
+            }
+        ],
+        "explanation": "A solicitor is considered an investment adviser representative under the Uniform Securities Act. An employee who performs only clerical or administrative functions is not an investment adviser representative. Precious metals are not securities and, therefore, a person advising on them is not considered an investment adviser representative. An agent is a representative of a broker-dealer, and as long as the only form of compensation is sales commissions based upon transactions, registration as an investment adviser representative is not required.",
+        "prompt": "Under the Uniform Securities Act, which of the following would be included in the definition of an investment adviser representative?"
+    },
+    "kaplanExam5_4": {
+        "answers": [
+            {
+                "content": "a teacher",
+                "correct": false
+            },
+            {
+                "content": "an economist",
+                "correct": true
+            },
+            {
+                "content": "a lawyer",
+                "correct": false
+            },
+            {
+                "content": "an engineer",
+                "correct": false
+            }
+        ],
+        "explanation": "The Uniform Securities Act does not exclude economists from the definition of investment adviser as it does lawyers, accountants, teachers, and engineers who give advice that is incidental to the practice of their profession. Remember the acronym LATE-lawyers, accountants, teachers, and engineers. Do not be fooled by the E in economist.",
+        "prompt": "Under the Uniform Securities Act, all of the following may provide investment advice incidental to their normal business without requiring registration as an investment adviser EXCEPT"
+    },
+    "kaplanExam5_5": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The Uniform Securities Act defines persons associated with an investment adviser as an investment adviser representative, including any partner, officer, or director who offers advice concerning securities. Persons who manage client accounts or portfolios, determine securities recommendations, or supervise personnel engaged in the above activities are investment adviser representatives.",
+        "prompt": "Under the Uniform Securities Act, any partner, officer, or director of a registered investment adviser is an investment adviser representative if a function of the position involves <br><br>I. offering advice concerning securities <br>II. managing client accounts or portfolios <br>III. determining securities recommendations for representatives to disseminate <br>IV. supervising personnel engaged in advisory activities but not directly dealing with the public"
+    },
+    "kaplanExam5_6": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "A publisher of a financial newspaper and a CPA who, as an incidental part of his practice, suggests tax-sheltered investments are not investment advisers. Once a brokerdealer is compensated for investment advice, usually referred to as special compensation in the rules, the exclusion from the definition is lost. This answer would be the same under either the USA or federal law.",
+        "prompt": "As defined in the Uniform Securities Act, an investment adviser is all of the following EXCEPT <br><br>I. a broker-dealer who charges for investment advice <br>II. a publisher of a financial newspaper <br>III. a person who sells security analysis <br>IV. a CPA who, as an incidental part of his practice, suggests certain tax-sheltered investments to his affluent clients"
+    },
+    "kaplanExam5_7": {
+        "answers": [
+            {
+                "content": "lack of experience",
+                "correct": true
+            },
+            {
+                "content": "conviction for a securities-related misdemeanor within the past 10 years",
+                "correct": false
+            },
+            {
+                "content": "failure to pass a written exam",
+                "correct": false
+            },
+            {
+                "content": "submitting an incomplete application",
+                "correct": false
+            }
+        ],
+        "explanation": "Lack of experience, by itself, is not cause for registration denial.",
+        "prompt": "An Administrator can deny an individual's application for registration as an investment adviser representative for all of the following reasons EXCEPT"
+    },
+    "kaplanExam5_8": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II only",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            },
+            {
+                "content": "IV only Unit 1 Unit Test 259",
+                "correct": false
+            }
+        ],
+        "explanation": "The Administrator may, by rule, prohibit advisers from having custody of client funds or securities. If no such prohibition applies, the Administrator must be notified in writing if an adviser has custody. In almost all jurisdictions, a bond or sufficient net worth is required to maintain custody. Discretionary authority does not affect an adviser's ability to have custody.",
+        "prompt": "Under the Uniform Securities Act, an investment adviser may legally have custody of money or securities belonging to a client if the <br><br>I. investment adviser has insufficient net worth or is not appropriately bonded <br>II. Administrator has not issued a rule prohibiting custody <br>III. investment adviser does not also have discretionary authority over the account <br>IV. investment adviser has notified the Administrator that custody is maintained"
+    },
+    "kaplanExam5_9": {
+        "answers": [
+            {
+                "content": "it has received the permission of the Administrator",
+                "correct": false
+            },
+            {
+                "content": "it has received permission from the SEC",
+                "correct": false
+            },
+            {
+                "content": "it does not share in the capital gains of the account",
+                "correct": false
+            },
+            {
+                "content": "the Administrator has been informed of the custody",
+                "correct": true
+            }
+        ],
+        "explanation": "As long as retaining custody of funds is not prohibited, an investment adviser may have custody of a customer's account after providing notice to the Administrator. ",
+        "prompt": "According to the Uniform Securities Act, an investment adviser may have custody of a customer's funds and securities if"
+    },
+    "kaplanExam5_10": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Any change in the ownership of an investment advisory firm organized as a partnership, no matter how small, requires notification to all clients within a reasonable amount of time. If the firm is structured as a corporation, pledging a controlling interest in the company's stock is viewed as an assignment of the contracts. This may not be done without the approval of the clients. Agency cross transactions- that is, where the adviser represents both sides of the trade-are permitted as long as the adviser makes the proper written disclosures and does not make the buy/sell recommendations to both parties.",
+        "prompt": "Which of the following are prohibited practices? <br><br>I. An investment advisory firm organized as a partnership fails to inform its clients of the departure of a partner with a very small interest in the partnership. <br>II. An investment advisory firm charges an annual fee equal to 2% of the first $250,000 in assets under management; 1% of the next $500,000; and .5% for everything in excess of $750,000. <br>III. The majority stockholder of a registered investment adviser pledges his stock as collateral for a loan taken out by the firm to expand its services without obtaining client consent for assignment of their contracts. <br>IV. An investment advisory firm engages in agency cross transactions."
+    },
+    "kaplanExam5_11": {
+        "answers": [
+            {
+                "content": "be permitted to contact your clients with this recommendation right now",
+                "correct": true
+            },
+            {
+                "content": "be permitted to contact your clients with this recommendation tomorrow",
+                "correct": false
+            },
+            {
+                "content": "not be permitted to contact your clients until it was ascertained that the report was general public knowledge",
+                "correct": false
+            },
+            {
+                "content": "be required to send your clients to the firm's website before making any comments regarding this security",
+                "correct": false
+            }
+        ],
+        "explanation": "A firm's internal research is not considered inside information. Clients may be contacted as soon as the IAR has access to the report. What is prohibited would be for the IAR to purchase this stock personally, prior to release of the report, and then contact clients.",
+        "prompt": "The head of research for your firm has just prepared a very positive report on DEF Industries, Inc. The report will be placed on the firm's website later today and copies mailed to clients for whom the security is deemed appropriate. Tonight, this analyst will be appearing on CNBC and will be describing why he has issued this \"strong buy\" recommendation. As an investment adviser representative, you would"
+    },
+    "kaplanExam5_12": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "Conflicts of interest could impair the rendering of unbiased and objective advice. Conflicts of interest include, but are not limited to, receiving compensation from sources other than clients' fees (such as a salary or commission from a broker-dealer) as a result of providing investment advice. Such conflicts of interest must be disclosed to a client in writing before the investment advisory contract is signed.",
+        "prompt": "Which of the following statements concerning conflicts of interest under NASAA's Model Rule on Unethical Business Practices of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers are TRUE? <br><br>I. Where a conflict of interest exists, an adviser must decline taking on the client. <br>II. A conflict of interest is defined as anything that may impair the impartiality of the advice being rendered. <br>III. An investment adviser who receives a fee for investment advice, and whose investment adviser representatives are paid commissions from broker-dealers, presents a conflict of interest that must be disclosed."
+    },
+    "kaplanExam5_13": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The format is not what counts; it is the content that matters.",
+        "prompt": "The regulatory bodies are concerned about agents using social media to communicate with clients when they are using their <br><br>I. office desktop computers <br>II. personal tablets <br>III. smartphones <br>IV. personal laptop from homes"
+    },
+    "kaplanExam5_14": {
+        "answers": [
+            {
+                "content": "these are reasonable expectations based on the investment and the location of the issuer",
+                "correct": false
+            },
+            {
+                "content": "your firm does not sell that security and, as a result, you cannot make any comments about the issue",
+                "correct": false
+            },
+            {
+                "content": "it is important to check with the friend to find out more about the deal",
+                "correct": false
+            },
+            {
+                "content": "these are red flags and are a clear warning to stay away from this investment ",
+                "correct": true
+            }
+        ],
+        "explanation": "Unreasonably high returns and not being registered in the United States are two items on the list of red flag warnings to investors published by NASAA.",
+        "prompt": "One of your clients approaches you to get your evaluation of an investment opportunity that was received through a Facebook post sent by a friend. The investment promises a monthly return in excess of 1% and claims that it is registered with an offshore regulatory body. You should explain to your client that"
+    },
+    "kaplanExam5_15": {
+        "answers": [
+            {
+                "content": "almost 1 year since your last contact with your client, you receive a phone call requesting that funds be wired to an offshore account",
+                "correct": false
+            },
+            {
+                "content": "a client regularly visits your office to pick up a check representing the proceeds of recently settled transactions",
+                "correct": true
+            },
+            {
+                "content": "when running a credit report on a new client's applications, there is a discrepancy between the home address listed on the report and the one on the new account form",
+                "correct": false
+            },
+            {
+                "content": "the photograph on the identification documents provided does not resemble the individual opening the account",
+                "correct": false
+            }
+        ],
+        "explanation": "here is nothing wrong with a client picking up a check for the proceeds of a securities transaction, even if done on a regular basis (some folks don't trust the mail). Each of the other choices should raise a red flag as being something needing further investigation.",
+        "prompt": "A great concern to broker-dealers is the theft of the identity of a client. To reduce the possibility of a client's assets being improperly taken, most firms would consider all of these to be a red flag EXCEPT"
+    },
+    "kaplanExam5_16": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Business Continuity Plans are designed to provide for the unexpected events that can disrupt day-to-day business operations.",
+        "prompt": "A BCP should be designed to protect the firm's clients in the event of which of the following? <br><br>I. A natural disaster such as a hurricane or tornado <br>II. Acts of terrorism <br>III. Pregnancy of one of the firm's IARs <br>IV. Climate change"
+    },
+    "kaplanExam5_17": {
+        "answers": [
+            {
+                "content": "Liberia",
+                "correct": false
+            },
+            {
+                "content": "Libya",
+                "correct": false
+            },
+            {
+                "content": "London",
+                "correct": true
+            },
+            {
+                "content": "New York",
+                "correct": false
+            }
+        ],
+        "explanation": "LIBOR is the London Interbank Offered Rate (technically the ICE-LIBOR now) and, as shown, the L stands for London, U.K.",
+        "prompt": "The LIBOR rate is established on a daily basis in"
+    },
+    "kaplanExam5_18": {
+        "answers": [
+            {
+                "content": "$0",
+                "correct": true
+            },
+            {
+                "content": "$15,000",
+                "correct": false
+            },
+            {
+                "content": "$22,500",
+                "correct": false
+            },
+            {
+                "content": "$27,000",
+                "correct": false
+            }
+        ],
+        "explanation": "Until a variable life policy is in force for a minimum of three years (this one is a bit less than 2 1/2 years), there is no requirement to make the loan provision available. Once the three-year mark is reached, that minimum becomes 75% of the computed cash value.",
+        "prompt": "On July 15, 2013, your client purchased a variable life insurance policy with a death benefit of $500,000. The November 2015 statement showed a cash value of $30,000. If the client wanted to borrow as much as possible, the insurance company would have to allow a loan of at least"
+    },
+    "kaplanExam5_19": {
+        "answers": [
+            {
+                "content": "deduct $10,000 against ordinary income",
+                "correct": false
+            },
+            {
+                "content": "deduct $10,000 against capital gains",
+                "correct": false
+            },
+            {
+                "content": "deduct $3,000 against ordinary income and carry over the rest",
+                "correct": false
+            },
+            {
+                "content": "only deduct the passive loss against passive income",
+                "correct": true
+            }
+        ],
+        "explanation": "Passive losses, such as those generated by limited partnership investments (DPPs), are only deductible against passive income.",
+        "prompt": "Your client who owns a DPP that generated a $10,000 passive loss for the year could"
+    },
+    "kaplanExam5_20": {
+        "answers": [
+            {
+                "content": "Face-amount certificate company",
+                "correct": false
+            },
+            {
+                "content": "Exchange traded fund",
+                "correct": false
+            },
+            {
+                "content": "Hedge fund",
+                "correct": true
+            },
+            {
+                "content": "Unit investment trust",
+                "correct": false
+            }
+        ],
+        "explanation": "For various legal reasons, mostly related to the need to avoid registration with the SEC, hedge funds are generally structured as limited partnership entities with the organizers invariably sinking their own funds into a few units.",
+        "prompt": "Which type of investment company is most often organized as a limited partnership?"
+    },
+    "kaplanExam5_21": {
+        "answers": [
+            {
+                "content": "cash outflow",
+                "correct": false
+            },
+            {
+                "content": "net redemptions",
+                "correct": true
+            },
+            {
+                "content": "improved performance",
+                "correct": false
+            },
+            {
+                "content": "reduced leverage",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the main features of open-end investment management companies (mutual funds) is that there is a continuous offer of new shares and ready redemption of old ones. When redemptions exceed new purchases, the fund suffers from net redemptions.",
+        "prompt": "The Alpha-Gamma Mutual Fund reports a large number of their investors liquidating shares of the fund, so much so that the dollar amount of liquidations exceeds the incoming cash for new purchases. This would lead to a condition known as"
+    },
+    "kaplanExam5_22": {
+        "answers": [
+            {
+                "content": "incentive stock options",
+                "correct": true
+            },
+            {
+                "content": "non-qualified stock options",
+                "correct": false
+            },
+            {
+                "content": "listed stock options",
+                "correct": false
+            },
+            {
+                "content": "portable stock options ",
+                "correct": false
+            }
+        ],
+        "explanation": "Assuming the time limit conditions are met, exercise of an ISO can result in longterm capital gains while non-qualified options are always treated as ordinary income. ",
+        "prompt": "An employee wishing to obtain long-term capital gain treatment would prefer the employer to offer"
+    },
+    "kaplanExam5_23": {
+        "answers": [
+            {
+                "content": "an advance invitation to purchase some of the new shares",
+                "correct": false
+            },
+            {
+                "content": "options to purchase some of the new shares",
+                "correct": false
+            },
+            {
+                "content": "preemptive rights to purchase some of the new shares",
+                "correct": true
+            },
+            {
+                "content": "warrants to purchase some of the new shares",
+                "correct": false
+            }
+        ],
+        "explanation": "Commonly, when a publicly traded company issues new shares of common stock, existing shareholders receive preemptive rights, sometimes called stock rights, enabling them to purchase shares in proportion to their current ownership, usually at a reduced price. These rights rarely last longer than 45 days and must be exercised or sold within that time or they'll just expire worthless. Warrants are not sent to shareholders; they are either purchased in the open market or come attached to a new issue of securities as a \"sweetener\".",
+        "prompt": "GEMCO Manufacturing company, traded on the NYSE, has announced that it will be issuing 10 million new shares of common stock to raise new capital for the purchase of new equipment. Your client owning 1,000 shares of GEMCO common stock would probably receive"
+    },
+    "kaplanExam5_24": {
+        "answers": [
+            {
+                "content": "6% U.S. Treasury bond",
+                "correct": false
+            },
+            {
+                "content": "5% general obligation municipal bond issued by State H",
+                "correct": false
+            },
+            {
+                "content": "7% bond issued by Canadian Province M",
+                "correct": false
+            },
+            {
+                "content": "8% debenture issued by the LMN Corporation",
+                "correct": true
+            }
+        ],
+        "explanation": "Only the State H bond is exempt from federal income tax. Using the tax equivalent yield formula of the muni coupon divided by (100% minus the investor's tax bracket %) we get 5% divided by 65% or 7.7%. That's a better deal than receiving 6% on the Treasury and paying taxes as well as 7% on the Canadian bond (although you learned that securities issued by Canadian provinces were exempt from registration under the Uniform Securities Act, that has nothing to do with U.S. income taxes). However, with a TEY of 7.7%, your client would take home more with the 8% taxable corporate security. You can also work backward to get the correct answer. Simply subtract 35% tax from each of the choices (other than the muni) and see which is the highest. In this case, 8% minus a 35% tax equals 5.2%-just a bit higher than the 5% coupon on the municipal bond.",
+        "prompt": "Which of the following investments would provide the highest after-tax income to your client in the 35% federal income tax bracket?"
+    },
+    "kaplanExam5_25": {
+        "answers": [
+            {
+                "content": "5s of 2035",
+                "correct": false
+            },
+            {
+                "content": "5s of 2040",
+                "correct": false
+            },
+            {
+                "content": "5s of 2045",
+                "correct": true
+            },
+            {
+                "content": "4s of 2020",
+                "correct": false
+            }
+        ],
+        "explanation": "The bond with the longest duration will have the greatest sensitivity to change in interest rates. We examine two factors: the coupon rate and the length to maturity. When the coupon rates are the same, as they are for three of these bonds, the one with the maturity date farthest into the future will have the longest duration. Even though the 4% coupon is lower than the others, the maturity date is so much closer that it actually has the shortest duration (least sensitivity to change) of this group.",
+        "prompt": "The Wall Street pundits are predicting a substantial increase in interest rates. If they are correct, which of the following bonds would be most sensitive to that increase?"
+    },
+    "kaplanExam5_26": {
+        "answers": [
+            {
+                "content": "a portion of each payment consists of a return of principal in addition to interest",
+                "correct": true
+            },
+            {
+                "content": "there is collateral pledged for the loan",
+                "correct": false
+            },
+            {
+                "content": "they are generally convertible",
+                "correct": false
+            },
+            {
+                "content": "they are rarely paid off prior to their maturity date",
+                "correct": false
+            }
+        ],
+        "explanation": "Because the cash flow is from homeowners paying their mortgages, a portion of each payment is principal with the rest being interest (just like when you pay your home mortgage payment). Yes, there is collateral, but that is also the case with mortgage bonds, collateral trust bonds, and equipment trust certificates. There is nothing for them to be converted into (on this exam, convertible always means into common stock) and, because so few mortgages go full term, these are invariably paid off ahead of the maturity date.",
+        "prompt": "An important characteristic of mortgage-backed securities not generally found in other debt issues is"
+    },
+    "kaplanExam5_27": {
+        "answers": [
+            {
+                "content": "Yields go up",
+                "correct": false
+            },
+            {
+                "content": "Coupon rates go up",
+                "correct": false
+            },
+            {
+                "content": "Prices go up",
+                "correct": true
+            },
+            {
+                "content": "No change",
+                "correct": false
+            }
+        ],
+        "explanation": "When interest rates drop, prices will rise, decreasing effective yield. Thus, there is an inverse relationship between interest rates and bond prices.",
+        "prompt": "What happens to outstanding fixed-income securities when interest rates decline?"
+    },
+    "kaplanExam5_28": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Nonsystematic risk is company risk, the risk that an individual investment will perform poorly. Systematic risk is market risk, the risk that the market will perform poorly, dragging one's portfolio along with it. Diversification will remove most nonsystematic risk. The more stocks owned, the lower the risk that a poor performer will jeopardize the overall value of the portfolio.",
+        "prompt": "Which of the following describe nonsystematic risk? <br><br>I. The risk that an individual stock will not perform well <br>II. The same as market risk <br>III. Can be diversified to lower risk <br>IV. Cannot be diversified to lower risk"
+    },
+    "kaplanExam5_29": {
+        "answers": [
+            {
+                "content": "business risk",
+                "correct": false
+            },
+            {
+                "content": "beta",
+                "correct": false
+            },
+            {
+                "content": "opportunity risk",
+                "correct": false
+            },
+            {
+                "content": "market risk",
+                "correct": true
+            }
+        ],
+        "explanation": "Market risk is the risk that a specific stock's price will be driven by factors largely independent of its issuer. Business risk is unique to each business entity. Beta is a measure of a stock's volatility relative to the overall market. The question does not refer to the volatility or sensitivity of the stock to the overall market. Opportunity risk is not among the recognized sources of risk. Opportunity cost is a term in economics that refers to the return given up in order to invest in another instrument or project.",
+        "prompt": "In October 1987, ABC Manufacturing Company showed a strong balance sheet. Nevertheless, its stock lost 15 points in the \"crash of 1987.\" This is an example of"
+    },
+    "kaplanExam5_30": {
+        "answers": [
+            {
+                "content": "Legislative",
+                "correct": false
+            },
+            {
+                "content": "Liquidity",
+                "correct": true
+            },
+            {
+                "content": "Market",
+                "correct": false
+            },
+            {
+                "content": "Reinvestment",
+                "correct": false
+            }
+        ],
+        "explanation": "Liquidity risk is the measure of how quickly and easily a security can be converted to cash. Legislative risk is a measure of how legal changes (e.g., taxes) affect an investment. Market risk is a measure of the volatility of a stock or the risk of loss as a result of market changes. Reinvestment risk is the risk that an investor will not be able to reinvest interest payments on a bond at the original rate during the life of the bond.",
+        "prompt": "The risk of not being able to convert an investment into cash at a time when cash is needed is what type of risk?"
+    },
+    "kaplanExam5_31": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "There are 4 general unsystematic risks: business, liquidity, political, and regulatory. Market and purchasing power risk are systematic.",
+        "prompt": "Which of the following are considered unsystematic risks? <br><br>I. Business <br>II. Liquidity <br>III. Market <br>IV. Purchasing power"
+    },
+    "kaplanExam5_32": {
+        "answers": [
+            {
+                "content": "Selecting and monitoring third-party service providers",
+                "correct": true
+            },
+            {
+                "content": "Determining the age at which benefits are to be provided",
+                "correct": false
+            },
+            {
+                "content": "Amending the plan",
+                "correct": false
+            },
+            {
+                "content": "Changing the level of employer contributions",
+                "correct": false
+            }
+        ],
+        "explanation": "The issue here is the distinction between fiduciary functions and something called settlor functions. ERISA defines fiduciary not in terms of formal title but rather in functional terms of control and authority over the plan. ERISA provides that a person is a fiduciary with respect to an employee benefit plan to the extent that such a person does any of the following: exercises any discretionary authority or control over the management of a plan or over the management or disposition of plan assets; renders investment advice for a fee or other compensation, direct or indirect, with respect to any monies or other property of such plan; or has any discretionary authority or discretionary responsibility in the administration of such plan including appointing other plan fiduciaries or selecting and monitoring third-party service providers. The other choices given in the question are known as settlor functions. The most common settlor functions are design decisions involving: establishment of the plan, defining who are the covered employees and benefits to be provided, and amending or terminating the plan. Because the likelihood of an IAR ever performing settlor functions is quite remote (usually they are done by employees of the sponsoring employer), I cannot fathom why NASAA would ask something like this on the exam. ",
+        "prompt": "A person providing which of the following services to an ERISA plan would be performing in a fiduciary capacity?"
+    },
+    "kaplanExam5_33": {
+        "answers": [
+            {
+                "content": "the difference between GO bonds and revenue bonds",
+                "correct": false
+            },
+            {
+                "content": "the difference between using mutual funds or UITs to invest in municipal bonds",
+                "correct": false
+            },
+            {
+                "content": "Section 529 Plans",
+                "correct": true
+            },
+            {
+                "content": "Section 457 Plans Unit 4 Unit Test 693",
+                "correct": false
+            }
+        ],
+        "explanation": "The Securities and Exchange Commission has stated that certain Section 529 College Savings Plans established by states or local governmental entities are municipal fund securities. Accordingly, the purchase and sale of state-sponsored Section 529 Plans are governed by the rules of the Municipal Securities Rulemaking Board (MSRB).",
+        "prompt": "While in your office, you see that your firm is going to be holding a training session on municipal fund securities. You wish to attend because you are interested in being able to speak intelligently to your clients about"
+    },
+    "kaplanExam5_34": {
+        "answers": [
+            {
+                "content": "in service employees may be eligible for hardship withdrawals",
+                "correct": false
+            },
+            {
+                "content": "employees can choose from a variety of investment options",
+                "correct": false
+            },
+            {
+                "content": "employees may have a portion of their contribution matched by the employer",
+                "correct": false
+            },
+            {
+                "content": "the employer can contribute more than 25% of total payroll",
+                "correct": true
+            }
+        ],
+        "explanation": "There are exceptions to this, but, in general (and on the exam), you will have to know that the employer share of the contributions to a traditional 401(k) plan (or any other DC plan) may not exceed 25% of total payroll. Some students get this correct through process of elimination. The plan may have provisions for hardship withdrawals; there are a number of investment options available, and the employer may elect to match employee contributions.",
+        "prompt": "All of these are true about a traditional 401(k) plan EXCEPT"
+    },
+    "kaplanExam5_35": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The IPS would include information on how the investment performance of the plan is measured as well as the investment parameters to be followed by the portfolio managers. It would not include the summary plan description (document), generally referred to by the initials SPD. That is for the employees' to learn about eligibility, vesting, matching contributions, etc. It has nothing to do with how the money is invested. The purpose of the IPS is to set \"policy\" for the portfolio, not to list its composition.",
+        "prompt": "Which of the following would you expect to see in the investment policy statement of a qualified plan? <br><br>I. The information in the summary plan document specified by the Department of Labor <br>II. The method to be used to measure the investment performance of the plan <br>III. A listing of the portfolio assets as of the most recent quarter <br>IV. Investment limitations placed on the portfolio managers"
+    },
+    "kaplanExam5_36": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "All of the persons listed have fiduciary responsibilities because of the authority with which they are entrusted.",
+        "prompt": "Which of the following persons are considered fiduciaries? <br><br>I. Executor of an estate <br>II. Administrator of a trust <br>III. Custodian of an UGMA/UTMA account <br>IV. Conservator for a legally incompetent person"
+    },
+    "kaplanExam5_37": {
+        "answers": [
+            {
+                "content": "open the account provided the proper trust arrangements are filed first",
+                "correct": false
+            },
+            {
+                "content": "open the account and name himself custodian",
+                "correct": true
+            },
+            {
+                "content": "open the account, but he needs a legal document evidencing the nephew's parents' prior approval of the account",
+                "correct": false
+            },
+            {
+                "content": "be custodian for the account only if he is also the minor's legal guardian",
+                "correct": false
+            }
+        ],
+        "explanation": "The donor may name himself the custodian of an UGMA or UTMA account. No documentation of custodial status is required to open an UGMA account, and the custodian is not required to be the minor's legal guardian.",
+        "prompt": "If a customer would like to open a custodial UGMA or UTMA account for his nephew, a minor, the uncle can"
+    },
+    "kaplanExam5_38": {
+        "answers": [
+            {
+                "content": "Stock held in a custodial account may not be registered in the name of the minor.",
+                "correct": false
+            },
+            {
+                "content": "In some cases, a TOD account is referred to as a POD account.",
+                "correct": false
+            },
+            {
+                "content": "Stock held under JTWROS goes to the survivor(s) in the event of the death of one of the tenants.",
+                "correct": false
+            },
+            {
+                "content": "Margin trading in a fiduciary account does not require any special documentation.",
+                "correct": true
+            }
+        ],
+        "explanation": "Trading on margin is prohibited in fiduciary accounts except under special circumstances and with the appropriate documentation.",
+        "prompt": "Which of the following regarding customer accounts is NOT true?"
+    },
+    "kaplanExam5_39": {
+        "answers": [
+            {
+                "content": "1 account for all 3 nephews",
+                "correct": false
+            },
+            {
+                "content": "3 separate accounts and deposit cash and securities",
+                "correct": true
+            },
+            {
+                "content": "3 separate accounts and deposit insurance policies",
+                "correct": false
+            },
+            {
+                "content": "3 separate accounts and deposit fixed annuities",
+                "correct": false
+            }
+        ],
+        "explanation": "UGMA rules require that any UGMA account have only one beneficial owner and one custodian. Cash and securities may be donated into the account, but insurance contracts and fixed annuities may not.",
+        "prompt": "An investor wants to provide for his 3 nephews after his brother dies. Under the UGMA, the investor may open"
+    },
+    "kaplanExam5_40": {
+        "answers": [
+            {
+                "content": "2 spouses",
+                "correct": false
+            },
+            {
+                "content": "3 sisters",
+                "correct": false
+            },
+            {
+                "content": "2 strangers",
+                "correct": false
+            },
+            {
+                "content": "Parent and a minor",
+                "correct": true
+            }
+        ],
+        "explanation": "A minor may not be a party in a joint account because minors cannot legally exercise control over an account. A custodial account should be set up for the minor.",
+        "prompt": "Which of the following individuals may not open a joint account?"
+    },
+    "kaplanExam5_41": {
+        "answers": [
+            {
+                "content": "58.95",
+                "correct": false
+            },
+            {
+                "content": "59",
+                "correct": true
+            },
+            {
+                "content": "60",
+                "correct": false
+            },
+            {
+                "content": "61.10",
+                "correct": false
+            }
+        ],
+        "explanation": "This is really two orders. The first is to \"stop\" at 60.00. That is, once the stock trades at 60.00 or lower, enter the order. The second order is a sell, but with a limit of 59.00. In this sequence, the first time the stock hits 60.00 (or less), is the 3rd trade, the one at 60.00. That triggers the sell limit. The next trade is at 58.95 and that is not acceptable to the limit order at 59.00. Why not? Because the limit order is saying, \"get me 59.00 or higher\"; that makes the following trade at 59.00 an acceptable price.",
+        "prompt": "One of your clients enters a sell stop order at $60.00, limit $59.00. Subsequent to the entry of the order, trades occur at 61.00, 61.10, 60.00, 58.95, 59.00, 60.00. The client's order was most likely filled at"
+    },
+    "kaplanExam5_42": {
+        "answers": [
+            {
+                "content": "Inflation risk-purchasing power risk",
+                "correct": false
+            },
+            {
+                "content": "Interest rate risk-money rate risk",
+                "correct": false
+            },
+            {
+                "content": "Financial risk-market risk",
+                "correct": true
+            },
+            {
+                "content": "Liquidity risk-marketability risk ",
+                "correct": false
+            }
+        ],
+        "explanation": "Financial risk is an unsystematic risk; generally, the concern that an issuer will be unable to meet its debt obligations as they come due. It could be paired with either credit risk or default risk. Market risk is a systematic risk.",
+        "prompt": "In this industry, many words have similar meaning. Which of the following choices consists of a pair which are NOT properly considered synonyms?"
+    },
+    "kaplanExam5_43": {
+        "answers": [
+            {
+                "content": "death benefit received from a life insurance policy",
+                "correct": true
+            },
+            {
+                "content": "operation of a sole proprietorship",
+                "correct": false
+            },
+            {
+                "content": "ownership of stock in an S corporation",
+                "correct": false
+            },
+            {
+                "content": "interests in a DPP",
+                "correct": false
+            }
+        ],
+        "explanation": "An individual can generate income from running a sole proprietorship or being a shareholder in an S corporation (the exam will possibly use the obsolete term, Subchapter S). And, if units of a DPP throw off income, that would be reported as well. Of course, taxable income can be generated by investments in the form of dividends, interest, and capital gains from any source. The death benefit is from a life insurance policy and those, unlike the death benefit from an annuity, are not subject to income tax. Depending on how the ownership is structured, the death benefit could be subject to estate tax, but that would be reported on the Form 706 and is generally not considered income. ",
+        "prompt": "There are number of potential sources of income to a client that would have to reported on their Form 1040 tax return. Among them could be all of these EXCEPT"
+    },
+    "kaplanExam5_44": {
+        "answers": [
+            {
+                "content": "determination for meeting future cash flow needs",
+                "correct": false
+            },
+            {
+                "content": "specific security selection",
+                "correct": true
+            },
+            {
+                "content": "investment philosophy including asset allocation style",
+                "correct": false
+            },
+            {
+                "content": "methods for monitoring procedures and performance",
+                "correct": false
+            }
+        ],
+        "explanation": "One thing that could never be in an IPS is a listing of the securities that will be purchased in the future. Types of securities, yes, but not the specific ones.",
+        "prompt": "A participant in an ERISA qualified retirement plan is studying the investment policy statement (IPS) prepared by the plan's fiduciary. The contents of the IPS would not include"
+    },
+    "kaplanExam5_45": {
+        "answers": [
+            {
+                "content": "estates may be valued either at date of death or 9 months later using the alternative valuation option",
+                "correct": false
+            },
+            {
+                "content": "a deceased person may reduce the value of the estate by taking advantage of the annual gift tax exclusion",
+                "correct": false
+            },
+            {
+                "content": "income received by the estate is reported on Form 1040",
+                "correct": false
+            },
+            {
+                "content": "the maximum tax rate on estates is the same as that on gifts",
+                "correct": true
+            }
+        ],
+        "explanation": "The maximum tax rate on estates and gifts is 40%. The alternative valuation date is 6 months after death; 9 months after death is when the tax is due. Dead people can't make gifts and any income received by the estate before it is liquidated is reported on Form 1041.",
+        "prompt": "Regarding the treatment of estates by the IRS, it would not be correct to state any of the following EXCEPT"
+    },
+    "kaplanExam5_46": {
+        "answers": [
+            {
+                "content": "the efficient frontier",
+                "correct": true
+            },
+            {
+                "content": "convexity",
+                "correct": false
+            },
+            {
+                "content": "a range of returns",
+                "correct": false
+            },
+            {
+                "content": "opportunity cost",
+                "correct": false
+            }
+        ],
+        "explanation": "The feasible set of portfolios represents all portfolios that can be constructed from a given set of stocks. An efficient portfolio is a feasible portfolio that provides the greatest expected return for a given amount of risk, or equivalently, the least risk for a given amount of expected return. This is also called an optimal portfolio. The efficient frontier is the set of all efficient portfolios. Obviously, an investor should choose a portfolio along the efficient frontier.",
+        "prompt": "While attending a seminar given by one of your firm's analysts, you hear the term, feasible set. That would mean the discussion was dealing with the topic of"
+    }
+};
