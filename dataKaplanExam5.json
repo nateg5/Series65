@@ -168,7 +168,7 @@ let dataKaplanExam5 = {
                 "correct": true
             },
             {
-                "content": "IV only Unit 1 Unit Test 259",
+                "content": "IV only ",
                 "correct": false
             }
         ],
@@ -326,7 +326,7 @@ let dataKaplanExam5 = {
                 "correct": false
             }
         ],
-        "explanation": "here is nothing wrong with a client picking up a check for the proceeds of a securities transaction, even if done on a regular basis (some folks don't trust the mail). Each of the other choices should raise a red flag as being something needing further investigation.",
+        "explanation": "There is nothing wrong with a client picking up a check for the proceeds of a securities transaction, even if done on a regular basis (some folks don't trust the mail). Each of the other choices should raise a red flag as being something needing further investigation.",
         "prompt": "A great concern to broker-dealers is the theft of the identity of a client. To reduce the possibility of a client's assets being improperly taken, most firms would consider all of these to be a red flag EXCEPT"
     },
     "kaplanExam5_16": {
@@ -718,7 +718,7 @@ let dataKaplanExam5 = {
                 "correct": true
             },
             {
-                "content": "Section 457 Plans Unit 4 Unit Test 693",
+                "content": "Section 457 Plans ",
                 "correct": false
             }
         ],
