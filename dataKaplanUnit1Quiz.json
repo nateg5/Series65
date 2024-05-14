@@ -173,7 +173,7 @@ let dataKaplanUnit1Quiz = {
             }
         ],
         "explanation": "Holding companies and insurance companies are specifically excluded from the definition of an investment company. ",
-        "prompt": "Which of the following would be considered investment companies under the Act of 1940? <br><br>I. Face-amount certificate company <br>II. Unit investment trust <br>III. Management company <br>IV. Holding company V. Insurance company"
+        "prompt": "Which of the following would be considered investment companies under the Act of 1940? <br><br>I. Face-amount certificate company <br>II. Unit investment trust <br>III. Management company <br>IV. Holding company <br>V. Insurance company"
     },
     "kaplanUnit1Quiz_9": {
         "answers": [
@@ -212,11 +212,11 @@ let dataKaplanUnit1Quiz = {
                 "correct": true
             },
             {
-                "content": "the rule only applies to open-end investment companies 1. The Investment Company Act of 1940 prohibits registered investment companies from engaging in any of the following practices EXCEPT A. issuing common stock B. selling short or purchasing securities for the company's portfolio on margin C. owning more than 3% of the outstanding voting securities of another investment company D. opening a joint account with another investment company 1. ABC is an FINRA member broker-dealer. Among other functions, it serves as the principal underwriter of the XYZ Mutual Fund. Which of the following transactions of ABC would be prohibited unless exemptive relief was offered by the SEC? A. ABC tenders, from its investment account, 500 shares of the XYZ Mutual Fund for redemption. B. ABC purchases, for its investment account, 500 shares of XYZ Mutual Fund. C. ABC purchases some securities directly from XYZ's portfolio. D. All of the above.",
+                "content": "the rule only applies to open-end investment companies ",
                 "correct": false
             }
         ],
-        "explanation": "The plan may be terminated by a majority vote of the shareholders or a majority vote of the board of directors who are noninterested directors of the fund. A 12b-1 plan wouldn't work with anything other than an open-end investment company. 1. A. The one thing that all investment companies must do is issue common stock. That is the form of ownership. All of the other activities are prohibited. 1. C. Without an exemptive order from the SEC, it would be a violation of the Investment Company Act of 1940 for any affiliated person to purchase any security from an investment company other than shares of the fund itself.",
+        "explanation": "The plan may be terminated by a majority vote of the shareholders or a majority vote of the board of directors who are noninterested directors of the fund. A 12b-1 plan wouldn't work with anything other than an open-end investment company.",
         "prompt": "All of the following statements regarding a 12b-1 company are true EXCEPT"
     },
     "kaplanUnit1Quiz_11": {
@@ -498,7 +498,7 @@ let dataKaplanUnit1Quiz = {
                 "correct": false
             },
             {
-                "content": "the vice president of personnel for a national brokerage firm Write A if the person is an agent and B if not.",
+                "content": "the vice president of personnel for a national brokerage firm ",
                 "correct": false
             }
         ],
@@ -1902,7 +1902,7 @@ let dataKaplanUnit1Quiz = {
                 "correct": true
             },
             {
-                "content": "failed to follow the customer’s instructions",
+                "content": "failed to follow the customer's instructions",
                 "correct": false
             },
             {
@@ -1934,5 +1934,49 @@ let dataKaplanUnit1Quiz = {
         ],
         "explanation": "Closed-end companies issue a fixed number of shares, whereas open-end companies do not specify the number of shares to be issued. Both types of company register issues with the SEC, and any investor may invest in either type of company. Open-end shares must always be sold with a prospectus because each is a newly issued share.",
         "prompt": "How do closed-end investment companies differ from open-end investment companies? <br><br>I. Closed-end companies register their shares with the SEC; open-end companies do not. <br>II. The only time a prospectus is used with the sale of a closed-end company is on the IPO; sales of open-end shares must always be preceded or accompanied by a prospectus. <br>III. Closed-end companies issue a fixed number of shares; open-end companies continuously issue new shares. <br>IV. Closed-end companies may only sell shares to institutional investors; open-end companies can sell to any investor."
+    },
+    "kaplanUnit1Quiz_89": {
+        "answers": [
+            {
+                "content": "issuing common stock",
+                "correct": true
+            },
+            {
+                "content": "selling short or purchasing securities for the company's portfolio on margin",
+                "correct": false
+            },
+            {
+                "content": "owning more than 3% of the outstanding voting securities of another investment company",
+                "correct": false
+            },
+            {
+                "content": "opening a joint account with another investment company",
+                "correct": false
+            }
+        ],
+        "explanation": "The one thing that all investment companies must do is issue common stock. That is the form of ownership. All of the other activities are prohibited.",
+        "prompt": "The Investment Company Act of 1940 prohibits registered investment companies from engaging in any of the following practices EXCEPT"
+    },
+    "kaplanUnit1Quiz_90": {
+        "answers": [
+            {
+                "content": "ABC tenders, from its investment account, 500 shares of the XYZ Mutual Fund for redemption.",
+                "correct": false
+            },
+            {
+                "content": "ABC purchases, for its investment account, 500 shares of XYZ Mutual Fund.",
+                "correct": false
+            },
+            {
+                "content": "ABC purchases some securities directly from XYZ's portfolio.",
+                "correct": true
+            },
+            {
+                "content": "All of the above.",
+                "correct": false
+            }
+        ],
+        "explanation": "Without an exemptive order from the SEC, it would be a violation of the Investment Company Act of 1940 for any affiliated person to purchase any security from an investment company other than shares of the fund itself.",
+        "prompt": "ABC is an FINRA member broker-dealer. Among other functions, it serves as the principal underwriter of the XYZ Mutual Fund. Which of the following transactions of ABC would be prohibited unless exemptive relief was offered by the SEC?"
     },
 };
