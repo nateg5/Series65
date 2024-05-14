@@ -1,0 +1,1938 @@
+let dataKaplanUnit1Quiz = {
+    "kaplanUnit1Quiz_1": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III only",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "An issuer is a person who issues a security, whether or not the security is exempt. In the question, the antique dealer is issuing collectibles, not securities.",
+        "prompt": "The term issuer, as defined in the Securities Act of 1933, would include: <br><br>I. a government entity issuing exempt securities. <br>II. a corporation issuing securities in an exempt transaction. <br>III. an antique dealer selling items from a collection of rare books."
+    },
+    "kaplanUnit1Quiz_2": {
+        "answers": [
+            {
+                "content": "A convertible bond.",
+                "correct": false
+            },
+            {
+                "content": "A stock warrant.",
+                "correct": false
+            },
+            {
+                "content": "A stock right.",
+                "correct": false
+            },
+            {
+                "content": "A term life insurance policy",
+                "correct": true
+            }
+        ],
+        "explanation": "A security is any note, stock, bond, certificate of interest, or participation in any profit sharing arrangement, investment contract, certificate of deposit for a security, interest in oil, gas, or mining rights, or any investment commonly considered a security. (Generally, it is an investment contract wherein the investor is passive and expects a return on the investment through the efforts of others.) The definition of a security does not include direct ownership of real estate, commodities futures contracts (e.g., corn, wheat), collectibles, precious metals, or life insurance or annuity contracts that have fixed payouts.",
+        "prompt": "Under the Securities Act of 1933, which of the following is NOT a security?"
+    },
+    "kaplanUnit1Quiz_3": {
+        "answers": [
+            {
+                "content": "Taxpayers who report an income in excess of $200,000 on a joint return in each of the last two years and who reasonably expect the same for the current year are included in the definition.",
+                "correct": false
+            },
+            {
+                "content": "An officer, director, or greater than 10% shareholder of any company listed on the NYSE would be considered an accredited investor for purposes of acquiring a private placement your firm is selling.",
+                "correct": false
+            },
+            {
+                "content": "The term includes an employee benefit plan with assets in excess of $2 million.",
+                "correct": false
+            },
+            {
+                "content": "Purchases of securities by accredited investors do not count toward the 35-investor limitation found in Rule 506(b) of Regulation D. ",
+                "correct": true
+            }
+        ],
+        "explanation": "One of the benefits of this term is that these investors do not count in the numerical limitation placed on private placements made under Rule 506(b). Note that for offerings made under Rule 506(c), all investors must be accredited. When filing a joint return, the income requirement is $300,000, and an employee benefit plan must have assets in excess of $5 million. Insiders are only considered accredited investors when it is that issuer's security being offered.",
+        "prompt": "Which of the following statements about accredited investors is TRUE?"
+    },
+    "kaplanUnit1Quiz_4": {
+        "answers": [
+            {
+                "content": "would be considered an associated person of KAPCO",
+                "correct": true
+            },
+            {
+                "content": "would not be considered an associated person of KAPCO",
+                "correct": false
+            },
+            {
+                "content": "would be required to register as an agent of KAPCO",
+                "correct": false
+            },
+            {
+                "content": "must resign her position at Podunk University in order to remain on KAPCO's board",
+                "correct": false
+            }
+        ],
+        "explanation": "University presidents are a popular choice for serving as outside directors. Under the Securities Exchange Act of 1934, the term associated person of a broker-dealer would include an outside director of a brokerdealer and all registered personnel but not employees who are strictly clerical and administrative.",
+        "prompt": "Alice Allison is the president of Podunk University and sits on the board of directors of KAPCO Securities, a broker-dealer registered with the SEC. President Allison"
+    },
+    "kaplanUnit1Quiz_5": {
+        "answers": [
+            {
+                "content": "Nondiscretionary",
+                "correct": false
+            },
+            {
+                "content": "Unsolicited",
+                "correct": true
+            },
+            {
+                "content": "Discretionary",
+                "correct": false
+            },
+            {
+                "content": "Solicited",
+                "correct": false
+            }
+        ],
+        "explanation": "This is the definition of an unsolicited transaction.",
+        "prompt": "A securities order that is initiated by a client is what type of order?"
+    },
+    "kaplanUnit1Quiz_6": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "The 1975 Amendments required, for the first time, that any firm engaged in the municipal securities business be registered with the SEC. Ever since 1934, broker-dealers engaged in any phase of the securities markets have been required to register with the SEC. Banks (financial institutions) are members of the MSRB but are exempt from SEC registration.",
+        "prompt": "Under the Securities Exchange Act of 1934, as amended, registration with the SEC would be required of <br><br>I. a broker-dealer whose business is strictly municipal securities <br>II. a broker-dealer whose business is strictly in non-Nasdaq over-the-counter securities <br>III. a banking institution dealing in municipal bonds"
+    },
+    "kaplanUnit1Quiz_7": {
+        "answers": [
+            {
+                "content": "requiring that all issues listed on a national securities exchange be registered with the SEC",
+                "correct": false
+            },
+            {
+                "content": "prohibiting manipulative practices such as wash trades and misleading statements",
+                "correct": false
+            },
+            {
+                "content": "requiring full disclosure regarding an upcoming IPO",
+                "correct": true
+            },
+            {
+                "content": "requiring registration of transfer agents",
+                "correct": false
+            }
+        ],
+        "explanation": "The disclosure requirement for new issues (IPOs) is found in the Securities Act of 1933.",
+        "prompt": "Provisions under the Securities Exchange Act of 1934 include all of the following EXCEPT"
+    },
+    "kaplanUnit1Quiz_8": {
+        "answers": [
+            {
+                "content": "I, II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and V",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, IV and V",
+                "correct": false
+            }
+        ],
+        "explanation": "Holding companies and insurance companies are specifically excluded from the definition of an investment company. ",
+        "prompt": "Which of the following would be considered investment companies under the Act of 1940? <br><br>I. Face-amount certificate company <br>II. Unit investment trust <br>III. Management company <br>IV. Holding company V. Insurance company"
+    },
+    "kaplanUnit1Quiz_9": {
+        "answers": [
+            {
+                "content": "closed-end investment company",
+                "correct": true
+            },
+            {
+                "content": "contractual plan of a mutual fund",
+                "correct": false
+            },
+            {
+                "content": "open-end investment company",
+                "correct": false
+            },
+            {
+                "content": "unit investment trust",
+                "correct": false
+            }
+        ],
+        "explanation": "If the selling price of an investment company is less than the NAV, the fund must be a closed-end investment company.",
+        "prompt": "A financial reporter notices that the quoted price of one investment company's shares is at a 22% discount from the NAV. From this information, it can be deduced that the company must be a(n)"
+    },
+    "kaplanUnit1Quiz_10": {
+        "answers": [
+            {
+                "content": "the plan must be initially approved by at least a majority of the outstanding voting securities of the investment company",
+                "correct": false
+            },
+            {
+                "content": "the plan must be renewed by a majority of the fund's directors",
+                "correct": false
+            },
+            {
+                "content": "the plan may be terminated by a vote of the majority of shareholders or a majority of the board of directors",
+                "correct": true
+            },
+            {
+                "content": "the rule only applies to open-end investment companies 1. The Investment Company Act of 1940 prohibits registered investment companies from engaging in any of the following practices EXCEPT A. issuing common stock B. selling short or purchasing securities for the company's portfolio on margin C. owning more than 3% of the outstanding voting securities of another investment company D. opening a joint account with another investment company 1. ABC is an FINRA member broker-dealer. Among other functions, it serves as the principal underwriter of the XYZ Mutual Fund. Which of the following transactions of ABC would be prohibited unless exemptive relief was offered by the SEC? A. ABC tenders, from its investment account, 500 shares of the XYZ Mutual Fund for redemption. B. ABC purchases, for its investment account, 500 shares of XYZ Mutual Fund. C. ABC purchases some securities directly from XYZ's portfolio. D. All of the above.",
+                "correct": false
+            }
+        ],
+        "explanation": "The plan may be terminated by a majority vote of the shareholders or a majority vote of the board of directors who are noninterested directors of the fund. A 12b-1 plan wouldn't work with anything other than an open-end investment company. 1. A. The one thing that all investment companies must do is issue common stock. That is the form of ownership. All of the other activities are prohibited. 1. C. Without an exemptive order from the SEC, it would be a violation of the Investment Company Act of 1940 for any affiliated person to purchase any security from an investment company other than shares of the fund itself.",
+        "prompt": "All of the following statements regarding a 12b-1 company are true EXCEPT"
+    },
+    "kaplanUnit1Quiz_11": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The Investment Company Act of 1940 requires that all advisory contracts contain a provision that the contract may be terminated upon no more than 60 days notice in writing. The Act prohibits any registered investment company from owning more than 3% of the shares of another investment company. There are no circumstances under which an affiliated person can borrow from the fund, and it is not a requirement that the custodian bank have FDIC insurance.",
+        "prompt": "Which of the following statements correctly expresses requirements under the Investment Company Act of 1940? <br><br>I. A registered open-end investment company using a bank as custodian must choose one that has FDIC coverage. <br>II. If an affiliated person of a registered investment company wishes to borrow money from the fund, there must be at least 300% asset coverage. <br>III. No investment advisory contract may be entered into that does not provide for termination with no more than 60 days notice in writing. <br>IV. No registered investment company may acquire more than 3% of the shares of another investment company."
+    },
+    "kaplanUnit1Quiz_12": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Any family unit may combine purchases in as many accounts as it wishes to reach the breakpoint for reduced sales charges. Most often, this is spouses and custodial accounts for minor children (there are exceptions-not tested). If an employee of the fund (the receptionist) purchases for his own account, the sales charge is usually eliminated altogether. A purchase made for a group, such as an investment club or multiple clients with no common purpose other than investment, is not eligible for a reduction. ",
+        "prompt": "Under which of the following circumstances would a purchase of mutual fund shares at a price below the public offering price be allowable? <br><br>I. The purchase is made by the designated agent of an incorporated investment club that reaches the breakpoint. <br>II. A parent buys enough to reach the breakpoint but places half the order in his account and the other half in an account for which his wife is designated as custodian for their son. <br>III. The receptionist for the XYZ Growth Fund purchases $100 of that fund. <br>IV. A financial planner bunches his clients' orders and turns them in as one in an amount sufficient to reach the breakpoint."
+    },
+    "kaplanUnit1Quiz_13": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Cease and desist orders are directed at securities professionals. Stop orders are used for securities offerings.",
+        "prompt": "If an Administrator determines that a registration statement for a security is incomplete, he may issue a cease and desist order."
+    },
+    "kaplanUnit1Quiz_14": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Governments and political subdivisions are considered persons under the act. Remember there are only three choices that are not a person-minors, persons since deceased, and those judged mentally incompetent.",
+        "prompt": "Under the Uniform Securities Act, the city of Atlanta would be included in the definition of the term person."
+    },
+    "kaplanUnit1Quiz_15": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "In order for an employee benefit plan to be included in the definition of institution, it must have assets of not less than $1 million.",
+        "prompt": "The GEMCO Employees Retirement Plan currently has assets of $750,000. Under the Uniform Securities Act, the plan would be considered an institutional investor."
+    },
+    "kaplanUnit1Quiz_16": {
+        "answers": [
+            {
+                "content": "Administrator",
+                "correct": true
+            },
+            {
+                "content": "Transfer agent",
+                "correct": false
+            },
+            {
+                "content": "Registrar",
+                "correct": false
+            },
+            {
+                "content": "Issuer",
+                "correct": false
+            }
+        ],
+        "explanation": "The USA specifies that a state's securities Administrator has the authority to enforce the act in that state. A transfer agent is the person or corporation responsible for recording the names and holdings of registered security owners.",
+        "prompt": "What is the official designation of the person or agency that enforces the USA in each state?"
+    },
+    "kaplanUnit1Quiz_17": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A person who effects transactions in securities for itself or for the account of others must register in the state as a brokerdealer unless specifically excluded from the definition or exempt from registration.",
+        "prompt": "In general, a person who effects transactions in securities for itself or for the account of others in the course of business must register in the state as a broker-dealer."
+    },
+    "kaplanUnit1Quiz_18": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A firm with an out-of-state registration is not considered a broker-dealer in that state if transacting business with a customer who is passing through the state on vacation.",
+        "prompt": "Under the Uniform Securities Act, an out-of-state firm that transacts business with an established customer who is on vacation is not considered a broker-dealer in the state in which the customer is on vacation."
+    },
+    "kaplanUnit1Quiz_19": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "If a person is excluded from the definition, that person need not register as a brokerdealer; however, if they are not excluded (or exempt), they must register.",
+        "prompt": "A person not defined as a broker-dealer in the state under the USA need not register as such."
+    },
+    "kaplanUnit1Quiz_20": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "When a broker-dealer is registered with both the SEC and several states (the usual case), the financial and operational requirements to be met are those of the SEC.",
+        "prompt": "A broker-dealer registered with the SEC and several states must meet the net capital standard of the state with the most stringent requirements."
+    },
+    "kaplanUnit1Quiz_21": {
+        "answers": [
+            {
+                "content": "buys securities",
+                "correct": false
+            },
+            {
+                "content": "sells securities",
+                "correct": false
+            },
+            {
+                "content": "is in the business of effecting securities transactions for its own account or for the accounts of others",
+                "correct": true
+            },
+            {
+                "content": "is registered with the SEC",
+                "correct": false
+            }
+        ],
+        "explanation": "A broker-dealer is any person, partner, officer, director, or securities firm engaged in the business of effecting securities transactions for the accounts of others (broker) or for its own account (dealer).",
+        "prompt": "Under the Uniform Securities Act, a broker-dealer is defined as any person who"
+    },
+    "kaplanUnit1Quiz_22": {
+        "answers": [
+            {
+                "content": "a city of Montreal general obligation bond",
+                "correct": false
+            },
+            {
+                "content": "common stock offered by a commercial bank",
+                "correct": false
+            },
+            {
+                "content": "a New Jersey Turnpike Revenue bond",
+                "correct": false
+            },
+            {
+                "content": "commercial paper with a 19-month maturity",
+                "correct": true
+            }
+        ],
+        "explanation": "There is a special group of five exempt issuers (U.S. and Canadian government and municipal issuers; foreign governments; banks; commercial paper; and investment contracts related to employee benefit plans) where an individual representing that issuer is not an agent. This is true whether the transaction is exempt or non-exempt. In addition, when representing any exempt issuer (not just the five listed), in an exempt transaction, the individual is not an agent. However, if the issue is not exempt (commercial paper's exemption is limited to 9 months) and, as the question points out, the transaction is non-exempt, then the individual must register as an agent of that issuer.",
+        "prompt": "Under the Uniform Securities Act, the term agent would include an individual who represents an issuer in effecting non-exempt transactions in"
+    },
+    "kaplanUnit1Quiz_23": {
+        "answers": [
+            {
+                "content": "an individual who represents an issuer in an exempt transaction",
+                "correct": false
+            },
+            {
+                "content": "an individual who represents a broker-dealer in a transaction in an exempt security",
+                "correct": true
+            },
+            {
+                "content": "a receptionist for a broker-dealer who directs calls for trade information to the appropriate individual",
+                "correct": false
+            },
+            {
+                "content": "the vice president of personnel for a national brokerage firm Write A if the person is an agent and B if not.",
+                "correct": false
+            }
+        ],
+        "explanation": "All of the exclusions from the term agent refer to an individual representing an issuer. As long as the transaction is exempt, the individual is not deemed to be an agent. There is no case on the exam where an individual performing a sales function for a broker-dealer is not an agent. Clerical persons are not agents, nor are officers with no apparent sales function.",
+        "prompt": "Under the Uniform Securities Act, the term agent would include"
+    },
+    "kaplanUnit1Quiz_24": {
+        "answers": [
+            {
+                "content": "Agent",
+                "correct": true
+            },
+            {
+                "content": "Not an agent",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Persons must be registered as agents when they effect transactions on behalf of brokerdealers whether or not the securities are exempt.",
+        "prompt": "Person who effects transactions in municipal securities on behalf of a broker-dealer"
+    },
+    "kaplanUnit1Quiz_25": {
+        "answers": [
+            {
+                "content": "Agent",
+                "correct": true
+            },
+            {
+                "content": "Not an agent",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Any individual taking orders on behalf of a broker-dealer must be registered whether or not they receive a commission.",
+        "prompt": "An agent's salaried secretary who takes orders"
+    },
+    "kaplanUnit1Quiz_26": {
+        "answers": [
+            {
+                "content": "Agent",
+                "correct": false
+            },
+            {
+                "content": "Not an agent",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Employees of a bank engaging in retail sales of securities issued by that bank are not agents regardless of how they are compensated.",
+        "prompt": "An employee of a bank that is issuing shares who receives a commission for selling the bank's securities"
+    },
+    "kaplanUnit1Quiz_27": {
+        "answers": [
+            {
+                "content": "Agent",
+                "correct": true
+            },
+            {
+                "content": "Not an agent",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A person who represents an employer in selling securities to employees must register as an agent if the person receives a commission. If no commission is paid, registration is not necessary.",
+        "prompt": "An individual who represents her nonexempt employer in the sale of its securities to existing employees for a commission"
+    },
+    "kaplanUnit1Quiz_28": {
+        "answers": [
+            {
+                "content": "Agent",
+                "correct": false
+            },
+            {
+                "content": "Not an agent",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Persons who represent issuers in exempt transactions, such as with underwriters, need not register as agents.",
+        "prompt": "A person who represents an issuer in effecting transactions with underwriters"
+    },
+    "kaplanUnit1Quiz_29": {
+        "answers": [
+            {
+                "content": "simultaneously represent two different unrelated broker-dealers in the same transaction",
+                "correct": true
+            },
+            {
+                "content": "be licensed by both an independent insurance company and a securities broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "be registered with two broker-dealers under common control",
+                "correct": false
+            },
+            {
+                "content": "be registered with a licensed real estate broker as well as with a licensed securities broker-dealer",
+                "correct": false
+            }
+        ],
+        "explanation": "A registered agent may not simultaneously represent two different unrelated brokerdealers in the same transaction. Under current regulations, only a few states allow agents to have dual registrations with more than one broker-dealer, unless those brokerdealers are under common management. In those cases, the agent may only represent one of the broker-dealers in any single transaction. Agents of broker-dealers may be simultaneously registered with real estate agencies, insurance companies, and with two broker-dealers, provided the broker-dealers are under common ownership or control or the arrangement has been authorized by the Administrator.",
+        "prompt": "Under the Uniform Securities Act, an individual licensed as an agent by the state may NOT"
+    },
+    "kaplanUnit1Quiz_30": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A consent to service of process is filed with the initial application and permanently remains on file with the Administrator.",
+        "prompt": "A consent to service of process must be submitted with each renewal application."
+    },
+    "kaplanUnit1Quiz_31": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "In order to do business with their Canadian customers who are temporarily in any state(s), Canadian broker-dealers (and their agents) must obtain a form of limited registration.",
+        "prompt": "A Canadian broker-dealer, properly registered with the Administrator of the province in which he is headquartered and with no office in the state, may do business with his customers who are on a skiing vacation in Vail without registering with the Colorado Administrator."
+    },
+    "kaplanUnit1Quiz_32": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Whether the Form BD for a brokerdealer or the Form U-4 for an agent, the registrant must check the box(es) listing all jurisdictions in which the applicant is registering (or already registered). This is also required for investment advisers and their representatives.",
+        "prompt": "When a securities professional registers in a state, he must provide the state Administrator with a list of all the states where he intends to register."
+    },
+    "kaplanUnit1Quiz_33": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "A broker-dealer, an agent, an investment adviser representative, or a state registered investment adviser must file a consent to service of process with the Administrator upon filing a registration application. The consent to service of process gives the Administrator the right to process legal complaints against the applicant. In some states, a federal covered adviser may also be required to furnish a consent to service of process.",
+        "prompt": "According to the Uniform Securities Act, a consent to service of process must accompany which of the following? <br><br>I. Agent's initial registration application <br>II. Civil complaint against a broker-dealer <br>III. Broker-dealer's initial registration application <br>IV. A cease and desist order"
+    },
+    "kaplanUnit1Quiz_34": {
+        "answers": [
+            {
+                "content": "Whether statements of benefits are balanced with statements of potential risks",
+                "correct": false
+            },
+            {
+                "content": "The nature of the audience to which the communication is intended to be distributed",
+                "correct": false
+            },
+            {
+                "content": "Whether the piece will be distributed in written form or on the firm's website",
+                "correct": true
+            },
+            {
+                "content": "Whether the communication is targeting existing customers or prospective ones",
+                "correct": false
+            }
+        ],
+        "explanation": "The format is not what counts; it is the content that matters.",
+        "prompt": "Which of the following is NOT a factor when a communication to be distributed to the public is either being reviewed or approved by the broker-dealer?"
+    },
+    "kaplanUnit1Quiz_35": {
+        "answers": [
+            {
+                "content": "Facebook",
+                "correct": false
+            },
+            {
+                "content": "Instagram",
+                "correct": false
+            },
+            {
+                "content": "LinkedIn",
+                "correct": true
+            },
+            {
+                "content": "Twitter",
+                "correct": false
+            }
+        ],
+        "explanation": "LinkedIn is viewed as a site used far more for business purposes than the others.",
+        "prompt": "The regulatory bodies consider which of the following social media sites to be predominately used for business rather than personal communications?"
+    },
+    "kaplanUnit1Quiz_36": {
+        "answers": [
+            {
+                "content": "Stock, treasury stock, rights, warrants, and transferable shares",
+                "correct": false
+            },
+            {
+                "content": "Voting trust certificates and interests in oil and gas drilling programs",
+                "correct": false
+            },
+            {
+                "content": "Commodity futures contracts and fixed payment life insurance contracts",
+                "correct": true
+            },
+            {
+                "content": "Options on securities and interests in multilevel distributorship arrangements",
+                "correct": false
+            }
+        ],
+        "explanation": "Commodity futures contracts and fixed payment life insurance contracts are included in our list of 6 items that are not securities.",
+        "prompt": "Which list of instruments below is NOT composed of securities?"
+    },
+    "kaplanUnit1Quiz_37": {
+        "answers": [
+            {
+                "content": "An investment of money",
+                "correct": false
+            },
+            {
+                "content": "An expectation of profit",
+                "correct": false
+            },
+            {
+                "content": "Management activity by owner",
+                "correct": true
+            },
+            {
+                "content": "Solely from the efforts of others",
+                "correct": false
+            }
+        ],
+        "explanation": "Management activity on the part of the owner is not part of the Howey, or four-part, test for an instrument to be a security. The four parts are: (1) an investment of money in (2) a common enterprise with (3) an expectation of profit (4) solely from the effort of others.",
+        "prompt": "The U.S. Supreme Court defined an investment contract as having four components. Which of the following is NOT part of the four-part test for an investment contract?"
+    },
+    "kaplanUnit1Quiz_38": {
+        "answers": [
+            {
+                "content": "need not be registered in the state in which they are sold",
+                "correct": false
+            },
+            {
+                "content": "must always be registered in the state in which they are sold",
+                "correct": false
+            },
+            {
+                "content": "need not be registered if sold in an exempt transaction",
+                "correct": true
+            },
+            {
+                "content": "need not be registered if sold in a nonexempt transaction",
+                "correct": false
+            }
+        ],
+        "explanation": "Nonexempt means the security is not exempt from the state's registration requirements. However, if the nonexempt security is sold in an exempt transaction, registration is not required.",
+        "prompt": "Nonexempt securities"
+    },
+    "kaplanUnit1Quiz_39": {
+        "answers": [
+            {
+                "content": "between two corporations where one is issuing the stock and the other is purchasing",
+                "correct": false
+            },
+            {
+                "content": "in which the issuer of the security will not receive the proceeds from the transaction",
+                "correct": true
+            },
+            {
+                "content": "where a mutual fund purchases a Treasury bond directly from the government",
+                "correct": false
+            },
+            {
+                "content": "where registration is always required",
+                "correct": false
+            }
+        ],
+        "explanation": "A nonissuer transaction is one where the company that is the issuer of the security does not receive the proceeds from the transaction. A nonissuer transaction is a transaction between two investors and may or may not require the security to be registered depending on whether the security or the transaction (or both) are exempt. Whenever the proceeds go to the issuer, it is an issuer transaction.",
+        "prompt": "A nonissuer transaction is a transaction"
+    },
+    "kaplanUnit1Quiz_40": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Registration by coordination involves coordinating a state registration with that of a federal registration.",
+        "prompt": "ABC Shoe Company, a new retail shoe store chain, has applied for the registration of its securities with the SEC as required by the Securities Act of 1933 and wants to register its securities in the state of Illinois and several neighboring states. ABC would most likely register by coordination."
+    },
+    "kaplanUnit1Quiz_41": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Any company may register by qualification. However, in virtually all cases, qualification is only used when it is the only choice, such as for intrastate offerings.",
+        "prompt": "Any company may register by qualification whether or not it files a statement with the SEC."
+    },
+    "kaplanUnit1Quiz_42": {
+        "answers": [
+            {
+                "content": "Coordination",
+                "correct": true
+            },
+            {
+                "content": "Notice filing",
+                "correct": false
+            },
+            {
+                "content": "Qualification",
+                "correct": false
+            },
+            {
+                "content": "Registration",
+                "correct": false
+            }
+        ],
+        "explanation": "Because this offering is being made in more than one state, SEC registration is necessary. The state registration method would be coordination, which is the simultaneous registration of a security with both the SEC and the states.",
+        "prompt": "XYZ Corporation has been in business for over 20 years. They need additional capital for expansion, and determine that a public offering in their home state and neighboring states is appropriate. Which method of securities registration would most likely be used to register this initial public offering?"
+    },
+    "kaplanUnit1Quiz_43": {
+        "answers": [
+            {
+                "content": "coordinate its federal registration with each of the four states",
+                "correct": false
+            },
+            {
+                "content": "notice file",
+                "correct": true
+            },
+            {
+                "content": "register by qualification in each of the states",
+                "correct": false
+            },
+            {
+                "content": "do none of these because investment companies registered under the Investment Company Act of 1940 are federal covered securities and are exempt from registration",
+                "correct": false
+            }
+        ],
+        "explanation": "Although these are federal covered securities and exempt from traditional registration, it could, at the discretion of the Administrator, be required to engage in a notice filing.",
+        "prompt": "KAPCO Dividend Yield Fund, a closed-end investment company registered under the Investment Company Act of 1940, wishes to commence offering its shares in States A, B, C, and D. It could be required to"
+    },
+    "kaplanUnit1Quiz_44": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "Securities issued by registered investment companies and those sold on the NYSE and Nasdaq Stock Market are federal covered securities and, therefore, do not register with the states. Commercial paper with a maximum maturity of 270 days, in denominations of no less than $50,000 and a top three rating are exempt under the Uniform Securities Act.",
+        "prompt": "Which of the following securities is(are) exempt from the registration and advertising filing requirements under the USA? <br><br>I. Shares of investment companies registered under the Investment Company Act of 1940 <br>II. Shares sold on the Nasdaq Stock Market <br>III. AAA rated promissory notes of $100,000 that mature in 30 days <br>IV. Shares sold on the New York Stock Exchange"
+    },
+    "kaplanUnit1Quiz_45": {
+        "answers": [
+            {
+                "content": "Shares of Commonwealth Edison, a regulated public utility holding company",
+                "correct": false
+            },
+            {
+                "content": "Securities issued by the Carnegie Endowment for Peace",
+                "correct": false
+            },
+            {
+                "content": "Securities issued by a bank that is a member of the Federal Reserve System",
+                "correct": false
+            },
+            {
+                "content": "Variable annuity contracts issued by Metrodential Insurance Company",
+                "correct": true
+            }
+        ],
+        "explanation": "Variable annuities (whose performance depends on the securities in a segregated fund) are nonexempt, which means they are covered by the act and have to register. Shares in public utilities, charitable foundations, and banking institutions that are members of the Federal Reserve System are included in our list of exempt securities.",
+        "prompt": "Which of the following securities is NOT exempt from the registration and advertising requirements of the USA?"
+    },
+    "kaplanUnit1Quiz_46": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "II only",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": true
+            }
+        ],
+        "explanation": "The USA exempts from registration a number of different issues. Included in that group are securities issued by depository institutions including a savings and loan association that is authorized to do business in the state. Securities issued by a governmental unit are always exempt. Any security senior to a common stock that is a federal covered security is itself considered federal covered and, therefore, exempt from state registration.",
+        "prompt": "Which of the following securities is(are) exempt from the registration provisions of the USA? <br><br>I. Issue of a savings and loan association authorized to conduct business in the state <br>II. General obligation municipal bond <br>III. Bond issued by a company that has common stock listed on the Chicago Stock Exchange"
+    },
+    "kaplanUnit1Quiz_47": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "An exempt security is exempt from the registration requirements and the provisions that require the filing of advertising and sales literature. Exempt securities are never exempt from the antifraud provisions of the act.",
+        "prompt": "Securities exempt under the Uniform Securities Act are exempt from <br><br>I. registration requirements <br>II. antifraud provisions of state securities laws <br>III. filing sales and advertising literature with the Administrator"
+    },
+    "kaplanUnit1Quiz_48": {
+        "answers": [
+            {
+                "content": "Exempt transaction",
+                "correct": true
+            },
+            {
+                "content": "Non-exempt transaction",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Mr. Thompson's receipt of an unsolicited order from Ms. Gordon is an exempt transaction.",
+        "prompt": "Mr. Thompson, an agent with First Securities, Inc. (a broker-dealer), receives an unsolicited request to purchase a security for Mary Gordon, a long-time client"
+    },
+    "kaplanUnit1Quiz_49": {
+        "answers": [
+            {
+                "content": "Exempt transaction",
+                "correct": true
+            },
+            {
+                "content": "Non-exempt transaction",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The sale of an unregistered security in a private, nonpublicly advertised transaction to 10 or fewer offerees over the previous 12 months is an exempt transaction under the limited offering exemption (a private placement).",
+        "prompt": "The sale of an unregistered security in a private, nonpublicly advertised transaction, offered to 10 or fewer retail investors over the previous 12 months"
+    },
+    "kaplanUnit1Quiz_50": {
+        "answers": [
+            {
+                "content": "Exempt transaction",
+                "correct": true
+            },
+            {
+                "content": "Non-exempt transaction",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Any transaction by an executor, administrator, sheriff, marshal, receiver, trustee in bankruptcy, guardian, or conservator (but not a custodian for a minor under UTMA) is considered an exempt transaction under the Uniform Securities Act.",
+        "prompt": "The sale of unclaimed securities by sheriff of Santa Fe, New Mexico"
+    },
+    "kaplanUnit1Quiz_51": {
+        "answers": [
+            {
+                "content": "Exempt transaction",
+                "correct": false
+            },
+            {
+                "content": "Non-exempt transaction",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The sale of stock of a previously privately owned company to the public in an initial public offering is not an exempt transaction.",
+        "prompt": "Sale of stock of a privately owned company to the public in an initial public offering"
+    },
+    "kaplanUnit1Quiz_52": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and IV",
+                "correct": true
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Choice III is not an exempt transaction because the private placement exemption is limited to 10 offerees, not 10 purchasers. The Administrator would be suspicious of anyone with a 100% closing ratio. All of the others are included in our list of exempt transactions.",
+        "prompt": "Which of the following are exempt transactions? <br><br>I. A nonissuer transaction with a bank in a Nasdaq Capital Market Security <br>II. An unsolicited request from an existing client to purchase a nonexempt security <br>III. The sale of an unregistered security in a private, nonpublicly advertised transaction to 10 noninstitutional purchasers over a period not exceeding 12 months <br>IV. The sale of unlisted securities by a trustee in bankruptcy"
+    },
+    "kaplanUnit1Quiz_53": {
+        "answers": [
+            {
+                "content": "ABC, a broker-dealer, purchases securities from XYZ Corporation as part of an underwriting commitment",
+                "correct": false
+            },
+            {
+                "content": "First National Bank sells its entire publicly traded bond portfolio to Amalgamated National Bank",
+                "correct": false
+            },
+            {
+                "content": "Amalgamated National Bank sells its publicly traded bond portfolio to ABC Insurance Company",
+                "correct": false
+            },
+            {
+                "content": "Joe Smith, an employee of Amalgamated National Bank, buys securities from ABC Brokerage Corporation ",
+                "correct": true
+            }
+        ],
+        "explanation": "The purchase of securities from a brokerdealer by an employee of a bank is a nonexempt transaction-it is a sale of a security by a broker-dealer to a member of the public and is therefore not exempt. Transactions between broker-dealers and issuers as part of an underwriting commitment; transactions between banks; and transactions between banks and insurance companies are exempt because they are transactions between financial institutions. Exempt transactions are most often identified by who the transaction is with rather than what type of security is involved.",
+        "prompt": "All of the following describe exempt transactions EXCEPT"
+    },
+    "kaplanUnit1Quiz_54": {
+        "answers": [
+            {
+                "content": "I, II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "IV only",
+                "correct": false
+            }
+        ],
+        "explanation": "Both unsolicited transactions and transactions between issuers and underwriters are exempt transactions, not exempt securities. U.S. government securities and securities of credit unions are exempt securities, not exempt transactions.",
+        "prompt": "Under the USA, all of the following are exempt securities EXCEPT <br><br>I. U.S. government securities <br>II. unsolicited transactions <br>III. transactions between issuers and underwriters <br>IV. securities of federally chartered credit unions"
+    },
+    "kaplanUnit1Quiz_55": {
+        "answers": [
+            {
+                "content": "issuer transaction",
+                "correct": false
+            },
+            {
+                "content": "unsuitable transaction",
+                "correct": false
+            },
+            {
+                "content": "unlawful transaction",
+                "correct": false
+            },
+            {
+                "content": "sale exempt from the registration and advertising provisions of the USA",
+                "correct": true
+            }
+        ],
+        "explanation": "An agent who sells any security to an insurance company is engaged in an exempt transaction that is not bound by the advertising and registration requirements of the USA. Any sale to certain institutional customers, such as banks, investment companies, and insurance companies, is an exempt transaction. Neither exempt securities nor exempt transactions must adhere to the registration and advertising provisions of the USA. This is an exempt transaction because of the nature of the purchaser, not the type of security being sold.",
+        "prompt": "Under the rules of the Uniform Securities Act, an agent who sells shares of a Nasdaq Stock Market security to an insurance company has engaged in (a/an)"
+    },
+    "kaplanUnit1Quiz_56": {
+        "answers": [
+            {
+                "content": "Only the issuer itself can file a registration statement with the Administrator.",
+                "correct": true
+            },
+            {
+                "content": "An application for registration must indicate the amount of securities to be issued in the state.",
+                "correct": false
+            },
+            {
+                "content": "The Administrator may require registrants to file quarterly reports.",
+                "correct": false
+            },
+            {
+                "content": "The Administrator may require the proceeds of an offering be placed into an escrow account until the issuer receives a specified amount from the sale of the security ",
+                "correct": false
+            }
+        ],
+        "explanation": "A registration statement may be filed by the issuer, any other person on whose behalf the offering is to be made, or a registered brokerdealer. ",
+        "prompt": "With regard to the registration requirements of the Uniform Securities Act, which of the following is NOT a correct statement?"
+    },
+    "kaplanUnit1Quiz_57": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": true
+            },
+            {
+                "content": "Lawful",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "It is unlawful to exercise discretion without prior written authorization. Because the client was a nondiscretionary client, the agent could not, on his own initiative, select which internet company to invest in.",
+        "prompt": "A nondiscretionary customer calls his agent and places a buy order for 1,000 shares of any hot internet company. Later in the day, the agent enters an order for 1,000 shares of Global Internet Services."
+    },
+    "kaplanUnit1Quiz_58": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": false
+            },
+            {
+                "content": "Lawful",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An agent must refuse orders from anyone other than the customer unless that person has prior written trading authority.",
+        "prompt": "An agent receives a call from his client's spouse, advising him to sell her husband's securities. Her husband is out of the country and requested that his wife call the agent. The agent refuses because the wife does not have trading authorization, and she complains vigorously to his manager."
+    },
+    "kaplanUnit1Quiz_59": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": true
+            },
+            {
+                "content": "Lawful",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "All written customer complaints must be forwarded to a designated supervisor of the agent's employing broker-dealer.",
+        "prompt": "A client writes a letter of complaint to his agent regarding securities that the agent had recommended. The agent calls the client to apologize and then disposes of the letter because the client seemed satisfied."
+    },
+    "kaplanUnit1Quiz_60": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": false
+            },
+            {
+                "content": "Lawful",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Agents may borrow from clients who are banks or financial institutions that are in the business of lending money to public customers. Agents may not borrow money from customers who are not in the business of lending money.",
+        "prompt": "A registered agent borrows $10,000 from a credit union that is one of her best customers."
+    },
+    "kaplanUnit1Quiz_61": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": true
+            },
+            {
+                "content": "Lawful",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An agent may not guarantee the performance of a security.",
+        "prompt": "An agent is convinced that Internet Resources will rise significantly over the next 3 months. She offers to buy the stock back from her customers at 10% higher than its current price at any time during the next 3 months."
+    },
+    "kaplanUnit1Quiz_62": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": false
+            },
+            {
+                "content": "Lawful",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "It is lawful to charge extra transaction fees when justified as long as the customer is informed before the transaction.",
+        "prompt": "An agent receives an order for the purchase of an obscure foreign security. The agent informs the client that the commissions and charges on this purchase will be much higher than those of domestic securities."
+    },
+    "kaplanUnit1Quiz_63": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": true
+            },
+            {
+                "content": "Lawful",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "It is unlawful to promise services that an agent cannot reasonably expect to perform or that the agent is not qualified to perform.",
+        "prompt": "An agent who works for a small broker-dealer that employs no securities analysts assures her clients that she can analyze any publicly traded security better than any analyst and that she will do it personally for each security purchased by a client, regardless of the industry."
+    },
+    "kaplanUnit1Quiz_64": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": true
+            },
+            {
+                "content": "Lawful",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null ",
+                "correct": false
+            }
+        ],
+        "explanation": "It is unlawful to solicit unregistered nonexempt securities.",
+        "prompt": "An agent recommends that her client buy 1,000 shares of Internet Consultants, Inc., an unregistered nonexempt security with a bright future."
+    },
+    "kaplanUnit1Quiz_65": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": true
+            },
+            {
+                "content": "IV only",
+                "correct": false
+            }
+        ],
+        "explanation": "A wash trade, the practice of attempting to create the appearance of trading activity by entering offsetting buy and sell orders, is a form of market manipulation. Matched orders or matched purchases occur when market participants agree to buy and sell securities among themselves to create the appearance of heightened market activity; this is also a form of market manipulation. Although churning is a prohibited practice, it does not involve manipulating the market, and arbitrage is the perfectly legal practice of buying a security in one marketplace and simultaneously selling it in another to benefit from a price disparity.",
+        "prompt": "Market manipulation is one of the prohibited practices under the Uniform Securities Act. Which of the following is an example of a broker-dealer engaging in market manipulation? <br><br>I. Churning <br>II. Arbitrage <br>III. Wash trades <br>IV. Matched orders"
+    },
+    "kaplanUnit1Quiz_66": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "III only",
+                "correct": true
+            }
+        ],
+        "explanation": "It is permissible to sell rights, which are securities. Borrowing money or securities from other than a bank or broker-dealer in the business of lending, failing to identify a customer's financial objectives, and guaranteeing a customer's account against losses are all prohibited practices.",
+        "prompt": "All of the following are prohibited practices under the USA EXCEPT <br><br>I. borrowing money or securities from the account of a former banker with express written permission of the bank <br>II. failing to identify a customer's financial objectives <br>III. selling rights instead of exercising them <br>IV. supplying funds to a client's account only when or if it declines below a previously agreed-upon level"
+    },
+    "kaplanUnit1Quiz_67": {
+        "answers": [
+            {
+                "content": "call the customer, apologize, and attempt to correct the problem",
+                "correct": false
+            },
+            {
+                "content": "tell the customer he is willing to make rescission",
+                "correct": false
+            },
+            {
+                "content": "do nothing",
+                "correct": false
+            },
+            {
+                "content": "bring the customer complaint to his employer immediately",
+                "correct": true
+            }
+        ],
+        "explanation": "Failure to bring customers' written complaints to the attention of the agent's broker-dealer is prohibited.",
+        "prompt": "A customer is upset with her agent for not servicing her account properly and sends him a complaint letter about his actions. Under the Uniform Securities Act, the agent should"
+    },
+    "kaplanUnit1Quiz_68": {
+        "answers": [
+            {
+                "content": "recommend the security if it is an appropriate investment",
+                "correct": false
+            },
+            {
+                "content": "recommend the investment if the rumor is based on material inside information",
+                "correct": false
+            },
+            {
+                "content": "recommend the security if the source of the rumor came from a reliable source",
+                "correct": false
+            },
+            {
+                "content": "not recommend the security",
+                "correct": true
+            }
+        ],
+        "explanation": "The use of information, such as a rumor, that has no basis in fact is prohibited.",
+        "prompt": "An agent hears a rumor concerning a security and uses the rumor to convince a client to purchase the security. Under the USA, the agent may"
+    },
+    "kaplanUnit1Quiz_69": {
+        "answers": [
+            {
+                "content": "a registered security may lawfully be sold in that state",
+                "correct": true
+            },
+            {
+                "content": "an exempt security is not required to be registered because it is generally regarded as being safer than a nonexempt security",
+                "correct": false
+            },
+            {
+                "content": "her qualifications have been found satisfactory by the Administrator",
+                "correct": false
+            },
+            {
+                "content": "a registered security has been approved for sale in the state by the Administrator Session 2 State Regulation Under the Uniform Securities Act (USA) 125",
+                "correct": false
+            }
+        ],
+        "explanation": "An agent may indicate that a security is registered or is exempt from registration. All of the other statements are prohibited.",
+        "prompt": "It is permitted under the USA for an individual licensed as an agent in the state to tell a client that"
+    },
+    "kaplanUnit1Quiz_70": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "Recommending tax shelters to low-income retirees is an example of an unsuitable transaction. Stating that an Administrator has approved an offering on the basis of the quality of information in the prospectus, soliciting orders for unregistered nonexempt securities, and employing a device to defraud are all prohibited practices under the USA.",
+        "prompt": "Which of the following is(are) prohibited under the USA? <br><br>I. Recommending tax shelters to low-income retirees <br>II. Stating that a state Administrator has approved an offering on the basis of the quality of information found in the prospectus <br>III. Soliciting orders for unregistered, nonexempt securities <br>IV. Employing any device to defraud"
+    },
+    "kaplanUnit1Quiz_71": {
+        "answers": [
+            {
+                "content": "directed to residents of that state",
+                "correct": false
+            },
+            {
+                "content": "originated in that state",
+                "correct": false
+            },
+            {
+                "content": "accepted in that state",
+                "correct": false
+            },
+            {
+                "content": "all of the above",
+                "correct": true
+            }
+        ],
+        "explanation": "The Administrator has jurisdiction over a security offering if it was directed to, originated in, or was accepted in that state.",
+        "prompt": "A state's securities Administrator has jurisdiction over a securities offering if it was"
+    },
+    "kaplanUnit1Quiz_72": {
+        "answers": [
+            {
+                "content": "1/3 of its circulation outside the state",
+                "correct": false
+            },
+            {
+                "content": "1/2 of its circulation outside the state",
+                "correct": false
+            },
+            {
+                "content": "2/3 of its circulation outside the state",
+                "correct": true
+            },
+            {
+                "content": "90% of its circulation outside the state",
+                "correct": false
+            }
+        ],
+        "explanation": "A state Administrator has jurisdiction over a securities offering made in a bona fide newspaper published within the state, but only whose circulation is not more than 2/3 outside the state.",
+        "prompt": "An Administrator has jurisdiction over an offer to sell securities if it is made in a newspaper published within the state with no more than"
+    },
+    "kaplanUnit1Quiz_73": {
+        "answers": [
+            {
+                "content": "An offer can be made only by a customer and a sale can be made only by a broker-dealer.",
+                "correct": false
+            },
+            {
+                "content": "An offer is a binding proposal to sell and a sale is a nonbinding proposal to sell.",
+                "correct": false
+            },
+            {
+                "content": "An offer is the attempt to sell and a sale is a binding contract to transfer a security for value",
+                "correct": true
+            },
+            {
+                "content": "An offer must be approved by a designated supervisory person and a sale needs no such approval.",
+                "correct": false
+            }
+        ],
+        "explanation": "An offer is made in an attempt to sell; a sale is the binding contract to sell a security for value. An offer will not require prior approval, but a designated supervisory individual must approve all sales on the date the order is executed.",
+        "prompt": "What is the difference between an offer and a sale of a security?"
+    },
+    "kaplanUnit1Quiz_74": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": true
+            }
+        ],
+        "explanation": "The Administrator need not seek an injunction to issue a cease and desist order. The USA does not require that an Administrator conduct a public or private hearing before issuing a cease and desist order. When time does not permit, the Administrator may issue a cease and desist before a hearing to prevent a pending violation. The USA does not grant the Administrator the power to issue injunctions to force compliance with the act. The act permits the Administrator to issue cease and desist orders, and, if they do not work, the Administrator may seek an injunction from a court of competent jurisdiction. A cease and desist order is an administrative order, whereas an injunction is a judicial order.",
+        "prompt": "With regard to the powers of the Administrator, which of the following statements are NOT true? <br><br>I. The Administrator must seek an injunction to issue a cease and desist order. <br>II. The USA requires an Administrator to conduct a full hearing, public or private, before issuing a cease and desist order. <br>III. The USA grants the Administrator the power to issue injunctions to force compliance with the provisions of the act."
+    },
+    "kaplanUnit1Quiz_75": {
+        "answers": [
+            {
+                "content": "I, II and IV",
+                "correct": false
+            },
+            {
+                "content": "I, III and IV",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "An Administrator may compel the testimony of witnesses when conducting an investigation. Investigation of serious violations need not be held in public. An Administrator in Illinois may enforce subpoenas from South Carolina whether or not the violation occurred in Illinois. Conviction for any felony within the past 10 years is one of a number of reasons that the Administrator has for denying a license.",
+        "prompt": "Although the Administrator has great power, the USA does place some limitations on the office. Which of the following statements regarding those powers are TRUE? <br><br>I. In conducting an investigation, an Administrator can compel the testimony of witnesses. <br>II. Investigations of serious violations must be open to the public. <br>III. An Administrator in Illinois may only enforce subpoenas from South Carolina if the violation originally occurred in Illinois. <br>IV. An administrator may deny the registration of a securities professional who has been convicted of any felony within the past 10 years."
+    },
+    "kaplanUnit1Quiz_76": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV Session 2 State Regulation Under the Uniform Securities Act (USA) 137",
+                "correct": false
+            }
+        ],
+        "explanation": "The Administrator can deny, suspend, or revoke a registration for many reasons, but they must be in the interest of the public. The Administrator may not deny the registration simply because it is prudent. The Administrator may determine that an applicant is not qualified to act as an adviser and thus limit the registration to that of a broker-dealer; the Administrator can also take into consideration whether the registrant will work under the supervision of a registered investment adviser or brokerdealer when approving an application. Lack of experience is insufficient for denial.",
+        "prompt": "To protect the public, the Administrator may <br><br>I. deny a registration if the registrant does not have sufficient experience to function as an agent <br>II. consider that an applicant for registration as an investment adviser is not necessarily qualified solely on the basis of experience as a brokerdealer or agent and, therefore, when he finds that an applicant for initial or renewal registration as a broker-dealer is not qualified as an investment adviser, he may by order condition the applicant's registration as a broker-dealer upon his not transacting business in this state as an investment adviser <br>III. take into consideration that the registrant will work under the supervision of a registered investment adviser or broker-dealer in approving a registration <br>IV. deny a registration, although denial is not in the public's interest, if it is prudent in view of a change in the state's political composition"
+    },
+    "kaplanUnit1Quiz_77": {
+        "answers": [
+            {
+                "content": "issue a cease and desist order against a broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "issue an arrest warrant for an investment adviser representative",
+                "correct": true
+            },
+            {
+                "content": "refer evidence concerning violations of this act to the attorney general or the proper district attorney who may then institute the appropriate criminal proceedings",
+                "correct": false
+            },
+            {
+                "content": "file a civil complaint against an agent",
+                "correct": false
+            }
+        ],
+        "explanation": "An arrest warrant can only be issued by a court of law.",
+        "prompt": "Under powers granted by the Uniform Securities Act, the Administrator may take all of the following actions EXCEPT"
+    },
+    "kaplanUnit1Quiz_78": {
+        "answers": [
+            {
+                "content": "A registration, once in effect, may never be voluntarily withdrawn.",
+                "correct": false
+            },
+            {
+                "content": "An Administrator may not cancel a registration of a securities professional who is declared mentally incompetent.",
+                "correct": false
+            },
+            {
+                "content": "An Administrator may revoke the registration of a securities professional who is declared mentally incompetent.",
+                "correct": false
+            },
+            {
+                "content": "An Administrator may cancel the registration of a registrant no longer in business.",
+                "correct": true
+            }
+        ],
+        "explanation": "An administrator may cancel the registration of a registrant that is no longer in existence. A person may request a withdrawal of a registration. Withdrawals become effective after 30 days if there are no revocation or denial proceedings in process. An Administrator does not revoke the registration of a person who is declared mentally incompetent but instead cancels his registration; this is a nonpunitive administrative action. ",
+        "prompt": "Which of the following statements relating to termination of registration is TRUE?"
+    },
+    "kaplanUnit1Quiz_79": {
+        "answers": [
+            {
+                "content": "Unknowing violation of the USA by an agent is cause for imprisonment under the criminal liability provisions of the act.",
+                "correct": false
+            },
+            {
+                "content": "A purchaser of a security where an agent committed a violation of the USA may recover the original purchase price plus legal costs plus interest, less any income already received.",
+                "correct": true
+            },
+            {
+                "content": "A seller who notices that a sale was made in violation of the act may offer a right of rescission to the purchaser; this must be accepted within the sooner of two years after notice of the violation or three years after the sale.",
+                "correct": false
+            },
+            {
+                "content": "Any person aggrieved by an order of the Administrator may request an appeal of the order within 15 days, which, in effect, functions as a stay of the order during the appeal period.",
+                "correct": false
+            }
+        ],
+        "explanation": "To be subject to time in prison, a sales agent must knowingly have violated the USA. A client who purchased a security in violation of the USA may recover the original purchase price plus costs involved in filing a lawsuit. In addition, the purchaser is entitled to interest at a rate stated by the Administrator, less any earnings already received on the investment. The right of rescission must be accepted within 30 days of receipt of the letter of rescission. Although any person aggrieved by an order of the Administrator may request an appeal of the order within 60 days, such appeal does not function as a stay order during the appeal process. The person who is the subject of the order must comply with the order during the period unless a stay is granted by the court.",
+        "prompt": "Which of the following statements relating to penalties under the USA is TRUE?"
+    },
+    "kaplanUnit1Quiz_80": {
+        "answers": [
+            {
+                "content": "claiming his registration is approved by the Administrator while making an offer of a security undergoing registration subjects this agent to a civil liability claim",
+                "correct": false
+            },
+            {
+                "content": "claiming his registration is approved by the Administrator while making an offer of a security does not subject this agent to a civil liability claim until the registration becomes effective",
+                "correct": false
+            },
+            {
+                "content": "claiming his registration is approved by the Administrator subjects this agent only to civil liability if a sale results",
+                "correct": true
+            },
+            {
+                "content": "regardless of whether a sale takes place, an agent making a misleading statement of this type subjects himself to possible civil liability",
+                "correct": false
+            }
+        ],
+        "explanation": "For an agent to have civil liability, a sale must take place. If the offer is made using a statement like the one in this question and a sale subsequently occurs, a client suffering a loss would be able to sue. Even though one may never claim approval by the Administrator, there is no civil liability unless the client has some kind of a claim. However, even though the client cannot bring a case, the Administrator could bring a disciplinary action against the agent for making this claim. On a law exam, you must be careful to understand who has a claim and when they do.",
+        "prompt": "When making an offer of a new issue that is in registration to a prospective client, an agent claims that his registration with the Administrator is proof of his qualifications. Under the USA"
+    },
+    "kaplanUnit1Quiz_81": {
+        "answers": [
+            {
+                "content": "imprisonment for 5 years",
+                "correct": false
+            },
+            {
+                "content": "a fine of $5,000 and/or imprisonment for 3 years",
+                "correct": true
+            },
+            {
+                "content": "a fine of $10,000",
+                "correct": false
+            },
+            {
+                "content": "disbarment ",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the USA, the maximum penalty is a fine of $5,000 and/or 3 years in jail.",
+        "prompt": "If convicted of a willful violation of the Uniform Securities Act, an agent is subject to"
+    },
+    "kaplanUnit1Quiz_82": {
+        "answers": [
+            {
+                "content": "Yes",
+                "correct": true
+            },
+            {
+                "content": "No",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Yes, assets in an account or property held jointly with a person who is not the purchaser's spouse may be included in the calculation for the net worth test, but only to the extent of his or her percentage ownership of the account or property.",
+        "prompt": "Can assets in an account or property held jointly with another person who is not the purchaser's spouse be included in determining whether the purchaser satisfies the net worth test in Rule 501?"
+    },
+    "kaplanUnit1Quiz_83": {
+        "answers": [
+            {
+                "content": "1.5%",
+                "correct": false
+            },
+            {
+                "content": "5.7%",
+                "correct": true
+            },
+            {
+                "content": "6.0%",
+                "correct": false
+            },
+            {
+                "content": "1.1%",
+                "correct": false
+            }
+        ],
+        "explanation": "It is computed by dividing the annual income (4 x $.15 = $.60) by the POP (not the NAV) of $10.50. Only the dividends are used for current yield.",
+        "prompt": "The KAPCO Income Fund has a current public offering price of $10.50 and a net asset value per share of $10.00. During the past 12 months, the fund has made four quarterly distributions from net investment income of $.15 and one distribution from capital gains in the amount of $.25. The fund's current yield would be?"
+    },
+    "kaplanUnit1Quiz_84": {
+        "answers": [
+            {
+                "content": "Unlawful/prohibited",
+                "correct": true
+            },
+            {
+                "content": "Lawful",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "It is unlawful to guarantee the performance of any security. Even though repayment of the principal of the government securities at maturity is assured, the same cannot be said about the mutual fund.",
+        "prompt": "An agent guarantees a client that funds invested in mutual funds made up of government securities cannot lose principal."
+    },
+    "kaplanUnit1Quiz_85": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A final order, such as a suspension or revocation, may only be entered after the opportunity for a hearing has been granted.",
+        "prompt": "A final order may be entered only after opportunity for a hearing has been granted."
+    },
+    "kaplanUnit1Quiz_86": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "His 15% ownership is control. Her 5% is not, but the fact that she is the spouse of an affiliate makes her one, causing this to be a sale of control stock. All sales of control stock (unless an exemption applies) must be accompanied by a Rule 144 filing.",
+        "prompt": "A man owns 15% of the stock of a company. His wife owns 5% of the stock of the same company. If the wife wishes to sell the stock she owns, which of the following statements are TRUE? <br><br>I. Both the husband and the wife are affiliates. <br>II. He is an affiliate, but she is not. <br>III. She must file under Rule 144. <br>IV. She does not have to file under Rule 144."
+    },
+    "kaplanUnit1Quiz_87": {
+        "answers": [
+            {
+                "content": "acted appropriately",
+                "correct": false
+            },
+            {
+                "content": "acted inappropriately",
+                "correct": true
+            },
+            {
+                "content": "failed to follow the customer’s instructions",
+                "correct": false
+            },
+            {
+                "content": "potentially become subject to statutory disqualification",
+                "correct": false
+            }
+        ],
+        "explanation": "Whenever the order calls for time/price discretion, it is considered a day order and must be executed that day. Waiting two days is inappropriate.",
+        "prompt": "An agent receives instructions from a client to buy 100 shares of KAPCO common stock at what the agent thinks is the best price. Two days later, the agent enters the order. In this case, the agent has"
+    },
+    "kaplanUnit1Quiz_88": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Closed-end companies issue a fixed number of shares, whereas open-end companies do not specify the number of shares to be issued. Both types of company register issues with the SEC, and any investor may invest in either type of company. Open-end shares must always be sold with a prospectus because each is a newly issued share.",
+        "prompt": "How do closed-end investment companies differ from open-end investment companies? <br><br>I. Closed-end companies register their shares with the SEC; open-end companies do not. <br>II. The only time a prospectus is used with the sale of a closed-end company is on the IPO; sales of open-end shares must always be preceded or accompanied by a prospectus. <br>III. Closed-end companies issue a fixed number of shares; open-end companies continuously issue new shares. <br>IV. Closed-end companies may only sell shares to institutional investors; open-end companies can sell to any investor."
+    },
+};
