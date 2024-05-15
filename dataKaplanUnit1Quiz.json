@@ -1510,7 +1510,7 @@ let dataKaplanUnit1Quiz = {
                 "correct": false
             },
             {
-                "content": "a registered security has been approved for sale in the state by the Administrator Session 2 State Regulation Under the Uniform Securities Act (USA) 125",
+                "content": "a registered security has been approved for sale in the state by the Administrator ",
                 "correct": false
             }
         ],
@@ -1664,7 +1664,7 @@ let dataKaplanUnit1Quiz = {
                 "correct": false
             },
             {
-                "content": "I, II, III, and IV Session 2 State Regulation Under the Uniform Securities Act (USA) 137",
+                "content": "I, II, III, and IV ",
                 "correct": false
             }
         ],
