@@ -1935,7 +1935,7 @@ let dataKaplanUnit1Quiz = {
         "explanation": "Closed-end companies issue a fixed number of shares, whereas open-end companies do not specify the number of shares to be issued. Both types of company register issues with the SEC, and any investor may invest in either type of company. Open-end shares must always be sold with a prospectus because each is a newly issued share.",
         "prompt": "How do closed-end investment companies differ from open-end investment companies? <br><br>I. Closed-end companies register their shares with the SEC; open-end companies do not. <br>II. The only time a prospectus is used with the sale of a closed-end company is on the IPO; sales of open-end shares must always be preceded or accompanied by a prospectus. <br>III. Closed-end companies issue a fixed number of shares; open-end companies continuously issue new shares. <br>IV. Closed-end companies may only sell shares to institutional investors; open-end companies can sell to any investor."
     },
-    "kaplanUnit1Quiz_89": {
+    "kaplanUnit1Quiz_158": {
         "answers": [
             {
                 "content": "issuing common stock",
@@ -1957,7 +1957,7 @@ let dataKaplanUnit1Quiz = {
         "explanation": "The one thing that all investment companies must do is issue common stock. That is the form of ownership. All of the other activities are prohibited.",
         "prompt": "The Investment Company Act of 1940 prohibits registered investment companies from engaging in any of the following practices EXCEPT"
     },
-    "kaplanUnit1Quiz_90": {
+    "kaplanUnit1Quiz_159": {
         "answers": [
             {
                 "content": "ABC tenders, from its investment account, 500 shares of the XYZ Mutual Fund for redemption.",
@@ -1979,4 +1979,1522 @@ let dataKaplanUnit1Quiz = {
         "explanation": "Without an exemptive order from the SEC, it would be a violation of the Investment Company Act of 1940 for any affiliated person to purchase any security from an investment company other than shares of the fund itself.",
         "prompt": "ABC is an FINRA member broker-dealer. Among other functions, it serves as the principal underwriter of the XYZ Mutual Fund. Which of the following transactions of ABC would be prohibited unless exemptive relief was offered by the SEC?"
     },
+    "kaplanUnit1Quiz_89": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The Administrator may issue a cease and desist order without a hearing, but does not have the authority to convict violators of the 1933 Securities Act in criminal prosecutions or sentence violators of the USA. The Administrator may suspend a security's effective registration upon subsequently discovering that an officer of the firm has been convicted of a securities-related crime, not a nonsecurities-related one.",
+        "prompt": "The Administrator has authority to <br><br>I. issue a cease and desist order without a hearing <br>II. issue a cease and desist order only after a hearing <br>III. suspend an effective securities registration upon discovering an officer of the registrant has been convicted of a nonsecurities related crime <br>IV. sentence violators of the USA to 3 years in prison"
+    },
+    "kaplanUnit1Quiz_90": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "It is a NASAA Model Rule that brokerdealers operating on the premises of a financial institution make certain disclosures. Every attempt should be made to locate separately from the banking operation and to obtain something in writing from the clients indicating that they have received the disclosures. It is not necessary that there be any relationship between the BD and the institution other than a business one.",
+        "prompt": "If a broker-dealer wishes to conduct operations on the premises of a financial institution, it is required to <br><br>I. disclose both in writing and orally to customers that the investments being sold are not FDIC insured, may lose value, and are not obligations of the financial institution <br>II. make a reasonable attempt to be in a location physically distinct from that where retail deposits are taken <br>III. attempt to obtain written acknowledgement from customers that they have received and read the disclaimers <br>IV. be under common control with the institution"
+    },
+    "kaplanUnit1Quiz_91": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": true
+            }
+        ],
+        "explanation": "Persons who are convicted of violating securities laws may find themselves subject to criminal penalties, civil liabilities, and suspension, denial, or revocation of registration.",
+        "prompt": "An agent of a broker-dealer who willfully violates the Uniform Securities Act may be subject to which of the following? <br><br>I. Civil liabilities <br>II. Criminal penalties <br>III. Action taken by the Administrator to deny, suspend, or revoke the agent's registration"
+    },
+    "kaplanUnit1Quiz_92": {
+        "answers": [
+            {
+                "content": "Office of Supervisory Jurisdiction (OSJ)",
+                "correct": false
+            },
+            {
+                "content": "Principal office and place of business",
+                "correct": true
+            },
+            {
+                "content": "Home office",
+                "correct": false
+            },
+            {
+                "content": "Executive office",
+                "correct": false
+            }
+        ],
+        "explanation": "This is the term used in both the federal and state law. OSJ is a FINRA term and has no relevance to investment advisers. In fact, it may be the home office or executive office, but the exam will be looking for their definition.",
+        "prompt": "Seven Seas Strategic Advisers (SSSA) maintains a place of business in 11 states and is registered with the SEC. As defined in the Investment Advisers Act of 1940, the office from which control of the activities of SSSA takes place is known as the"
+    },
+    "kaplanUnit1Quiz_93": {
+        "answers": [
+            {
+                "content": "an accountant",
+                "correct": false
+            },
+            {
+                "content": "an economist",
+                "correct": true
+            },
+            {
+                "content": "an electrical engineer",
+                "correct": false
+            },
+            {
+                "content": "a college professor teaching a course on economics ",
+                "correct": false
+            }
+        ],
+        "explanation": "The act specifically excludes accountants, lawyers, any professional engineer (aeronautical, civil, mechanical, or others), and teachers. Economists are not included in this listing.",
+        "prompt": "The Investment Advisers Act of 1940 excludes certain persons from the definition of an investment adviser if their performance of advisory services is solely incidental to their professions. This exclusion would apply to all of the following EXCEPT"
+    },
+    "kaplanUnit1Quiz_94": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "There is an exclusion from the definition for all banks, regardless of what they do. Also excluded are persons whose advice relates only to securities that are direct obligations of or guaranteed by the United States-it makes no difference who their clients are. A geologist is not excluded because the law only specifies 4 professional exclusions: accountants, attorneys, engineers, and teachers.",
+        "prompt": "Which of the following would be excluded from the definition of investment adviser under the Investment Advisers Act of 1940? <br><br>I. A bank offering advice through its trust department <br>II. A geologist giving advice on the potential prospects of an oil and gas limited partnership program <br>III. A person whose only clients are individuals and whose only advice deals with securities which are direct obligations of the U.S. government"
+    },
+    "kaplanUnit1Quiz_95": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "I, III, and IV",
+                "correct": true
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Publishers of general circulation newspapers and magazines are excluded from the definition of investment adviser, even if the entire publication is devoted to investment advice. An important key here is that it is published regularly, not upon market events. A broker-dealer loses its exclusion the moment it offers advice for a separate charge, as does an attorney who holds herself out as offering investment advice. Normally, a teacher is excluded, but not when charging for advice as would appear to be the case here. On this examination, the term comprehensive financial planning always includes securities advice.",
+        "prompt": "Which of the following would meet the definition of investment adviser under the Uniform Securities Act? <br><br>I. A broker-dealer making a separate charge for investment advice <br>II. The publisher of a weekly magazine, sold on newsstands, that contains at least 5 stock recommendations per issue <br>III. A civil damages attorney who advertises that she is available to assist clients in suggesting appropriate investments for their successful claims <br>IV. A finance teacher at a local community college who offers weekend seminars on comprehensive financial planning at a very reasonable price"
+    },
+    "kaplanUnit1Quiz_96": {
+        "answers": [
+            {
+                "content": "apartments undergoing a conversion to condominiums",
+                "correct": false
+            },
+            {
+                "content": "convertible bonds",
+                "correct": true
+            },
+            {
+                "content": "gold coins",
+                "correct": false
+            },
+            {
+                "content": "rare convertible automobiles",
+                "correct": false
+            }
+        ],
+        "explanation": "Only those individuals in the business of giving advice on securities are required to register as investment advisers; only the convertible bonds are securities.",
+        "prompt": "Registration as an investment adviser is required for any firm in the business of giving advice on the purchase of"
+    },
+    "kaplanUnit1Quiz_97": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "Advisers who only service insurance companies are exempt, as are advisers performing intrastate who do not give advice on listed securities (municipal bonds are not listed). Advising banks only does not qualify one for the exemption.",
+        "prompt": "Which of the following investment advisers are exempt from registration under the Investment Advisers Act of 1940? <br><br>I. An adviser whose only clients are insurance companies <br>II. An adviser who maintains offices in only one state, advises only residents of that state (none of whom is a private fund), and gives advice relating to only tax-exempt municipal bonds <br>III. An adviser whose only clients are banks"
+    },
+    "kaplanUnit1Quiz_98": {
+        "answers": [
+            {
+                "content": "Required to register as an IA under the USA",
+                "correct": false
+            },
+            {
+                "content": "Not required to register as an IA under the USA",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Publishers of newspapers and magazines of general circulation that offer general financial advice need not register.",
+        "prompt": "Publisher of a newspaper that renders general financial advice"
+    },
+    "kaplanUnit1Quiz_99": {
+        "answers": [
+            {
+                "content": "Required to register as an IA under the USA",
+                "correct": true
+            },
+            {
+                "content": "Not required to register as an IA under the USA",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Broker-dealers must register as investment advisers if they receive special or separate compensation for giving investment advice.",
+        "prompt": "Broker-dealer that charges a fee for providing investment advice over and above commissions from securities transactions"
+    },
+    "kaplanUnit1Quiz_100": {
+        "answers": [
+            {
+                "content": "Required to register as an IA under the USA",
+                "correct": true
+            },
+            {
+                "content": "Not required to register as an IA under the USA",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An investment adviser that manages less than $100 million in assets must register as an investment adviser under the USA. If the client is an investment company registered under the Investment Company Act of 1940, registration with the SEC is mandatory regardless of amount under management.",
+        "prompt": "Investment adviser that manages $10 million in assets"
+    },
+    "kaplanUnit1Quiz_101": {
+        "answers": [
+            {
+                "content": "a broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "a fiduciary",
+                "correct": false
+            },
+            {
+                "content": "an investment adviser",
+                "correct": true
+            },
+            {
+                "content": "an issuer",
+                "correct": false
+            }
+        ],
+        "explanation": "This is the straightforward definition of an IA. Yes, an IA does act in a fiduciary capacity, but are all fiduciaries investment advisers? No.",
+        "prompt": "The Uniform Securities Act contains a number of definitions. A person who is in the business of rendering investment advice for compensation is known as"
+    },
+    "kaplanUnit1Quiz_102": {
+        "answers": [
+            {
+                "content": "The author of a book on money and banking that was sold to residents of the state in which it is published.",
+                "correct": false
+            },
+            {
+                "content": "An investment advisory firm with $85 million in assets under management that opens an office in the state.",
+                "correct": true
+            },
+            {
+                "content": "A person with no office in the state whose only advisory clients are investment companies and banks in the state.",
+                "correct": false
+            },
+            {
+                "content": "A newly formed investment advisory firm with $145 million in assets under management that has two offices in the state and serves exclusively individual clients.",
+                "correct": false
+            }
+        ],
+        "explanation": "Unless some kind of exemption applies, an investment adviser must register on the state level if it manages less than $100 million in assets. Publishers of general circulation books are exempt from state registration, as are advisers with no offices in the state whose only customers are institutions, such as banks and investment companies, in the state. Investment advisers with $110 million or more in assets under management must register with the SEC, not the state Administrator regardless of offices in the state and the type of clientele being served.",
+        "prompt": "Which of the following is required to register as an investment adviser with the state securities Administrator?"
+    },
+    "kaplanUnit1Quiz_103": {
+        "answers": [
+            {
+                "content": "prompt filing of an amended ADV with the SEC indicating the change in contact person",
+                "correct": true
+            },
+            {
+                "content": "prompt filing of an ADV-W with the SEC indicating the change of contact person",
+                "correct": false
+            },
+            {
+                "content": "filing of amended ADV within 90 days of the end of the adviser's fiscal year giving notice of the change of contact person",
+                "correct": false
+            },
+            {
+                "content": "filing of the ADV-W within 90 days of the end of the adviser's fiscal year giving notice of the change of contact person ",
+                "correct": false
+            }
+        ],
+        "explanation": "Because Mr. Oldman has been responsible for updating the ADV, it is logical to assume that he is the contact person for information regarding the form. His sudden retirement means the firm would have to appoint a new contact person. This is a change that the SEC deems necessary to promptly amend of the Form ADV. Amendments to the ADV may not be done using Form ADV-W-that is for withdrawal only.",
+        "prompt": "ABC Advisers is a federal covered IA. John Oldman has been responsible for keeping the firm's Form ADV updated for the last 40 years. John has suddenly announced his immediate retirement. This would require"
+    },
+    "kaplanUnit1Quiz_104": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "Any entity meeting the definition of a person would be eligible to file for registration as an investment adviser on Form ADV",
+        "prompt": "The Investment Advisers Act of 1940 would permit an ADV to be filed by a(n) <br><br>I. corporation <br>II. partnership <br>III. sole proprietorship <br>IV. unincorporated association"
+    },
+    "kaplanUnit1Quiz_105": {
+        "answers": [
+            {
+                "content": "A financial planner offering a wide range of services to his clients, including tax planning, estate planning, and insurance planning, as well as investment advice",
+                "correct": false
+            },
+            {
+                "content": "A professional providing a market timing service with an annual subscription fee of $495 (this service attempts to maximize profits by suggesting entry and exit points for over 100 listed stocks)",
+                "correct": false
+            },
+            {
+                "content": "A firm whose exclusive business is placing their client's assets into model portfolios",
+                "correct": true
+            },
+            {
+                "content": "All of the above",
+                "correct": false
+            }
+        ],
+        "explanation": "In order to use the term investment counsel, 2 criteria must be met- the principal business must be giving investment advice and the adviser must provide investment supervisory services. Running model portfolios for clients would meet both requirements. The financial planner is not principally in the business of offering investment advice because he describes his service as offering a wide range of services, of which advice is only one part. The exam frequently uses that wording to indicate that advice is not the principal activity. While the publisher's principal business activity may be offering advice, nothing about the description indicates that individual client accounts are being monitored.",
+        "prompt": "Which of the following investment advisers would be permitted to use the term investment counsel?"
+    },
+    "kaplanUnit1Quiz_106": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Reasons for cancellation do not include dropping below a minimum number of clients. Revocation of registration is usually connected with some form of disciplinary action. Insolvency is not cause for revocation or cancellation under the Investment Advisers Act of 1940, although it is cause under the Uniform Securities Act.",
+        "prompt": "Under which of the following circumstances would the SEC be permitted to cancel or revoke an investment adviser's registration? <br><br>I. A registered investment adviser with no place of business in the state has fewer than 6 clients. <br>II. The annual updating amendment has not been filed for the current fiscal year, and mail addressed to the investment adviser is returned with a notation \"no forwarding address available.\" <br>III. An investment adviser doing business in 10 states has been enjoined by a competent court of jurisdiction in one of those states from engaging in the securities business. <br>IV. A registered investment adviser is insolvent."
+    },
+    "kaplanUnit1Quiz_107": {
+        "answers": [
+            {
+                "content": "advisers maintaining custody of customer funds and/or securities must have a net worth of $35,000",
+                "correct": false
+            },
+            {
+                "content": "advisers maintaining discretion over client accounts must have net worth of $35,000",
+                "correct": true
+            },
+            {
+                "content": "advisers accepting substantial prepayments of fees must have a positive net worth",
+                "correct": false
+            },
+            {
+                "content": "advisers whose only custody of client funds is the ability to have direct deduction of fees are exempt from the net worth and bonding requirements",
+                "correct": false
+            }
+        ],
+        "explanation": "Advisers maintaining discretion over client accounts are required to have a minimum net worth of $10,000. No, we haven't covered the information dealing with choice D yet, but this is a good opportunity to learn a testtaking technique. You will sometimes find an answer choice you have never heard of before. It might be correct, especially if it is an \"all of these are true except\" question. But, don't pick an answer just because you don't know what it means. And, in a question like this, where you should have easily spotted that the correct net worth is $10,000 instead of $35,000, before you go on to the next question, make a mental note (or write down on the pad given to you), the fact you learn from choice D-it might show up on another question.",
+        "prompt": "All of the following statements regarding the USA's minimum financial requirements of an investment adviser are correct EXCEPT"
+    },
+    "kaplanUnit1Quiz_108": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "II and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the USA, an investment adviser exercising discretion over client accounts must maintain minimum net worth of $10,000. If the adviser falls below that minimum, it must notify the Administrator by the close of business the following day. Then, a complete financial report must be furnished to the Administrator by the close of business the day following the sending of the notice. Unless otherwise instructed by the Administrator, the firm may continue to exercise discretion.",
+        "prompt": "A registered investment adviser has discretionary authority over client accounts. Its accounting department has just discovered that the firm's net worth is $8,500. Under the Uniform Securities Act, they <br><br>I. must notify the Administrator of the net worth deficiency by the close of that day <br>II. must notify the Administrator of the net worth deficiency by the close of the next business day <br>III. must file a financial report with the Administrator by the first business day following notice <br>IV. may no longer exercise discretion until they increase their net worth"
+    },
+    "kaplanUnit1Quiz_109": {
+        "answers": [
+            {
+                "content": "XYZ will have to meet State B's net worth requirements if it wishes to register there.",
+                "correct": false
+            },
+            {
+                "content": "XYZ can register in State B only if they cease taking custody.",
+                "correct": false
+            },
+            {
+                "content": "As long as XYZ meets the net worth requirements of State A, it can register in any other state.",
+                "correct": true
+            },
+            {
+                "content": "In lieu of meeting State B's requirements, a surety bond may be posted.",
+                "correct": false
+            }
+        ],
+        "explanation": "The USA requires advisers who take custody to maintain a minimum net worth of $35,000. Any Administrator is empowered to change that number, higher or lower. As long as an investment adviser meets the net worth requirements of the state where its principal office is located, there is no need to be concerned about any other state's requirements.",
+        "prompt": "XYZ Advisers has its principal office in State (A). XYZ maintains custody of customer securities and they wish to open an office in State (B). They have been informed that the Administrator of State B requires all investment advisers that take custody to maintain a minimum net worth of $65,000. Which of the following statements is CORRECT?"
+    },
+    "kaplanUnit1Quiz_110": {
+        "answers": [
+            {
+                "content": "a federal covered adviser with a place of business in the state relocates that office to a different city in the state",
+                "correct": false
+            },
+            {
+                "content": "there is a change to the marital status of an agent",
+                "correct": false
+            },
+            {
+                "content": "a non-exempt issuer's dividend is reduced",
+                "correct": false
+            },
+            {
+                "content": "there is a material change to any information contained in a broker-dealer's application for registration that is on file with the state",
+                "correct": true
+            }
+        ],
+        "explanation": "Whenever there is a material change to the information contained in the registration application of a securities professional, the Administrator must be promptly notified. Marital status is not included on the Form U-4. Federal covered investment advisers are not under the Administrator's jurisdiction.",
+        "prompt": "Prompt notification to the Administrator must be made when"
+    },
+    "kaplanUnit1Quiz_111": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An investment adviser (not the investment adviser representative) must register with the SEC if the firm manages assets of $110 million or more. As a representative of a federal covered investment adviser, the individual would have to be registered as an investment adviser representative in each state where she maintains a place of business.",
+        "prompt": "An investment adviser representative must register with the SEC if she has clients with assets of $110 million or more under management."
+    },
+    "kaplanUnit1Quiz_112": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An adviser maintaining custody, whether or not discretion is involved, is generally required to maintain a net worth of $35,000.",
+        "prompt": "A state-registered investment adviser maintaining custody of a customer's securities or funds and exercising discretion in the account is generally required to maintain a minimum net worth of $35,000."
+    },
+    "kaplanUnit1Quiz_113": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An employee of an investment advisory firm is not an investment adviser representative if his duties are confined to clerical activities.",
+        "prompt": "An employee of an investment advisory firm is an investment adviser representative if his duties are confined to clerical activities."
+    },
+    "kaplanUnit1Quiz_114": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Any administrative employee who receives specific compensation for offering investment advisory services is considered an investment adviser representative.",
+        "prompt": "An administrative employee who receives specific compensation for offering investment advisory services is not an investment adviser representative."
+    },
+    "kaplanUnit1Quiz_115": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Any employee of an investment advisory firm is an investment adviser representative if his duties involve making investment recommendations.",
+        "prompt": "An employee of an investment advisory firm is an investment adviser representative if his duties involve making investment recommendations."
+    },
+    "kaplanUnit1Quiz_116": {
+        "answers": [
+            {
+                "content": "A financial planner or other person who provides investment advisory services to others for compensation",
+                "correct": true
+            },
+            {
+                "content": "A publisher of a bona fide newspaper, news magazine, or business or financial publication of general and regular circulation",
+                "correct": false
+            },
+            {
+                "content": "A federal covered investment adviser",
+                "correct": false
+            },
+            {
+                "content": "Any person who the Administrator excludes by rule or order",
+                "correct": false
+            }
+        ],
+        "explanation": "A financial planning firm or other person that, as an integral component of other financially related services, provides investment advisory services for compensation is an investment adviser. A publisher of a bona fide newspaper, news magazine, or business or financial publication of general and regular circulation and a federal covered investment adviser are excluded from the definition of an investment adviser. Obviously, if the Administrator excludes a person from the definition, they're not going to have to register. Likewise, if the Administrator were to include that person, registration would be required.",
+        "prompt": "Under the Uniform Securities Act, registration with the state could be required of which of the following?"
+    },
+    "kaplanUnit1Quiz_117": {
+        "answers": [
+            {
+                "content": "A director of a state registered investment advisory firm who determines specific recommendations for clients",
+                "correct": false
+            },
+            {
+                "content": "An associate in an SEC-registered investment advisory firm who has a place of business in the state and manages the account of only one individual client",
+                "correct": false
+            },
+            {
+                "content": "A clerk employed by a state registered investment advisory firm",
+                "correct": true
+            },
+            {
+                "content": "A vice president of a state registered investment advisory firm who supervises employees who solicit clients for the firm",
+                "correct": false
+            }
+        ],
+        "explanation": "Clerical and ministerial personnel are specifically excluded from the definition of investment adviser representative. Specifically included in the definition are directors, officers, partners, associates, and employees of state registered advisers who carry out investment advisory or solicitation functions or who supervise those functions. Also included in the definition are persons who perform similar functions for SECregistered advisers and who have a place of business in the state. Once there is a place of business in the state, the de minimis rule no longer applies.",
+        "prompt": "Under the Uniform Securities Act, which of the following is NOT an investment adviser representative?"
+    },
+    "kaplanUnit1Quiz_118": {
+        "answers": [
+            {
+                "content": "the IA must keep records of transactions made for its own account as well as the account of investment adviser representatives to lessen the likelihood of scalping",
+                "correct": false
+            },
+            {
+                "content": "computer-generated records may be stored in that format",
+                "correct": false
+            },
+            {
+                "content": "client account records must be maintained, including a list of recommendations made",
+                "correct": false
+            },
+            {
+                "content": "records must be maintained for a period of 2 years from the end of the fiscal year in which the last entry was made ",
+                "correct": true
+            }
+        ],
+        "explanation": "This is the exception, since the records must be kept for 5 years. Nothing in the question asked about the 2-year requirement in the office. The 5-year requirement is that records be easily accessible whether in the office or not.",
+        "prompt": "Under the Investment Advisers Act of 1940, all of the following are true regarding adviser recordkeeping EXCEPT"
+    },
+    "kaplanUnit1Quiz_119": {
+        "answers": [
+            {
+                "content": "Records originally created on computer may be stored in electronic media.",
+                "correct": false
+            },
+            {
+                "content": "Records are subject to surprise audits by the State G Administrator.",
+                "correct": false
+            },
+            {
+                "content": "Written records may be reduced to microfilm.",
+                "correct": false
+            },
+            {
+                "content": "Records must be kept for six years.",
+                "correct": true
+            }
+        ],
+        "explanation": "Records of an investment adviser must be maintained for five years. Records are subject to surprise audits by the state Administrator, written records may be reduced to microfilm, and records originally created on a company's computer may be stored in electronic media.",
+        "prompt": "An investment adviser registered in State G is obligated to maintain certain books and records as specified by the Uniform Securities Act. Which of the following statements regarding adviser recordkeeping is NOT true?"
+    },
+    "kaplanUnit1Quiz_120": {
+        "answers": [
+            {
+                "content": "An adviser whose only clients are registered investment companies",
+                "correct": false
+            },
+            {
+                "content": "An adviser whose only clients are insurance companies",
+                "correct": false
+            },
+            {
+                "content": "An adviser who only provides impersonal advisory services at an annual charge of less than $500",
+                "correct": false
+            },
+            {
+                "content": "All of the above",
+                "correct": true
+            }
+        ],
+        "explanation": "An adviser to investment companies and an adviser who provides only impersonal advisory services are specifically listed as being exempt from the delivery requirements of the brochure rule (impersonal advice with a charge of $500 or more would require an offer to deliver). An adviser who provides advice only to insurance companies is exempt from registration as an investment adviser and therefore would also be exempt from the requirements of the brochure.",
+        "prompt": "With regard to the brochure rule of the Investment Advisers Act of 1940, which of the following are exempt from the delivery requirements of that rule?"
+    },
+    "kaplanUnit1Quiz_121": {
+        "answers": [
+            {
+                "content": "It must be delivered no later than 48 hours before entering into an advisory contract.",
+                "correct": false
+            },
+            {
+                "content": "It must be delivered no later than upon receipt of a client's funds.",
+                "correct": false
+            },
+            {
+                "content": "It must accompany the ADV Part 1A when being delivered to new clients.",
+                "correct": false
+            },
+            {
+                "content": "An investment adviser must deliver to each client, a copy of the most recent ADV Part 2A no later than at the time of entering into the advisory agreement.",
+                "correct": true
+            }
+        ],
+        "explanation": "Delivery of the ADV Part 2A, or brochure, must be made to each client no later than the commencement of the advisory agreement. If the adviser wishes to deliver prior to that, there is no problem, but it is not required. For a state registered adviser, there is a requirement to deliver the brochure at least 48 hours in advance, unless the contract calls for a penalty-free termination. The ADV Part 1 is used when registering and is not furnished to clients.",
+        "prompt": "With regard to a federal covered investment adviser, which of the following statements regarding the Form ADV Part 2A is CORRECT?"
+    },
+    "kaplanUnit1Quiz_122": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III only ",
+                "correct": true
+            }
+        ],
+        "explanation": "This is one of the purposes of ADV Part 2B, the brochure supplement. Justification for SEC registration is based on assets under management, not the number of clients, and the brochure is not required to disclose the number of clients served by the investment adviser.",
+        "prompt": "Under the Investment Advisers Act of 1940, an investment adviser is required to <br><br>I. submit justification for continued registration to the SEC if their client base drops below 15 individuals for any consecutive 12-month period <br>II. disclose, in their brochure, the number of clients they serve <br>III. disclose, in their brochure supplements, the educational background, business experience, and disciplinary history (if any) of the supervised persons who provide advisory services to the clients"
+    },
+    "kaplanUnit1Quiz_123": {
+        "answers": [
+            {
+                "content": "the 200 clients for whom it maintains custody",
+                "correct": false
+            },
+            {
+                "content": "the 200 clients for whom it maintains custody, as well as the 400 for whom it exercises investment discretion",
+                "correct": false
+            },
+            {
+                "content": "all of its clients because it is an integral part of its brochure once it maintains custody for even 1 client",
+                "correct": false
+            },
+            {
+                "content": "none of its clients because the balance sheet requirement is only required when the firm collects fees in excess of $1,200, 6 or more months in advance",
+                "correct": true
+            }
+        ],
+        "explanation": "The balance sheet is required only when the adviser receives prepayments in excess of $1,200 for periods of 6 months or longer-not for those maintaining custody. If this had been a state registered adviser, the conditions are different in that the substantial prepayment amount requiring a balance sheet is $500 instead of $1,200 and NASAA Model Rules also require a balance sheet to all clients for whom the IA maintains custody.",
+        "prompt": "Smith & Jones is a registered investment adviser under the Investment Advisers Act of 1940. It has 1,000 active clients. The firm maintains custody for 200 of their clients and exercises investment discretion for 400 of them. When preparing its brochure for annual distribution, it would need to include an audited balance sheet prepared by an independent accountant for"
+    },
+    "kaplanUnit1Quiz_124": {
+        "answers": [
+            {
+                "content": "have a minimum net worth of $100,000",
+                "correct": false
+            },
+            {
+                "content": "limit the giving of advice to securities listed on major exchanges",
+                "correct": false
+            },
+            {
+                "content": "avoid maintaining control or custody of client funds and securities",
+                "correct": false
+            },
+            {
+                "content": "provide each new client with a disclosure statement or brochure no later than when entering into the advisory agreement",
+                "correct": true
+            }
+        ],
+        "explanation": "The brochure rule requires that each client be given a written disclosure statement by the adviser no later than the time of entering into the advisory agreement. It may consist of a copy of Part 2A and 2B of Form ADV or another document providing similar information. There are no minimum net worth requirements for SEC registered investment advisers.",
+        "prompt": "Under the Investment Advisers Act of 1940, a registered investment adviser who provides investment advisory services to individuals must"
+    },
+    "kaplanUnit1Quiz_125": {
+        "answers": [
+            {
+                "content": "The adviser receives the proceeds of sales in the customer's account.",
+                "correct": true
+            },
+            {
+                "content": "The adviser receives a fee of $1,500 as a prepayment for the next contract year.",
+                "correct": false
+            },
+            {
+                "content": "The adviser has investment discretion over the account.",
+                "correct": false
+            },
+            {
+                "content": "All of the above. ",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the Investment Advisers Act of 1940, discretion and substantial prepayments are not considered custody. Access to funds in the client's account is one of the standard tenets of custody.",
+        "prompt": "Which of the following advisers would be deemed to have custody of customer funds or securities as defined in the Investment Advisers Act of 1940?"
+    },
+    "kaplanUnit1Quiz_126": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "If an IA is registered or is registering with one or more of the state securities authorities, the dollar amount reporting threshold for including the required balance sheet is more than $500 in fees per client, six months or more in advance. Unlike the federal law, under state law, a balance sheet is also required whenever the IA maintains custody of client assets. When the custodian is an affiliated broker-dealer (as in this case), the balance sheet requirement is triggered. When the only reason one is considered to have custody is automatic debiting of fees, the balance sheet is not normally required. Yes, there are certain conditions to be met to qualify for this exception, but on the exam, in a question like this, you may assume they're met.",
+        "prompt": "Which of the following state registered investment advisers would be required to furnish an audited balance sheet as part of its disclosure statement? <br><br>I. The adviser's fee is automatically debited from the client's account. <br>II. The adviser receives its fee each year in advance in the amount of $900. <br>III. The client's securities are held by a broker-dealer with whom the adviser has an affiliate relationship."
+    },
+    "kaplanUnit1Quiz_127": {
+        "answers": [
+            {
+                "content": "The adviser must supply prompt notification to the Administrator by immediately updating its Form ADV.",
+                "correct": true
+            },
+            {
+                "content": "The adviser must notify the Administrator within 90 days of the end of its fiscal year by updating its Form ADV.",
+                "correct": false
+            },
+            {
+                "content": "If the adviser will be using a qualified custodian, no notification is necessary.",
+                "correct": false
+            },
+            {
+                "content": "Prompt notification to the Administrator is made by the independent accounting firm performing the adviser's annual surprise audit.",
+                "correct": false
+            }
+        ],
+        "explanation": "Taking custody is considered to be of such significance that it requires prompt notification to the Administrator by the investment adviser by updating the Form ADV. Using a qualified custodian still constitutes a form of custody and requires notification to the Administrator.",
+        "prompt": "An investment adviser registered with the state wishes to take custody of client's funds or securities. Which of the following statements best describes NASAA rules regarding notification to the Administrator?"
+    },
+    "kaplanUnit1Quiz_128": {
+        "answers": [
+            {
+                "content": "monthly",
+                "correct": false
+            },
+            {
+                "content": "quarterly",
+                "correct": true
+            },
+            {
+                "content": "semiannually",
+                "correct": false
+            },
+            {
+                "content": "annually",
+                "correct": false
+            }
+        ],
+        "explanation": "Whether custody is maintained by the investment adviser itself or by a qualified custodian, statements must be sent at least quarterly.",
+        "prompt": "An investment adviser takes custody of client's funds and securities. Client account statements must be sent no less frequently than"
+    },
+    "kaplanUnit1Quiz_129": {
+        "answers": [
+            {
+                "content": "forward those securities to the qualified custodian within 3 business days after receipt",
+                "correct": false
+            },
+            {
+                "content": "keep those securities in its vault",
+                "correct": false
+            },
+            {
+                "content": "notify the SEC promptly",
+                "correct": false
+            },
+            {
+                "content": "return those securities to the sender within 3 business days after receipt",
+                "correct": true
+            }
+        ],
+        "explanation": "If the adviser does not return the securities to the sender within 3 business days, the adviser not only has actual custody, but has also violated the rule's requirement that client securities be maintained in an account with a qualified custodian.",
+        "prompt": "A federal covered investment adviser inadvertently receives securities from a client. The custody rules of the Investment Advisers Act of 1940 would require the adviser to"
+    },
+    "kaplanUnit1Quiz_130": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "NASAA lists 3 acceptable qualified custodians. They are (1) a bank or savings association that has deposits insured by the Federal Deposit Insurance Corporation under the Federal Deposit Insurance Act; (2) a registered broker-dealer holding the client assets in customer accounts; and (3) a foreign financial institution that customarily holds financial assets for its customers, provided that the foreign financial institution keeps the advisory clients' assets in customer accounts segregated from its proprietary assets.",
+        "prompt": "What type of qualified custodians do NASAA rules permit to hold investment advisory clients' funds or securities? <br><br>I. FDIC insured banks and savings associations <br>II. Federal covered investment advisers <br>III. Registered broker-dealers <br>IV. Transfer agents for NYSE listed corporations"
+    },
+    "kaplanUnit1Quiz_131": {
+        "answers": [
+            {
+                "content": "securities inadvertently received are returned to the customer within 3 business days of receipt",
+                "correct": false
+            },
+            {
+                "content": "checks made payable to the investment adviser are returned to the customer within 3 business days of receipt",
+                "correct": false
+            },
+            {
+                "content": "checks made payable to an unrelated third party are returned to the customer within 3 business days of receipt",
+                "correct": true
+            },
+            {
+                "content": "checks made payable to an unrelated third party are forwarded to that third party within 3 business days of receipt",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the NASAA Model Custody Rule, whenever an investment adviser receives customer checks made payable to an unrelated third party, failure to forward the check to that third party within 3 business days of receipt is considered to be maintaining custody. Unlike the other cases where the money or securities are returned to the client, third party checks must be forwarded.",
+        "prompt": "Under the NASAA Model Custody Rules, an investment adviser is deemed to have custody of customer funds or securities when"
+    },
+    "kaplanUnit1Quiz_132": {
+        "answers": [
+            {
+                "content": "A surety bond will be required.",
+                "correct": false
+            },
+            {
+                "content": "The independent public accountant engaged to verify client funds and securities must give appropriate notice to the adviser before doing the verification.",
+                "correct": false
+            },
+            {
+                "content": "The adviser must, on an annual basis, provide his clients for whom he maintains custody a list of all securities held in custody by the firm.",
+                "correct": false
+            },
+            {
+                "content": "If the firm changes the location of safekeeping, all affected clients must be notified promptly.",
+                "correct": true
+            }
+        ],
+        "explanation": "Surety bonds are never required under the Investment Advisers Act of 1940, although they may be required under the Uniform Securities Act. The audit must be a surprise. The adviser only informs the client about the client's securities, not everybody else's securities held by the adviser.",
+        "prompt": "If an investment adviser registered under the Investment Advisers Act of 1940 maintains custody of customer funds or securities, which of the following is TRUE?"
+    },
+    "kaplanUnit1Quiz_133": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "None of the above",
+                "correct": false
+            }
+        ],
+        "explanation": "Material disciplinary violations must be reported by all investment advisers, regardless of whether they keep custody. The first 2 answers fit the definition of material actions, but not the third. If the suit goes in favor of the client and the adviser is found guilty, disclosure would need to be made. However, there is something that investment advisers who do not maintain custody or receive substantial prepayments avoid having to do. What is that? They do not have to notify their clients about any financial situation that might impair their ability to meet contractual commitments to clients.",
+        "prompt": "The BJS Advisory Service maintains no custody of customer funds or securities, requires no substantial prepayments of fees, and does not have investment discretion over clients' accounts. Which of the following would have to be promptly disclosed to clients? <br><br>I. The SEC has entered an order barring the executive vice president of the firm from association with any firm in the investment business. <br>II. BJS has just been fined $3,500 by the NYSE. <br>III. A civil suit has just been filed against BJS by one of its clients alleging that BJS made unsuitable recommendations."
+    },
+    "kaplanUnit1Quiz_134": {
+        "answers": [
+            {
+                "content": "properly worded disclaimer",
+                "correct": false
+            },
+            {
+                "content": "improper hedge clause",
+                "correct": true
+            },
+            {
+                "content": "violation of an investment adviser's fiduciary responsibility",
+                "correct": false
+            },
+            {
+                "content": "wrap fee account",
+                "correct": false
+            }
+        ],
+        "explanation": "Hedge clauses may not be used to disclaim statements that are inherently misleading.",
+        "prompt": "An investment adviser runs an advertisement in the business section of the local newspaper. The ad describes the nature of the firm's model portfolio and indicates that it has outperformed the overall market by 800% over the past 10 years, and, therefore, they guarantee that their clients will more than keep pace with inflation. At the bottom of the ad, in smaller print is the following statement: Results are not guaranteed. Past performance is not indicative of future results. These results are not normal and cannot be expected to be repeated. This is an example of a(n)"
+    },
+    "kaplanUnit1Quiz_135": {
+        "answers": [
+            {
+                "content": "The adviser's brochure must always contain at least one hedge clause.",
+                "correct": false
+            },
+            {
+                "content": "A properly worded hedge clause may be used to minimize the investment adviser's fiduciary responsibility.",
+                "correct": false
+            },
+            {
+                "content": "A hedge clause that limits the investment adviser's liability for losses caused by conditions and events beyond its control, such as war, strikes, and natural disasters, would generally be acceptable to the Administrator.",
+                "correct": true
+            },
+            {
+                "content": "A hedge clause that limits liability to acts done in bad faith or pursuant to willful misconduct but also explicitly provides that rights under state or federal law cannot be relinquished would generally be acceptable to the Administrator",
+                "correct": false
+            }
+        ],
+        "explanation": "The regulators have not objected to clauses that limit the investment adviser's liability for losses caused by conditions and events beyond its control, such as war, strikes, natural disasters, new government restrictions, market fluctuations, communications disruptions, and so forth. Such provisions are acceptable since they do not attempt to limit or misstate the adviser's fiduciary obligations to its clients. Limiting liability to acts done in bad faith might cause the unsophisticated client to fail to understand that he still has a right to take action, even when the acts are committed in good faith. Fiduciary responsibility cannot be limited by hedge clauses.",
+        "prompt": "Which of the following statements regarding the use of a hedge clause by an investment adviser is CORRECT?"
+    },
+    "kaplanUnit1Quiz_136": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III ",
+                "correct": false
+            }
+        ],
+        "explanation": "Investment advisers never file anything with the SEC unless it relates to Form ADV. Past specific recommendations may be shown as long as they include all recommendations covering at least the prior 12-month period and contain a disclaimer regarding any assurance of future results.",
+        "prompt": "Which of the following statements is(are) TRUE regarding advertising by an investment adviser? <br><br>I. Free offers must be free of cost or any other obligation. <br>II. All advertisements where the copy will be seen by 10 or more people must be filed with the SEC. <br>III. Past specific recommendations may be shown, but only if they include all recommendations for at least the previous 12 months and make very clear that past performance is not any assurance of the future."
+    },
+    "kaplanUnit1Quiz_137": {
+        "answers": [
+            {
+                "content": "PPA must meet the bonding requirements of the SEC.",
+                "correct": false
+            },
+            {
+                "content": "PPA must meet the bonding requirements of whichever of the three states is the most stringent.",
+                "correct": false
+            },
+            {
+                "content": "The Connecticut Administrator can require PPA to submit advertisements placed in his state.",
+                "correct": true
+            },
+            {
+                "content": "If the New York Administrator wishes to examine the records of PPA, advance written notice must be given.",
+                "correct": false
+            }
+        ],
+        "explanation": "With its principal office in New Jersey, PPA only has to meet the financial and recordkeeping requirements of that state. However, any business done in Connecticut, including advertising, comes under that state's jurisdiction. SEC requirements are bogus because this is not a federal covered adviser and the Administrator of any state in which the IA is registered can pull a surprise visit during business hours.",
+        "prompt": "Ponzi Planning Associates (PPA), is an investment adviser registered in the tri-state area of New York, New Jersey, and Connecticut. PPA's principal office is located in Jersey City, NJ. Which of the following statements is CORRECT?"
+    },
+    "kaplanUnit1Quiz_138": {
+        "answers": [
+            {
+                "content": "I, II, and IV",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the criteria for using the term investment counsel is that the adviser's primary business is providing investment advice. It is always prohibited to make an untrue statement, whether or not the fact is material, and one can never imply government approval of one's abilities.",
+        "prompt": "Which of the following are unlawful or prohibited practices for an investment adviser under the Investment Advisers Act of 1940? <br><br>I. Making an untrue statement of a material fact in a registration application with the SEC <br>II. Stating that the firm's ability and qualifications have been approved by the U.S. government <br>III. Stating that the firm is registered under the Investment Advisers Act of 1940 <br>IV. Representing that the firm is an investment counselor when it does not normally render investment advice"
+    },
+    "kaplanUnit1Quiz_139": {
+        "answers": [
+            {
+                "content": "Putting the adviser's own interests before those of the customer",
+                "correct": true
+            },
+            {
+                "content": "Providing advice to the customer and receiving compensation for the resulting sale of products",
+                "correct": false
+            },
+            {
+                "content": "Employment with a broker-dealer and also serving as an investment adviser",
+                "correct": false
+            },
+            {
+                "content": "Using advice she provides to customers regarding securities transactions as a basis for her own investment account trades",
+                "correct": false
+            }
+        ],
+        "explanation": "An investment adviser may never put his own interests before those of customers. The Investment Advisers Act of 1940 does not prohibit employment with a broker-dealer and serving as an investment adviser. Any conflict of interests must be disclosed to the client. An adviser is not prohibited from investing in the same securities transactions as recommended to clients.",
+        "prompt": "Under the Investment Advisers Act of 1940, an investment adviser would be prohibited from engaging in which of the following practices, even if disclosed in writing to the customer?"
+    },
+    "kaplanUnit1Quiz_140": {
+        "answers": [
+            {
+                "content": "Client testimonials",
+                "correct": false
+            },
+            {
+                "content": "A general description of the types of investment advisory programs offered by the firm",
+                "correct": true
+            },
+            {
+                "content": "Recommendations on specific stocks",
+                "correct": false
+            },
+            {
+                "content": "Recommendations on specific managed investments such as mutual funds",
+                "correct": false
+            }
+        ],
+        "explanation": "It is permissible to post general information about an investment adviser on a public website, which comes under the definition of advertising. Advertising implies that the publisher of the material has no control over who may view it. Thus, recommendations of specific securities, including managed products, are prohibited because it is not possible to determine the suitability of specific investments for unknown viewers. The SEC and NASAA prohibit client testimonials in investment adviser advertising.",
+        "prompt": "An investment adviser has engaged a website designer. What may the designer include on the website?"
+    },
+    "kaplanUnit1Quiz_141": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "A client's contracts, whether written or oral (technically, the Investment Advisers Act of 1940 does not require written contracts), may not be assigned without the client's consent under any circumstances. If the adviser is a partnership, notice must be made to clients of any changes in the membership of the partnership within a reasonable period. It is always permitted to charge a fee based on the average value of assets under management.",
+        "prompt": "The Investment Advisers Act of 1940 would permit investment advisory contracts to provide for <br><br>I. assignment without the client's consent <br>II. changes to be made in a partnership with notification to clients within a reasonable period of time <br>III. compensation based on average assets under management over a particular time period"
+    },
+    "kaplanUnit1Quiz_142": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The addition of 2 equal partners to a 5-person firm does not constitute a majority change so all that is necessary is notice within a reasonable period of time, not consent. In the case of a corporation, a change in stock ownership is never required to be disclosed unless there is an actual change to the control or management of the adviser and such is not indicated here. Pledging a majority stock interest in an adviser structured as a corporation is considered an assignment and, therefore, requires client consent.",
+        "prompt": "Which two of the following statements regarding investment advisory contracts demonstrate compliance with the Uniform Securities Act? <br><br>I. ABC Investment Advisers, organized as a partnership with 5 equal partners, admits 2 additional partners on a proportionate basis, but fails to obtain consent of its clients. <br>II. DEF Investment Advisers, organized as a partnership with 7 equal partners, has 4 of those partners simultaneously leave, but the firm continues to operate as before while failing to obtain consent of its clients. <br>III. GHI Investment Advisers, organized as a corporation with 5 equal shareholders, has 3 of them pledge their GHI stock as collateral for a bank loan, but the firm fails to obtain consent of its clients. <br>IV. JKL Investment Advisers, organized as a corporation with 5 equal shareholders, has 3 of them sell their shares to the remaining 2 owners, but the firm fails to obtain consent of its clients."
+    },
+    "kaplanUnit1Quiz_143": {
+        "answers": [
+            {
+                "content": "Adviser A charges an annual fee of 0.05% of the value of the client's account, due on the first day of the client's fiscal year.",
+                "correct": true
+            },
+            {
+                "content": "Adviser B charges an annual fee of 0.075%, guaranteed to be waived if the value of the account does not increase during the year.",
+                "correct": false
+            },
+            {
+                "content": "Adviser C charges an annual fee of 0.05% to be waived if the account does not grow by at least 5% during the year.",
+                "correct": false
+            },
+            {
+                "content": "Adviser D guarantees the annual fee will be waived if the account decreases in value while under his management. ",
+                "correct": false
+            }
+        ],
+        "explanation": "An adviser's fee may not be based on portfolio appreciation or capital gains, except under certain circumstances that are not detailed in the question. Advisory fees may be based on a percentage of assets under management. There should be no question on the exam where \"waiving\" something will be permitted.",
+        "prompt": "Which of the following fee arrangements is legal under the Investment Advisers Act of 1940?"
+    },
+    "kaplanUnit1Quiz_144": {
+        "answers": [
+            {
+                "content": "refer clients to an affiliated broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "manage client accounts on a discretionary basis",
+                "correct": false
+            },
+            {
+                "content": "examine customers' stock certificates",
+                "correct": false
+            },
+            {
+                "content": "have physical custody over its clients' monies and certificates",
+                "correct": true
+            }
+        ],
+        "explanation": "Under the Uniform Securities Act, custody indicates that the adviser has physical possession over its clients' certificates and monies. If there is a rule prohibiting it, no investment adviser registered in that state can act in contravention of that rule. A prohibition against custody in a given state does not prohibit the adviser from holding investment discretion over clients' accounts, provided such discretion is granted under a suitable authorization or power of attorney. Merely examining customers' stock certificates is certainly not the same as holding custody or possession of such certificates. As long as the affiliation is disclosed, there is nothing improper about an IA referring advisory clients to that affiliated BD.",
+        "prompt": "Foster Advisers operates as an investment adviser that is registered in a state where the Administrator, by rule, prohibits investment advisers from holding custody of client funds and securities. This means that Foster Advisers may NOT"
+    },
+    "kaplanUnit1Quiz_145": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "To make cash payments to solicitors, the agreement must: <br><br>&bull;  be in writing; <br>&bull;  provide for disclosure of any affiliations between the adviser and the solicitor (unless the solicitation is being made for impersonal advisory service); <br>&bull;  provide that no one subject to statutory disqualification be compensated; <br>&bull;  follow a script approved by the adviser; and <br>&bull;  provide that, in addition to the adviser's brochure, a solicitor brochure be delivered as well (3rd party). <br><br>Nothing in the rules refers at all to how much of the adviser's time must be spent giving advice. The only time there is a requirement that a substantial portion of the adviser's business be giving investment advice is when using the term investment counsel.",
+        "prompt": "Which of the following statements regarding cash referral fees to solicitors are CORRECT under the Investment Advisers Act of 1940? <br><br>I. If the solicitation involves anything other than impersonal advisory services, disclosure must be made to the client regarding any affiliation between the adviser and the solicitor. <br>II. The agreement must be in writing. <br>III. The solicitor must not be subject to a statutory disqualification. <br>IV. The adviser's principal business activity must be the rendering of investment advice."
+    },
+    "kaplanUnit1Quiz_146": {
+        "answers": [
+            {
+                "content": "The individual would be required to register as an IAR of OTA, Inc.",
+                "correct": false
+            },
+            {
+                "content": "The individual would not be required to register as an IAR of OTA, Inc.",
+                "correct": true
+            },
+            {
+                "content": "The individual would be prohibited from registering as an IAR of OTA, Inc.",
+                "correct": false
+            },
+            {
+                "content": "The individual would only be required to register as an IAR of OTA, Inc. if compensated for the solicitation activities.",
+                "correct": false
+            }
+        ],
+        "explanation": "The Investment Advisers Act of 1940 and the associated SEC rules do not require the solicitor to register as an investment adviser representative as long as the solicitor's activities are strictly limited to merely referring clients to a registered investment adviser in compliance with SEC rules. However, the majority of state securities regulators define the solicitation or referral of investment advisory clients as an investment advisory activity requiring the registration of the solicitor as an investment adviser or investment adviser representative. But remember to read the question-it only asks about the federal law.",
+        "prompt": "Omerta Transparent Advisers, Inc., (OTA), registered with the SEC as an investment adviser, wishes to pay an individual to act as a third party solicitor to solicit or refer new advisory clients. Under the provisions of the Investment Advisers Act of 1940, which of the following statements is TRUE regarding this relationship?"
+    },
+    "kaplanUnit1Quiz_147": {
+        "answers": [
+            {
+                "content": "Proprietary research",
+                "correct": false
+            },
+            {
+                "content": "Third-party research",
+                "correct": false
+            },
+            {
+                "content": "Rent",
+                "correct": true
+            },
+            {
+                "content": "Seminar registration fees ",
+                "correct": false
+            }
+        ],
+        "explanation": "Section 28(e) provides a safe harbor for those expenses paid with soft dollars that offer a direct research benefit. Rent is not included in the list of acceptable items coming under that safe harbor.",
+        "prompt": "Which of the following would NOT be included in the safe harbor provisions of Section 28(e) of the Securities Exchange Act of 1934?"
+    },
+    "kaplanUnit1Quiz_148": {
+        "answers": [
+            {
+                "content": "hard-dollar compensation",
+                "correct": false
+            },
+            {
+                "content": "indirect compensation",
+                "correct": false
+            },
+            {
+                "content": "investment discretion",
+                "correct": false
+            },
+            {
+                "content": "soft-dollar compensation",
+                "correct": true
+            }
+        ],
+        "explanation": "Soft-dollar compensation is when an investment adviser derives an economic benefit from the use of a client's commission dollars. Software of the type mentioned here is allowable under the safe harbor provisions of Section 28(e) of the Securities Exchange Act of 1934. It is true that this is indirect compensation and that this is a discretionary account, but the answer that best matches the question is soft dollar. Many times on the exam, you have to select best of the choices given.",
+        "prompt": "When an investment adviser with discretion over a client's account directs trade executions to a specific broker-dealer and uses the commission dollars generated to acquire software that analyzes technical market trends, it is known as"
+    },
+    "kaplanUnit1Quiz_149": {
+        "answers": [
+            {
+                "content": "NASAA has a requirement that all discretionary orders be approved before entry",
+                "correct": false
+            },
+            {
+                "content": "NASAA allows use of oral discretion for the first 10 business days after the date of the first transaction",
+                "correct": true
+            },
+            {
+                "content": "an investment adviser is prohibited from opening discretionary accounts without prior notification to the Administrator",
+                "correct": false
+            },
+            {
+                "content": "a federal covered adviser may not be cited for churning a discretionary account by an Administrator",
+                "correct": false
+            }
+        ],
+        "explanation": "The SEC requires prior written discretionary authorization, whereas The NASAA Model Rule on Unethical Business Practices Of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers only requires that the written document be received no later than 10 business days after the first transaction in the account. Discretionary orders must be promptly reviewed, but not before placing the order. Even with the NSMIA, the Administrator has the power to take action against any federal covered adviser operating in the state where there is a belief that fraudulent action has taken place.",
+        "prompt": "One respect in which NASAA treats the handling of discretionary authorization by an investment adviser differently from the SEC is that"
+    },
+    "kaplanUnit1Quiz_150": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "Full-service brokerage firms often provide research reports, securities and portfolio analysis, and special reports without specific charges, but are usually compensated by their higher commissions. Nothing in industry rules prevents an adviser from using a fullservice broker to effect customer transactions. However, it would be unethical if the adviser were to benefit personally from the direction of the client business.",
+        "prompt": "Which of the following would justify an investment adviser's use of a fullservice broker? <br><br>I. Obtaining special reports dealing with economic projections from the broker <br>II. Expense-paid business trips paid for by the broker <br>III. The use of the research analysis provided by the broker"
+    },
+    "kaplanUnit1Quiz_151": {
+        "answers": [
+            {
+                "content": "the fees and their method of computation",
+                "correct": false
+            },
+            {
+                "content": "a statement prohibiting assignment of client accounts without client consent",
+                "correct": false
+            },
+            {
+                "content": "the states in which the adviser is licensed to conduct business",
+                "correct": true
+            },
+            {
+                "content": "notification requirement upon change in membership if an investment partnership True or False?",
+                "correct": false
+            }
+        ],
+        "explanation": "The USA does not require investment advisers to include in their contracts a list of those states in which they are licensed to do business. The USA does require advisers to include their method of computing fees, a statement prohibiting assignment without client consent, and notification of change in membership of the investment partnership.",
+        "prompt": "An investment advisory contract need NOT include"
+    },
+    "kaplanUnit1Quiz_152": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An Administrator may, by rule or order, prevent an adviser from taking custody. If an Administrator prevents custody, an adviser cannot overrule the Administrator by notifying the Administrator first.",
+        "prompt": "An Administrator may not prevent custody of securities or funds if an adviser notifies the Administrator before taking custody."
+    },
+    "kaplanUnit1Quiz_153": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "An adviser may sell securities to clients from its own account provided disclosure is made upon receipt of consent from the client before completion of the trade.",
+        "prompt": "An adviser may not sell securities to its customers from its own proprietary account."
+    },
+    "kaplanUnit1Quiz_154": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Investment advisers are bound by the regulations that apply to sales activities as well as those that apply to advisory activities.",
+        "prompt": "Under USA antifraud provisions, an investment adviser is bound by the restrictions that apply to sales practices when engaged in sales activities."
+    },
+    "kaplanUnit1Quiz_155": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "Although any securities professional handing a customer account is obligated to follow all necessary procedures to protect client data, customers themselves also bear a responsibility. Customers ignoring the cybersecurity safeguards put not only their own data at risk, but also that of other customers, by potentially opening the door to hackers.",
+        "prompt": "Protection of customer confidential information is an obligation of the <br><br>I. agent servicing the customer's account <br>II. broker-dealer maintaining the account <br>III. customer <br>IV. investment adviser in an advisory account"
+    },
+    "kaplanUnit1Quiz_156": {
+        "answers": [
+            {
+                "content": "the music played while customers are placed on hold",
+                "correct": true
+            },
+            {
+                "content": "office desktop computers",
+                "correct": false
+            },
+            {
+                "content": "agent's personal smartphones used on occasion to communicate with clients",
+                "correct": false
+            },
+            {
+                "content": "remote access to servers or workstations via a virtual private network (VPN)",
+                "correct": false
+            }
+        ],
+        "explanation": "It is hard to imagine how the music on hold would present a security risk. All of the others clearly offer potential for loss.",
+        "prompt": "A broker-dealer's cybersecurity procedures should address all of the following EXCEPT"
+    },
+    "kaplanUnit1Quiz_157": {
+        "answers": [
+            {
+                "content": "10",
+                "correct": false
+            },
+            {
+                "content": "15",
+                "correct": false
+            },
+            {
+                "content": "20",
+                "correct": false
+            },
+            {
+                "content": "30",
+                "correct": true
+            }
+        ],
+        "explanation": "An investment adviser (or broker-dealer) must give a customer 30 days to implement any opt-out provision in the privacy notice.",
+        "prompt": "Under Regulation S-P, if an investment adviser sends a customer an initial privacy notice that contains an opt-out provision, the firm may NOT disclose nonpublic, personal information about that customer for how many days from the mailing?"
+    }
 };
