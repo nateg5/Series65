@@ -1,0 +1,2972 @@
+let dataKaplanUnit2Quiz = {
+    "kaplanUnit2Quiz_1": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II only",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Owning either common or preferred stocks represents ownership (or equity) in a corporation.",
+        "prompt": "Which of the following represent(s) ownership in a company? <br><br>I. Corporate bonds <br>II. Common stock <br>III. Preferred stock <br>IV. Mortgage bonds"
+    },
+    "kaplanUnit2Quiz_2": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and IV",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III and IV ",
+                "correct": false
+            }
+        ],
+        "explanation": "One does not have access to insider information solely by becoming a shareholder. Even if one did receive material nonpublic information, such as prior access to earnings, no benefit may be received from that information. All of the other choices are among the reasons to purchase common stock.",
+        "prompt": "Among the benefits of owning common stock are <br><br>I. it has historically been a hedge against inflation <br>II. voting rights <br>III. access, as owners, to information about corporate earnings before the general public <br>IV. dividends"
+    },
+    "kaplanUnit2Quiz_3": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": true
+            }
+        ],
+        "explanation": "Corporations normally declare cash dividends, but corporations can also declare stock dividends in additional shares of the issuing corporation, shares of a subsidiary, or property dividends (usually products of the company).",
+        "prompt": "A corporation may distribute which of the following as a dividend? <br><br>I. Cash <br>II. Stock <br>III. Stock of a subsidiary"
+    },
+    "kaplanUnit2Quiz_4": {
+        "answers": [
+            {
+                "content": "investors might lose more than the amount of their investment",
+                "correct": true
+            },
+            {
+                "content": "investors might lose their investment",
+                "correct": false
+            },
+            {
+                "content": "creditors of the corporation cannot seek relief from the shareholders",
+                "correct": false
+            },
+            {
+                "content": "investors are not liable to the full extent of their personal property",
+                "correct": false
+            }
+        ],
+        "explanation": "An advantage of owning stock is that an investor's liability is limited to the amount of money invested when the stock was purchased.",
+        "prompt": "Limited liability regarding ownership in a U.S. corporation means all of the following EXCEPT"
+    },
+    "kaplanUnit2Quiz_5": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "A residual claim to assets at dissolution and a vote at the annual shareholder's meeting are common stockholder rights.",
+        "prompt": "Common stockholder rights include a <br><br>I. residual claim to assets at dissolution <br>II. vote for the amount of stock dividend to be paid <br>III. vote in person at the annual meeting of shareholders <br>IV. claim against dividends that are in default"
+    },
+    "kaplanUnit2Quiz_6": {
+        "answers": [
+            {
+                "content": "market risk",
+                "correct": false
+            },
+            {
+                "content": "possible decrease in dividend payments",
+                "correct": false
+            },
+            {
+                "content": "removal of voting rights",
+                "correct": true
+            },
+            {
+                "content": "low priority of claim at dissolution",
+                "correct": false
+            }
+        ],
+        "explanation": "Owning common stock subjects one to market risk, the possibility that dividends may be reduced, and the fact that they have the last priority in claims against the assets of the corporation. The right to vote cannot be taken away.",
+        "prompt": "All of the following are considered to be risks of owning common stock EXCEPT"
+    },
+    "kaplanUnit2Quiz_7": {
+        "answers": [
+            {
+                "content": "Convertible",
+                "correct": false
+            },
+            {
+                "content": "Straight",
+                "correct": false
+            },
+            {
+                "content": "Cumulative",
+                "correct": false
+            },
+            {
+                "content": "Callable",
+                "correct": true
+            }
+        ],
+        "explanation": "Callable preferred. When the stock is called, dividend payments are no longer made. To compensate for that possibility, the issuer must pay a higher dividend.",
+        "prompt": "Which of the following types of preferred stock typically has the highest stated rate of dividend (all other factors being equal)?"
+    },
+    "kaplanUnit2Quiz_8": {
+        "answers": [
+            {
+                "content": "seniority of the stock compared to other securities",
+                "correct": false
+            },
+            {
+                "content": "ability of the company to continue paying the stated dividend",
+                "correct": true
+            },
+            {
+                "content": "voting power of the shares",
+                "correct": false
+            },
+            {
+                "content": "parity price of the shares ",
+                "correct": false
+            }
+        ],
+        "explanation": "Investors in preferred stock with the goal of income are most concerned that the company will be able to sustain the dividend.",
+        "prompt": "An investor who has purchased preferred stock with the goal of receiving steady quarterly income would be most interested in the"
+    },
+    "kaplanUnit2Quiz_9": {
+        "answers": [
+            {
+                "content": "Cumulative",
+                "correct": false
+            },
+            {
+                "content": "Straight",
+                "correct": false
+            },
+            {
+                "content": "Convertible",
+                "correct": true
+            },
+            {
+                "content": "Callable",
+                "correct": false
+            }
+        ],
+        "explanation": "Because convertible can be exchanged for common shares, its price is closely linked to the price of the issuer's common.",
+        "prompt": "Which of the following types of preferred stock is most influenced by the price of an issuer's common stock?"
+    },
+    "kaplanUnit2Quiz_10": {
+        "answers": [
+            {
+                "content": "pays past and current preferred dividends before paying dividends on common stock",
+                "correct": true
+            },
+            {
+                "content": "pays the preferred dividend before paying the coupons due on its outstanding bonds",
+                "correct": false
+            },
+            {
+                "content": "pays the current dividends on the preferred, but not the past dividends on the preferred, before paying a dividend on the common",
+                "correct": false
+            },
+            {
+                "content": "forces conversion of the preferred that is trading at a discount to par, thereby eliminating the need to pay past-due dividends",
+                "correct": false
+            }
+        ],
+        "explanation": "Current and unpaid past dividends on cumulative preferred stock must be paid before common stockholders can receive a dividend. Bond interest is always paid before dividends.",
+        "prompt": "A company that has issued cumulative preferred stock"
+    },
+    "kaplanUnit2Quiz_11": {
+        "answers": [
+            {
+                "content": "foreign trading of domestic securities",
+                "correct": false
+            },
+            {
+                "content": "foreign trading of U.S. government securities",
+                "correct": false
+            },
+            {
+                "content": "domestic trading of U.S. government securities",
+                "correct": false
+            },
+            {
+                "content": "domestic trading of foreign securities",
+                "correct": true
+            }
+        ],
+        "explanation": "Because everything is in U.S. dollars and in English, ADRs make trading in foreign securities much easier for those who live here.",
+        "prompt": "ADRs are used to facilitate"
+    },
+    "kaplanUnit2Quiz_12": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "ADRs represent ownership in a foreign security so there is always going to be currency risk. These ADRs trade in the market and have market risk. Since most ADRs are traded on the exchanges, there is little liquidity risk and, because they represent equity, they are usually a good hedge against inflation.",
+        "prompt": "Which 2 of the following risks would be of greatest concern to the holder of an ADR? <br><br>I. Currency <br>II. Liquidity <br>III. Market <br>IV. Purchasing power"
+    },
+    "kaplanUnit2Quiz_13": {
+        "answers": [
+            {
+                "content": "Warrants are only offered to current shareholders.",
+                "correct": false
+            },
+            {
+                "content": "Warrants have longer terms than rights.",
+                "correct": true
+            },
+            {
+                "content": "Warrants do not trade in the secondary market.",
+                "correct": false
+            },
+            {
+                "content": "At the time of issuance, the exercise price of a warrant is typically below the market value of the underlying stock.",
+                "correct": false
+            }
+        ],
+        "explanation": "Warrants are issued with long-term maturities and may be used as sweeteners in an offering of the issuer's preferred stock or bonds. Unlike rights, warrants are not offered to current shareholders; they are attached to a new offering or purchased in the open market. The exercise price of a warrant is typically above the market value of the stock at the time of issue.",
+        "prompt": "Which of the following statements regarding warrants is TRUE?"
+    },
+    "kaplanUnit2Quiz_14": {
+        "answers": [
+            {
+                "content": "Common stockholders would not generally receive preemptive rights",
+                "correct": false
+            },
+            {
+                "content": "Preferred stockholders would not generally receive preemptive rights",
+                "correct": true
+            },
+            {
+                "content": "Both common and preferred stockholders would generally receive preemptive rights",
+                "correct": false
+            },
+            {
+                "content": "Neither common nor preferred stockholders would generally receive preemptive rights",
+                "correct": false
+            }
+        ],
+        "explanation": "Preferred stockholders have no right to maintain a percentage of ownership when new shares are issued (no preemptive rights). However, they do receive preference in dividend payment and company liquidation.",
+        "prompt": "Which of the following statements regarding rights is TRUE?"
+    },
+    "kaplanUnit2Quiz_15": {
+        "answers": [
+            {
+                "content": "$900 short-term capital gain",
+                "correct": false
+            },
+            {
+                "content": "$1,100 short-term capital gain",
+                "correct": false
+            },
+            {
+                "content": "$900 long-term capital gain",
+                "correct": true
+            },
+            {
+                "content": "$1,100 long-term capital gain",
+                "correct": false
+            }
+        ],
+        "explanation": "As long as certain time restrictions are met, any difference between the exercise (strike) price and the sale price is considered longterm capital gain. The question is this: did she sell the stock more than two years after granting of the option? Yes, because from July 15, 2013 until August 4, 2015 is more than two years. The second question is this: did she sell the stock more than one year after exercise? Yes, because August 4, 2015 is more than one year after June 30, 2014.",
+        "prompt": "On July 15, 2013, an employee of KAPCO Manufacturing Company receives an incentive stock option to purchase 100 shares of KAPCO common stock at $21 per share when the current market price is $19. She exercises the option on June 30, 2014 and sells her shares on August 4, 2015 at $30 per share. For tax purposes, she has a"
+    },
+    "kaplanUnit2Quiz_16": {
+        "answers": [
+            {
+                "content": "Technical analysis",
+                "correct": true
+            },
+            {
+                "content": "Fundamental analysis",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Market timing"
+    },
+    "kaplanUnit2Quiz_17": {
+        "answers": [
+            {
+                "content": "Technical analysis",
+                "correct": false
+            },
+            {
+                "content": "Fundamental analysis",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "PE ratios"
+    },
+    "kaplanUnit2Quiz_18": {
+        "answers": [
+            {
+                "content": "Technical analysis",
+                "correct": true
+            },
+            {
+                "content": "Fundamental analysis",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Support and resistance"
+    },
+    "kaplanUnit2Quiz_19": {
+        "answers": [
+            {
+                "content": "Technical analysis",
+                "correct": false
+            },
+            {
+                "content": "Fundamental analysis",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Industry performance"
+    },
+    "kaplanUnit2Quiz_20": {
+        "answers": [
+            {
+                "content": "Technical analysis",
+                "correct": true
+            },
+            {
+                "content": "Fundamental analysis",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Breadth of the market"
+    },
+    "kaplanUnit2Quiz_21": {
+        "answers": [
+            {
+                "content": "Technical analysis",
+                "correct": false
+            },
+            {
+                "content": "Fundamental analysis",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Financial statements"
+    },
+    "kaplanUnit2Quiz_22": {
+        "answers": [
+            {
+                "content": "common stock",
+                "correct": false
+            },
+            {
+                "content": "ADRs represent common stock in a foreign company",
+                "correct": false
+            },
+            {
+                "content": "preferred stock",
+                "correct": true
+            },
+            {
+                "content": "none of these are exceptions",
+                "correct": false
+            }
+        ],
+        "explanation": "In order to use the dividend growth model, there must be a possibility of dividend growth. Because preferred stock dividends are fixed, this tool would not make any sense.",
+        "prompt": "Among the popular methods of valuing equity securities is the dividend growth model. One could expect to see an analyst using this to value any of these EXCEPT"
+    },
+    "kaplanUnit2Quiz_23": {
+        "answers": [
+            {
+                "content": "Ginnie Mae pass-through certificates",
+                "correct": true
+            },
+            {
+                "content": "U.S. Treasury notes",
+                "correct": false
+            },
+            {
+                "content": "U.S. Treasury bonds",
+                "correct": false
+            },
+            {
+                "content": "TIPS",
+                "correct": false
+            }
+        ],
+        "explanation": "Ginnie Maes pay interest on a monthly basis, not semiannually.",
+        "prompt": "All of the following debt instruments pay interest semiannually EXCEPT"
+    },
+    "kaplanUnit2Quiz_24": {
+        "answers": [
+            {
+                "content": "Bondholders.",
+                "correct": true
+            },
+            {
+                "content": "Preferred stockholders.",
+                "correct": false
+            },
+            {
+                "content": "Common stockholders.",
+                "correct": false
+            },
+            {
+                "content": "Members of the board of directors.",
+                "correct": false
+            }
+        ],
+        "explanation": "Bondholders have contractual rights to the assets of a business that must be honored on insolvency before claims of stockholders or directors.",
+        "prompt": "In the event of a company's insolvency, which of the following has first claim on assets?"
+    },
+    "kaplanUnit2Quiz_25": {
+        "answers": [
+            {
+                "content": "the par value of bonds is generally higher than that of stock",
+                "correct": false
+            },
+            {
+                "content": "bonds and similar fixed-rate securities are guaranteed by SIPC",
+                "correct": false
+            },
+            {
+                "content": "bonds place the issuer under an obligation but stock does not",
+                "correct": true
+            },
+            {
+                "content": "if there is a shortage of cash, dividends are paid before interest",
+                "correct": false
+            }
+        ],
+        "explanation": "A bond represents a legal obligation to repay principal and interest by the company. Common stock carries no such obligation. SIPC insures broker-dealer client accounts, not bonds.",
+        "prompt": "Corporate bonds are considered safer than common stock issued by the same company because"
+    },
+    "kaplanUnit2Quiz_26": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "As the name implies, Eurodollar bonds are denominated in U.S. dollars. That means that someone in France will have the risk that the Euro, the home currency in France, will rise against the dollar and, as a result, interest payments will be worth less as will the ultimate payback at maturity. Only U.S. residents have no currency risk with Eurodollar bonds.",
+        "prompt": "A resident of France purchasing Eurodollar bonds does not incur currency risk."
+    },
+    "kaplanUnit2Quiz_27": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the benefits of Brady bonds is the ability of the sovereign government to borrow at a lower cost because of the collateral behind the bond.",
+        "prompt": "A country wishing to restructure its debt using Brady bonds would do so to save on debt servicing costs."
+    },
+    "kaplanUnit2Quiz_28": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "When interest rates fall, issuers can borrow at a lower rate so they will be highly motivated to call in the old debt and replace it with debt at a lower interest rate.",
+        "prompt": "Call protection is of greatest benefit when interest rates are falling."
+    },
+    "kaplanUnit2Quiz_29": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Because of the perceived extra safety of the convertible security (either a preferred stock or debenture, both having senior claim over the common), the general case is that convertible securities sell at somewhat of a premium over their parity price.",
+        "prompt": "In most cases, convertible securities sell right at their parity price."
+    },
+    "kaplanUnit2Quiz_30": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Convertible debentures are convertible into the issuer's common, not preferred stock.",
+        "prompt": "One of the benefits of holding convertible debentures is the option to convert into the corporation's common or preferred stock."
+    },
+    "kaplanUnit2Quiz_31": {
+        "answers": [
+            {
+                "content": "The owner of the bond may demand that the issuing corporation redeem the bond before it matures.",
+                "correct": false
+            },
+            {
+                "content": "The issuing corporation may change the coupon rate at any time by giving the owner of the bond written notice.",
+                "correct": false
+            },
+            {
+                "content": "The owner of the bond may exchange it for shares of stock.",
+                "correct": false
+            },
+            {
+                "content": "The issuing corporation has the option to redeem the bond before it matures. ",
+                "correct": true
+            }
+        ],
+        "explanation": "A callable bond is one that may be redeemed by the issuing corporation before it matures. One reason a corporation might call a bond is because it can now borrow at a lower interest rate.",
+        "prompt": "Which of the following statements is TRUE of a corporate bond with a call feature?"
+    },
+    "kaplanUnit2Quiz_32": {
+        "answers": [
+            {
+                "content": "the owner of the bond may exchange it for a pre-determined number of shares of the issuer's common stock",
+                "correct": true
+            },
+            {
+                "content": "the corporation may redeem the bond before its maturity date",
+                "correct": false
+            },
+            {
+                "content": "the owner of the bond may exchange it for a common stock of the issuer at a discount from the current market value",
+                "correct": false
+            },
+            {
+                "content": "the owner of the bond may exchange it for a bond paying a higher coupon rate",
+                "correct": false
+            }
+        ],
+        "explanation": "A convertible bond is usually a debenture that allows the owner to exchange it for a set number of shares of stock as stated in the bond indenture (or contract). This number will change only in response to the antidilutive provisions that go into effect in the case of a stock split or stock dividend and has nothing to do with the market price of the stock.",
+        "prompt": "When a corporate bond has a convertible feature, it means"
+    },
+    "kaplanUnit2Quiz_33": {
+        "answers": [
+            {
+                "content": "$25 per share",
+                "correct": false
+            },
+            {
+                "content": "$30 per share",
+                "correct": true
+            },
+            {
+                "content": "$40 per share",
+                "correct": false
+            },
+            {
+                "content": "$48 per share",
+                "correct": false
+            }
+        ],
+        "explanation": "The first step is determining the number of shares upon conversion. That would be found by dividing the $1,000 par value of the bond by the $25 conversion price. This tells us that the bond is convertible into 40 shares. Then, we divide the current market price of $1,200 by the 40 shares to arrive at the parity price (the price as which 40 shares is equal to $1,200).",
+        "prompt": "A corporate bond is currently selling in the market at a price of $120. The bond is convertible at $25. The parity price is"
+    },
+    "kaplanUnit2Quiz_34": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I, II and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The current yield on a bond is the coupon divided by the current market price. In this example, 6 divided by $90. The price of 90 represents 90% of par, a discount of $100. Interest payments are based on the $1,000 face amount, so this investor would receive two semiannual payments of $30 each. On a discounted bond, the yield to maturity will always be higher than the current yield.",
+        "prompt": "When a bond with a 6% coupon is selling for 90 <br><br>I. the current yield is approximately 6.67% <br>II. the bond is selling at a discount <br>III. the bondholder will receive two semi-annual interest payments of $27 each <br>IV. the yield to maturity is slightly less than the current yield"
+    },
+    "kaplanUnit2Quiz_35": {
+        "answers": [
+            {
+                "content": "The nominal yield of the bonds would decrease.",
+                "correct": false
+            },
+            {
+                "content": "The price of the bonds would increase.",
+                "correct": false
+            },
+            {
+                "content": "The price of the bonds would decrease.",
+                "correct": true
+            },
+            {
+                "content": "The price of the bonds would stay the same.",
+                "correct": false
+            }
+        ],
+        "explanation": "The market price of outstanding bonds falls when interest rates rise because bond prices have an inverse relationship with interest rates. That is, when an investor can get a higher nominal (coupon) yield on a new bond, the old one paying a lower rate of interest just isn't worth as much so the price goes down. Remember, the nominal yield is the coupon rate stated on the face of the bond and that never changes.",
+        "prompt": "What would likely happen to the market value of existing bonds during an inflationary period coupled with rising interest rates?"
+    },
+    "kaplanUnit2Quiz_36": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            }
+        ],
+        "explanation": "A zero-coupon bond is a type of debt security that pays no periodic interest payments. Instead, they are sold at a deep discount from the maturity value and the investor receives return of that value only when the bonds mature.",
+        "prompt": "Which of the following statements about zero-coupon bonds are TRUE? <br><br>I. Zero-coupon bonds are sold at a deep discount from face value. <br>II. Zero-coupon bonds pay periodic interest payments. <br>III. The owner of a zero-coupon bond receives the face value only at maturity."
+    },
+    "kaplanUnit2Quiz_37": {
+        "answers": [
+            {
+                "content": "$40.00",
+                "correct": false
+            },
+            {
+                "content": "$80.00",
+                "correct": true
+            },
+            {
+                "content": "$160.00",
+                "correct": false
+            },
+            {
+                "content": "There is no way to compute without knowing the current market price of the bond ",
+                "correct": false
+            }
+        ],
+        "explanation": "The nominal yield (or coupon rate) is the interest rate stated on the bond and is the annual rate the issuer promises to pay on the bond until the bond matures. A $1,000 bond with an 8% nominal yield will pay $80 per year in interest. In all cases on the exam, the interest will be paid in two equal semi-annual installments, in this case, $40 each.",
+        "prompt": "A $1,000 bond with a nominal yield of 8% will pay how much interest each year?"
+    },
+    "kaplanUnit2Quiz_38": {
+        "answers": [
+            {
+                "content": "corporate bonds with high rates of interest",
+                "correct": false
+            },
+            {
+                "content": "zero-coupon bonds backed by the U.S. Treasury",
+                "correct": true
+            },
+            {
+                "content": "general obligation municipal bonds for their tax benefits",
+                "correct": false
+            },
+            {
+                "content": "common stock",
+                "correct": false
+            }
+        ],
+        "explanation": "Treasury STRIPS are guaranteed by the U.S. government so there is no chance of default. They are zero-coupon bonds and offer no current income, which is appropriate for a client who wants 100% return paid at a future date for college expenses.",
+        "prompt": "If your clients want to set aside $40,000 for when their child starts college, but do not want to endanger the principal, you should recommend"
+    },
+    "kaplanUnit2Quiz_39": {
+        "answers": [
+            {
+                "content": "less than its yield to maturity",
+                "correct": false
+            },
+            {
+                "content": "less than its current yield",
+                "correct": false
+            },
+            {
+                "content": "equal to its current yield",
+                "correct": true
+            },
+            {
+                "content": "greater than its yield to maturity",
+                "correct": false
+            }
+        ],
+        "explanation": "When a bond is selling at par, its coupon or nominal rate, current yield, and yield to maturity are all the same.",
+        "prompt": "A bond offered at par has a coupon rate"
+    },
+    "kaplanUnit2Quiz_40": {
+        "answers": [
+            {
+                "content": "$102",
+                "correct": false
+            },
+            {
+                "content": "$510",
+                "correct": false
+            },
+            {
+                "content": "$1,020",
+                "correct": false
+            },
+            {
+                "content": "$5,100",
+                "correct": true
+            }
+        ],
+        "explanation": "A bond price of 102 represents 102% of the $1,000 par value or $1,020. With 5 bonds, the investor would pay a total of 5 * $1,020 or $5,100.",
+        "prompt": "An investor purchasing 5 bonds priced at 102 each would expect to pay a total of (disregard commissions)"
+    },
+    "kaplanUnit2Quiz_41": {
+        "answers": [
+            {
+                "content": "corporate subordinated junior unsecured debentures with an A rating",
+                "correct": false
+            },
+            {
+                "content": "municipal water authority revenue bonds with a Baa rating",
+                "correct": false
+            },
+            {
+                "content": "corporate first lien mortgage bonds with a BB rating",
+                "correct": true
+            },
+            {
+                "content": "U.S. Treasury bills",
+                "correct": false
+            }
+        ],
+        "explanation": "Investment grade is defined as BBB (S&P) or Baa (Moody's) and higher. When giving the rating, collateral, or lack of same, is already taken into consideration. All you do is look at the letters.",
+        "prompt": "Each of the following debt securities would be considered investment grade EXCEPT"
+    },
+    "kaplanUnit2Quiz_42": {
+        "answers": [
+            {
+                "content": "2.25%",
+                "correct": false
+            },
+            {
+                "content": "3.00%",
+                "correct": false
+            },
+            {
+                "content": "4.00%",
+                "correct": true
+            },
+            {
+                "content": "None of these because it is unlikely that an unrated bond will be able to make timely interest payments",
+                "correct": false
+            }
+        ],
+        "explanation": "Tax equivalent yield is computed by dividing the coupon rate of the municipal bond by (100% minus tax bracket). In this case, the calculation is 3% divided by 75% (or 0.75) and results in a TEY of 4%. You can always work backward to check by deducting the 25% tax from each answer to see which one results in the 3% coupon. The fact that the bond is unrated has little or nothing to do with the ability of the issuer to pay the interest.",
+        "prompt": "An investor in the 25% federal income tax bracket purchasing an unrated public works revenue bond issued by State A that carries a 3% coupon would have a tax equivalent yield of"
+    },
+    "kaplanUnit2Quiz_43": {
+        "answers": [
+            {
+                "content": "The interest on municipal bonds is usually not subject to federal income tax.",
+                "correct": false
+            },
+            {
+                "content": "Municipal bonds are bonds issued by governmental units at levels other than the federal.",
+                "correct": false
+            },
+            {
+                "content": "Municipal bonds are generally considered riskier than corporate bonds.",
+                "correct": true
+            },
+            {
+                "content": "Municipal bonds generally carry lower coupon rates than corporate bonds of the same quality.",
+                "correct": false
+            }
+        ],
+        "explanation": "Municipal bonds are generally considered second only to U.S. Treasury instruments in relative safety. Because of their tax-free yield, their coupon rates are lower than corporate bonds of the same quality.",
+        "prompt": "Which of the following statements about municipal bonds is NOT true?"
+    },
+    "kaplanUnit2Quiz_44": {
+        "answers": [
+            {
+                "content": "preferred stock",
+                "correct": false
+            },
+            {
+                "content": "Treasury bills",
+                "correct": true
+            },
+            {
+                "content": "AAA rated bonds with long-term maturities",
+                "correct": false
+            },
+            {
+                "content": "common stock",
+                "correct": false
+            }
+        ],
+        "explanation": "The appropriate investment for the client is a money market instrument and nothing is safer than a T-bill.",
+        "prompt": "A company realizes money from the sale of surplus equipment. It would like to invest this money but will need it in 4–6 months and must take that into consideration when selecting an investment. You would recommend"
+    },
+    "kaplanUnit2Quiz_45": {
+        "answers": [
+            {
+                "content": "short-term equity",
+                "correct": false
+            },
+            {
+                "content": "intermediate debt",
+                "correct": false
+            },
+            {
+                "content": "short-term debt",
+                "correct": true
+            },
+            {
+                "content": "long-term debt",
+                "correct": false
+            }
+        ],
+        "explanation": "Money market instruments are high-quality debt securities with maturities that do not exceed 1 year.",
+        "prompt": "Money market instruments are"
+    },
+    "kaplanUnit2Quiz_46": {
+        "answers": [
+            {
+                "content": "Backed by the full faith and credit of the U.S. government",
+                "correct": true
+            },
+            {
+                "content": "Collateralized by mortgages",
+                "correct": false
+            },
+            {
+                "content": "Yield more than T-bonds",
+                "correct": false
+            },
+            {
+                "content": "Are pass-through securities",
+                "correct": false
+            }
+        ],
+        "explanation": "CMOs are not backed by the full faith and credit of the U.S. government. However, both Ginnie Maes and CMOs are collateralized by mortgages, yield more than T-bonds, and are pass-through securities.",
+        "prompt": "Which of the following are true of GNMA securities but NOT of CMOs?"
+    },
+    "kaplanUnit2Quiz_47": {
+        "answers": [
+            {
+                "content": "CMO",
+                "correct": false
+            },
+            {
+                "content": "DDA",
+                "correct": true
+            },
+            {
+                "content": "GNMA",
+                "correct": false
+            },
+            {
+                "content": "LIBOR",
+                "correct": false
+            }
+        ],
+        "explanation": "DDA stands for demand deposit account, most often a checking account at a bank.",
+        "prompt": "One would expect to have checkbook access to a"
+    },
+    "kaplanUnit2Quiz_48": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": false
+            },
+            {
+                "content": "Closed-end company",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Trades in the secondary market"
+    },
+    "kaplanUnit2Quiz_49": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": true
+            },
+            {
+                "content": "Closed-end company",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Investors may purchase fractional shares"
+    },
+    "kaplanUnit2Quiz_50": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": false
+            },
+            {
+                "content": "Closed-end company",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Can issue common, preferred, and bonds"
+    },
+    "kaplanUnit2Quiz_51": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": false
+            },
+            {
+                "content": "Closed-end company",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Issues a fixed number of shares"
+    },
+    "kaplanUnit2Quiz_52": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": true
+            },
+            {
+                "content": "Closed-end company",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Does not trade in the secondary market; shares must be redeemed"
+    },
+    "kaplanUnit2Quiz_53": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": false
+            },
+            {
+                "content": "Closed-end company",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Price is set by supply and demand"
+    },
+    "kaplanUnit2Quiz_54": {
+        "answers": [
+            {
+                "content": "Open-end company",
+                "correct": true
+            },
+            {
+                "content": "Closed-end company",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Usually called mutual funds"
+    },
+    "kaplanUnit2Quiz_55": {
+        "answers": [
+            {
+                "content": "Balanced fund",
+                "correct": false
+            },
+            {
+                "content": "Aggressive growth fund",
+                "correct": false
+            },
+            {
+                "content": "Specialized fund",
+                "correct": false
+            },
+            {
+                "content": "Large cap stock fund",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Pursues capital growth with less than average risk"
+    },
+    "kaplanUnit2Quiz_56": {
+        "answers": [
+            {
+                "content": "Balanced fund",
+                "correct": false
+            },
+            {
+                "content": "Aggressive growth fund",
+                "correct": true
+            },
+            {
+                "content": "Specialized fund",
+                "correct": false
+            },
+            {
+                "content": "Large cap stock fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Invests to maximize capital gains quickly with high risk tolerance"
+    },
+    "kaplanUnit2Quiz_57": {
+        "answers": [
+            {
+                "content": "Balanced fund",
+                "correct": true
+            },
+            {
+                "content": "Aggressive growth fund",
+                "correct": false
+            },
+            {
+                "content": "Specialized fund",
+                "correct": false
+            },
+            {
+                "content": "Large cap stock fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Invests to diversify securities and is conservative"
+    },
+    "kaplanUnit2Quiz_58": {
+        "answers": [
+            {
+                "content": "Balanced fund",
+                "correct": false
+            },
+            {
+                "content": "Aggressive growth fund",
+                "correct": false
+            },
+            {
+                "content": "Specialized fund",
+                "correct": true
+            },
+            {
+                "content": "Large cap stock fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Invests in medical technology and is not risk averse"
+    },
+    "kaplanUnit2Quiz_59": {
+        "answers": [
+            {
+                "content": "Conservative growth fund",
+                "correct": false
+            },
+            {
+                "content": "Money market fund",
+                "correct": false
+            },
+            {
+                "content": "Small-cap fund",
+                "correct": false
+            },
+            {
+                "content": "Balanced fund",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Capital gains/income/lower risk"
+    },
+    "kaplanUnit2Quiz_60": {
+        "answers": [
+            {
+                "content": "Conservative growth fund",
+                "correct": true
+            },
+            {
+                "content": "Money market fund",
+                "correct": false
+            },
+            {
+                "content": "Small-cap fund",
+                "correct": false
+            },
+            {
+                "content": "Balanced fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Capital gains/moderate risk"
+    },
+    "kaplanUnit2Quiz_61": {
+        "answers": [
+            {
+                "content": "Conservative growth fund",
+                "correct": false
+            },
+            {
+                "content": "Money market fund",
+                "correct": true
+            },
+            {
+                "content": "Small-cap fund",
+                "correct": false
+            },
+            {
+                "content": "Balanced fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Liquidity/low risk"
+    },
+    "kaplanUnit2Quiz_62": {
+        "answers": [
+            {
+                "content": "Conservative growth fund",
+                "correct": false
+            },
+            {
+                "content": "Money market fund",
+                "correct": false
+            },
+            {
+                "content": "Small-cap fund",
+                "correct": true
+            },
+            {
+                "content": "Balanced fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Capital gains/higher risk"
+    },
+    "kaplanUnit2Quiz_63": {
+        "answers": [
+            {
+                "content": "Government bond fund",
+                "correct": false
+            },
+            {
+                "content": "Large-cap fund",
+                "correct": false
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Capital gains/income/lower risk"
+    },
+    "kaplanUnit2Quiz_64": {
+        "answers": [
+            {
+                "content": "Government bond fund",
+                "correct": false
+            },
+            {
+                "content": "Large-cap fund",
+                "correct": true
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Growth/low risk"
+    },
+    "kaplanUnit2Quiz_65": {
+        "answers": [
+            {
+                "content": "Government bond fund",
+                "correct": true
+            },
+            {
+                "content": "Large-cap fund",
+                "correct": false
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Income/low risk"
+    },
+    "kaplanUnit2Quiz_66": {
+        "answers": [
+            {
+                "content": "Ginnie Mae fund",
+                "correct": false
+            },
+            {
+                "content": "Special situation fund",
+                "correct": false
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": true
+            },
+            {
+                "content": "Index fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Purchase different classes of investments to achieve capital gains, income, and diversification"
+    },
+    "kaplanUnit2Quiz_67": {
+        "answers": [
+            {
+                "content": "Ginnie Mae fund",
+                "correct": false
+            },
+            {
+                "content": "Special situation fund",
+                "correct": false
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": false
+            },
+            {
+                "content": "Index fund",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Mimic stock market indexes to achieve performance comparable to the market overall"
+    },
+    "kaplanUnit2Quiz_68": {
+        "answers": [
+            {
+                "content": "Ginnie Mae fund",
+                "correct": true
+            },
+            {
+                "content": "Special situation fund",
+                "correct": false
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": false
+            },
+            {
+                "content": "Index fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Achieve safety of principal with yields slightly higher than government bond fund"
+    },
+    "kaplanUnit2Quiz_69": {
+        "answers": [
+            {
+                "content": "Ginnie Mae fund",
+                "correct": false
+            },
+            {
+                "content": "Special situation fund",
+                "correct": true
+            },
+            {
+                "content": "Asset allocation fund",
+                "correct": false
+            },
+            {
+                "content": "Index fund",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Seek investments in companies with unusual opportunities"
+    },
+    "kaplanUnit2Quiz_70": {
+        "answers": [
+            {
+                "content": "exchange traded fund",
+                "correct": false
+            },
+            {
+                "content": "face amount certificate company",
+                "correct": false
+            },
+            {
+                "content": "mutual fund",
+                "correct": true
+            },
+            {
+                "content": "unit investment trust",
+                "correct": false
+            }
+        ],
+        "explanation": "Investment companies may be one of three types: unit investment trusts, face amount certificates, or management companies. Within the category of management companies, you will find open- and closedend companies. Open-end investment management companies are also referred to as mutual funds.",
+        "prompt": "An open-end investment management company is also referred to as a(n)"
+    },
+    "kaplanUnit2Quiz_71": {
+        "answers": [
+            {
+                "content": "no less frequently than once per day",
+                "correct": true
+            },
+            {
+                "content": "weekly",
+                "correct": false
+            },
+            {
+                "content": "monthly",
+                "correct": false
+            },
+            {
+                "content": "annually",
+                "correct": false
+            }
+        ],
+        "explanation": "Mutual funds must calculate the value of fund shares at least once per business day; funds may calculate the value more often and will disclose this fact in the prospectus.",
+        "prompt": "According to the Investment Company Act of 1940, an open-end investment company must compute its NAV"
+    },
+    "kaplanUnit2Quiz_72": {
+        "answers": [
+            {
+                "content": "concentrated in a particular industry or geographical area",
+                "correct": true
+            },
+            {
+                "content": "invested in emerging growth companies",
+                "correct": false
+            },
+            {
+                "content": "invested in special situations",
+                "correct": false
+            },
+            {
+                "content": "invested in other mutual funds",
+                "correct": false
+            }
+        ],
+        "explanation": "Sector funds (specialized funds) target at least 25% of their investments toward a specific industry or geographical location.",
+        "prompt": "A sector fund is one where the assets are"
+    },
+    "kaplanUnit2Quiz_73": {
+        "answers": [
+            {
+                "content": "common stock fund",
+                "correct": false
+            },
+            {
+                "content": "growth fund",
+                "correct": false
+            },
+            {
+                "content": "income fund",
+                "correct": true
+            },
+            {
+                "content": "venture capital fund ",
+                "correct": false
+            }
+        ],
+        "explanation": "Income funds have the goal of producing income; that is why they are named as such. This is a case where you \"don't look a gift horse in the mouth\".",
+        "prompt": "An investor looking for an open-end investment company with an objective of providing current income to its shareholders, would most likely choose a(n)"
+    },
+    "kaplanUnit2Quiz_74": {
+        "answers": [
+            {
+                "content": "aggressive growth fund",
+                "correct": false
+            },
+            {
+                "content": "corporate bond fund",
+                "correct": false
+            },
+            {
+                "content": "money market fund",
+                "correct": false
+            },
+            {
+                "content": "municipal bond fund",
+                "correct": true
+            }
+        ],
+        "explanation": "Municipal bonds are considered second only to U.S. government securities in terms of safety. Furthermore, whenever you see a question about an investor in a high tax bracket, always look for the answer choice with municipal bonds; the tax-free income is the key.",
+        "prompt": "If ABC Fund pays regular dividends, offers a high degree of safety of principal, and appeals especially to investors in the higher tax brackets, ABC is a(n)"
+    },
+    "kaplanUnit2Quiz_75": {
+        "answers": [
+            {
+                "content": "Cash value from a universal life insurance policy",
+                "correct": false
+            },
+            {
+                "content": "CDL Common Stock Mutual Fund",
+                "correct": false
+            },
+            {
+                "content": "QRS Money Market Mutual Fund",
+                "correct": true
+            },
+            {
+                "content": "XYZ International Stock Mutual Fund",
+                "correct": false
+            }
+        ],
+        "explanation": "Money market funds generally come with a check-writing privilege offering investors the opportunity to convert the asset to cash at once. Although all mutual funds are readily redeemable, under the Investment Company Act of 1940, the fund has 7 days to redeem. One must request the cash value from the insurance company.",
+        "prompt": "An investor has a portfolio diversified among many different asset classes. If there was an immediate need for cash, which of the following would probably be the most liquid?"
+    },
+    "kaplanUnit2Quiz_76": {
+        "answers": [
+            {
+                "content": "balanced fund",
+                "correct": false
+            },
+            {
+                "content": "exchange-traded fund (ETF)",
+                "correct": false
+            },
+            {
+                "content": "index fund",
+                "correct": false
+            },
+            {
+                "content": "money market fund",
+                "correct": true
+            }
+        ],
+        "explanation": "Money market funds hold money market instruments like negotiable CDs, Treasury bills, banker's acceptances, commercial paper, and repurchase agreements.",
+        "prompt": "A review of the prospectus of an open-end investment company reveals that its portfolio consists entirely of CDs, Treasury bills, and repurchase agreements. This is probably a(n)"
+    },
+    "kaplanUnit2Quiz_77": {
+        "answers": [
+            {
+                "content": "dollar amount of shares being purchased qualifies the investor for a lower sales charge",
+                "correct": true
+            },
+            {
+                "content": "mutual fund company stops offering new shares to the public",
+                "correct": false
+            },
+            {
+                "content": "investor is assured of making a profit on the shares",
+                "correct": false
+            },
+            {
+                "content": "shares are selling for less than net asset value (NAV)",
+                "correct": false
+            }
+        ],
+        "explanation": "The term \"breakpoint\" refers to the point at which the number of shares being purchased is large enough to qualify the investor for a reduced sales load. FINRA and NASAA prohibit broker-dealers and their agents from making a mutual fund sale at just below the breakpoint merely to obtain a larger commission.",
+        "prompt": "In the context of purchasing shares in a mutual fund, the term \"breakpoint\" refers to the point at which the"
+    },
+    "kaplanUnit2Quiz_78": {
+        "answers": [
+            {
+                "content": "breakpoint letter",
+                "correct": false
+            },
+            {
+                "content": "Class A letter",
+                "correct": false
+            },
+            {
+                "content": "letter of intent",
+                "correct": true
+            },
+            {
+                "content": "sponsor's letter",
+                "correct": false
+            }
+        ],
+        "explanation": "Investors who sign a letter of intent stating they will invest a specified amount over a 13-month period may be eligible for breakpoints. Breakpoints entitle investors to reduced sales charges.",
+        "prompt": "An investor who initially makes a small investment in a mutual fund may have the advantage of a lower sales charge on investments made over a 13-month period through a(n)"
+    },
+    "kaplanUnit2Quiz_79": {
+        "answers": [
+            {
+                "content": "LMN Cash Reserves Money Market Fund",
+                "correct": true
+            },
+            {
+                "content": "ATF Capital Appreciation Fund",
+                "correct": false
+            },
+            {
+                "content": "ABC Growth & Income Fund",
+                "correct": false
+            },
+            {
+                "content": "XYZ Investment-Grade Bond Fund",
+                "correct": false
+            }
+        ],
+        "explanation": "These customers are preparing to make a major purchase within the next few months, so they require a highly liquid investment to keep their money safe for a short amount of time. The money market fund best matches this objective.",
+        "prompt": "A couple in their early 30s has been married for 4 years, their disposable income is relatively high, and they are planning to buy a condominium. If they need a safe place to invest their down payment for about 6 months, which of the following mutual funds is the most suitable for these customers?"
+    },
+    "kaplanUnit2Quiz_80": {
+        "answers": [
+            {
+                "content": "Accumulation unit",
+                "correct": false
+            },
+            {
+                "content": "Joint and last survivor annuity",
+                "correct": false
+            },
+            {
+                "content": "Deferred annuity",
+                "correct": true
+            },
+            {
+                "content": "Variable annuity",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Delays distributions until the owner elects to receive them"
+    },
+    "kaplanUnit2Quiz_81": {
+        "answers": [
+            {
+                "content": "Accumulation unit",
+                "correct": true
+            },
+            {
+                "content": "Joint and last survivor annuity",
+                "correct": false
+            },
+            {
+                "content": "Deferred annuity",
+                "correct": false
+            },
+            {
+                "content": "Variable annuity",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Determines an annuitant's interest in the insurer's separate account before distribution from the annuity begins"
+    },
+    "kaplanUnit2Quiz_82": {
+        "answers": [
+            {
+                "content": "Accumulation unit",
+                "correct": false
+            },
+            {
+                "content": "Joint and last survivor annuity",
+                "correct": false
+            },
+            {
+                "content": "Deferred annuity",
+                "correct": false
+            },
+            {
+                "content": "Variable annuity",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Performance of a separate account determines value"
+    },
+    "kaplanUnit2Quiz_83": {
+        "answers": [
+            {
+                "content": "Accumulation unit",
+                "correct": false
+            },
+            {
+                "content": "Joint and last survivor annuity",
+                "correct": true
+            },
+            {
+                "content": "Deferred annuity",
+                "correct": false
+            },
+            {
+                "content": "Variable annuity",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Annuity payouts continue as long as one of the annuitants is alive"
+    },
+    "kaplanUnit2Quiz_84": {
+        "answers": [
+            {
+                "content": "Assumed interest rate",
+                "correct": false
+            },
+            {
+                "content": "Immediate annuity",
+                "correct": true
+            },
+            {
+                "content": "Life income with period certain",
+                "correct": false
+            },
+            {
+                "content": "Separate account",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Contract starts to pay the annuitant approximately one month after its issuance"
+    },
+    "kaplanUnit2Quiz_85": {
+        "answers": [
+            {
+                "content": "Assumed interest rate",
+                "correct": true
+            },
+            {
+                "content": "Immediate annuity",
+                "correct": false
+            },
+            {
+                "content": "Life income with period certain",
+                "correct": false
+            },
+            {
+                "content": "Separate account",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "The basis for projected annuity payouts, but not guaranteed"
+    },
+    "kaplanUnit2Quiz_86": {
+        "answers": [
+            {
+                "content": "Assumed interest rate",
+                "correct": false
+            },
+            {
+                "content": "Immediate annuity",
+                "correct": false
+            },
+            {
+                "content": "Life income with period certain",
+                "correct": false
+            },
+            {
+                "content": "Separate account",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Holds funds paid by variable annuity contract holders"
+    },
+    "kaplanUnit2Quiz_87": {
+        "answers": [
+            {
+                "content": "Assumed interest rate",
+                "correct": false
+            },
+            {
+                "content": "Immediate annuity",
+                "correct": false
+            },
+            {
+                "content": "Life income with period certain",
+                "correct": true
+            },
+            {
+                "content": "Separate account",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "If the annuitant dies before a specified time expires, payouts go to the annuitant's named beneficiary"
+    },
+    "kaplanUnit2Quiz_88": {
+        "answers": [
+            {
+                "content": "9",
+                "correct": false
+            },
+            {
+                "content": "24",
+                "correct": false
+            },
+            {
+                "content": "75",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Minimum percent of cash value that must be available for a policy loan after 3 years"
+    },
+    "kaplanUnit2Quiz_89": {
+        "answers": [
+            {
+                "content": "9",
+                "correct": false
+            },
+            {
+                "content": "24",
+                "correct": true
+            },
+            {
+                "content": "75",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Number of months contract exchange provision must be in place"
+    },
+    "kaplanUnit2Quiz_90": {
+        "answers": [
+            {
+                "content": "9",
+                "correct": true
+            },
+            {
+                "content": "24",
+                "correct": false
+            },
+            {
+                "content": "75",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Maximum sales charge allowed over life of a variable life policy"
+    },
+    "kaplanUnit2Quiz_91": {
+        "answers": [
+            {
+                "content": "Whole and Variable life",
+                "correct": true
+            },
+            {
+                "content": "Whole, Universal and Variable life",
+                "correct": false
+            },
+            {
+                "content": "Whole life",
+                "correct": false
+            },
+            {
+                "content": "Variable and Universal life",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Features a stated premium"
+    },
+    "kaplanUnit2Quiz_92": {
+        "answers": [
+            {
+                "content": "Whole, Universal and Variable life",
+                "correct": true
+            },
+            {
+                "content": "Whole life",
+                "correct": false
+            },
+            {
+                "content": "Variable and Universal life",
+                "correct": false
+            },
+            {
+                "content": "Whole and Variable life",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Always has some guaranteed death benefit"
+    },
+    "kaplanUnit2Quiz_93": {
+        "answers": [
+            {
+                "content": "Whole life",
+                "correct": true
+            },
+            {
+                "content": "Whole, Universal and Variable life",
+                "correct": false
+            },
+            {
+                "content": "Variable and Universal life",
+                "correct": false
+            },
+            {
+                "content": "Whole and Variable life",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Features a guaranteed cash value"
+    },
+    "kaplanUnit2Quiz_94": {
+        "answers": [
+            {
+                "content": "Variable and Universal life",
+                "correct": true
+            },
+            {
+                "content": "Whole life",
+                "correct": false
+            },
+            {
+                "content": "Whole, Universal and Variable life",
+                "correct": false
+            },
+            {
+                "content": "Whole and Variable life",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Cash value not guaranteed"
+    },
+    "kaplanUnit2Quiz_95": {
+        "answers": [
+            {
+                "content": "Whole, Universal and Variable life",
+                "correct": true
+            },
+            {
+                "content": "Whole life",
+                "correct": false
+            },
+            {
+                "content": "Variable and Universal life",
+                "correct": false
+            },
+            {
+                "content": "Whole and Variable life",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Policy loans available"
+    },
+    "kaplanUnit2Quiz_96": {
+        "answers": [
+            {
+                "content": "It guarantees income that will last for the client's lifetime.",
+                "correct": true
+            },
+            {
+                "content": "Once annuitized, the client's draw from the annuity is limited to the annuity payment.",
+                "correct": false
+            },
+            {
+                "content": "A fixed, level periodic payment tends to lose buying power over time due to inflation.",
+                "correct": false
+            },
+            {
+                "content": "Payments under a variable annuity could be reduced if there is a declining market.",
+                "correct": false
+            }
+        ],
+        "explanation": "Annuities offer a guarantee of income that will last for a client's lifetime. The other statements, while true, represent disadvantages of annuitization. Annuitization does limit liquidity and flexibility.",
+        "prompt": "Which of the following is considered to be an advantage of annuitization?"
+    },
+    "kaplanUnit2Quiz_97": {
+        "answers": [
+            {
+                "content": "she is not assured of the return of her invested principal",
+                "correct": false
+            },
+            {
+                "content": "the underlying portfolio is primarily common stocks, which have no guaranteed return",
+                "correct": false
+            },
+            {
+                "content": "as an investor, she can be held liable for the debts incurred by the insurance company",
+                "correct": true
+            },
+            {
+                "content": "if she needs to withdraw a portion of her investment prior to reaching age 59 1/2, she may incur a 10% tax penalty",
+                "correct": false
+            }
+        ],
+        "explanation": "Purchasers of variable (or fixed) annuities have no responsibility for obligations of the insurance company. The contract holder bears the investment risk in a variable annuity. This means that the portfolio is not guaranteed to return a specified rate, and the principal invested will also fluctuate in value according to the securities held in the separate account portfolio. Withdrawals of earnings prior to age 59 1/2, (with limited exceptions), are subject to a 10% tax penalty.",
+        "prompt": "A 49-year-old customer purchases a single premium deferred variable annuity. She selects a subaccount of the separate account that is composed largely of equity securities. She is assuming all of the following risks EXCEPT"
+    },
+    "kaplanUnit2Quiz_98": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "Variable annuities differ from fixed annuities because the payments vary and are designed to offer the annuitant protection against inflation.",
+        "prompt": "The difference between a fixed annuity and a variable annuity is that the variable annuity <br><br>I. offers a guaranteed return. <br>II. offers a payment that may vary in amount. <br>III. will always pay out more money than the fixed annuity. <br>IV. attempts to offer protection to the annuitant from inflation."
+    },
+    "kaplanUnit2Quiz_99": {
+        "answers": [
+            {
+                "content": "20-pay life policy",
+                "correct": false
+            },
+            {
+                "content": "20-year level term policy",
+                "correct": true
+            },
+            {
+                "content": "whole life policy",
+                "correct": false
+            },
+            {
+                "content": "variable annuity with an extended death benefit",
+                "correct": false
+            }
+        ],
+        "explanation": "In almost all circumstances, certainly for short-to-immediate time periods, term life will be the least expensive form of insurance. A 20-pay life is a permanent policy where the premiums are paid in a 20-year period rather than until death. Variable annuities are not life insurance policies even though they are issued by life insurance companies.",
+        "prompt": "A 30-year-old client indicates that he needs $500,000 of life insurance coverage for the next 20 years. The lowest out-of-pocket cost would be if he purchased a"
+    },
+    "kaplanUnit2Quiz_100": {
+        "answers": [
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Which options positions are bearish? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put"
+    },
+    "kaplanUnit2Quiz_101": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Which options positions are bullish? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put"
+    },
+    "kaplanUnit2Quiz_102": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Which positions buy stock at exercise? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put"
+    },
+    "kaplanUnit2Quiz_103": {
+        "answers": [
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Which positions sell stock at exercise? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put"
+    },
+    "kaplanUnit2Quiz_104": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Which positions have rights? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put"
+    },
+    "kaplanUnit2Quiz_105": {
+        "answers": [
+            {
+                "content": "II and IV",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Which positions have obligations? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put"
+    },
+    "kaplanUnit2Quiz_106": {
+        "answers": [
+            {
+                "content": "derivatives",
+                "correct": true
+            },
+            {
+                "content": "substitutes",
+                "correct": false
+            },
+            {
+                "content": "swaps",
+                "correct": false
+            },
+            {
+                "content": "futures",
+                "correct": false
+            }
+        ],
+        "explanation": "Options are a type of derivative because they derive their values from the values of other investment instruments.",
+        "prompt": "Options are best described as"
+    },
+    "kaplanUnit2Quiz_107": {
+        "answers": [
+            {
+                "content": "1",
+                "correct": false
+            },
+            {
+                "content": "4.50",
+                "correct": false
+            },
+            {
+                "content": "10",
+                "correct": true
+            },
+            {
+                "content": "100",
+                "correct": false
+            }
+        ],
+        "explanation": "10 options",
+        "prompt": "Your customer is long 10 ABC Jul 50 calls at 4.50. He owns how many options?"
+    },
+    "kaplanUnit2Quiz_108": {
+        "answers": [
+            {
+                "content": "Call options",
+                "correct": false
+            },
+            {
+                "content": "Common stock",
+                "correct": false
+            },
+            {
+                "content": "ABC calls",
+                "correct": false
+            },
+            {
+                "content": "ABC common stock",
+                "correct": true
+            }
+        ],
+        "explanation": "ABC common stock",
+        "prompt": "Your customer is long 10 ABC Jul 50 calls at 4.50. What is the name of the underlying instrument?"
+    },
+    "kaplanUnit2Quiz_109": {
+        "answers": [
+            {
+                "content": "right to buy stock",
+                "correct": true
+            },
+            {
+                "content": "right to sell stock",
+                "correct": false
+            },
+            {
+                "content": "obligation to buy stock",
+                "correct": false
+            },
+            {
+                "content": "obligation to sell stock",
+                "correct": false
+            }
+        ],
+        "explanation": "Buy; a call is the right to buy stock",
+        "prompt": "Your customer is long 10 ABC Jul 50 calls at 4.50. The contract gives him the"
+    },
+    "kaplanUnit2Quiz_110": {
+        "answers": [
+            {
+                "content": "10",
+                "correct": false
+            },
+            {
+                "content": "100",
+                "correct": false
+            },
+            {
+                "content": "1,000",
+                "correct": true
+            },
+            {
+                "content": "10,000",
+                "correct": false
+            }
+        ],
+        "explanation": "1,000; 100 shares per contract at 10 contracts",
+        "prompt": "Your customer is long 10 ABC Jul 50 calls at 4.50. How many shares of stock will change hands if he exercises his option?"
+    },
+    "kaplanUnit2Quiz_111": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": true
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "The put buyer (long position) has the right to sell stock to a put writer who is obligated to buy that stock.",
+        "prompt": "Which term best describes the following situation: A customer has the right to sell 100 shares of MNO at 60 any time between July and October."
+    },
+    "kaplanUnit2Quiz_112": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": true
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Used to fully protect a long stock position"
+    },
+    "kaplanUnit2Quiz_113": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": true
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Used to fully protect a short stock position"
+    },
+    "kaplanUnit2Quiz_114": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Obligation to buy stock at the strike price if exercised"
+    },
+    "kaplanUnit2Quiz_115": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": true
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Right to sell stock at the strike price if exercised"
+    },
+    "kaplanUnit2Quiz_116": {
+        "answers": [
+            {
+                "content": "Long call and Short put",
+                "correct": true
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Used to speculate on the upward movement of a stock's price"
+    },
+    "kaplanUnit2Quiz_117": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call and Long put",
+                "correct": true
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Used to speculate on the downward movement of a stock's price"
+    },
+    "kaplanUnit2Quiz_118": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call",
+                "correct": true
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "If uncovered, subjects an investor to unlimited risk"
+    },
+    "kaplanUnit2Quiz_119": {
+        "answers": [
+            {
+                "content": "Long call and Long put",
+                "correct": true
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "The maximum loss is the premium"
+    },
+    "kaplanUnit2Quiz_120": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call",
+                "correct": true
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Used to generate income when an investor owns the underlying stock"
+    },
+    "kaplanUnit2Quiz_121": {
+        "answers": [
+            {
+                "content": "Long call",
+                "correct": false
+            },
+            {
+                "content": "Short call",
+                "correct": false
+            },
+            {
+                "content": "Long put",
+                "correct": false
+            },
+            {
+                "content": "Short put",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Requires investor to buy stock at a net cost reduced by the amount of premium received, if exercised"
+    },
+    "kaplanUnit2Quiz_122": {
+        "answers": [
+            {
+                "content": "forward contracts",
+                "correct": false
+            },
+            {
+                "content": "futures",
+                "correct": false
+            },
+            {
+                "content": "options",
+                "correct": false
+            },
+            {
+                "content": "REITs",
+                "correct": true
+            }
+        ],
+        "explanation": "REITs are valued based upon their own assets rather than being derived from the value of something else as the other choices are.",
+        "prompt": "The term derivative could be used to apply to any of the following EXCEPT"
+    },
+    "kaplanUnit2Quiz_123": {
+        "answers": [
+            {
+                "content": "ETFs",
+                "correct": false
+            },
+            {
+                "content": "forward contracts",
+                "correct": true
+            },
+            {
+                "content": "futures",
+                "correct": false
+            },
+            {
+                "content": "warrants",
+                "correct": false
+            }
+        ],
+        "explanation": "A forward contract is a direct commitment between one buyer and one seller. This makes each contract different, and lack of standardization makes exchange trading a virtual impossibility.",
+        "prompt": "Commonly traded on a regulated exchange would be any of the following EXCEPT"
+    },
+    "kaplanUnit2Quiz_124": {
+        "answers": [
+            {
+                "content": "a call option",
+                "correct": false
+            },
+            {
+                "content": "a closed-end investment company",
+                "correct": true
+            },
+            {
+                "content": "a futures contract",
+                "correct": false
+            },
+            {
+                "content": "a warrant",
+                "correct": false
+            }
+        ],
+        "explanation": "The term derivative describes an asset whose value is based on something other than itself. Investment companies have their own portfolios—they don't derive their value from some other asset. Options, futures and warrants all base their value on some underlying asset.",
+        "prompt": "It would be improper to use the term derivative to describe"
+    },
+    "kaplanUnit2Quiz_125": {
+        "answers": [
+            {
+                "content": "Buy an XYZ 50 put",
+                "correct": false
+            },
+            {
+                "content": "Buy an XYZ 50 call",
+                "correct": true
+            },
+            {
+                "content": "Sell an XYZ 50 put",
+                "correct": false
+            },
+            {
+                "content": "Sell an XYZ 50 call",
+                "correct": false
+            }
+        ],
+        "explanation": "A short-seller of stock will lose when the price of the stock rises, and there is no limit to how high that can be. The best protection is to purchase the 50 call because that gives her the ability to buy the stock at the same price she sold it for, thereby limiting the amount she can lose.",
+        "prompt": "One of your clients sells 100 shares of XYZ stock short at $50 per share. Although the client is quite bearish on the stock, she realizes that it is possible that good news in the overall economy could cause a surge in XYZ's price. Which of the following would you recommend to best protect her position?"
+    },
+    "kaplanUnit2Quiz_126": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Because of the more stringent suitability requirements for these products, an investor who purchases a limited partnership is generally required to provide a statement of net worth.",
+        "prompt": "An investor who purchases a limited partnership is generally required to provide a statement of net worth."
+    },
+    "kaplanUnit2Quiz_127": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Limited partnerships typically have a very limited secondary market. They are generally not liquid.",
+        "prompt": "One of the greatest advantages of limited partnership investments is that they are readily traded in the secondary market."
+    },
+    "kaplanUnit2Quiz_128": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Passive losses can only offset passive income.",
+        "prompt": "DPP investors may deduct passive losses from ordinary income."
+    },
+    "kaplanUnit2Quiz_129": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The general partner is fully liable for all partnership losses and debts.",
+        "prompt": "The general partner is fully liable for all partnership losses and debts."
+    },
+    "kaplanUnit2Quiz_130": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "To maintain limited liability, limited partners must not be involved in the day-to-day management of the partnershp.",
+        "prompt": "Limited partners have limited liability and take an active role in the management of partnerships."
+    },
+    "kaplanUnit2Quiz_131": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Tax deductions, capital gains, and cash distributions are potential rewards for limited partnership investors.",
+        "prompt": "Tax deductions, capital gains, and cash distributions are potential rewards for limited partnership investors."
+    },
+    "kaplanUnit2Quiz_132": {
+        "answers": [
+            {
+                "content": "Shares of these funds are easy to redeem.",
+                "correct": false
+            },
+            {
+                "content": "The fund can be expected to generate a profit whether the markets trend up or trend down.",
+                "correct": false
+            },
+            {
+                "content": "These funds purchase a large amount of preferred stock.",
+                "correct": false
+            },
+            {
+                "content": "Expenses for these funds tend to be higher than those for traditional mutual funds. ",
+                "correct": true
+            }
+        ],
+        "explanation": "Hedge funds typically use risky strategies to generate profit regardless of market direction, but there is no guarantee that the objective will be realized. Redemption may be difficult with these funds, and the steps management must take to try to generate profits incur higher expenses than traditional mutual funds.",
+        "prompt": "One of your clients wishes to invest in a hedge fund. You should explain which of the following?"
+    },
+    "kaplanUnit2Quiz_133": {
+        "answers": [
+            {
+                "content": "Balanced",
+                "correct": false
+            },
+            {
+                "content": "Hedge",
+                "correct": true
+            },
+            {
+                "content": "Small-cap growth",
+                "correct": false
+            },
+            {
+                "content": "Specialized",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the characteristics of hedge funds is a high minimum investment requirement.",
+        "prompt": "The prospectus for a fund states that the minimum initial investment is $500,000. This is most likely what type of fund?"
+    },
+    "kaplanUnit2Quiz_134": {
+        "answers": [
+            {
+                "content": "the ability to increase returns through leverage",
+                "correct": false
+            },
+            {
+                "content": "a high correlation with stock market returns",
+                "correct": true
+            },
+            {
+                "content": "possible tax advantages",
+                "correct": false
+            },
+            {
+                "content": "potential appreciation",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the investment advantages of real estate is that returns are generally negatively correlated with those of the stock market.",
+        "prompt": "Among the reasons for investors to consider investing in real estate would be all of the following EXCEPT"
+    },
+    "kaplanUnit2Quiz_135": {
+        "answers": [
+            {
+                "content": "buy corn futures",
+                "correct": false
+            },
+            {
+                "content": "sell copper futures",
+                "correct": false
+            },
+            {
+                "content": "invest in several copper mining companies",
+                "correct": true
+            },
+            {
+                "content": "modify the investor's portfolio to take a larger cash position",
+                "correct": false
+            }
+        ],
+        "explanation": "If the demand for copper increases, those companies producing the commodity should find their stock prices increase nicely. Selling copper futures would be when one expects the demand (and, therefore, prices) to fall.",
+        "prompt": "An investor is reading a report that industrial demand for copper is expected to double in the next 5 years. This might lead the investor to"
+    }
+};

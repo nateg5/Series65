@@ -53,6 +53,7 @@
 		<script src="dataKaplanExam4.json"></script>
 		<script src="dataKaplanExam5.json"></script>
 		<script src="dataKaplanUnit1Quiz.json"></script>
+		<script src="dataKaplanUnit2Quiz.json"></script>
     </head>
     <body>
 		<div id="questionNumber"></div>
@@ -120,7 +121,8 @@
 				...dataKaplanExam3,
 				...dataKaplanExam4,
 				...dataKaplanExam5,
-				...dataKaplanUnit1Quiz
+				...dataKaplanUnit1Quiz,
+				...dataKaplanUnit2Quiz
 			};
 			let dataKeys = Object.keys(data);
 			
@@ -233,7 +235,7 @@
 			let getExplanation = (qData) => {
 				if(qData.correct_info_text) {
 					return qData.correct_info_text;
-				} else if(qData.explanation) {
+				} else if(qData.explanation !== null && qData.explanation !== undefined) {
 					return qData.explanation;
 				} else if(qData.question && qData.question.explanation) {
 					return qData.question.explanation;
