@@ -965,7 +965,7 @@ let dataKaplanUnit2Quiz = {
             }
         ],
         "explanation": "The appropriate investment for the client is a money market instrument and nothing is safer than a T-bill.",
-        "prompt": "A company realizes money from the sale of surplus equipment. It would like to invest this money but will need it in 4–6 months and must take that into consideration when selecting an investment. You would recommend"
+        "prompt": "A company realizes money from the sale of surplus equipment. It would like to invest this money but will need it in 4-6 months and must take that into consideration when selecting an investment. You would recommend"
     },
     "kaplanUnit2Quiz_45": {
         "answers": [
