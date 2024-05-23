@@ -2724,7 +2724,7 @@ let dataKaplanUnit2Quiz = {
                 "correct": false
             }
         ],
-        "explanation": "The term derivative describes an asset whose value is based on something other than itself. Investment companies have their own portfolios—they don't derive their value from some other asset. Options, futures and warrants all base their value on some underlying asset.",
+        "explanation": "The term derivative describes an asset whose value is based on something other than itself. Investment companies have their own portfolios-they don't derive their value from some other asset. Options, futures and warrants all base their value on some underlying asset.",
         "prompt": "It would be improper to use the term derivative to describe"
     },
     "kaplanUnit2Quiz_125": {
@@ -2994,7 +2994,7 @@ let dataKaplanUnit2Quiz = {
     "kaplanUnit2Quiz_137": {
         "answers": [
             {
-                "content": "−2.5%",
+                "content": "-2.5%",
                 "correct": false
             },
             {
@@ -3016,8 +3016,7 @@ let dataKaplanUnit2Quiz = {
     "kaplanUnit2Quiz_138": {
         "answers": [
             {
-                "content": "Ordinary income taxes and a 10% early withdrawal penalty will apply to all money withdrawn.
-",
+                "content": "Ordinary income taxes and a 10% early withdrawal penalty will apply to all money withdrawn.",
                 "correct": false
             },
             {
@@ -3033,7 +3032,7 @@ let dataKaplanUnit2Quiz = {
                 "correct": false
             }
         ],
-        "explanation": "Interest earnings are taxable as ordinary income. They are also subject to the 10% early withdrawal penalty when withdrawn before age 59½. The contract holder recovers his cost basis without tax.",
+        "explanation": "Interest earnings are taxable as ordinary income. They are also subject to the 10% early withdrawal penalty when withdrawn before age 59 1/2. The contract holder recovers his cost basis without tax.",
         "prompt": "An annuity contract owner, age 45, surrenders his annuity to buy a home. Which of the following best describes the tax consequences of this action?"
     },
     "kaplanUnit2Quiz_139": {
