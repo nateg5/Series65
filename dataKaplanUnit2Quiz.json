@@ -2968,5 +2968,116 @@ let dataKaplanUnit2Quiz = {
         ],
         "explanation": "If the demand for copper increases, those companies producing the commodity should find their stock prices increase nicely. Selling copper futures would be when one expects the demand (and, therefore, prices) to fall.",
         "prompt": "An investor is reading a report that industrial demand for copper is expected to double in the next 5 years. This might lead the investor to"
-    }
+    },
+    "kaplanUnit2Quiz_136": {
+        "answers": [
+            {
+                "content": "TIPS",
+                "correct": true
+            },
+            {
+                "content": "TIGRS",
+                "correct": false
+            },
+            {
+                "content": "CMOs",
+                "correct": false
+            },
+            {
+                "content": "STRIPS",
+                "correct": false
+            }
+        ],
+        "explanation": "TIPS offer inflation protection and safety of principal because they are backed by the U.S. government.",
+        "prompt": "A customer wishes to buy a security providing periodic interest payments, safety of principal, and protection from purchasing power risk. The customer should purchase"
+    },
+    "kaplanUnit2Quiz_137": {
+        "answers": [
+            {
+                "content": "−2.5%",
+                "correct": false
+            },
+            {
+                "content": "4.5%",
+                "correct": true
+            },
+            {
+                "content": "7.0%",
+                "correct": false
+            },
+            {
+                "content": "11.5%",
+                "correct": false
+            }
+        ],
+        "explanation": "Treasury Inflation Protection Securities (TIPS) adjust the principal value every 6 months to account for the inflation rate. Therefore, the real rate of return will always be the coupon.",
+        "prompt": "A client has a TIPS with a coupon rate of 4.5%. The inflation rate has been 7% for the last year. What is the inflation-adjusted return?"
+    },
+    "kaplanUnit2Quiz_138": {
+        "answers": [
+            {
+                "content": "Ordinary income taxes and a 10% early withdrawal penalty will apply to all money withdrawn.
+",
+                "correct": false
+            },
+            {
+                "content": "Capital gains tax will apply to the amount of the withdrawal that represents earnings; there will be no tax on the cost basis.",
+                "correct": false
+            },
+            {
+                "content": "Ordinary income taxes and a 10% early withdrawal penalty will apply to the amount of the withdrawal that represents earnings; there will be no tax on the cost basis.",
+                "correct": true
+            },
+            {
+                "content": "Ordinary income taxes apply to the amount of the withdrawal that represents earnings; the 10% early withdrawal penalty does not apply to surrenders.",
+                "correct": false
+            }
+        ],
+        "explanation": "Interest earnings are taxable as ordinary income. They are also subject to the 10% early withdrawal penalty when withdrawn before age 59½. The contract holder recovers his cost basis without tax.",
+        "prompt": "An annuity contract owner, age 45, surrenders his annuity to buy a home. Which of the following best describes the tax consequences of this action?"
+    },
+    "kaplanUnit2Quiz_139": {
+        "answers": [
+            {
+                "content": "capital gains taxation on the total amount of payments received",
+                "correct": false
+            },
+            {
+                "content": "ordinary income taxation on the total amount of payments received, plus a 10% withdrawal penalty if the annuitant was under age 59 1/2",
+                "correct": false
+            },
+            {
+                "content": "ordinary income taxation on the amount of the payout that exceeds the cost basis",
+                "correct": true
+            },
+            {
+                "content": "tax-free payout of all remaining annuity benefits",
+                "correct": false
+            }
+        ],
+        "explanation": "Payments from the annuity to the beneficiary through a period certain option are taxed in the same way as other periodic annuity payments; benefits over the amount of the cost basis are taxable as ordinary income. However, no 10% penalty applies in this situation.",
+        "prompt": "After the death of the annuitant, beneficiaries under a life and 15-year period certain option are subject to"
+    },
+    "kaplanUnit2Quiz_140": {
+        "answers": [
+            {
+                "content": "buy forward contracts in a size equal to the amount of soybeans expected to be harvested",
+                "correct": false
+            },
+            {
+                "content": "buy futures contracts in a size equal to the amount of soybeans expected to be harvested",
+                "correct": false
+            },
+            {
+                "content": "sell futures or forward contracts in a size equal to the amount of the soybeans expected to be harvested",
+                "correct": true
+            },
+            {
+                "content": "sell the soybeans for cash today",
+                "correct": false
+            }
+        ],
+        "explanation": "Hedging a commodity yet to be harvested is done by selling a forward or a futures contract on that commodity. In that way, the price is guaranteed in the event of a market decline. However, the producer is giving up any potential gain in the event the prices rise above the futures/forward agreed upon one.",
+        "prompt": "Forwards/futures are commonly used by producers (farmers) to hedge the risk of the price of the commodity falling before it is able to be harvested and sold. For example, if a farmer has planted soybeans and wishes to hedge against a possible decline in the spot or cash price at delivery, the farmer could"
+    },
 };
