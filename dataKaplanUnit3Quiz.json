@@ -1,0 +1,1080 @@
+let dataKaplanUnit3Quiz = {
+    "kaplanUnit3Quiz_1": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Monetarists prefer less government intervention. Keynesian economists believe that the federal government should manage inflation through taxation and spending.",
+        "prompt": "Monetarists believe that the government should take an active role in managing the economy through fiscal policy."
+    },
+    "kaplanUnit3Quiz_2": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A depression is a decrease in the GDP for at least six consecutive quarters.",
+        "prompt": "A depression is defined as a decrease in the GDP for 6 or more consecutive months."
+    },
+    "kaplanUnit3Quiz_3": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Rising inventories are characteristic of a downturn in the business cycle. Inventories accumulate when consumers buy less.",
+        "prompt": "Rising inventories are characteristic of an economic expansion."
+    },
+    "kaplanUnit3Quiz_4": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The CPI is a measurement of inflation.",
+        "prompt": "The CPI is a measurement of inflation."
+    },
+    "kaplanUnit3Quiz_5": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "High consumer debt is characteristic of a downturn in the business cycle.",
+        "prompt": "High consumer debt is characteristic of a downturn in the business cycle."
+    },
+    "kaplanUnit3Quiz_6": {
+        "answers": [
+            {
+                "content": "consumer spending",
+                "correct": false
+            },
+            {
+                "content": "economic output",
+                "correct": false
+            },
+            {
+                "content": "inflation pressure",
+                "correct": false
+            },
+            {
+                "content": "unemployment",
+                "correct": true
+            }
+        ],
+        "explanation": "An economic contraction is likely to feature increasing unemployment (i.e., decreasing employment), along with decreasing consumer spending, declining economic output, and decreasing inflation pressure.",
+        "prompt": "The contraction phase of the business cycle is least likely accompanied by decreasing"
+    },
+    "kaplanUnit3Quiz_7": {
+        "answers": [
+            {
+                "content": "Prime rate",
+                "correct": false
+            },
+            {
+                "content": "Lagging indicator",
+                "correct": false
+            },
+            {
+                "content": "Leading indicator",
+                "correct": true
+            },
+            {
+                "content": "Coincident indicator",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "New orders for consumer goods"
+    },
+    "kaplanUnit3Quiz_8": {
+        "answers": [
+            {
+                "content": "Trade deficit",
+                "correct": true
+            },
+            {
+                "content": "Lagging indicator",
+                "correct": false
+            },
+            {
+                "content": "Leading indicator",
+                "correct": false
+            },
+            {
+                "content": "Coincident indicator",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "An excess of a country's imports over exports"
+    },
+    "kaplanUnit3Quiz_9": {
+        "answers": [
+            {
+                "content": "Prime rate",
+                "correct": false
+            },
+            {
+                "content": "Lagging indicator",
+                "correct": true
+            },
+            {
+                "content": "Leading indicator",
+                "correct": false
+            },
+            {
+                "content": "Coincident indicator",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Manufacturing inventories"
+    },
+    "kaplanUnit3Quiz_10": {
+        "answers": [
+            {
+                "content": "Prime rate",
+                "correct": true
+            },
+            {
+                "content": "Lagging indicator",
+                "correct": false
+            },
+            {
+                "content": "Leading indicator",
+                "correct": false
+            },
+            {
+                "content": "Coincident indicator",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Rate charged by banks to corporate customers"
+    },
+    "kaplanUnit3Quiz_11": {
+        "answers": [
+            {
+                "content": "Prime rate",
+                "correct": false
+            },
+            {
+                "content": "Lagging indicator",
+                "correct": false
+            },
+            {
+                "content": "Leading indicator",
+                "correct": false
+            },
+            {
+                "content": "Coincident indicator",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "GDP"
+    },
+    "kaplanUnit3Quiz_12": {
+        "answers": [
+            {
+                "content": "Call money rate",
+                "correct": true
+            },
+            {
+                "content": "Lagging indicator",
+                "correct": false
+            },
+            {
+                "content": "Leading indicator",
+                "correct": false
+            },
+            {
+                "content": "Coincident indicator",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Rate charged by banks on loans to broker-dealers with securities as collateral"
+    },
+    "kaplanUnit3Quiz_13": {
+        "answers": [
+            {
+                "content": "for producers' raw materials",
+                "correct": false
+            },
+            {
+                "content": "the central bank views as acceptable",
+                "correct": false
+            },
+            {
+                "content": "that excludes certain volatile goods prices",
+                "correct": true
+            },
+            {
+                "content": "that represents a market basket of consumer items",
+                "correct": false
+            }
+        ],
+        "explanation": "Core inflation is measured using a price index that excludes food and energy prices.",
+        "prompt": "Core inflation is best described as an inflation rate"
+    },
+    "kaplanUnit3Quiz_14": {
+        "answers": [
+            {
+                "content": "inverted yield curve",
+                "correct": true
+            },
+            {
+                "content": "positive yield curve",
+                "correct": false
+            },
+            {
+                "content": "normal yield curve",
+                "correct": false
+            },
+            {
+                "content": "algorithmic yield curve",
+                "correct": false
+            }
+        ],
+        "explanation": "An inverted, or negative, yield curve is one that results when debt with short-term maturities has higher yields than those with maturities that are longer. A positive, or normal, yield curve results when the yields increase as maturities do.",
+        "prompt": "A bond analyst is plotting a yield curve and notices that short-term maturities have higher yields than intermediate and long-term maturities. This is an example of a(n)"
+    },
+    "kaplanUnit3Quiz_15": {
+        "answers": [
+            {
+                "content": "increase",
+                "correct": false
+            },
+            {
+                "content": "stay the same",
+                "correct": false
+            },
+            {
+                "content": "decrease",
+                "correct": true
+            },
+            {
+                "content": "change in unpredictable ways",
+                "correct": false
+            }
+        ],
+        "explanation": "There is an inverse relationship between interest rates and bond prices. This means that as current interest rates go up, the market price of existing bonds will go down.",
+        "prompt": "As current interest rates go up, the market price of existing corporate bonds bearing lower interest rates will"
+    },
+    "kaplanUnit3Quiz_16": {
+        "answers": [
+            {
+                "content": "Foreign goods and services will become more expensive for Americans.",
+                "correct": false
+            },
+            {
+                "content": "The risk of stagflation will increase.",
+                "correct": false
+            },
+            {
+                "content": "Shares of foreign stock will be worth more in terms of American dollars.",
+                "correct": false
+            },
+            {
+                "content": "Foreign goods and services will become less expensive for Americans.",
+                "correct": true
+            }
+        ],
+        "explanation": "When the value of the dollar rises, it will buy more foreign money, making foreign goods and services less expensive for Americans. Because foreign securities are valued in foreign currencies, shares of foreign stock will be worth fewer American dollars when the value of the dollar increases.",
+        "prompt": "Which of the following statements best describes what will happen when the value of the American dollar rises in relationship to foreign currencies?"
+    },
+    "kaplanUnit3Quiz_17": {
+        "answers": [
+            {
+                "content": "an impending recession",
+                "correct": false
+            },
+            {
+                "content": "likely wage inflation in the future",
+                "correct": true
+            },
+            {
+                "content": "an increase in manufacturing inventories",
+                "correct": false
+            },
+            {
+                "content": "a rising trade deficit",
+                "correct": false
+            }
+        ],
+        "explanation": "An increase in the Help Wanted Index signifies that employers are hiring-business is good. Competition for qualified workers will usually result in paying higher wages and that will translate to higher prices for goods and services (inflation).",
+        "prompt": "The Conference Board has released information indicating an increase in the Help Wanted Index. Most analysts would take this as a sign of"
+    },
+    "kaplanUnit3Quiz_18": {
+        "answers": [
+            {
+                "content": "net worth",
+                "correct": false
+            },
+            {
+                "content": "working capital",
+                "correct": true
+            },
+            {
+                "content": "cash flow",
+                "correct": false
+            },
+            {
+                "content": "quick assets",
+                "correct": false
+            }
+        ],
+        "explanation": "Working capital (or net working capital) is, by definition, the difference between current assets and current liabilities.",
+        "prompt": "The difference between current assets and current liabilities is called"
+    },
+    "kaplanUnit3Quiz_19": {
+        "answers": [
+            {
+                "content": "Prepaid expenses decrease.",
+                "correct": false
+            },
+            {
+                "content": "Total liabilities increase.",
+                "correct": true
+            },
+            {
+                "content": "Accrued expenses decrease.",
+                "correct": false
+            },
+            {
+                "content": "Net worth increases.",
+                "correct": false
+            }
+        ],
+        "explanation": "The formula for the balance sheet is as follows: assets = liabilities + shareholders' equity. If assets stay the same and equity (net worth) decreases, liabilities must increase. Prepaid expenses are assets; accrued expenses are liabilities.",
+        "prompt": "As a result of corporate transactions, a company's assets remain the same and its equity decreases. Which of the following statements is TRUE?"
+    },
+    "kaplanUnit3Quiz_20": {
+        "answers": [
+            {
+                "content": "Assets",
+                "correct": false
+            },
+            {
+                "content": "Total liabilities",
+                "correct": false
+            },
+            {
+                "content": "Working capital",
+                "correct": false
+            },
+            {
+                "content": "Shareholders' equity",
+                "correct": true
+            }
+        ],
+        "explanation": "On the issuance of a bond, cash is received (thus increasing current assets) and longterm debt increases (increasing total liabilities). Because there is no corresponding increase in current liabilities, working capital will increase; it would have no effect on shareholders' equity.",
+        "prompt": "Which of the following is NOT affected by the issuance of a bond?"
+    },
+    "kaplanUnit3Quiz_21": {
+        "answers": [
+            {
+                "content": "decreased net working capital",
+                "correct": false
+            },
+            {
+                "content": "decreased net worth",
+                "correct": false
+            },
+            {
+                "content": "decreased retained earnings",
+                "correct": false
+            },
+            {
+                "content": "increased shareholders' equity",
+                "correct": true
+            }
+        ],
+        "explanation": "If earnings increase, retained earnings also increase. If the increased retained earnings are not paid out as dividends, shareholders' equity increases.",
+        "prompt": "A company has been experiencing increased earnings but has kept its dividend payments constant. As a result solely of this, the company's balance sheet would reflect"
+    },
+    "kaplanUnit3Quiz_22": {
+        "answers": [
+            {
+                "content": "Balance sheet",
+                "correct": true
+            },
+            {
+                "content": "Income statement",
+                "correct": false
+            },
+            {
+                "content": "Both",
+                "correct": false
+            },
+            {
+                "content": "Neither",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Current liabilities"
+    },
+    "kaplanUnit3Quiz_23": {
+        "answers": [
+            {
+                "content": "Balance sheet",
+                "correct": false
+            },
+            {
+                "content": "Income statement",
+                "correct": true
+            },
+            {
+                "content": "Both",
+                "correct": false
+            },
+            {
+                "content": "Neither",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Revenues"
+    },
+    "kaplanUnit3Quiz_24": {
+        "answers": [
+            {
+                "content": "Balance sheet",
+                "correct": true
+            },
+            {
+                "content": "Income statement",
+                "correct": false
+            },
+            {
+                "content": "Both",
+                "correct": false
+            },
+            {
+                "content": "Neither",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Net worth"
+    },
+    "kaplanUnit3Quiz_25": {
+        "answers": [
+            {
+                "content": "Balance sheet",
+                "correct": false
+            },
+            {
+                "content": "Income statement",
+                "correct": false
+            },
+            {
+                "content": "Both",
+                "correct": true
+            },
+            {
+                "content": "Neither",
+                "correct": false
+            }
+        ],
+        "explanation": "Tricky, and this would also be the answer if we had used depreciation.",
+        "prompt": "Retained earnings"
+    },
+    "kaplanUnit3Quiz_26": {
+        "answers": [
+            {
+                "content": "Balance sheet",
+                "correct": false
+            },
+            {
+                "content": "Income statement",
+                "correct": true
+            },
+            {
+                "content": "Both",
+                "correct": false
+            },
+            {
+                "content": "Neither",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Cost of goods sold"
+    },
+    "kaplanUnit3Quiz_27": {
+        "answers": [
+            {
+                "content": "Balance sheet",
+                "correct": false
+            },
+            {
+                "content": "Income statement",
+                "correct": true
+            },
+            {
+                "content": "Both",
+                "correct": false
+            },
+            {
+                "content": "Neither",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Net income"
+    },
+    "kaplanUnit3Quiz_28": {
+        "answers": [
+            {
+                "content": "balance sheet as a deferred asset",
+                "correct": false
+            },
+            {
+                "content": "footnotes",
+                "correct": true
+            },
+            {
+                "content": "income statement as an expense",
+                "correct": false
+            },
+            {
+                "content": "statement of potential litigation",
+                "correct": false
+            }
+        ],
+        "explanation": "The footnotes to the financial statements carry information such as potential legal actions, accounting methods used (e.g., FIFO or LIFO), and off-book debt.",
+        "prompt": "Potential litigation for patent infringement would appear on a corporation's"
+    },
+    "kaplanUnit3Quiz_29": {
+        "answers": [
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "I, III, and IV",
+                "correct": true
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            }
+        ],
+        "explanation": "Although the most common term to describe this important part of a company's net worth is retained earnings, any of them may be used on the exam with the same meaning.",
+        "prompt": "The sum of a company's profits, after dividend payments, since the company's inception is called <br><br>I. accumulated earnings <br>II. cash flow <br>III. earned surplus <br>IV. retained earnings"
+    },
+    "kaplanUnit3Quiz_30": {
+        "answers": [
+            {
+                "content": "paying dividends to preferred stockholders",
+                "correct": false
+            },
+            {
+                "content": "collecting on past due receivables",
+                "correct": true
+            },
+            {
+                "content": "paying overdue bills",
+                "correct": false
+            },
+            {
+                "content": "increasing inventory on hand",
+                "correct": false
+            }
+        ],
+        "explanation": "Cash flow increases when more money comes in than goes out. When receivables are collected, the company receives money. When dividends or bills are paid, someone else receives money. When we buy more inventory, we use cash to do so.",
+        "prompt": "A corporation's cash flow will increase as a result of"
+    },
+    "kaplanUnit3Quiz_31": {
+        "answers": [
+            {
+                "content": "net worth will increase by $6 million",
+                "correct": false
+            },
+            {
+                "content": "working capital will increase by $6 million",
+                "correct": false
+            },
+            {
+                "content": "net income will increase by $6 million",
+                "correct": true
+            },
+            {
+                "content": "current assets will increase by $6 million",
+                "correct": false
+            }
+        ],
+        "explanation": "The issuance of common stock brings cash into the company without any offsetting liability. Therefore, current assets, working capital and net worth all increase by the amount of the securities sold. Income is not generated by issuing stock; the company needs sales or revenues for that.",
+        "prompt": "XYZ Corporation issues 1 million shares of common stock at a price of $6 per share. As a result of this, all of the following will be true EXCEPT"
+    },
+    "kaplanUnit3Quiz_32": {
+        "answers": [
+            {
+                "content": "June 30 Form 10-Q",
+                "correct": true
+            },
+            {
+                "content": "June 30 Form 8-K",
+                "correct": false
+            },
+            {
+                "content": "December 31 Form 10-K",
+                "correct": false
+            },
+            {
+                "content": "July 31 Form 10-Q",
+                "correct": false
+            }
+        ],
+        "explanation": "Form 10-Q is the quarterly financial information document filed with the SEC. Because this is a calendar year company, 10- Qs are prepared as of March 31, June 30, and September 30th. The Form 10-K is prepared as of December 31 in lieu of another Form 10- Q. Form 8-K is event driven, not a routine financial report.",
+        "prompt": "A publicly traded corporation keeps its books on a calendar year basis. An investor wanting the most up-to-date financial information in late August would view the company's"
+    },
+    "kaplanUnit3Quiz_33": {
+        "answers": [
+            {
+                "content": "lower than anticipated",
+                "correct": false
+            },
+            {
+                "content": "higher than anticipated",
+                "correct": true
+            },
+            {
+                "content": "the same as anticipated",
+                "correct": false
+            },
+            {
+                "content": "too varying to tell",
+                "correct": false
+            }
+        ],
+        "explanation": "Present value is the amount deposited to meet a future goal based on an expected rate of return. If the return is higher than expected, the ending result will be greater (a good thing).",
+        "prompt": "Present value is a computation that is frequently used to determine the amount of a deposit needed now to meet a future need, such as a college education. If an investor uses an expected return of 8% but the actual return over the period is 10%, the future value will be"
+    },
+    "kaplanUnit3Quiz_34": {
+        "answers": [
+            {
+                "content": "future value",
+                "correct": true
+            },
+            {
+                "content": "present value",
+                "correct": false
+            },
+            {
+                "content": "net present value",
+                "correct": false
+            },
+            {
+                "content": "internal rate of return",
+                "correct": false
+            }
+        ],
+        "explanation": "This is what the future value computation is used for. We take a sum of money available now, consider the time the money will be invested, estimate a rate of return, and arrive at the expected value (assuming the earnings are equal to the estimated rate).",
+        "prompt": "Your 50-year-old client has just inherited $50,000 from a relative and wishes to invest it into a single payment deferred variable annuity. What computation would be use to approximate the value of the account when the client reaches 70?"
+    },
+    "kaplanUnit3Quiz_35": {
+        "answers": [
+            {
+                "content": "arithmetic mean",
+                "correct": true
+            },
+            {
+                "content": "internal rate of return",
+                "correct": false
+            },
+            {
+                "content": "median return",
+                "correct": false
+            },
+            {
+                "content": "range",
+                "correct": false
+            }
+        ],
+        "explanation": "When a true average return is shown, that is the arithmetic mean. The median return (the number in the middle of the group of three) is 10%, and the range is 19% (-4 to +15).",
+        "prompt": "An investor is looking at the past performance of a security over the past three years. In year one, it returned 10%; year two it returned 15%; and year three it returned -4%. This computes to an average rate of return of 7%. This would be properly referred to as the"
+    },
+    "kaplanUnit3Quiz_36": {
+        "answers": [
+            {
+                "content": "-2.0",
+                "correct": false
+            },
+            {
+                "content": "-1.6",
+                "correct": false
+            },
+            {
+                "content": "+0.8",
+                "correct": true
+            },
+            {
+                "content": "+2.0",
+                "correct": false
+            }
+        ],
+        "explanation": "The formula is (portfolio return - RF rate) - (beta * [market return - RF rate). Plugging in the numbers, we have 16% - 4% = 12%. Then .8 * [18% - 4%] or .8 * 14%, which equals 11.2%. The final step is 12 - 11.2, giving us a positive alpha of .8. Using these numbers, some find it easier to compare 80% of the market return (after removing the risk-free rate) to the actual return, once again, after the RF rate. In this case, it would be 80% of 14 (that is 11.2) compared to 12 (16% - 4%). We get the same alpha of .8 this way as well.",
+        "prompt": "Over a specified time period, the S&P 500 has returned 18%. The manager of a conservative growth portfolio with a beta of .8 reports a return of 16% for that same time period. Assuming a risk-free rate of 4%, the managed portfolio's alpha was"
+    },
+    "kaplanUnit3Quiz_37": {
+        "answers": [
+            {
+                "content": ".91",
+                "correct": false
+            },
+            {
+                "content": ".51",
+                "correct": false
+            },
+            {
+                "content": ".01",
+                "correct": false
+            },
+            {
+                "content": "-.51 ",
+                "correct": true
+            }
+        ],
+        "explanation": "Adding securities with a negative correlation tends to increase the diversification of a portfolio.",
+        "prompt": "One of your clients has a portfolio that has a correlation of .91 with the overall market. A stock with which correlation coefficient would most likely offer the greatest diversification to this client?"
+    },
+    "kaplanUnit3Quiz_38": {
+        "answers": [
+            {
+                "content": "$2.00",
+                "correct": false
+            },
+            {
+                "content": "$3.00",
+                "correct": true
+            },
+            {
+                "content": "$5.00",
+                "correct": false
+            },
+            {
+                "content": "$20.00",
+                "correct": false
+            }
+        ],
+        "explanation": "The price-to-earnings ratio compares the market price to the earnings per share of common. What this question is telling us is that the $60 price is 20 times the EPS. Divide $60 by 20 and we arrive at $3.00 per share.",
+        "prompt": "RMBN common stock is currently selling for $60, which gives the stock a P/E ratio of 20:1. Based on that information, the earnings per share are"
+    },
+    "kaplanUnit3Quiz_39": {
+        "answers": [
+            {
+                "content": "book value per share",
+                "correct": false
+            },
+            {
+                "content": "dividends per share",
+                "correct": false
+            },
+            {
+                "content": "earnings per share",
+                "correct": true
+            },
+            {
+                "content": "investor's cost basis per share",
+                "correct": false
+            }
+        ],
+        "explanation": "An analyst will compute the P/E ratio by taking the current market price per share and dividing it by the earnings per share.",
+        "prompt": "One of the valuation ratios used by fundamental analysts is the price/earnings ratio. The P/E ratio is the current market price of the stock divided by the"
+    },
+    "kaplanUnit3Quiz_40": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Market risk is systematic risk, or the risk that the overall market will have an adverse effect on a security independent of the company's circumstances.",
+        "prompt": "Market risk (systematic risk) is the risk associated with the specific business decisions of a company's manager."
+    },
+    "kaplanUnit3Quiz_41": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "In finance, the term risk is defined as the uncertainty that an investment will earn its expected rate of return.",
+        "prompt": "The term risk refers to the uncertainty that an investment will earn less than its historical return."
+    },
+    "kaplanUnit3Quiz_42": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Regulatory risk is the risk a company faces that the rules of the game will change as a result of new regulations, not legislation. Remember, regulations are written by government or other agencies while legislation is done by a political body, usually one that has been elected rather than appointed.",
+        "prompt": "Regulatory risk is the risk that the regulatory environment in which a company operates will change as a result of legislation."
+    },
+    "kaplanUnit3Quiz_43": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Standard deviation is a measure of an investment's volatility. It measures the amount of variance in price or returns from the investment's mean return during an expected period.",
+        "prompt": "Standard deviation is a measure of inflationary pressures on the performance of a company."
+    },
+    "kaplanUnit3Quiz_44": {
+        "answers": [
+            {
+                "content": "currency risk",
+                "correct": false
+            },
+            {
+                "content": "liquidity risk",
+                "correct": false
+            },
+            {
+                "content": "purchasing power risk",
+                "correct": true
+            },
+            {
+                "content": "sovereign risk",
+                "correct": false
+            }
+        ],
+        "explanation": "Purchasing power risk, also known as inflation risk, is a systematic risk and, as such, is one that cannot generally be lessened through diversification.",
+        "prompt": "All of the following risks are considered diversifiable EXCEPT"
+    },
+    "kaplanUnit3Quiz_45": {
+        "answers": [
+            {
+                "content": "$14 million",
+                "correct": false
+            },
+            {
+                "content": "$30 million",
+                "correct": false
+            },
+            {
+                "content": "$44 million",
+                "correct": true
+            },
+            {
+                "content": "$60 million",
+                "correct": false
+            }
+        ],
+        "explanation": "The question is how we measure this firm's contribution to U.S. output. At first glance, the answer would seem to be $60 million, the total value of its sales. However, $16 million of this was produced somewhere else, so it shouldn't be counted as part of the firm's-or the United States'- output. Thus, the correct answer is $44 million, the amount of value the firm has added to the imported parts.",
+        "prompt": "A U.S.-based firm assembles electronic equipment using parts imported from Singapore. Its income statement looks like this: <br><br> <table> <tr><td>Sales: </td><td>$60 million</td></tr> <tr><td>-- Wages: </td><td>30 million</td></tr> <tr><td>-- Parts: </td><td>16 million</td></tr> <tr><td>Expenses: </td><td>46 million</td></tr> <tr><td>Net Income: </td><td>14 million</td></tr> </table> <br><br> What is this firm's contribution to the U.S. GDP?"
+    },
+    "kaplanUnit3Quiz_46": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "II and V",
+                "correct": false
+            },
+            {
+                "content": "IV and VI",
+                "correct": false
+            }
+        ],
+        "explanation": "A payment of cash reduces current assets. Whenever either current assets or current liabilities change, working capital is also affected. The new printing press increases the value of the fixed assets. Total assets, however, are unchanged because the decrease in current assets is offset by the increase in fixed assets.  ",
+        "prompt": "Which of the following choices are affected when a corporation purchases a printing press for cash? <br> <br>I. Current assets <br>II. Current liabilities <br>III. Working capital <br>IV. Total assets <br>V. Total liabilities <br>VI. Net worth"
+    },
+    "kaplanUnit3Quiz_47": {
+        "answers": [
+            {
+                "content": "II, III, V, VI",
+                "correct": true
+            },
+            {
+                "content": "I, II, IV, V",
+                "correct": false
+            },
+            {
+                "content": "I, III, IV, VI",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The declaration (not payment) of a dividend creates a current liability on the books of the corporation. Because current liabilities are affected, working capital and total liabilities also change. The declaration of a dividend reduces the net worth because the dividend will be paid from retained earnings. When the dividend is paid, current assets will decrease and current liabilities will decrease (this also decreases both total assets and total liabilities). Working capital does not change because both current assets and current liabilities decrease by the same amount.",
+        "prompt": "Which are affected when a corporation declares a cash dividend? <br> <br>I. Current assets <br>II. Current liabilities <br>III. Working capital <br>IV. Total assets <br>V. Total liabilities <br>VI. Net worth"
+    },
+    "kaplanUnit3Quiz_48": {
+        "answers": [
+            {
+                "content": "$20,000",
+                "correct": false
+            },
+            {
+                "content": "$24,000",
+                "correct": false
+            },
+            {
+                "content": "$200,000",
+                "correct": false
+            },
+            {
+                "content": "$240,000",
+                "correct": true
+            }
+        ],
+        "explanation": "The first step is to take the monthly income and convert it to a yearly number: $1,000 per month is $12,000 per year. Then, divide that $12,000 by the 5% rate of return, and you arrive at a lump-sum deposit of $240,000. ",
+        "prompt": "A rich uncle wishes to provide $1,000 per month in perpetuity to his favorite niece. If the account can be invested to earn 5% per annum, what is the required deposit?"
+    },
+    "kaplanUnit3Quiz_49": {
+        "answers": [
+            {
+                "content": "5 years",
+                "correct": false
+            },
+            {
+                "content": "8 years",
+                "correct": false
+            },
+            {
+                "content": "11 years",
+                "correct": true
+            },
+            {
+                "content": "16 years",
+                "correct": false
+            }
+        ],
+        "explanation": "You can do this with the calculator furnished at the test center as follows: <br><br> <br>&bull; 100,000 * 105% = 105,000 - 12,000 = 93,000 <br>&bull; 93,000 * 105% = 97,650 - 12,000 = 85,650 <br>&bull; 85,650 * 105% = 89,933 - 12,000 = 77,933 and continue <br><br>Obviously, this takes a lot of time. Since the answer choices are so far apart, I would suggest taking a shortcut. Take the initial principal, $100,000; divide by the annual withdrawal rate, $12,000 (100 ÷ 12 = 8.33); and choose the next highest number (because you have to realize that the account is earning 5% on whatever assets remain).",
+        "prompt": "An investor has $100,000 to invest. If the account is estimated to earn at a rate of 5% per year and the investor wishes to withdraw $12,000 per year, approximately how long will the money last?"
+    }
+};
