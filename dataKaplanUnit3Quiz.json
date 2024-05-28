@@ -1074,7 +1074,7 @@ let dataKaplanUnit3Quiz = {
                 "correct": false
             }
         ],
-        "explanation": "You can do this with the calculator furnished at the test center as follows: <br><br> <br>&bull; 100,000 * 105% = 105,000 - 12,000 = 93,000 <br>&bull; 93,000 * 105% = 97,650 - 12,000 = 85,650 <br>&bull; 85,650 * 105% = 89,933 - 12,000 = 77,933 and continue <br><br>Obviously, this takes a lot of time. Since the answer choices are so far apart, I would suggest taking a shortcut. Take the initial principal, $100,000; divide by the annual withdrawal rate, $12,000 (100 ÷ 12 = 8.33); and choose the next highest number (because you have to realize that the account is earning 5% on whatever assets remain).",
+        "explanation": "You can do this with the calculator furnished at the test center as follows: <br><br> <br>&bull; 100,000 * 105% = 105,000 - 12,000 = 93,000 <br>&bull; 93,000 * 105% = 97,650 - 12,000 = 85,650 <br>&bull; 85,650 * 105% = 89,933 - 12,000 = 77,933 and continue <br><br>Obviously, this takes a lot of time. Since the answer choices are so far apart, I would suggest taking a shortcut. Take the initial principal, $100,000; divide by the annual withdrawal rate, $12,000 (100 / 12 = 8.33); and choose the next highest number (because you have to realize that the account is earning 5% on whatever assets remain).",
         "prompt": "An investor has $100,000 to invest. If the account is estimated to earn at a rate of 5% per year and the investor wishes to withdraw $12,000 per year, approximately how long will the money last?"
     }
 };
