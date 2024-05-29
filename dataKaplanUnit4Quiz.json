@@ -1,0 +1,2026 @@
+let dataKaplanUnit4Quiz = {
+    "kaplanUnit4Quiz_1": {
+        "answers": [
+            {
+                "content": "Tenants in common",
+                "correct": false
+            },
+            {
+                "content": "Full power of attorney",
+                "correct": false
+            },
+            {
+                "content": "Discretionary authorization",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Enables the investment adviser representative to make investment decisions in a client's account"
+    },
+    "kaplanUnit4Quiz_2": {
+        "answers": [
+            {
+                "content": "Tenants in common",
+                "correct": true
+            },
+            {
+                "content": "Full power of attorney",
+                "correct": false
+            },
+            {
+                "content": "Discretionary authorization",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "A deceased's fractional interest in an account is retained by his estate"
+    },
+    "kaplanUnit4Quiz_3": {
+        "answers": [
+            {
+                "content": "Tenants in common",
+                "correct": false
+            },
+            {
+                "content": "Full power of attorney",
+                "correct": true
+            },
+            {
+                "content": "Discretionary authorization",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Legal document that authorizes someone other than the customer to have all privileges in an account"
+    },
+    "kaplanUnit4Quiz_4": {
+        "answers": [
+            {
+                "content": "TOD",
+                "correct": true
+            },
+            {
+                "content": "JTROS",
+                "correct": false
+            },
+            {
+                "content": "Tenants in common",
+                "correct": false
+            },
+            {
+                "content": "In trust for the children",
+                "correct": false
+            }
+        ],
+        "explanation": "Transfer on death requires no additional legal work and allows the account owner to designate beneficiaries in whatever percentages she wants. Furthermore, changes can be made at any time prior to death.",
+        "prompt": "A client has an account where, upon her death, she desires that her only son will receive 50% of account value and her 4 daughters will receive 12.5% each. The easiest way to accomplish this would be to title the account"
+    },
+    "kaplanUnit4Quiz_5": {
+        "answers": [
+            {
+                "content": "C corporation",
+                "correct": false
+            },
+            {
+                "content": "S corporation",
+                "correct": true
+            },
+            {
+                "content": "General partnership",
+                "correct": false
+            },
+            {
+                "content": "Sole proprietorship",
+                "correct": false
+            }
+        ],
+        "explanation": "The only way to limit liability is through a corporation (or LLC or limited partnership- neither of which is offered here as a choice). The S corporation allows for the flow-through of operating losses to the shareholders while the C corp does not",
+        "prompt": "Three friends plan to start a new business. It is anticipated it will be several years before the business turns a profit. Which of the following types of business organization would be best if they wish to limit their liability while, at the same time, being able to receive favorable tax treatment for the expected losses?"
+    },
+    "kaplanUnit4Quiz_6": {
+        "answers": [
+            {
+                "content": "The majority of the investors",
+                "correct": false
+            },
+            {
+                "content": "The largest investor only",
+                "correct": false
+            },
+            {
+                "content": "Only the one authorized to trade the account",
+                "correct": false
+            },
+            {
+                "content": "All of the investors",
+                "correct": true
+            }
+        ],
+        "explanation": "When a joint account is opened, financial information should be obtained on all of the account owners.",
+        "prompt": "Several investors open an account in joint tenancy. Financial information is required on which of the following investors?"
+    },
+    "kaplanUnit4Quiz_7": {
+        "answers": [
+            {
+                "content": "the sole proprietor",
+                "correct": true
+            },
+            {
+                "content": "the partners",
+                "correct": false
+            },
+            {
+                "content": "the stockholders",
+                "correct": false
+            },
+            {
+                "content": "the members",
+                "correct": false
+            }
+        ],
+        "explanation": "A sole proprietorship only has 1 owner. Therefore, the account would focus on the needs of that individual. Partnerships have partners; corporations have stockholders; LLCs have members.",
+        "prompt": "A business organized as a sole proprietorship wishes to open an advisory account. When preparing an investment policy statement, the IA would have to consider the objectives of"
+    },
+    "kaplanUnit4Quiz_8": {
+        "answers": [
+            {
+                "content": "Executor",
+                "correct": false
+            },
+            {
+                "content": "Irrevocable trust",
+                "correct": false
+            },
+            {
+                "content": "Fiduciary",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Person legally appointed to manage and/or hold assets for the benefit of another person"
+    },
+    "kaplanUnit4Quiz_9": {
+        "answers": [
+            {
+                "content": "Executor",
+                "correct": false
+            },
+            {
+                "content": "Irrevocable trust",
+                "correct": true
+            },
+            {
+                "content": "Fiduciary",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Once established, changes may not be made"
+    },
+    "kaplanUnit4Quiz_10": {
+        "answers": [
+            {
+                "content": "Executor",
+                "correct": true
+            },
+            {
+                "content": "Irrevocable trust",
+                "correct": false
+            },
+            {
+                "content": "Fiduciary",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Person authorized by law to manage the estate of a decedent"
+    },
+    "kaplanUnit4Quiz_11": {
+        "answers": [
+            {
+                "content": "I, III, and IV",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II, III, and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The person who funds the trust is the grantor or settlor. The bank has been appointed to be trustee, and the daughter is the beneficiary of the trust.",
+        "prompt": "Sam Jones has been a successful businessman and is concerned that his youngest daughter will not be able to live within her means. To protect this from happening, Mr. Jones places a certain sum of money into a trust for the benefit of the daughter. Because Mr. Jones knows he won't live forever, he arranges for the Fidelity Bank and Trust Company to have control over the assets. In this case: <br><br>I. Sam Jones is the grantor. <br>II. Sam Jones is the trustee. <br>III. Fidelity Bank and Trust Company is the trustee. <br>IV. Sam Jones's daughter is the beneficiary."
+    },
+    "kaplanUnit4Quiz_12": {
+        "answers": [
+            {
+                "content": "Partnership account",
+                "correct": false
+            },
+            {
+                "content": "TOD",
+                "correct": false
+            },
+            {
+                "content": "TIC",
+                "correct": true
+            },
+            {
+                "content": "JTWROS",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Each party specifies a percentage interest in the account. If one party dies, her interest in the account passes to her estate."
+    },
+    "kaplanUnit4Quiz_13": {
+        "answers": [
+            {
+                "content": "Partnership account",
+                "correct": false
+            },
+            {
+                "content": "TOD",
+                "correct": false
+            },
+            {
+                "content": "TIC",
+                "correct": false
+            },
+            {
+                "content": "JTWROS",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Parties share an undivided interest in the account. If one party dies, his interest passes to the other owner(s) of the account."
+    },
+    "kaplanUnit4Quiz_14": {
+        "answers": [
+            {
+                "content": "Partnership account",
+                "correct": false
+            },
+            {
+                "content": "TOD",
+                "correct": true
+            },
+            {
+                "content": "TIC",
+                "correct": false
+            },
+            {
+                "content": "JTWROS",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "The assets in the account become the property of the beneficiary on the death of the account owner without passing through probate."
+    },
+    "kaplanUnit4Quiz_15": {
+        "answers": [
+            {
+                "content": "Partnership account",
+                "correct": true
+            },
+            {
+                "content": "TOD",
+                "correct": false
+            },
+            {
+                "content": "TIC",
+                "correct": false
+            },
+            {
+                "content": "JTWROS",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "An unincorporated interest of two or more individuals. A written agreement specifies which individuals can trade the account."
+    },
+    "kaplanUnit4Quiz_16": {
+        "answers": [
+            {
+                "content": "revocable trust",
+                "correct": false
+            },
+            {
+                "content": "irrevocable trust",
+                "correct": false
+            },
+            {
+                "content": "living trust",
+                "correct": false
+            },
+            {
+                "content": "testamentary trust",
+                "correct": true
+            }
+        ],
+        "explanation": "A trust that first goes into effect upon the death of the grantor (the individual who established the trust) is properly referred to as a testamentary trust. Yes, it is an irrevocable trust because the deceased cannot make any changes, but irrevocable trusts can refer to trusts that don't involve the death of the grantor; testamentary trusts cannot. On the exam, you will sometimes have to choose from the best of two possible answers",
+        "prompt": "The most appropriate term to use when referring to a trust that is established upon the death of the grantor is"
+    },
+    "kaplanUnit4Quiz_17": {
+        "answers": [
+            {
+                "content": "A high net worth individual",
+                "correct": true
+            },
+            {
+                "content": "A charity",
+                "correct": false
+            },
+            {
+                "content": "A foundation",
+                "correct": false
+            },
+            {
+                "content": "An executor",
+                "correct": false
+            }
+        ],
+        "explanation": "Of the choices listed, the one account that would generally have the most relaxed suitability requirements would be the high net worth client. The regulators generally take the position that individuals like that need fewer investment protections. Even when the charity or foundation is very large, there usually is the requirement to meet high suitability standards.",
+        "prompt": "For which of the following types of clients would the suitability requirements be somewhat more relaxed?"
+    },
+    "kaplanUnit4Quiz_18": {
+        "answers": [
+            {
+                "content": "5 years",
+                "correct": false
+            },
+            {
+                "content": "7 years",
+                "correct": false
+            },
+            {
+                "content": "8 years",
+                "correct": false
+            },
+            {
+                "content": "More than 20 years ",
+                "correct": true
+            }
+        ],
+        "explanation": "Time horizon does not end at retirement age. The portfolio will have to last them throughout their retirement until their death. On the basis of current life expectancy tables, the money will have to last them at least 20 years.",
+        "prompt": "A married couple is 55 and 57 years old. The older of the two plans to retire at 62 and the younger at 65, and both are healthy. What is the most appropriate estimate of the time horizon for their retirement portfolio?"
+    },
+    "kaplanUnit4Quiz_19": {
+        "answers": [
+            {
+                "content": "the difference between the individual's assets and the individual's liabilities",
+                "correct": true
+            },
+            {
+                "content": "best determined by examining the individual's personal income statement",
+                "correct": false
+            },
+            {
+                "content": "largely irrelevant in identifying the individual's investment objectives",
+                "correct": false
+            },
+            {
+                "content": "another term for discretionary income",
+                "correct": false
+            }
+        ],
+        "explanation": "An individual's net worth is the difference between the individual's assets and the individual's liabilities. It is determined from the personal balance sheet rather than from the personal income statement. Net worth is relevant in determining an individual's investment objectives. Someone with a negative net worth might find it preferable to reduce his debt level before beginning an investment program.",
+        "prompt": "An individual's net worth is"
+    },
+    "kaplanUnit4Quiz_20": {
+        "answers": [
+            {
+                "content": "home address",
+                "correct": false
+            },
+            {
+                "content": "Social Security or tax ID number",
+                "correct": false
+            },
+            {
+                "content": "risk tolerance",
+                "correct": true
+            },
+            {
+                "content": "beneficiary",
+                "correct": false
+            }
+        ],
+        "explanation": "One can't adequately present any investment recommendations without having an understanding of the client's risk tolerance. Home address and Social Security number are legal requirements for opening the account, but they don't enter into the decision-making process for portfolio design. Yes, you will want to know the beneficiary of any IRAs or qualified plans, but that has little to do with the nature of your recommendations.",
+        "prompt": "In designing an investment portfolio for a new client, one of the first things to do is determine the client's"
+    },
+    "kaplanUnit4Quiz_21": {
+        "answers": [
+            {
+                "content": "an index fund",
+                "correct": false
+            },
+            {
+                "content": "bank-insured CDs",
+                "correct": true
+            },
+            {
+                "content": "long-term U.S. government bonds",
+                "correct": false
+            },
+            {
+                "content": "preferred stock",
+                "correct": false
+            }
+        ],
+        "explanation": "There are 2 answers for preservation of capital on this exam. The strongest is a bank insured CD, followed by a money market fund (you'll never have both in the same question).",
+        "prompt": "An 83-year-old widower explains to you that he is risk averse and wishes to find an investment that will provide him with preservation of capital. Which of the following might you recommend?"
+    },
+    "kaplanUnit4Quiz_22": {
+        "answers": [
+            {
+                "content": "Indexing",
+                "correct": false
+            },
+            {
+                "content": "Growth investing",
+                "correct": false
+            },
+            {
+                "content": "Value investing",
+                "correct": false
+            },
+            {
+                "content": "Strategic asset allocation",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Balancing portfolio assets for the long term"
+    },
+    "kaplanUnit4Quiz_23": {
+        "answers": [
+            {
+                "content": "Indexing",
+                "correct": false
+            },
+            {
+                "content": "Growth investing",
+                "correct": false
+            },
+            {
+                "content": "Value investing",
+                "correct": true
+            },
+            {
+                "content": "Tactical asset allocation",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Selecting companies currently out of favor on the basis of earnings prospects"
+    },
+    "kaplanUnit4Quiz_24": {
+        "answers": [
+            {
+                "content": "Indexing",
+                "correct": true
+            },
+            {
+                "content": "Growth investing",
+                "correct": false
+            },
+            {
+                "content": "Value investing",
+                "correct": false
+            },
+            {
+                "content": "Tactical asset allocation",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Constructing a portfolio to mirror the performance of the S&P 500"
+    },
+    "kaplanUnit4Quiz_25": {
+        "answers": [
+            {
+                "content": "Indexing",
+                "correct": false
+            },
+            {
+                "content": "Growth investing",
+                "correct": true
+            },
+            {
+                "content": "Value investing",
+                "correct": false
+            },
+            {
+                "content": "Tactical asset allocation",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Constructing a portfolio of companies that are outperforming most other stocks in that industry"
+    },
+    "kaplanUnit4Quiz_26": {
+        "answers": [
+            {
+                "content": "Indexing",
+                "correct": false
+            },
+            {
+                "content": "Growth investing",
+                "correct": false
+            },
+            {
+                "content": "Value investing",
+                "correct": false
+            },
+            {
+                "content": "Tactical asset allocation",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Involves short-term adjustments to portfolio asset class mix"
+    },
+    "kaplanUnit4Quiz_27": {
+        "answers": [
+            {
+                "content": "following the business cycle is the best way to maximize returns",
+                "correct": false
+            },
+            {
+                "content": "concentration rather than diversification will produce superior returns",
+                "correct": false
+            },
+            {
+                "content": "by following the pundits on TV, you'll wind up rich",
+                "correct": false
+            },
+            {
+                "content": "an efficient market is one that produces random results",
+                "correct": true
+            }
+        ],
+        "explanation": "EMH is really just an extension of the Random Walk Theory, which states that throwing darts at the stock market page is as good as any way to select investments. If the market is truly efficient, no one has an edge.",
+        "prompt": "Followers of the efficient market hypothesis believe that"
+    },
+    "kaplanUnit4Quiz_28": {
+        "answers": [
+            {
+                "content": "the random walk hypothesis",
+                "correct": false
+            },
+            {
+                "content": "Monte Carlo simulations",
+                "correct": true
+            },
+            {
+                "content": "LIBOR approximations",
+                "correct": false
+            },
+            {
+                "content": "portfolio rebalancing",
+                "correct": false
+            }
+        ],
+        "explanation": "One of the uses of Monte Carlo simulations is to run thousands of potential scenarios to determine what withdrawal rate will likely last as long as your client does.",
+        "prompt": "You have a client who has recently retired. A pressing question is, \"How much can be withdrawn without running out of money?\" One of the popular techniques for approximating an answer is by using"
+    },
+    "kaplanUnit4Quiz_29": {
+        "answers": [
+            {
+                "content": "7%",
+                "correct": false
+            },
+            {
+                "content": "8.4%",
+                "correct": false
+            },
+            {
+                "content": "16.4%",
+                "correct": true
+            },
+            {
+                "content": "18%",
+                "correct": false
+            }
+        ],
+        "explanation": "We take the risk-free rate of 8% and add that to the product of the stock's beta and the (expected return minus the risk-free rate). Expressed in numbers, it is 8% + 1.2(15% - 8%) or 8% + 1.2 (7%) = 16.4%",
+        "prompt": "The expected return on the market is 15%, the risk-free rate is 8%, and the beta for Stock A is 1.2. Compute the rate of return that would be expected (required) on this stock."
+    },
+    "kaplanUnit4Quiz_30": {
+        "answers": [
+            {
+                "content": "U.S. Treasury bonds",
+                "correct": false
+            },
+            {
+                "content": "Public utility stock",
+                "correct": true
+            },
+            {
+                "content": "Growth stock",
+                "correct": false
+            },
+            {
+                "content": "Money market mutual fund",
+                "correct": false
+            }
+        ],
+        "explanation": "The key to this question is that dividends paid on stock issued by American companies (and certain qualified foreign corporations) generally qualify for a reduced tax rate (maximum 15 to 20%). No such benefit accrues to money market funds (their dividends are generated from interest income) and government bond interest is always taxed as ordinary income (although state income tax free). The dividends on a growth stock would also qualify, but, since the question deals with increasing current income, public utility is a more sensible approach. This is an example of how the test might present you with two answer choices that could be correct, and you must choose the one that is more correct.",
+        "prompt": "An investor who would like to increase current income from investments and, at the same time, pay taxes on that income at less than his marginal tax rate, would probably find which of the following to be most suitable?"
+    },
+    "kaplanUnit4Quiz_31": {
+        "answers": [
+            {
+                "content": "head of household",
+                "correct": false
+            },
+            {
+                "content": "married filing jointly",
+                "correct": false
+            },
+            {
+                "content": "qualifying widower with a dependant child",
+                "correct": false
+            },
+            {
+                "content": "single",
+                "correct": true
+            }
+        ],
+        "explanation": "In general, for the same amount of income, filing single will result in the highest income tax while married filing jointly, the lowest. Head of household is usually the best for those who are not married, but do have children.",
+        "prompt": "In most cases, the tax filing status that results in the highest income tax is"
+    },
+    "kaplanUnit4Quiz_32": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Only accelerated depreciation is a tax preference item for computing AMT.",
+        "prompt": "Straight line depreciation is considered a tax preference item for the AMT computation."
+    },
+    "kaplanUnit4Quiz_33": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Dividend income is considered portfolio, or investment, income. Passive income results from limited partnerships and real estate.",
+        "prompt": "Dividend income from stock ownership is considered passive income by the IRS."
+    },
+    "kaplanUnit4Quiz_34": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The IRS assigns FIFO when an acceptable basis has not been selected. FIFO generally results in the largest capital gain.",
+        "prompt": "If an investor does not choose an acceptable basis when shares are sold, the IRS will assign LIFO."
+    },
+    "kaplanUnit4Quiz_35": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The same is true with a stock split.",
+        "prompt": "Investors are not subject to capital gains tax when they receive stock dividends. Instead, the cost basis of shares is adjusted downward."
+    },
+    "kaplanUnit4Quiz_36": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The investor has run afoul of the wash sale rule because a call option on a stock is considered substantially identical to the stock.",
+        "prompt": "If an investor sells stock at a loss and within 20 days purchases a call option on that stock, the investor's loss on the stock is disallowed."
+    },
+    "kaplanUnit4Quiz_37": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The cost basis of inherited securities is the market value of the securities on the date of the owner's death.",
+        "prompt": "The cost basis of inherited securities is the original purchase price of the securities."
+    },
+    "kaplanUnit4Quiz_38": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Interest income from municipal bonds is exempt from taxation when paid to corporations or individuals.",
+        "prompt": "Although interest income on municipal bonds is exempt from federal taxation to individual investors, corporate investors are taxed."
+    },
+    "kaplanUnit4Quiz_39": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "A corporation is taxed on 30% of its dividend income; 70% is excluded.",
+        "prompt": "A corporation is required to pay taxes on 70% of its dividend income."
+    },
+    "kaplanUnit4Quiz_40": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Marital deduction on transfer of property between spouses is unlimited.",
+        "prompt": "The limit on the marital deduction is currently $5.45 million."
+    },
+    "kaplanUnit4Quiz_41": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "An individual can generate income from running a sole proprietorship or being a shareholder in an S corporation (the exam will probably use the obsolete term, Subchapter S). Of course, taxable income can be generated by investments in the form of dividends, interest, and capital gains. Death benefits paid to the beneficiary of a life insurance policy are not subject to income tax.",
+        "prompt": "Which of the following are possible sources of taxable income to an individual? <br><br>I. Owning a sole proprietorship <br>II. Being a shareholder in a subchapter S corporation <br>III. Owning stocks and bonds <br>IV. Proceeds paid on a life insurance policy"
+    },
+    "kaplanUnit4Quiz_42": {
+        "answers": [
+            {
+                "content": "C corporation",
+                "correct": false
+            },
+            {
+                "content": "General partnership",
+                "correct": false
+            },
+            {
+                "content": "LLC",
+                "correct": true
+            },
+            {
+                "content": "Sole proprietorship",
+                "correct": false
+            }
+        ],
+        "explanation": "The only way to limit liability is through a corporation (C or S), LLC, or limited partnership. The LLC allows for the flow-through of operating losses to the shareholders while the C corporation does not.",
+        "prompt": "Most new businesses operate at a loss for a period of time. If several of your clients were forming a group to fund a start-up enterprise but wished to limit their liability and, at the same time, be able to receive favorable tax treatment for the expected losses, you would suggest forming which of the following?"
+    },
+    "kaplanUnit4Quiz_43": {
+        "answers": [
+            {
+                "content": "hypothecate securities in the customer's account",
+                "correct": false
+            },
+            {
+                "content": "loan out the customer's margin securities",
+                "correct": true
+            },
+            {
+                "content": "commingle the customer's securities with securities owned by the firm",
+                "correct": false
+            },
+            {
+                "content": "lend the customer money and charge interest",
+                "correct": false
+            }
+        ],
+        "explanation": "A signed loan consent agreement permits the firm to lend the customer's margin securities. Firms must keep customer margin securities segregated from firm securities-commingling is prohibited.",
+        "prompt": "If a customer opens a margin account with ABC Discount Securities and signs a loan consent agreement, the firm is permitted to"
+    },
+    "kaplanUnit4Quiz_44": {
+        "answers": [
+            {
+                "content": "stocks and bonds",
+                "correct": false
+            },
+            {
+                "content": "stocks and options",
+                "correct": false
+            },
+            {
+                "content": "long and short positions",
+                "correct": true
+            },
+            {
+                "content": "cash and securities",
+                "correct": false
+            }
+        ],
+        "explanation": "The definition of a mixed margin account is one that contains both long and short positions.",
+        "prompt": "An investment adviser representative is reviewing the investments of a potential advisory client. The representative notices that the investor has a mixed margin account at a large, well-known broker-dealer. It would be expected that this account would contain"
+    },
+    "kaplanUnit4Quiz_45": {
+        "answers": [
+            {
+                "content": "house call",
+                "correct": false
+            },
+            {
+                "content": "maintenance margin call",
+                "correct": false
+            },
+            {
+                "content": "margin call",
+                "correct": true
+            },
+            {
+                "content": "call rate",
+                "correct": false
+            }
+        ],
+        "explanation": "The initial margin required when purchasing a security is known as a margin call. If the equity in the account falls below the brokerdealer's minimum requirement, there is a house call for additional funds. If the BD doesn't have a house requirement or the call is not met and the account continues to lose equity, there will be a maintenance margin call in accordance with the rules of the SROs. The call rate is what banks charge broker-dealer on money loaned against stock market collateral.",
+        "prompt": "A client has a margin account with a broker-dealer. When making a purchase, the request for funds is known as a"
+    },
+    "kaplanUnit4Quiz_46": {
+        "answers": [
+            {
+                "content": "Broker",
+                "correct": false
+            },
+            {
+                "content": "Dealer",
+                "correct": false
+            },
+            {
+                "content": "Auction",
+                "correct": true
+            },
+            {
+                "content": "Negotiated",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Exchange market"
+    },
+    "kaplanUnit4Quiz_47": {
+        "answers": [
+            {
+                "content": "Broker",
+                "correct": false
+            },
+            {
+                "content": "Dealer",
+                "correct": false
+            },
+            {
+                "content": "Auction",
+                "correct": false
+            },
+            {
+                "content": "Negotiated",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "OTC market"
+    },
+    "kaplanUnit4Quiz_48": {
+        "answers": [
+            {
+                "content": "Broker",
+                "correct": true
+            },
+            {
+                "content": "Dealer",
+                "correct": false
+            },
+            {
+                "content": "Auction",
+                "correct": false
+            },
+            {
+                "content": "Negotiated",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Agency capacity"
+    },
+    "kaplanUnit4Quiz_49": {
+        "answers": [
+            {
+                "content": "Broker",
+                "correct": false
+            },
+            {
+                "content": "Dealer",
+                "correct": true
+            },
+            {
+                "content": "Auction",
+                "correct": false
+            },
+            {
+                "content": "Negotiated",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Principal capacity"
+    },
+    "kaplanUnit4Quiz_50": {
+        "answers": [
+            {
+                "content": "Broker",
+                "correct": false
+            },
+            {
+                "content": "Dealer",
+                "correct": false
+            },
+            {
+                "content": "Auction",
+                "correct": false
+            },
+            {
+                "content": "Immediate execution",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Market order"
+    },
+    "kaplanUnit4Quiz_51": {
+        "answers": [
+            {
+                "content": "To cut losses on a long position",
+                "correct": false
+            },
+            {
+                "content": "To benefit from a decline in the price of the stock",
+                "correct": true
+            },
+            {
+                "content": "To benefit from a rise in the price of the stock",
+                "correct": false
+            },
+            {
+                "content": "To seek a modest potential reward with limited risk",
+                "correct": false
+            }
+        ],
+        "explanation": "Selling short does not reduce the risk of a long position-the investor is selling borrowed, not owned, stock. The appropriate time to sell short is when one anticipates that the stock price is about to drop. The investor wants to sell at a high price and buy later at a lower price. Both the reward and risk potential of selling short are high. If the stock price moves down dramatically, the investor can reap a large gain. If it moves up dramatically, the investor can lose a great deal of money.",
+        "prompt": "Which of the following is appropriate justification for selling a stock short?"
+    },
+    "kaplanUnit4Quiz_52": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "II and V",
+                "correct": false
+            }
+        ],
+        "explanation": "Whenever a trade is made without a commission indicated on the confirmation, it means that a markup or markdown was charged. That makes it a dealer or principal transaction. Commissions are always disclosed on agency transactions.",
+        "prompt": "When viewing several of your client's trade confirmations, you notice that a recent purchase was made of ABC stock where there was no commission indicated while a sale took place of DEF stock in which the commission listed was $55. From this information you could determine that <br><br>I. ABC was purchased in an agency transaction <br>II. ABC was purchased in a principal transaction <br>III. DEF was sold in an agency transaction <br>IV. DEF was sold in a principal transaction"
+    },
+    "kaplanUnit4Quiz_53": {
+        "answers": [
+            {
+                "content": "33.85",
+                "correct": true
+            },
+            {
+                "content": "34.05",
+                "correct": false
+            },
+            {
+                "content": "34.10",
+                "correct": false
+            },
+            {
+                "content": "34.25",
+                "correct": false
+            }
+        ],
+        "explanation": "This is two orders in one. The first does not become triggered until the price gets as high at $34. That happens at 34.10. Then, a buy stop order at 34.20 is entered (pay 34.20 or less) and the trade at 33.85 meets that requirement.",
+        "prompt": "A client order is received with the following instructions: Buy stop 100 shares ABC at 34, limit 34.20. After the order is submitted, trades occur at 33, 33.90, 34.10, 33.85, 34.05, 34.25. More than likely, the client paid"
+    },
+    "kaplanUnit4Quiz_54": {
+        "answers": [
+            {
+                "content": "a market manipulator",
+                "correct": false
+            },
+            {
+                "content": "a high frequency trader",
+                "correct": false
+            },
+            {
+                "content": "an institution",
+                "correct": true
+            },
+            {
+                "content": "a retail investor",
+                "correct": false
+            }
+        ],
+        "explanation": "Dark pools are favored by institutions because of the anonymity it gives to their trading.",
+        "prompt": "A dark pool would most likely be used by"
+    },
+    "kaplanUnit4Quiz_55": {
+        "answers": [
+            {
+                "content": "Dow Jones Industrial Average",
+                "correct": true
+            },
+            {
+                "content": "MSCI EAFE",
+                "correct": false
+            },
+            {
+                "content": "Russell 2000",
+                "correct": false
+            },
+            {
+                "content": "S&P 500",
+                "correct": false
+            }
+        ],
+        "explanation": "The only major benchmark that is priceweighted is the Dow Jones.",
+        "prompt": "Which of the following is a price-weighted average?"
+    },
+    "kaplanUnit4Quiz_56": {
+        "answers": [
+            {
+                "content": "Dow Jones Industrial Average",
+                "correct": false
+            },
+            {
+                "content": "MSCI EAFE",
+                "correct": true
+            },
+            {
+                "content": "Russell 2000",
+                "correct": false
+            },
+            {
+                "content": "S&P 500",
+                "correct": false
+            }
+        ],
+        "explanation": "The Morgan Stanley Capital International EAFE (Europe, Australasia, Far East) index is the most popular one for benchmarking foreign portfolios.",
+        "prompt": "An investor following foreign securities would be most interested in the performance of the"
+    },
+    "kaplanUnit4Quiz_57": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "All of these are true. The investor has a capital gain of $2 per share and has received $1 per share in dividends. That is a total return of $3 on an investment of $50 or 6%. Because the holding period was 6 months, the annualized return is approximately double the 6% or 12%. With an inflation rate of 2%, the real rate of return was 4% and the holding period return is the same as the total return.",
+        "prompt": "An investor purchases 100 shares of GHI common stock at a price of $50 per share. Six months later, the stock is sold for $52 per share. In the interim, the investor has received 2 quarterly dividends of $0.50 and the CPI has risen by 2%. Expressed as a percentage, which of the following statements is TRUE? <br><br>I. The investor's total return is 6%. <br>II. The investor's annualized return is approximately 12%. <br>III. The investor's real rate of return is 4%. <br>IV. The investor's holding period return is 6%."
+    },
+    "kaplanUnit4Quiz_58": {
+        "answers": [
+            {
+                "content": "only if he has earned income",
+                "correct": true
+            },
+            {
+                "content": "only if he is not covered by a pension plan through an employer",
+                "correct": false
+            },
+            {
+                "content": "only if he does not own a Keogh plan",
+                "correct": false
+            },
+            {
+                "content": "only if his adjusted gross income is between $91,000 and $118,000 if married, and $61,000 and $71,000 if single",
+                "correct": false
+            }
+        ],
+        "explanation": "Any individual with earned income who is under age 70 1/2 may contribute to a traditional IRA. The deductibility of those contributions will be determined by that person's coverage under qualified plans and by his level of income.",
+        "prompt": "An individual younger than age 70 1/2 may contribute to a traditional IRA"
+    },
+    "kaplanUnit4Quiz_59": {
+        "answers": [
+            {
+                "content": "ordinary income",
+                "correct": false
+            },
+            {
+                "content": "ordinary income plus a 10% penalty",
+                "correct": true
+            },
+            {
+                "content": "capital gains",
+                "correct": false
+            },
+            {
+                "content": "capital gains plus a 10% penalty",
+                "correct": false
+            }
+        ],
+        "explanation": "All withdrawals from IRAs are taxed at the individual's ordinary income tax rate at the time of withdrawal. Distributions made before age 59 1/2 will incur an additional 10% tax penalty.",
+        "prompt": "If a 50-year-old individual wants to withdraw funds from her IRA, the withdrawal will be taxed as"
+    },
+    "kaplanUnit4Quiz_60": {
+        "answers": [
+            {
+                "content": "5% penalty plus tax",
+                "correct": false
+            },
+            {
+                "content": "6% penalty plus tax",
+                "correct": false
+            },
+            {
+                "content": "10% penalty plus tax",
+                "correct": true
+            },
+            {
+                "content": "50% penalty plus tax",
+                "correct": false
+            }
+        ],
+        "explanation": "The penalty for premature withdrawals from an IRA or a Keogh account is 10% plus ordinary income tax. The excess contribution penalty is 6%, whereas the 50% penalty applies after age 70 1/2.",
+        "prompt": "Premature distribution from an IRA is generally subject to a"
+    },
+    "kaplanUnit4Quiz_61": {
+        "answers": [
+            {
+                "content": "Man who has just become totally disabled",
+                "correct": true
+            },
+            {
+                "content": "Woman who turned 59 a month before the withdrawal",
+                "correct": false
+            },
+            {
+                "content": "Woman, age 50, who decides on early retirement",
+                "correct": false
+            },
+            {
+                "content": "Man in his early 40s who uses the money to buy a second home ",
+                "correct": false
+            }
+        ],
+        "explanation": "Early withdrawals, without penalty, are permitted only in certain situations (such as death or qualifying disability).",
+        "prompt": "Who of the following will NOT incur a penalty on an IRA withdrawal?"
+    },
+    "kaplanUnit4Quiz_62": {
+        "answers": [
+            {
+                "content": "IRA rollovers must be completed within 60 days of receipt of the distribution.",
+                "correct": false
+            },
+            {
+                "content": "Cash value life insurance is a permissible IRA investment, but term insurance is not.",
+                "correct": true
+            },
+            {
+                "content": "The investor must be younger than age 70 1/2 to open and contribute to an IRA.",
+                "correct": false
+            },
+            {
+                "content": "Distributions may begin at age 59 1/2 and must begin by April 1 after the year in which the investor turns 70 1/2.",
+                "correct": false
+            }
+        ],
+        "explanation": "Cash value life insurance, term insurance, and collectibles are not permissible investments in an IRA.",
+        "prompt": "Which of the following statements regarding IRAs is NOT true?"
+    },
+    "kaplanUnit4Quiz_63": {
+        "answers": [
+            {
+                "content": "are used primarily by large corporations",
+                "correct": false
+            },
+            {
+                "content": "are used primarily by small businesses",
+                "correct": true
+            },
+            {
+                "content": "are set up by nonemployees",
+                "correct": false
+            },
+            {
+                "content": "cannot be set up by self-employed persons",
+                "correct": false
+            }
+        ],
+        "explanation": "Small businesses and self-employed persons typically establish SEP IRAs because they are easier and less expensive than other plans for an employer to set up and administer.",
+        "prompt": "SEP IRAs"
+    },
+    "kaplanUnit4Quiz_64": {
+        "answers": [
+            {
+                "content": "Contributions are deductible.",
+                "correct": false
+            },
+            {
+                "content": "Withdrawals at retirement are tax free.",
+                "correct": false
+            },
+            {
+                "content": "Contribution limits are identical.",
+                "correct": true
+            },
+            {
+                "content": "To avoid penalty, distributions must begin April 1 after the year the owner reaches age 70 1/2.",
+                "correct": false
+            }
+        ],
+        "explanation": "The common factor for both traditional and Roth IRAs is that the amount that may be contributed is the same for both. Traditional IRAs offer tax-deductible contributions, but withdrawals are generally taxed. Roth IRAs do not offer tax-deductible contributions, but qualified withdrawals are tax free. Traditional IRAs require distributions to begin by April 1 after the year an owner reaches age 70 1/2, but this is not true for Roth IRAs.",
+        "prompt": "Which of the following statements regarding both traditional IRAs and Roth IRAs is TRUE?"
+    },
+    "kaplanUnit4Quiz_65": {
+        "answers": [
+            {
+                "content": "I only",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I, II and III",
+                "correct": true
+            },
+            {
+                "content": "I, II, III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "A person with self-employment income may deduct contributions to a Keogh plan. Keogh plans are not available to corporations or their employees.",
+        "prompt": "Which of the following may participate in a Keogh plan? <br><br>I. Self-employed doctor <br>II. Analyst who makes money giving speeches outside regular working hours <br>III. Individual with a full-time job who also has income from freelancing <br>IV. Corporate executive who receives $5,000 in stock options from his corporation"
+    },
+    "kaplanUnit4Quiz_66": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "All interest, dividends, and capital gains accumulated in a Keogh are tax deferred until their withdrawal (which must begin between age 59 1/2 and by April 1 after the year in which the account owner turns 70 1/2). The account owner may choose to take distributions in the form of lifetime income payments or as a single lump sum.",
+        "prompt": "Which of the following are characteristics of a Keogh plan? <br><br>I. Dividends, interest, and capital gains are tax deferred. <br>II. Distributions after age 70 1/2 are tax free. <br>III. Contributions are allowed for a nonworking spouse. <br>IV. Lump-sum distributions are allowed."
+    },
+    "kaplanUnit4Quiz_67": {
+        "answers": [
+            {
+                "content": "She turned 70 eight months ago.",
+                "correct": true
+            },
+            {
+                "content": "She has a salaried position in addition to her self-employment.",
+                "correct": false
+            },
+            {
+                "content": "Her spouse has company sponsored retirement benefits.",
+                "correct": false
+            },
+            {
+                "content": "She has an IRA.",
+                "correct": false
+            }
+        ],
+        "explanation": "Keogh contributions can only be made before the date on which an individual turns 70 1/2.",
+        "prompt": "Which would disqualify a person from participation in a Keogh plan?"
+    },
+    "kaplanUnit4Quiz_68": {
+        "answers": [
+            {
+                "content": "I, II and III",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I, III and IV",
+                "correct": true
+            },
+            {
+                "content": "II only ",
+                "correct": false
+            }
+        ],
+        "explanation": "Because he is employed by a public school system, the customer is eligible to participate in the tax-sheltered annuity plan. Employee contributions to a TSA plan are excluded from gross income in the year in which they are made. As in other retirement plans, a penalty tax is assessed on distributions received before age 59 1/2. Mutual funds, CDs, and annuity contracts are among the investment choices available for TSA plans.",
+        "prompt": "A customer works as a nurse in a public school and wants to know more about participating in the school's TSA plan. Which of the following statements is(are) TRUE? <br><br>I. Contributions are made with before-tax dollars. <br>II. He is not eligible to participate. <br>III. Distributions before age 59 1/2 are normally subject to penalty tax. <br>IV. Mutual funds and CDs are available investment vehicles."
+    },
+    "kaplanUnit4Quiz_69": {
+        "answers": [
+            {
+                "content": "a 403(b) plan",
+                "correct": true
+            },
+            {
+                "content": "a 401(k) plan",
+                "correct": false
+            },
+            {
+                "content": "an SEP IRA",
+                "correct": false
+            },
+            {
+                "content": "a payroll deduction plan",
+                "correct": false
+            }
+        ],
+        "explanation": "The giveaway here is the public school employees-the 403(b) is their plan as well as being offered to employees of certain, but not all, tax-exempt organizations.",
+        "prompt": "A retirement plan that allows the employee to make pre-tax contributions (within certain limits), provides for tax deferral of earnings, and is available for employees of public school systems and certain tax-exempt organizations is"
+    },
+    "kaplanUnit4Quiz_70": {
+        "answers": [
+            {
+                "content": "59 1/2",
+                "correct": false
+            },
+            {
+                "content": "70 1/2",
+                "correct": true
+            },
+            {
+                "content": "85",
+                "correct": false
+            },
+            {
+                "content": "There is no minimum distribution rule applicable to TSAs.",
+                "correct": false
+            }
+        ],
+        "explanation": "Minimum distributions from TSAs are required to start by April 1 of the year following the year in which the participant turns 70 1/2.",
+        "prompt": "Minimum distributions from a TSA are required when a retired participant is age"
+    },
+    "kaplanUnit4Quiz_71": {
+        "answers": [
+            {
+                "content": "conservative",
+                "correct": true
+            },
+            {
+                "content": "moderately risky",
+                "correct": false
+            },
+            {
+                "content": "extremely risky",
+                "correct": false
+            },
+            {
+                "content": "impossible to determine",
+                "correct": false
+            }
+        ],
+        "explanation": "A guaranteed investment contract (GIC) is regarded as a conservative investment.",
+        "prompt": "The risk level of a typical guaranteed investment contract (GIC) with an insurance company is best described as"
+    },
+    "kaplanUnit4Quiz_72": {
+        "answers": [
+            {
+                "content": "Vesting",
+                "correct": false
+            },
+            {
+                "content": "Funding",
+                "correct": true
+            },
+            {
+                "content": "Nondiscrimination",
+                "correct": false
+            },
+            {
+                "content": "Reporting and disclosure",
+                "correct": false
+            }
+        ],
+        "explanation": "Funding covers how an employer contributes to or funds a plan.",
+        "prompt": "Regulations regarding how contributions are made to tax-qualified plans relate to which of the following ERISA requirements?"
+    },
+    "kaplanUnit4Quiz_73": {
+        "answers": [
+            {
+                "content": "ERISA-defined contribution requirements",
+                "correct": false
+            },
+            {
+                "content": "Trust agreement",
+                "correct": true
+            },
+            {
+                "content": "Employer's age",
+                "correct": false
+            },
+            {
+                "content": "Employee's retirement age",
+                "correct": false
+            }
+        ],
+        "explanation": "The retirement plan's trust agreement specifies the formula(s) used to determine the contributions to a defined contribution plan.",
+        "prompt": "Which of the following determines the amount paid into a defined contribution plan?"
+    },
+    "kaplanUnit4Quiz_74": {
+        "answers": [
+            {
+                "content": "A person in a fiduciary capacity who invests in a prudent manner",
+                "correct": false
+            },
+            {
+                "content": "A trustee who invests with reasonable care, skill, and caution",
+                "correct": true
+            },
+            {
+                "content": "An investment adviser representative handling a discretionary account",
+                "correct": false
+            },
+            {
+                "content": "The custodian for a minor under the Uniform Transfers to Minors Act",
+                "correct": false
+            }
+        ],
+        "explanation": "Although all of these may have a fiduciary responsibility, the definition, as expressed in the Uniform Prudent Investor Act of 1992, requires reasonable care, skill, and caution.",
+        "prompt": "Which of the following would best describe a prudent investor?"
+    },
+    "kaplanUnit4Quiz_75": {
+        "answers": [
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "To comply with the safe harbor provisions of ERISA's Section 404(c), the plan trustee must allow each participant control over their investments and furnish them with full performance and risk information. The rule only mandates a minimum of 3 alternatives and quarterly changes.",
+        "prompt": "To comply with the safe harbor requirements of Section 404(c) of ERISA, the trustee of a 401(k) plan must <br><br>I. offer plan participants at least 10 different investment alternatives <br>II. allow plan participants to exercise control over their investments <br>III. allow plan participants to change their investment options no less frequently than monthly <br>IV. provide plan participants with information relating to the risks and performance of each investment alternative offered"
+    },
+    "kaplanUnit4Quiz_76": {
+        "answers": [
+            {
+                "content": "The loan will statutorily be treated as a taxable distribution from the plan.",
+                "correct": false
+            },
+            {
+                "content": "The loan must be repayable within 5 years at a reasonable rate of interest.",
+                "correct": true
+            },
+            {
+                "content": "The 401(k) plan needs to be rewritten as loans are only available from qualified plans.",
+                "correct": false
+            },
+            {
+                "content": "The loan is not being made for reasons of an unforeseeable emergency and therefore is not possible.",
+                "correct": false
+            }
+        ],
+        "explanation": "For a loan not to be treated as a taxable distribution for tax purposes, it must be repayable within 5 years at a reasonable rate of interest. The unforeseeable emergency requirements are found in a Section 457 Plan.",
+        "prompt": "Susan participates in a Section 401(k) plan at work that includes loan provisions. Susan has recently enrolled in college and has inquired about the possible consequences of borrowing from the plan to help pay for her education. As her financial planner, what is your advice to her?"
+    },
+    "kaplanUnit4Quiz_77": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "A defined contribution pension plan is a qualified plan that specifies an employer's annual funding."
+    },
+    "kaplanUnit4Quiz_78": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Why isn't this a transfer? The key is the phrase, \"generally within a specified period.\" That refers to the 60 days one has to complete the rollover without penalty. In the case of a direct transfer, time limits are not a relevant factor-the investor never has access to the funds.",
+        "prompt": "The movement of funds from one retirement plan to another, generally within a specified period, is called a rollover."
+    },
+    "kaplanUnit4Quiz_79": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "In a defined benefit plan, all employees receive the same benefits at retirement."
+    },
+    "kaplanUnit4Quiz_80": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "In a safe harbor 401(k) plan, all employees are immediately vested."
+    },
+    "kaplanUnit4Quiz_81": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": true
+            },
+            {
+                "content": "False",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "The maximum contributions for defined benefit plans allow a larger contribution in a shorter period for highly paid individuals nearing retirement.",
+        "prompt": "In a defined benefit plan, high income employees near retirement may receive much larger contributions than younger employees with the same salary."
+    },
+    "kaplanUnit4Quiz_82": {
+        "answers": [
+            {
+                "content": "True",
+                "correct": false
+            },
+            {
+                "content": "False",
+                "correct": true
+            },
+            {
+                "content": "Null",
+                "correct": false
+            },
+            {
+                "content": "Null",
+                "correct": false
+            }
+        ],
+        "explanation": "Remember the (k) in 401(k) reminds us that top-heavy plans benefit key employees.",
+        "prompt": "In a top-heavy 401(k) plan, a disproportionate benefit accrues to eligible highly compensated employees"
+    },
+    "kaplanUnit4Quiz_83": {
+        "answers": [
+            {
+                "content": "Defined benefit plan",
+                "correct": false
+            },
+            {
+                "content": "Keogh plan",
+                "correct": false
+            },
+            {
+                "content": "Spousal IRA contributions",
+                "correct": false
+            },
+            {
+                "content": "Payroll deduction plan",
+                "correct": true
+            }
+        ],
+        "explanation": "",
+        "prompt": "Nonqualified plan in which an employee authorizes regular reductions from his salary"
+    },
+    "kaplanUnit4Quiz_84": {
+        "answers": [
+            {
+                "content": "Defined benefit plan",
+                "correct": true
+            },
+            {
+                "content": "Keogh plan",
+                "correct": false
+            },
+            {
+                "content": "Spousal IRA contributions",
+                "correct": false
+            },
+            {
+                "content": "Payroll deduction plan",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Specifies the monthly amount an employee will receive at retirement"
+    },
+    "kaplanUnit4Quiz_85": {
+        "answers": [
+            {
+                "content": "Defined benefit plan",
+                "correct": false
+            },
+            {
+                "content": "Keogh plan",
+                "correct": true
+            },
+            {
+                "content": "Spousal IRA contributions",
+                "correct": false
+            },
+            {
+                "content": "Payroll deduction plan",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "Qualified retirement plan for self-employed individuals and unincorporated businesses"
+    },
+    "kaplanUnit4Quiz_86": {
+        "answers": [
+            {
+                "content": "Defined benefit plan",
+                "correct": false
+            },
+            {
+                "content": "Keogh plan",
+                "correct": false
+            },
+            {
+                "content": "Spousal IRA contributions",
+                "correct": true
+            },
+            {
+                "content": "Payroll deduction plan",
+                "correct": false
+            }
+        ],
+        "explanation": "",
+        "prompt": "IRA contributions made for a nonworking spouse"
+    },
+    "kaplanUnit4Quiz_87": {
+        "answers": [
+            {
+                "content": "$500 per parent",
+                "correct": false
+            },
+            {
+                "content": "$2,000 per child",
+                "correct": true
+            },
+            {
+                "content": "$500 per couple",
+                "correct": false
+            },
+            {
+                "content": "$2,000 per couple",
+                "correct": false
+            }
+        ],
+        "explanation": "Only $2,000 may be invested in each child's ESA per year. If a couple has three children, they may contribute $6,000 in total, or $2,000 per child, per year.",
+        "prompt": "The maximum amount that may be invested in a Coverdell ESA in one year is"
+    },
+    "kaplanUnit4Quiz_88": {
+        "answers": [
+            {
+                "content": "The Coverdell ESA",
+                "correct": false
+            },
+            {
+                "content": "The Section 529 plan",
+                "correct": true
+            },
+            {
+                "content": "Both the Coverdell ESA and the Section 529 plan",
+                "correct": false
+            },
+            {
+                "content": "Neither the Coverdell ESA nor the Section 529 Plan",
+                "correct": false
+            }
+        ],
+        "explanation": "Although both plans will help them with their objective, their earnings are above the Coverdell ESA limits.",
+        "prompt": "One of your clients is a successful professional couple with earnings in excess of $500,000 per year. They are interested in providing a funding source for post-secondary education for their grandchildren. Which would be appropriate to discuss with them?"
+    },
+    "kaplanUnit4Quiz_89": {
+        "answers": [
+            {
+                "content": "open the account provided the proper trust arrangements are filed first",
+                "correct": false
+            },
+            {
+                "content": "open the account and name himself custodian",
+                "correct": true
+            },
+            {
+                "content": "open the account, but he needs a legal document evidencing the nephew's parents' prior approval of the account",
+                "correct": false
+            },
+            {
+                "content": "be custodian for the account only if he is also the minor's legal guardian ",
+                "correct": false
+            }
+        ],
+        "explanation": "The donor may name himself the custodian of an UGMA or UTMA account. No documentation of custodial status is required to open these accounts, and the custodian is not required to be the minor's legal guardian.",
+        "prompt": "If a customer would like to open a custodial UGMA or UTMA account for his nephew, a minor, the uncle can"
+    },
+    "kaplanUnit4Quiz_90": {
+        "answers": [
+            {
+                "content": "1 account for all 3 nephews",
+                "correct": false
+            },
+            {
+                "content": "3 separate accounts and deposit cash and securities",
+                "correct": true
+            },
+            {
+                "content": "3 separate accounts and deposit insurance policies",
+                "correct": false
+            },
+            {
+                "content": "3 separate accounts and deposit fixed annuities",
+                "correct": false
+            }
+        ],
+        "explanation": "UTMA rules require that any UTMA account have only one beneficial owner and one custodian. Cash and securities may be donated into the account, but insurance contracts and fixed annuities may not.",
+        "prompt": "An investor wants to provide for his 3 nephews after his brother dies. Under the UTMA, the investor may open"
+    },
+    "kaplanUnit4Quiz_91": {
+        "answers": [
+            {
+                "content": "the individual must be on Medicare",
+                "correct": false
+            },
+            {
+                "content": "the individual must be claimed as a dependent on another individual's tax return",
+                "correct": false
+            },
+            {
+                "content": "the individual must have a HDHP",
+                "correct": true
+            },
+            {
+                "content": "if married, you must have a joint HSA",
+                "correct": false
+            }
+        ],
+        "explanation": "In order to be eligible for a health savings plan, an individual must be enrolled in a high deductible health plan (HDHP).",
+        "prompt": "Among the eligibility requirements to open a health savings account is"
+    },
+    "kaplanUnit4Quiz_92": {
+        "answers": [
+            {
+                "content": "rolling over this IRA to her own IRA",
+                "correct": false
+            },
+            {
+                "content": "taking distributions spread out over a 5-year period",
+                "correct": true
+            },
+            {
+                "content": "taking the cash by December 31st and paying the 10% tax penalty because she is under 59 1/2",
+                "correct": false
+            },
+            {
+                "content": "leave the IRA in the name of the deceased and continue with the RMDs",
+                "correct": false
+            }
+        ],
+        "explanation": "Among the options available to a non-spouse beneficiary is spreading the payout over 5 years. Betsy, being a daughter and not a spouse, could not rollover into her own IRA. Even though she is under 59 1/2, inheritors of IRAs do not incur the 10% penalty tax on withdrawals.",
+        "prompt": "Grandma Abigail died at age 82 with a traditional IRA valued at $100,000. Her daughter Betsy, 53 years old, was the sole beneficiary. Betsy’s choices would include"
+    }
+};
