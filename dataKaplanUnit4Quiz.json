@@ -2021,6 +2021,6 @@ let dataKaplanUnit4Quiz = {
             }
         ],
         "explanation": "Among the options available to a non-spouse beneficiary is spreading the payout over 5 years. Betsy, being a daughter and not a spouse, could not rollover into her own IRA. Even though she is under 59 1/2, inheritors of IRAs do not incur the 10% penalty tax on withdrawals.",
-        "prompt": "Grandma Abigail died at age 82 with a traditional IRA valued at $100,000. Her daughter Betsy, 53 years old, was the sole beneficiary. Betsy’s choices would include"
+        "prompt": "Grandma Abigail died at age 82 with a traditional IRA valued at $100,000. Her daughter Betsy, 53 years old, was the sole beneficiary. Betsy's choices would include"
     }
 };
