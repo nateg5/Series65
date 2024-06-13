@@ -1,0 +1,3082 @@
+let dataQuizlet = {
+    "quizlet_1": {
+        "answers": [
+            {
+                "content": "7% coupon maturing in 9 years",
+                "correct": false
+            },
+            {
+                "content": "10% coupon maturing in 10 years",
+                "correct": true
+            },
+            {
+                "content": "5% coupon maturing in 20 years",
+                "correct": false
+            },
+            {
+                "content": "Zero-coupon bond maturing in 11 years",
+                "correct": false
+            }
+        ],
+        "explanation": "The discounted cash flow method considers the future expected free cash flow (the interest payments plus the eventual return of the principal) and discounting it to arrive at a present value. In its simplest iteration, this is nothing more than taking all the money you are scheduled to receive over a given future period and adjusting that for the time value of money. In general, bonds with higher coupons will have the greatest value because they will clearly produce the most cash flow, and zero-coupon bonds will produce the lowest because they have no cash flow other than the return of the face value at maturity.",
+        "prompt": "Current market interest rates are 6%. Using the discounted cash flow method of valuation, you would expect to arrive at the highest valuation for which of the following?"
+    },
+    "quizlet_2": {
+        "answers": [
+            {
+                "content": "who is bullish on the future for a specific issuer's common stock",
+                "correct": false
+            },
+            {
+                "content": "seeking to maximize current income",
+                "correct": true
+            },
+            {
+                "content": "seeking capital gains",
+                "correct": false
+            },
+            {
+                "content": "seeking a position senior to that of common stock",
+                "correct": false
+            }
+        ],
+        "explanation": "A conversion feature is a benefit to the bondholder. It allows the bondholder a choice to either continue holding the debt represented by the bond or to convert the bond into shares of common stock of the underlying issuer. Everything that is done in the securities industry has to be a win-win situation. The win for the bondholder in this instance is the ability to take advantage of the capital appreciation potential the common stock may offer, and the win for the issuer is that by offering something extra to the bond purchaser, the bond purchaser is willing to accept a lower interest rate on the bond (as compared to a nonconvertible bond), and therefore, giving the issuer a lower cost of capital.",
+        "prompt": "One would not normally place convertible bonds in the portfolio of an investor"
+    },
+    "quizlet_3": {
+        "answers": [
+            {
+                "content": "Software used to simplify the investment adviser's preparation of its tax returns",
+                "correct": true
+            },
+            {
+                "content": "Proprietary research reports analyzing the performance of a specific industry",
+                "correct": false
+            },
+            {
+                "content": "Software used to analyze client's portfolios",
+                "correct": false
+            },
+            {
+                "content": "Research reports prepared by a third party other than the broker-dealer",
+                "correct": false
+            }
+        ],
+        "explanation": "Research reports, whether prepared by the firm or by a third party, fall within the safe harbor provisions of Section 28(e). Software used to analyze securities is also permissible since that benefits the client. Tax preparation software benefits the adviser, but not the client.",
+        "prompt": "Which of the following items does NOT fall within the Section 28(e) safe harbor?"
+    },
+    "quizlet_4": {
+        "answers": [
+            {
+                "content": "the standard of prudent investing applies to trusts, but not to executors",
+                "correct": false
+            },
+            {
+                "content": "banks can be named as trustees for a trust, but not as an executor",
+                "correct": false
+            },
+            {
+                "content": "only the estate has beneficiaries",
+                "correct": false
+            },
+            {
+                "content": "the trust account will generally be active for a much longer period of time",
+                "correct": true
+            }
+        ],
+        "explanation": "Trusts can be set up to run for many years; the executor's job is over once the estate has been settled.",
+        "prompt": "A significant difference between opening an account for a trust and an account for an estate is"
+    },
+    "quizlet_5": {
+        "answers": [
+            {
+                "content": "each of the individuals, and if married, their spouses",
+                "correct": false
+            },
+            {
+                "content": "only that individual with the authorization to trade the account",
+                "correct": false
+            },
+            {
+                "content": "each of the four individuals",
+                "correct": true
+            },
+            {
+                "content": "whichever person has been designated by the group as its spokesman",
+                "correct": false
+            }
+        ],
+        "explanation": "On any joint account, it is required to obtain suitability information on all of the account owners.",
+        "prompt": "Richard, Tim, Sam, and Fred have a regular golf foursome every weekend. During one of their outings, they decide it is time they did something constructive with their money by opening an account with a brokerage firm. If the account is opened tenants in common, suitability information would be required on"
+    },
+    "quizlet_6": {
+        "answers": [
+            {
+                "content": "$1,600, paid at the first of each quarter",
+                "correct": false
+            },
+            {
+                "content": "$1,600, paid one year in advance",
+                "correct": true
+            },
+            {
+                "content": "$600, paid six or more months in advance",
+                "correct": false
+            },
+            {
+                "content": "$10,000, paid monthly",
+                "correct": false
+            }
+        ],
+        "explanation": "First of all, this is an SEC registered IA, so we have to go by the federal numbers. Those are more than $1,200, six or more months in advance. The $600 would have been substantial if PACE was state-registered. Although the other two choices are above $1,200, they are not prepaid for at least six months.",
+        "prompt": "Prudent Asset Construction Enterprises (PACE) has offices in states X, Y, and Z. On their last annual updating amendment, they reported AUM of $218 million. In which of the following instances would PACE be receiving a substantial prepayment of fees?"
+    },
+    "quizlet_7": {
+        "answers": [
+            {
+                "content": "a decrease in purchases of U.S. securities by foreign investors",
+                "correct": true
+            },
+            {
+                "content": "a decrease in imports of foreign goods into the U.S.",
+                "correct": false
+            },
+            {
+                "content": "an increase in exports of domestic goods from the U.S.",
+                "correct": false
+            },
+            {
+                "content": "a decrease in dividend payments by U.S. companies to foreign investors",
+                "correct": false
+            }
+        ],
+        "explanation": "Anything that will bring foreign money to the U.S. will decrease the balance of payments. Foreign investors pulling their money out of the U.S. or investing less in the U.S. will increase the deficit.",
+        "prompt": "All of the following would decrease the U.S. balance of payments deficit EXCEPT"
+    },
+    "quizlet_8": {
+        "answers": [
+            {
+                "content": "the laddering strategy",
+                "correct": false
+            },
+            {
+                "content": "the barbell strategy",
+                "correct": false
+            },
+            {
+                "content": "the strategy of lengthening the maturities of their holdings",
+                "correct": true
+            },
+            {
+                "content": "the bullet strategy",
+                "correct": false
+            }
+        ],
+        "explanation": "For those concerned about the effects of interest rate fluctuations on their portfolio, increasing the length of the maturities would increase, rather than decrease, the risk.",
+        "prompt": "Popular strategies used by bond investors to mitigate the effects of changes in interest rates would include any of the following EXCEPT"
+    },
+    "quizlet_9": {
+        "answers": [
+            {
+                "content": ", an investment adviser having offices in States D, E, and F and registered with the SEC. Daphna spends most of her time in an office in State D, but, once every other week, she goes to the branch in State E. Daphna would be exempt from registration as an IAR in which of the following states? A) State E, where she has no retail clients",
+                "correct": false
+            },
+            {
+                "content": "State F, where she has 227 retail clients",
+                "correct": true
+            },
+            {
+                "content": "Daphna would have to register in all three states",
+                "correct": false
+            },
+            {
+                "content": "States E and F",
+                "correct": false
+            }
+        ],
+        "explanation": "As an IAR with a federal covered investment adviser, Daphna only has to register in those states in which she maintains a place of business. That means registering in States D and E. The number of clients is irrelevant.",
+        "prompt": "Daphna works for Automated Asset Allocators (AA"
+    },
+    "quizlet_10": {
+        "answers": [
+            {
+                "content": "state-registered advisers who do not deliver the brochure at least 48 hours prior to contract signing must offer a 5-day penalty free withdrawal.",
+                "correct": true
+            },
+            {
+                "content": "federal covered advisers are exempt from the brochure delivery requirements to investment company clients while state-registered advisers are not.",
+                "correct": false
+            },
+            {
+                "content": "state-registered advisers must deliver the brochure within 90 days of the end of their fiscal year while covered advisers have 120 days.",
+                "correct": false
+            },
+            {
+                "content": "state-registered advisers who do not deliver the brochure at least five days prior to contract signing must offer a 48 hour penalty free withdrawal.",
+                "correct": false
+            }
+        ],
+        "explanation": "State-registered investment advisers who do not deliver the brochure at least 48 hours prior to entering the contract must offer a penalty-free withdrawal of five days. There is nothing comparable to that in the federal law. Both have the 120-day delivery requirement, and state-registered investment advisers cannot have investment companies as clients.",
+        "prompt": "Both state-registered and federal covered investment advisers have brochure delivery requirements. One significant difference between the two is that"
+    },
+    "quizlet_11": {
+        "answers": [
+            {
+                "content": "implies that technical analysis is not worthwhile.",
+                "correct": true
+            },
+            {
+                "content": "implies that fundamental analysis is not worthwhile.",
+                "correct": false
+            },
+            {
+                "content": "implies that inside traders cannot earn superior risk-adjusted returns.",
+                "correct": false
+            },
+            {
+                "content": "reinforces the value of technical analysis.",
+                "correct": false
+            }
+        ],
+        "explanation": "The weak form implies that information contained in historical stock prices is fully incorporated into current stock prices; therefore, technical analysis (the study of historical prices and volume) is not worthwhile in predicting future prices. This form neither refutes fundamental analysis nor implies that traders using insider information cannot earn superior profits.",
+        "prompt": "Weak-form efficient market hypothesis"
+    },
+    "quizlet_12": {
+        "answers": [
+            {
+                "content": "exchange-traded notes (ETNs)",
+                "correct": false
+            },
+            {
+                "content": "leveraged ETFs",
+                "correct": false
+            },
+            {
+                "content": "inverse ETFs",
+                "correct": false
+            },
+            {
+                "content": "closed-end funds (CEFs)",
+                "correct": true
+            }
+        ],
+        "explanation": "Although there are closed-end funds that invest in alternative investments, those are in the minority. The other choices are all clearly labeled as alternatives.",
+        "prompt": "The term alternative investment would least likely apply to"
+    },
+    "quizlet_13": {
+        "answers": [
+            {
+                "content": "Recommending securities that result in major losses in the customer's account",
+                "correct": false
+            },
+            {
+                "content": "Splitting commissions with a customer service representative who is not registered but works for the same firm",
+                "correct": true
+            },
+            {
+                "content": "Telling a customer that the investment being recommended will be sold from the inventory of the broker-dealer and indicating on the trade confirmation that the firm acted in a principal capacity",
+                "correct": false
+            },
+            {
+                "content": "An agent with discretionary authority enters a buy order for a security when its price is rising",
+                "correct": false
+            }
+        ],
+        "explanation": "Commissions can be received only by those with the appropriate registrations. A nonregistered person cannot participate in transactional-based compensation.",
+        "prompt": "Which of the following actions by an agent would be an unethical practice under the NASAA Statement of Policy on Dishonest or Unethical Business Practices of Broker-Dealers and Agents?"
+    },
+    "quizlet_14": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The ability to convert into the company's common stock enables holders of convertible preferred stock to participate in the company's growth. With rare exception, there is no maturity date on preferred stock. Preferred stock does offer a fixed return, but so does any debt security issued by the company, and it is only debt securities, where the interest is a tax-deductible expense, where the issuer receives a tax benefit.",
+        "prompt": "Which of the following statements are accurate when describing preferred stock? <br><br>I. Owners of convertible preferred stock have an opportunity to participate in the growth of the company. <br>II. Unlike any other securities the company may issue, the return on preferred stock is fixed. <br>III. Issuing preferred stock confers certain tax benefits to the company. <br>IV. In general, preferred stock does not have a maturity date."
+    },
+    "quizlet_15": {
+        "answers": [
+            {
+                "content": "Determining the price and time of execution of customer orders without written discretionary authority",
+                "correct": false
+            },
+            {
+                "content": "Claiming that advisory fees are negotiable, but maintaining a fixed fee schedule",
+                "correct": true
+            },
+            {
+                "content": "Depositing securities or cash with the Administrator in lieu of a required surety bond",
+                "correct": false
+            },
+            {
+                "content": "Notifying the Administrator that the adviser intends to maintain custody of customer securities",
+                "correct": false
+            }
+        ],
+        "explanation": "If an adviser states that fees are negotiable but charges his fixed rates, that would be an unfair business practice. Time and price are not considered discretion.",
+        "prompt": "Which of the following is a prohibited action under the Model Rule on Unethical Business Practices of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers?"
+    },
+    "quizlet_16": {
+        "answers": [
+            {
+                "content": "market risk",
+                "correct": false
+            },
+            {
+                "content": "credit risk",
+                "correct": true
+            },
+            {
+                "content": "purchasing power risk",
+                "correct": false
+            },
+            {
+                "content": "interest rate risk",
+                "correct": false
+            }
+        ],
+        "explanation": "Securities issued by the U.S. Treasury are, at least for exam purposes, free of default or credit risk, but, as with all fixed-income securities, are subject to interest rate risk and inflation or purchasing power risk. Any marketable security is subject to market risk.",
+        "prompt": "A client's portfolio consists of holdings in long-term U.S. Treasury bonds and Treasury notes. Of least concern to this investor would be"
+    },
+    "quizlet_17": {
+        "answers": [
+            {
+                "content": "advisers who have conducted business with no more than six clients, other than institutions, in the state within the past 12 months",
+                "correct": true
+            },
+            {
+                "content": "advisers who deal exclusively with federal covered investment advisers located in the state",
+                "correct": false
+            },
+            {
+                "content": "advisers who deal exclusively with savings banks located in the state",
+                "correct": false
+            },
+            {
+                "content": "advisers who deal exclusively with investment companies registered under the Investment Company Act of 1940",
+                "correct": false
+            }
+        ],
+        "explanation": "The de minimis rule for a registered investment adviser who has no place of business in the state is fewer than six retail clients. Doing business with six clients within the past 12 months exceeds this de minimis amount and, therefore, the exemption from registration does not exist. All others listed as possible answers are institutional- or professional-type investment clients. If a registered investment adviser works only with this type of client, an exemption from registration in that state exists as long as the registered investment adviser has no place of business in that state. In fact, if the investment adviser deals exclusively with registered investment companies, the adviser is federal covered and must register with the SEC rather than any states.",
+        "prompt": "Under the Uniform Securities Act, all of the following persons with no place of business in the state are exempt from registration as an investment adviser EXCEPT"
+    },
+    "quizlet_18": {
+        "answers": [
+            {
+                "content": "7 years",
+                "correct": false
+            },
+            {
+                "content": "approximately 30 years",
+                "correct": true
+            },
+            {
+                "content": "16 years",
+                "correct": false
+            },
+            {
+                "content": "9 years",
+                "correct": false
+            }
+        ],
+        "explanation": "An investor's time horizon is the length of time the planned investment strategy is designed to serve. In the case of a couple looking ahead to retirement, the time horizon is their life expectancy.",
+        "prompt": "During your initial interview with a potential advisory client, you obtain the following information: He is 58, she is 56, and they both plan to continue working until she reaches 65 and is eligible for Medicare. As you begin to develop a plan for this couple, you would probably project their time horizon as"
+    },
+    "quizlet_19": {
+        "answers": [
+            {
+                "content": "demographics.",
+                "correct": false
+            },
+            {
+                "content": "values.",
+                "correct": true
+            },
+            {
+                "content": "investment experience.",
+                "correct": false
+            },
+            {
+                "content": "educational background.",
+                "correct": false
+            }
+        ],
+        "explanation": "A growing trend in investment circles is socially responsible investing. Those clients are expressing their values or attitudes.",
+        "prompt": "When preparing recommendations for clients, nonfinancial considerations can often be as important, or even more important, than financial ones. For example, clients who want to avoid investing in fossil fuels would be expressing their"
+    },
+    "quizlet_20": {
+        "answers": [
+            {
+                "content": "100% large-cap",
+                "correct": false
+            },
+            {
+                "content": "100% small-cap",
+                "correct": false
+            },
+            {
+                "content": "75% large-cap, 25% small-cap",
+                "correct": true
+            },
+            {
+                "content": "75% small-cap, 25% large-cap",
+                "correct": false
+            }
+        ],
+        "explanation": "The large-cap stocks are generally the most conservative when looking for growth. Adding 25% small-cap stocks to the mix adds the small extra risk the investor indicated she was willing to assume.",
+        "prompt": "An investor indicates that her objective is long-term growth. Income is of secondary importance, and while she is basically quite conservative, she feels her time horizon is long enough to give her a bit more risk tolerance. Which of the following common stock mutual fund selections would probably be most suitable?"
+    },
+    "quizlet_21": {
+        "answers": [
+            {
+                "content": "Trusts",
+                "correct": false
+            },
+            {
+                "content": "Defined benefit pension plans",
+                "correct": false
+            },
+            {
+                "content": "Foundations",
+                "correct": false
+            },
+            {
+                "content": "Banks",
+                "correct": true
+            }
+        ],
+        "explanation": "As with so many suitability questions, students frequently have to sit back and try to find a logical answer. Although the risk tolerance for all of these choices tends to be on the lower end of the scale, banks are different when it comes to liquidity needs. Banks tend to have high liquidity needs because they must be ready to meet withdrawals at any time by depositors. The nature of foundations, trusts, and defined benefit pension plans is such that they typically have lower liquidity needs than banks.",
+        "prompt": "Low risk tolerance and high liquidity needs are typical characteristics of which type of institutional investor?"
+    },
+    "quizlet_22": {
+        "answers": [
+            {
+                "content": "Filing a financial report with the Administrator by the close of business on the next business day following notice",
+                "correct": false
+            },
+            {
+                "content": "Notifying the Administrator of the deficiency by the close of business on the next business day",
+                "correct": false
+            },
+            {
+                "content": "Reporting to the Administrator the number of client accounts being served by the investment adviser",
+                "correct": false
+            },
+            {
+                "content": "Returning the customer funds and securities within three business days of the discovery",
+                "correct": true
+            }
+        ],
+        "explanation": "Once the firm's net worth is below $35,000, notifications and reports must be sent to the Administrator. Unless ordered by the Administrator, there is no requirement to return client assets to them.",
+        "prompt": "A state-registered investment adviser maintaining custody of customer funds and securities discovers that its net worth is $32,000. Which of the following steps would NOT be required?"
+    },
+    "quizlet_23": {
+        "answers": [
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Two of the major risks faced by DPP investors are the lack of liquidity and the possibility of legislative change.",
+        "prompt": "When discussing the suitability of investing in direct participation programs, particular attention should be focused on which risks? <br><br>I. Legislative <br>II. Liquidity <br>III. Market IV Purchasing power"
+    },
+    "quizlet_24": {
+        "answers": [
+            {
+                "content": "will disregard that conviction when determining Johnson's qualifications for registration",
+                "correct": true
+            },
+            {
+                "content": "will determine Johnson's status based upon the extent to which his child support payments are being paid",
+                "correct": false
+            },
+            {
+                "content": "will consider Johnson to be statutorily disqualified since in this state, his crime is a felony",
+                "correct": false
+            },
+            {
+                "content": "will consider granting registration to Johnson, but only if he receives heightened supervision",
+                "correct": false
+            }
+        ],
+        "explanation": "The conviction on Johnson's record is for a misdemeanor. The fact that the same crime is a felony in another state is not relevant to his application for registration in that state.",
+        "prompt": "John Johnson was convicted five years ago of failure to pay child support—a misdemeanor in his home state. Johnson would now like to register as an IAR in a neighboring state where that crime is considered a felony. Under the Uniform Securities Act, the Administrator of the neighboring state"
+    },
+    "quizlet_25": {
+        "answers": [
+            {
+                "content": "Average prime rate",
+                "correct": false
+            },
+            {
+                "content": "Average duration of unemployment",
+                "correct": false
+            },
+            {
+                "content": "Industrial production",
+                "correct": false
+            },
+            {
+                "content": "Permits for construction of new housing units",
+                "correct": true
+            }
+        ],
+        "explanation": "The question is looking for a leading indicator and, of the list, only new building permits fits. Industrial production is a coincident indicator, while the other two choices are lagging.",
+        "prompt": "Which of the following would probably be the best indicator of where the economy is headed?"
+    },
+    "quizlet_26": {
+        "answers": [
+            {
+                "content": "4.55%",
+                "correct": false
+            },
+            {
+                "content": "9.45%",
+                "correct": false
+            },
+            {
+                "content": "10.77%",
+                "correct": true
+            },
+            {
+                "content": "20%",
+                "correct": false
+            }
+        ],
+        "explanation": "The computation for tax equivalent yield is found by dividing the municipal bond's coupon rate (7%) by (100% - tax bracket) or (100% - 35%). When dividing 7% by.65, the result is closest to 10.77%. In other words, an investor would have to receive a taxable return in excess of 10.77% to put more money in the pocket than owning this 7% municipal bond",
+        "prompt": "What is the tax equivalent yield of a 7% municipal bond to an investor in the 35% federal income tax bracket?"
+    },
+    "quizlet_27": {
+        "answers": [
+            {
+                "content": "An investment adviser who limits its advisory services to venture capital funds",
+                "correct": false
+            },
+            {
+                "content": "A non-U.S. based investment adviser with no place of business in the United States and less than $25 million in assets under management belonging to U.S. clients",
+                "correct": false
+            },
+            {
+                "content": "An investment adviser who limits its advisory services to private funds with less than $150 million in assets under management in the United States",
+                "correct": false
+            },
+            {
+                "content": "An investment adviser who limits its advisory services to insurance companies",
+                "correct": true
+            }
+        ],
+        "explanation": "The Dodd-Frank Act tells us that we're referring to federal law. Although investment advisers dealing solely with insurance companies are exempt from registration, that is not the private fund exemption the question is asking about.",
+        "prompt": "As specified in the Dodd-Frank Act of 2010, which of the following would NOT qualify for the private fund exemption?"
+    },
+    "quizlet_28": {
+        "answers": [
+            {
+                "content": "52-week highs and lows",
+                "correct": false
+            },
+            {
+                "content": "financial statements",
+                "correct": true
+            },
+            {
+                "content": "market capitalization",
+                "correct": false
+            },
+            {
+                "content": "moving averages",
+                "correct": false
+            }
+        ],
+        "explanation": "Value managers look for value, as found on the company's financial statements.",
+        "prompt": "A portfolio manager who follows the value style of investing would most likely focus her attention on"
+    },
+    "quizlet_29": {
+        "answers": [
+            {
+                "content": "A sale of U.S. Treasury bonds to a retail investor",
+                "correct": false
+            },
+            {
+                "content": "A sale of stock by an administrator of an estate",
+                "correct": true
+            },
+            {
+                "content": "A purchase of bonds by a trustee of an irrevocable trust",
+                "correct": false
+            },
+            {
+                "content": "A purchase of stock by an accredited investor under Rule 506(b)",
+                "correct": false
+            }
+        ],
+        "explanation": "A sale by certain fiduciaries, such as an executor or administrator of an estate, is an exempt transaction under the USA. Even though the Treasury bonds are an exempt security, the sale to an individual is not an exempt transaction. Rule 506(b) is the federal transaction exemption not found in the USA, and only a trustee in bankruptcy is considered for the exemption.",
+        "prompt": "As defined in the Uniform Securities Act (USA), which of the following would be considered an exempt transaction?"
+    },
+    "quizlet_30": {
+        "answers": [
+            {
+                "content": "their investments will be offered protection by the anti-fraud statutes of the Uniform Securities Act",
+                "correct": false
+            },
+            {
+                "content": "they passed a 130-question examination in order to qualify as an IAR",
+                "correct": true
+            },
+            {
+                "content": "by passing the exam, they are now registered as investment adviser representatives with the SEC",
+                "correct": false
+            },
+            {
+                "content": "this indicates the regulatory bodies consider them qualified to manage money",
+                "correct": false
+            }
+        ],
+        "explanation": "Passing the exam allows you make no claims other than that it was a requirement for licensure. And you're not registered with the SEC, only with the state(s).",
+        "prompt": "Individuals who pass the Series 65 exam will be able to tell prospects that"
+    },
+    "quizlet_31": {
+        "answers": [
+            {
+                "content": "better tax benefits",
+                "correct": false
+            },
+            {
+                "content": "greater flexibility in the choice of investments",
+                "correct": true
+            },
+            {
+                "content": "reduced fiduciary exposure to the custodian",
+                "correct": false
+            },
+            {
+                "content": "the beneficiary has access to the account at an earlier age",
+                "correct": false
+            }
+        ],
+        "explanation": "While UGMA only permits gifts of cash and securities, other property, such as real estate and limited partnership interests, may be held in UTMA accounts. Taxation is the same, as is the fiduciary liability of the custodian. In most cases, the beneficiary has access to a UTMA account at a later age than was the case with UGMA.",
+        "prompt": "Most states have replaced the Uniform Gifts to Minors Act (UGMA) with the Uniform Transfers to Minors Act (UTMA). One of the major advantages of UTMA is"
+    },
+    "quizlet_32": {
+        "answers": [
+            {
+                "content": "rebalancing",
+                "correct": false
+            },
+            {
+                "content": "tactical investing",
+                "correct": false
+            },
+            {
+                "content": "overfunding her IRA",
+                "correct": false
+            },
+            {
+                "content": "dollar cost averaging",
+                "correct": true
+            }
+        ],
+        "explanation": "Making regular periodic investments of a fixed amount is the principle of dollar cost averaging. There is no such concept as overfunding an IRA; excess contributions are penalized.",
+        "prompt": "Your client with a traditional IRA splits her annual $6,000 contribution into four quarterly investments of $1,500 into a broad market ETF. In so doing, she is taking advantage of the principle of"
+    },
+    "quizlet_33": {
+        "answers": [
+            {
+                "content": "the odd-lot",
+                "correct": false
+            },
+            {
+                "content": "the advance/decline",
+                "correct": true
+            },
+            {
+                "content": "the short interest",
+                "correct": false
+            },
+            {
+                "content": "the support/resistance",
+                "correct": false
+            }
+        ],
+        "explanation": "The advance/decline theory compares the number of stocks advancing versus those declining, generally on the New York Stock Exchange. Because it uses such a large sample, it is used as an example of the breadth of the market.",
+        "prompt": "The technical market theory that measures the breadth of the market is"
+    },
+    "quizlet_34": {
+        "answers": [
+            {
+                "content": "II and IV",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "U.S. exports should increase when foreigners have greater purchasing power. That occurs when their currency is stronger than the dollar.",
+        "prompt": "It would be reasonable to expect an increase in exports from the U.S. if the <br><br>I. dollar strengthened against the euro <br>II. yen strengthened against the dollar <br>III. Swiss franc weakened against the dollar <br>IV. dollar weakened against the British pound"
+    },
+    "quizlet_35": {
+        "answers": [
+            {
+                "content": "$.40",
+                "correct": false
+            },
+            {
+                "content": "$12.50",
+                "correct": true
+            },
+            {
+                "content": "$1.25",
+                "correct": false
+            },
+            {
+                "content": "$4.00",
+                "correct": false
+            }
+        ],
+        "explanation": "U.S. Treasury bonds are quoted in 32nds, where the difference between 96.22 and 96.18 represents an increase of 4/32nds per bond. That is one-eighth, or $1.25, times 10 bonds, or $12.50",
+        "prompt": "A U.S. Treasury bond's price has moved from 96.18 to 96.22. An investor's account holding 10 of these bonds would show an increase of"
+    },
+    "quizlet_36": {
+        "answers": [
+            {
+                "content": "demand for a stock to decrease substantially",
+                "correct": false
+            },
+            {
+                "content": "demand for a stock to remain constant",
+                "correct": false
+            },
+            {
+                "content": "demand for a stock to increase substantially",
+                "correct": true
+            },
+            {
+                "content": "supply of a stock to increase substantially",
+                "correct": false
+            }
+        ],
+        "explanation": "This question is about comparing support and resistance levels. Most stock prices remain relatively stable and fluctuate up and down within a narrow range. The lower limit to these fluctuations is called a support level - the price point where a stock appears cheap and attracts buyers. The upper limit is called a resistance level - the price point where a stock appears expensive and initiates selling. Generally, a support level will develop after a stock has experienced a steady decline from a higher price level. Technicians believe that, at some price below the recent peak, other investors will buy who did not buy prior to the first price increase and have been waiting for a small reversal to get into the stock. When the price reaches this support level, demand surges and price and volume begin to increase again.",
+        "prompt": "A support level is the price range at which a technical analyst would expect the"
+    },
+    "quizlet_37": {
+        "answers": [
+            {
+                "content": "the floor broker",
+                "correct": false
+            },
+            {
+                "content": "the broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "the OTC trader",
+                "correct": false
+            },
+            {
+                "content": "the market maker",
+                "correct": true
+            }
+        ],
+        "explanation": "On an exchange, the specialist (now called the DMM) performs both an agency and a dealer function. That action of buying and selling from inventory is performed by market makers in the OTC market.",
+        "prompt": "In the over-the-counter market, the person who performs the dealer function that a DMM is responsible for on an exchange is"
+    },
+    "quizlet_38": {
+        "answers": [
+            {
+                "content": "Under state law, receipt of a check payable to an unrelated third party is considered to be custody unless forwarded to the third party within 24 hours of receipt.",
+                "correct": false
+            },
+            {
+                "content": "Under federal law, receipt of a check payable to an unrelated third party is considered to be custody unless forwarded to the third party within 24 hours of receipt.",
+                "correct": false
+            },
+            {
+                "content": "Under state law, receipt of a check payable to an unrelated third party is considered to be custody unless forwarded to the third party within three business days of receipt.",
+                "correct": true
+            },
+            {
+                "content": "Under federal law, receipt of a check payable to an unrelated third party is considered to be custody unless forwarded to the third party within three business days of receipt.",
+                "correct": false
+            }
+        ],
+        "explanation": "Under the Uniform Securities Act, if an IA receives a check made payable to an unrelated third party, it will be considered custody unless forwarded within three business days of receipt. Third-party checks are never considered custody under federal law.",
+        "prompt": "One of the differences between state and federal law involving an investment adviser maintaining custody of customer funds and/or securities relates to the handling of client checks made payable to third parties such as broker-dealers. Which of the following properly expresses that difference?"
+    },
+    "quizlet_39": {
+        "answers": [
+            {
+                "content": "The IAR is also an agent of a broker-dealer and, in that capacity, makes a recommendation to a nonadvisory client.",
+                "correct": false
+            },
+            {
+                "content": "Since the IAR understands how nervous a particular client is, he never admits a loss in the account to that client.",
+                "correct": false
+            },
+            {
+                "content": "The IAR makes a presentation at a seminar where the only topic discussed is fixed annuities.",
+                "correct": true
+            },
+            {
+                "content": "In an effort to avoid possible conflicts of interest, the IAR only does personal trades through an account set up with a fictitious name.",
+                "correct": false
+            }
+        ],
+        "explanation": "Since fixed annuities are not securities, a presentation dealing solely with that topic is not covered under the anti-fraud statutes of the USA.",
+        "prompt": "In which of the following instances would an investment adviser representative be exempt from the anti-fraud rules of the Uniform Securities Act?"
+    },
+    "quizlet_40": {
+        "answers": [
+            {
+                "content": "systematic risk",
+                "correct": false
+            },
+            {
+                "content": "inflation risk",
+                "correct": false
+            },
+            {
+                "content": "business risk",
+                "correct": false
+            },
+            {
+                "content": "liquidity risk",
+                "correct": true
+            }
+        ],
+        "explanation": "A portfolio of listed common stocks will have little to no liquidity risk, as listed shares are easily traded. Even though common stock tends to offer protection against inflation, there is no assurance that the portfolio will keep pace with the rising cost of living.",
+        "prompt": "You have a 45-year-old client wishing to save for retirement. The client does not have a great deal of investment sophistication and inquires about the risks you have exposed him to by placing the majority of his portfolio in listed common stocks. You would respond that one risk he should not concern himself with is"
+    },
+    "quizlet_41": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            }
+        ],
+        "explanation": "All relationships between registered investment advisers and a promoter where compensation is involved must be in writing. It is important to note that compensation is defined as more than $1,000 over a 12 -month period. Making sure that the content of any scripts is fair and balanced is the responsibility of the investment adviser, regardless of who prepared them. Those subject to statutory disqualification (\"bad actors\") may not be used as solicitors if compensation is to be received. Cash referral fees to promoters are not restricted to impersonal advisory services.",
+        "prompt": "To be in compliance with the rules under the Investment Advisers Act of 1940, which two of the following statements are correct regarding a registered investment adviser's relationship with promoters engaged to solicit for advisory business? <br><br>I. An individual who is subject to statutory disqualification from registration as an investment adviser representative may be compensated to solicit clients for the adviser when employed by a third-party promoter. <br>II. If the compensation exceeds a de miminis amount, there must be a written agreement between the investment adviser and the solicitor. <br>III. While the sales script used may be written by the promoter, making sure that its content is fair and reasonable is the responsibility of the investment adviser. <br>IV. Cash referral fees to promoters hired to solicit may be paid only in the case of impersonal advisory services."
+    },
+    "quizlet_42": {
+        "answers": [
+            {
+                "content": "investment advisers are permitted to refer to charting systems in their advertisements, while broker-dealers cannot.",
+                "correct": false
+            },
+            {
+                "content": "investment advisers are permitted to conduct seminars, while broker-dealers cannot.",
+                "correct": false
+            },
+            {
+                "content": "investment adviser advertising is regulated by federal law while advertising by broker-dealers is regulated by FINRA.",
+                "correct": true
+            },
+            {
+                "content": "investment advisers are not permitted to use the internet, while broker-dealers can.",
+                "correct": false
+            }
+        ],
+        "explanation": "When it comes to investment advisers, state-registered or federal covered, any advertisement which does not comply with the SEC's Investment Adviser Marketing Rule as found in the Investment Advisers Act of 1940 (federal law) would be prohibited. On the other hand, broker-dealers must comply with FINRA's rule on communication with the public as well as the NASAA Statement of Policy on Dishonest or Unethical Business Practices of Broker-Dealers and Agents.",
+        "prompt": "One respect in which advertising by investment advisers differs from that of broker-dealers is that"
+    },
+    "quizlet_43": {
+        "answers": [
+            {
+                "content": "the alternative valuation date",
+                "correct": false
+            },
+            {
+                "content": "the capital needs analysis",
+                "correct": false
+            },
+            {
+                "content": "a testamentary trust",
+                "correct": false
+            },
+            {
+                "content": "an irrevocable life insurance trust (ILIT)",
+                "correct": true
+            }
+        ],
+        "explanation": "For those with large taxable estates, the purchase of life insurance to cover the potential estate tax liability is frequently recommended. The use of the ILIT will generally keep the proceeds out of the estate. The alternative valuation date only helps if the value of the estate drops sometime during the six months after death. A testamentary trust does little, if anything, to reduce estate taxes, and the capital needs analysis is used to determine the replacement value needed in the event of premature death—unlikely to have a need with this large of an estate.",
+        "prompt": "An estate-planning technique often recommended for those with large taxable estates is the use of"
+    },
+    "quizlet_44": {
+        "answers": [
+            {
+                "content": "an equity portfolio of at least $50 million in 13(f) securities",
+                "correct": false
+            },
+            {
+                "content": "more than 10% of the outstanding voting securities of a reporting company",
+                "correct": false
+            },
+            {
+                "content": "an equity portfolio of at least $100 million",
+                "correct": false
+            },
+            {
+                "content": "an equity portfolio of at least $100 million in 13(f) securities",
+                "correct": true
+            }
+        ],
+        "explanation": "Form 13F must be filed by institutional money managers with at least $100 million in 13(f) equity securities under discretionary management.",
+        "prompt": "In order to come under the SEC's requirement to file a Form 13F, an institutional manager must have discretion over"
+    },
+    "quizlet_45": {
+        "answers": [
+            {
+                "content": "attempting to build a portfolio with a very high correlation",
+                "correct": false
+            },
+            {
+                "content": "devoting a portion of the portfolio to securities with a negative correlation",
+                "correct": true
+            },
+            {
+                "content": "placing a portion of the portfolio into high-yield bonds",
+                "correct": false
+            },
+            {
+                "content": "concentrating in stocks in one or two industries",
+                "correct": false
+            }
+        ],
+        "explanation": "Securities with a negative correlation add diversification to a growth portfolio because they move in the opposite direction of the balance of the holdings. Therefore, losses are offset by gains.",
+        "prompt": "A portfolio manager with a growth style would probably diversify by"
+    },
+    "quizlet_46": {
+        "answers": [
+            {
+                "content": "an analytical tool used to project the current value of a common stock using projected dividends",
+                "correct": true
+            },
+            {
+                "content": "a function of the price to earnings ratio",
+                "correct": false
+            },
+            {
+                "content": "the complement of the dividend payout ratio",
+                "correct": false
+            },
+            {
+                "content": "a method of determining the appropriate relationship between the price of the corporation's common stock and its preferred stock",
+                "correct": false
+            }
+        ],
+        "explanation": "There are two widely accepted forms of common stock price valuations using dividends—the dividend discount model and the dividend growth model.",
+        "prompt": "The dividend discount model is"
+    },
+    "quizlet_47": {
+        "answers": [
+            {
+                "content": "An open-end investment company with less than $25 million in assets",
+                "correct": false
+            },
+            {
+                "content": "A closed-end investment company traded on the New York Stock Exchange",
+                "correct": false
+            },
+            {
+                "content": "An individual investor purchasing the IA's newsletter with an annual subscription price of $410",
+                "correct": false
+            },
+            {
+                "content": "An employee benefit plan with assets of at least $5 million",
+                "correct": true
+            }
+        ],
+        "explanation": "The only exemptions from the IA brochure rule are registered investment companies (both open and closed-end) and impersonal advice costing less than $500 per year.",
+        "prompt": "Which of the following clients of a federal covered investment adviser are NOT exempt from the delivery requirements of the brochure rule?"
+    },
+    "quizlet_48": {
+        "answers": [
+            {
+                "content": "A living will",
+                "correct": true
+            },
+            {
+                "content": "A living trust",
+                "correct": false
+            },
+            {
+                "content": "A revocable trust",
+                "correct": false
+            },
+            {
+                "content": "A testamentary trust",
+                "correct": false
+            }
+        ],
+        "explanation": "Sometimes referred to as a medical directive or advanced care directive, a living will is used to express the author's end-of-life wishes, such as organ donation plans, desired medical treatment, and so forth.",
+        "prompt": "Which of the following is most commonly used when the author wants to express end-of-life wishes?"
+    },
+    "quizlet_49": {
+        "answers": [
+            {
+                "content": "JKL 4s of 2022",
+                "correct": false
+            },
+            {
+                "content": "DEF 6s of 2051",
+                "correct": false
+            },
+            {
+                "content": "GHI 7s of 2052",
+                "correct": false
+            },
+            {
+                "content": "ABC 5s of 2050",
+                "correct": true
+            }
+        ],
+        "explanation": "The bond with the longest duration is generally going to have the greatest exposure to interest rate risk. Because there is very little difference between maturity dates of 2050 through 2052, the bond with the lowest coupon will have the longest duration. The 4s of 2022 have a relatively short duration, even though their coupon is low.",
+        "prompt": "Which of the following bonds would most likely be exposed to the greatest amount of interest rate risk?"
+    },
+    "quizlet_50": {
+        "answers": [
+            {
+                "content": "Market risk",
+                "correct": false
+            },
+            {
+                "content": "Interest rate risk",
+                "correct": false
+            },
+            {
+                "content": "Purchasing power risk",
+                "correct": false
+            },
+            {
+                "content": "Credit risk",
+                "correct": true
+            }
+        ],
+        "explanation": "Only those risks that are unsystematic can benefit from diversification.",
+        "prompt": "Which of the following risks would most likely be minimized through portfolio diversification?"
+    },
+    "quizlet_51": {
+        "answers": [
+            {
+                "content": "$23.88",
+                "correct": true
+            },
+            {
+                "content": "$33.78",
+                "correct": false
+            },
+            {
+                "content": "$47.76",
+                "correct": false
+            },
+            {
+                "content": "$23.60",
+                "correct": false
+            }
+        ],
+        "explanation": "With a TIPS bond, the principal is adjusted every six months by the inflation rate. When that rate is 6%, there is a 3% semiannual adjustment. Multiplying the $1,000 par value times 103% six times (there are six semiannual adjustments in three years) results in a principal value just over $1,194. Because the 4% coupon rate is paid semiannually, the payment at the end of three years will be the adjusted principal of $1,194 times 2%, and that equals $23.88. For testing purposes, you can always arrive at the correct answer by using simple instead of compounded interest. That is, with a 6% annual inflation rate, the bond's principal will increase by $60 per year for three years. That would make the adjusted principal $1,180. Take 2% of that and the result is $23.60. The correct answer will always be the next greater number.",
+        "prompt": "One of your customers purchased a TIPS bond three years ago. The bond's nominal yield is 4% and inflation has averaged 6% over the holding period. The interest payment at the end of the three years would be closest to"
+    },
+    "quizlet_52": {
+        "answers": [
+            {
+                "content": "Time period involved",
+                "correct": false
+            },
+            {
+                "content": "Account value at the beginning of the period",
+                "correct": true
+            },
+            {
+                "content": "Account value at the end of the period",
+                "correct": false
+            },
+            {
+                "content": "Anticipated rate of return of the portfolio",
+                "correct": false
+            }
+        ],
+        "explanation": "Present value is calculated to determine the amount required now to have a specified value at some time in the future. It is what we are looking for so we don't have it now.",
+        "prompt": "In order to make a quantitative evaluation using the present value computation, which of the following is NOT needed?"
+    },
+    "quizlet_53": {
+        "answers": [
+            {
+                "content": "Buy and hold",
+                "correct": false
+            },
+            {
+                "content": "Strategic asset allocation",
+                "correct": false
+            },
+            {
+                "content": "Tactical asset allocation",
+                "correct": true
+            },
+            {
+                "content": "Indexing",
+                "correct": false
+            }
+        ],
+        "explanation": "Alpha is the extent to which a portfolio outperforms its expected returns. Expected returns are based on the systematic risk of the portfolio (its beta). In order to exceed those returns, one must generally construct a portfolio that deviates from the market allocations. With tactical asset allocation, the manager either overweights or underweights the portfolio allocations based on near-term expectations of returns on those assets classes. The other choices are all basically the same, with little or no attempt to time the market's ups and downs.",
+        "prompt": "A portfolio manager looking to create alpha would most likely use which of the following?"
+    },
+    "quizlet_54": {
+        "answers": [
+            {
+                "content": "referral fees may be paid only if the promoter is also registered with the SEC.",
+                "correct": false
+            },
+            {
+                "content": "cash referral fees may be paid pursuant to a written or oral agreement to which the investment adviser is a party.",
+                "correct": false
+            },
+            {
+                "content": "delivery of the solicitor's brochure must take place within five days after the entry into the advisory contract.",
+                "correct": false
+            },
+            {
+                "content": "the investment adviser may not compensate a solicitor who is subject to a statutory disqualification.",
+                "correct": true
+            }
+        ],
+        "explanation": "One of the important requirements when hiring a promoter to solicit advisory business for compensation is making sure the person is not statutorily disqualified from registration. That is, any person who would be unable to register as a securities professional because of prior conduct cannot act as a solicitor for a registered investment adviser. The industry refers to this person as a \"bad actor.\" Compensation, defined as more than a de miminis amount (more than $1,000 over the previous 12 months), requires a written (not oral) agreement. One of the changes made by the SEC's Investment Adviser Marketing Rule in 2020 was the elimination of the requirement to deliver a solicitor's brochure.",
+        "prompt": "With regard to an SEC-registered investment adviser employing the services of a promoter to solicit on its behalf, it would be correct to state that"
+    },
+    "quizlet_55": {
+        "answers": [
+            {
+                "content": "his wife's personal account",
+                "correct": false
+            },
+            {
+                "content": "shares of that fund held in his 401(k) that were purchased with employer-matching funds",
+                "correct": false
+            },
+            {
+                "content": "his brother with whom he regularly shares investment ideas",
+                "correct": true
+            },
+            {
+                "content": "a custodian account under UTMA for his child",
+                "correct": false
+            }
+        ],
+        "explanation": "The breakpoints allow for combinations from a number of family accounts, but they have to be spouse or dependent children, not brothers",
+        "prompt": "An investor would be entitled to a breakpoint on quantity purchases made together with all of the following accounts EXCEPT"
+    },
+    "quizlet_56": {
+        "answers": [
+            {
+                "content": "Book value per share",
+                "correct": false
+            },
+            {
+                "content": "Cash flow",
+                "correct": true
+            },
+            {
+                "content": "Dividend payout ratio",
+                "correct": false
+            },
+            {
+                "content": "Working capital",
+                "correct": false
+            }
+        ],
+        "explanation": "Cash flow from operations is the sum of net income plus non-expended business expenses such as depreciation.",
+        "prompt": "What is the term generally given by analysts to the number generated by the addition of a company's annual depreciation expense to its net income?"
+    },
+    "quizlet_57": {
+        "answers": [
+            {
+                "content": "a universal life insurance policy",
+                "correct": false
+            },
+            {
+                "content": "a fixed premium variable life insurance policy",
+                "correct": false
+            },
+            {
+                "content": "a scheduled premium variable life insurance policy",
+                "correct": false
+            },
+            {
+                "content": "a flexible premium variable life insurance policy",
+                "correct": true
+            }
+        ],
+        "explanation": "Flexible premium means that the policyholder can elect to skip premium payments. This is a feature of all universal life policies, but only in the case of the universal variable life does the performance of the separate account impact benefits.",
+        "prompt": "A life insurance policy with benefits tied to the performance of a separate account that allows the policyholder to skip premium payments is called"
+    },
+    "quizlet_58": {
+        "answers": [
+            {
+                "content": "Expansion",
+                "correct": false
+            },
+            {
+                "content": "Inflation",
+                "correct": true
+            },
+            {
+                "content": "Contraction",
+                "correct": false
+            },
+            {
+                "content": "Peak",
+                "correct": false
+            }
+        ],
+        "explanation": "The four phases of the business cycle are expansion, peak, contraction, and trough. While inflation typically increases during expansion and reduces during contraction, it, in itself, is not a term used to describe one of the phases.",
+        "prompt": "You are trying to explain to an advisory client that the U.S. economy goes through somewhat repeatable phases over a period of time. Which of these terms does NOT describe one of those business cycles?"
+    },
+    "quizlet_59": {
+        "answers": [
+            {
+                "content": "office relocation in the event of a temporary loss of a place of business",
+                "correct": false
+            },
+            {
+                "content": "minimizing service disruptions and client harm",
+                "correct": false
+            },
+            {
+                "content": "assignment of duties to qualified persons in the event of unavailability of key personnel",
+                "correct": false
+            },
+            {
+                "content": "assurance of continued profitability",
+                "correct": true
+            }
+        ],
+        "explanation": "Although NASAA would like to see registered IAs be financially successful, the BCP is not designed to assure profits.",
+        "prompt": "NASAA's Model Rule on Business Continuity and Succession Planning requires that each investment adviser establishes a plan that provides for each of the following EXCEPT"
+    },
+    "quizlet_60": {
+        "answers": [
+            {
+                "content": "court costs",
+                "correct": false
+            },
+            {
+                "content": "the original consideration paid for the security or the current market value, whichever is greater",
+                "correct": true
+            },
+            {
+                "content": "interest at the state's legal rate less any income received on the security",
+                "correct": false
+            },
+            {
+                "content": "attorney's fees",
+                "correct": false
+            }
+        ],
+        "explanation": "In the event of a civil judgment, the purchaser is able to claim for a return of the original investment, not current market, plus interest at the state's legal rate. This interest is reduced, however, by any income received on that security. In addition, the broker-dealer or agent is liable for courts costs and attorney's fees.",
+        "prompt": "The Uniform Securities Act provides for civil penalties in the event of illegal activities of broker-dealers and their agents. Under the act, a purchaser would NOT be entitled to claim:"
+    },
+    "quizlet_61": {
+        "answers": [
+            {
+                "content": "a consumer",
+                "correct": false
+            },
+            {
+                "content": "a client",
+                "correct": false
+            },
+            {
+                "content": "a cohort",
+                "correct": false
+            },
+            {
+                "content": "a customer",
+                "correct": true
+            }
+        ],
+        "explanation": "Regulation S-P uses two terms: customer and consumer. The customer is one with an ongoing relationship, such as would be the case with an advisory contract. A consumer is basically a one-shot deal.",
+        "prompt": "Under the provisions of Regulation S-P, a person who has an investment advisory contract with a registered investment adviser is known as"
+    },
+    "quizlet_62": {
+        "answers": [
+            {
+                "content": "Investors buying long-term bonds and selling short-term bonds",
+                "correct": false
+            },
+            {
+                "content": "A parallel upward shift in interest rates",
+                "correct": false
+            },
+            {
+                "content": "Investors buying short-term bonds and selling long-term bonds",
+                "correct": true
+            },
+            {
+                "content": "A parallel downward shift in interest rates",
+                "correct": false
+            }
+        ],
+        "explanation": "A positive yield curve is the normal condition and occurs when long-term rates are higher than short-term rates. Buying short-term bonds tends to drive their prices up and their yields down, while selling long-term bonds has the opposite effect.",
+        "prompt": "Which of the following activities might result in a positive yield curve in the bond market?"
+    },
+    "quizlet_63": {
+        "answers": [
+            {
+                "content": "account maintenance fees.",
+                "correct": false
+            },
+            {
+                "content": "fees for issuance of stock certificates.",
+                "correct": false
+            },
+            {
+                "content": "account transfer fees.",
+                "correct": false
+            },
+            {
+                "content": "brokerage commissions.",
+                "correct": true
+            }
+        ],
+        "explanation": "Not included in the fee disclosure documents are commissions, markups and markdowns, and advisory fees.",
+        "prompt": "To assist broker-dealers with compliance, NASAA prepared a fee disclosure template. Based on the template, all of the following broker-dealer charges would be disclosed except"
+    },
+    "quizlet_64": {
+        "answers": [
+            {
+                "content": "Portfolio 5 and 6, with a correlation coefficient of -.05",
+                "correct": false
+            },
+            {
+                "content": "Portfolio 3 and 4, with a correlation coefficient of +.20",
+                "correct": false
+            },
+            {
+                "content": "Portfolio 7 and 8, with a correlation coefficient of -.20",
+                "correct": true
+            },
+            {
+                "content": "Portfolio 1 and 2, with a correlation coefficient of +.90",
+                "correct": false
+            }
+        ],
+        "explanation": "If two portfolios have a high correlation coefficient, it means that their performance will be very similar. The purpose of diversification is to have some negative correlation so that losses in one portfolio are offset by gains in the other. U10LO6",
+        "prompt": "An IAR is attempting to develop an investment plan for a client. The IAR decides to use two different mutual funds in an effort to provide appropriate diversification. Of the four pairs given below, which one would offer the most diversification?"
+    },
+    "quizlet_65": {
+        "answers": [
+            {
+                "content": "14%",
+                "correct": true
+            },
+            {
+                "content": "8%",
+                "correct": false
+            },
+            {
+                "content": "28%",
+                "correct": false
+            },
+            {
+                "content": "19%",
+                "correct": false
+            }
+        ],
+        "explanation": "A standard deviation of 14% means an investor can expect a return on an investment to vary ±14 from the average return approximately 68% of the time. A return of +26% minus the 12% average return equals 14%. Likewise, the difference between the -2% return and the average of 12% is also 14%.",
+        "prompt": "Plymouth Standard's common stock has an average return of 12%; its returns fall within a range of -2% to +26% approximately 68% of the time. Which one of the following numbers is closest to the standard deviation of returns of Plymouth Standard's stock?"
+    },
+    "quizlet_66": {
+        "answers": [
+            {
+                "content": "behind the bonds, the preferred stock, and the common stock",
+                "correct": false
+            },
+            {
+                "content": "ahead of the common stock, the preferred stock, and the bonds",
+                "correct": false
+            },
+            {
+                "content": "ahead of the common stock, but after the preferred and the bonds",
+                "correct": false
+            },
+            {
+                "content": "ahead of the common stock and the preferred, but after the bonds",
+                "correct": true
+            }
+        ],
+        "explanation": "Any debt security, even a subordinated debenture, has a claim ahead of all equity. However, they are subordinated to all other debt.",
+        "prompt": "A corporation is capitalized with common stock, senior preferred stock, mortgage bonds, and subordinated debentures. Your client, who holds $10,000 of the debentures, is concerned about the future viability of the enterprise. You can inform the client that the debentures have a claim"
+    },
+    "quizlet_67": {
+        "answers": [
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "A market maker's quote always reflects the price he is willing to pay (the bid) and the price at which he is willing to sell (offer). The difference between these two is the spread",
+        "prompt": "When a market maker publishes a quote, what prices will be shown? I. Bid II. Market III. Offer IV. Spread"
+    },
+    "quizlet_68": {
+        "answers": [
+            {
+                "content": "the name of other firms where the client has or has had an account",
+                "correct": true
+            },
+            {
+                "content": "the investment time horizon—short-term or long-term",
+                "correct": false
+            },
+            {
+                "content": "how much of a loss the client can tolerate emotionally",
+                "correct": false
+            },
+            {
+                "content": "the client's prior investment experience",
+                "correct": false
+            }
+        ],
+        "explanation": "Knowing the names of firms where the client has had previous accounts doesn't tell us anything about his risk tolerance.",
+        "prompt": "Arguably, determining a client's risk tolerance is the most critical step before making any recommendations. Methods of doing that would include knowing all of the following EXCEPT"
+    },
+    "quizlet_69": {
+        "answers": [
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            }
+        ],
+        "explanation": "An investment adviser must provide full disclosure to his client if there would be even a hint of conflict of interest. This will include the case where a recommended product will generate a commission or other source of income to the adviser, as well as full disclosure if a recommendation is not consistent with the adviser's own activity in his own account. The adviser can use any source of information to create his own analysis, with disclosure of source only being required if the adviser uses the product of a third party as the presentation to the client. It would be unusual that all clients with the same or similar objectives would purchase or have recommended for purchase the same securities.",
+        "prompt": "An investment adviser representative is required to make disclosure to the client when I. the IAR, in preparing a recommendation, uses research provided by a third party with whom the IAR is not affiliated II. the IAR recommends a specific insurance policy for the client's overall financial plan, where a commission will be received on that sale III. transactions recommended to a specific client are inconsistent with those for other clients with objectives that are similar to that particular client IV. transactions recommended to the client are inconsistent with those for the IAR's own account"
+    },
+    "quizlet_70": {
+        "answers": [
+            {
+                "content": "A warrant",
+                "correct": false
+            },
+            {
+                "content": "A convertible bond",
+                "correct": false
+            },
+            {
+                "content": "An option",
+                "correct": true
+            },
+            {
+                "content": "A right",
+                "correct": false
+            }
+        ],
+        "explanation": "When an option is exercised, the seller (writer) of the option is the one who must deliver (call) or purchase (put). In all of the other choices, the issuer is the one who delivers the stock.",
+        "prompt": "In which of the following cases does exercise not involve the issuer of the underlying asset?"
+    },
+    "quizlet_71": {
+        "answers": [
+            {
+                "content": "I, II, III",
+                "correct": false
+            },
+            {
+                "content": "II, III, IV",
+                "correct": false
+            },
+            {
+                "content": "I, III, IV",
+                "correct": true
+            },
+            {
+                "content": "I, II, IV",
+                "correct": false
+            }
+        ],
+        "explanation": "The safe harbor requirements of ERISA Section 404(c) relieve the trustee of a 401(k) plan of liability if the plan participants have the ability to select from at least three different investments and are allowed to make selection changes no less frequently than quarterly. Immediate vesting is required in a safe harbor 401(k), which is one that is safe from top-heavy testing.",
+        "prompt": "In order to comply with the safe harbor requirements of Section 404(c) of ERISA, the trustee of a 401(k) plan must I. offer plan participants at least three different investment alternatives II. ensure that plan participants are insulated from control over their portfolios III. allow plan participants to change their investment options no less frequently than quarterly IV. permit immediate vesting of employer contributions."
+    },
+    "quizlet_72": {
+        "answers": [
+            {
+                "content": "stock subject to Rule 144",
+                "correct": true
+            },
+            {
+                "content": "common stock listed on the New York Stock Exchange",
+                "correct": false
+            },
+            {
+                "content": "cumulative preferred stock",
+                "correct": false
+            },
+            {
+                "content": "ADRs",
+                "correct": false
+            }
+        ],
+        "explanation": "In most cases, stock subject to Rule 144 is stock that cannot be immediately resold. That is why it is known as restricted stock. U12LO4",
+        "prompt": "An investor concerned about liquidity would be least likely to invest in"
+    },
+    "quizlet_73": {
+        "answers": [
+            {
+                "content": "18.35%",
+                "correct": false
+            },
+            {
+                "content": "15%",
+                "correct": false
+            },
+            {
+                "content": "12%",
+                "correct": true
+            },
+            {
+                "content": "2.68%",
+                "correct": false
+            }
+        ],
+        "explanation": "If the annuity contract calls for an 80% participation rate with no cap, then the investor will receive 80% of the performance of the index. In this case, 80% of a 15% return is 12%.",
+        "prompt": "An index annuity has no cap on gains, but guarantees a minimum return of 3.35% with an 80% participation rate. If the index increases by 15%, what is the rate of return to the investor?"
+    },
+    "quizlet_74": {
+        "answers": [
+            {
+                "content": "In the absence of any action by the Administrator, the effective date of a registration is noon of the 30th day after the filing of a complete application.",
+                "correct": true
+            },
+            {
+                "content": "If, before the effective date of the registration, the Administrator requires amendments to the application, the registration will be considered to have first been filed as of the original filing date.",
+                "correct": false
+            },
+            {
+                "content": "The Administrator may request the agent furnish a statement of assets and liabilities.",
+                "correct": false
+            },
+            {
+                "content": "The Administrator may initiate a disciplinary action within two years of an agent's withdrawal of registration.",
+                "correct": false
+            }
+        ],
+        "explanation": "Normally, registration of persons becomes effective at noon of the 30th day following filing. If the Administrator requires the filing of amendments, the clock starts over again with the filing of those amendments, not the original filing date. Agents do not have financial requirements, and the Administrator has a maximum of one year after termination to initiate any actions. U3LO5",
+        "prompt": "Which of the following statements regarding agent registration under the Uniform Securities Act is TRUE?"
+    },
+    "quizlet_75": {
+        "answers": [
+            {
+                "content": "A tax deduction for the employer is generally only available with NSOs.",
+                "correct": false
+            },
+            {
+                "content": "AMT is only an issue for those exercising ISOs.",
+                "correct": false
+            },
+            {
+                "content": "Capital gain treatment is only available with NSOs.",
+                "correct": true
+            },
+            {
+                "content": "Board of director approval is required for both NSOs and ISOs.",
+                "correct": false
+            }
+        ],
+        "explanation": "It is only the ISO where the employee can possibly receive capital gain treatment U12LO3",
+        "prompt": "With regard to nonqualified stock options (NSO) and incentive stock options (ISO), which of the following statements is incorrect?"
+    },
+    "quizlet_76": {
+        "answers": [
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, III, and IV",
+                "correct": true
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            }
+        ],
+        "explanation": "All of these would be included in the USA's definition of person. Not included are a minor, a deceased person, or someone judged mentally incompetent.",
+        "prompt": "As defined in the Uniform Securities Act (USA), the term person would include <br><br>I. a limited partnership <br>II. a political subdivision <br>III. an unincorporated association <br>IV. the executor of an estate for a deceased individual "
+    },
+    "quizlet_77": {
+        "answers": [
+            {
+                "content": "2.66:1",
+                "correct": false
+            },
+            {
+                "content": "3.0:1",
+                "correct": false
+            },
+            {
+                "content": "1.5:1",
+                "correct": true
+            },
+            {
+                "content": "2.33:1",
+                "correct": false
+            }
+        ],
+        "explanation": "The quick asset ratio is CA minus inventory divided by the CL. In this question, it is $15 million - $6 million = $9 million / $6 million = 1.5:1.",
+        "prompt": "While reviewing the financial statements of the ABC Corporation, you notice that the company has $5 million in cash on hand and $6 million in inventory. If the current assets total $15 million, the total assets are $22 million, and the current liabilities are $6 million, the quick asset ratio is"
+    },
+    "quizlet_78": {
+        "answers": [
+            {
+                "content": "5%",
+                "correct": false
+            },
+            {
+                "content": "1.25%",
+                "correct": false
+            },
+            {
+                "content": "2.50%",
+                "correct": true
+            },
+            {
+                "content": "7.50%",
+                "correct": false
+            }
+        ],
+        "explanation": "The formula for current yield is annual current dividend divided by current market value. The trick with this question is that you are given a semiannual dividend as information. You must multiply the dividend by 2 to find the annual dividend. Therefore, $ .75 × 2 = $1.50 annual dividend. $1.50 / $60 = 2.50%",
+        "prompt": "What is the current yield on ABC common stock selling for $60 per share with a semiannual dividend of $.75 per share?"
+    },
+    "quizlet_79": {
+        "answers": [
+            {
+                "content": "futures are considered securities, while forwards are not",
+                "correct": false
+            },
+            {
+                "content": "forwards are exchange-listed, while futures are not",
+                "correct": false
+            },
+            {
+                "content": "forwards are more likely to be closed out prior to expiration",
+                "correct": false
+            },
+            {
+                "content": "futures are more commonly used by speculators than forwards",
+                "correct": true
+            }
+        ],
+        "explanation": "The nature of futures, being standardized with a fluid secondary market, makes them more suitable for speculators than forwards. In fact, it is futures that are almost always closed out prior to expiration. U16LO4",
+        "prompt": "When comparing futures and forwards, it would be correct to state that"
+    },
+    "quizlet_80": {
+        "answers": [
+            {
+                "content": "$4.00",
+                "correct": false
+            },
+            {
+                "content": "$1.60",
+                "correct": false
+            },
+            {
+                "content": "$.40",
+                "correct": true
+            },
+            {
+                "content": "$1.00",
+                "correct": false
+            }
+        ],
+        "explanation": "The par value of the common stock is irrelevant to this question. In order for a stock selling at $40 to have a current yield of 4%, the annual dividend must be $1.60. Because common stock dividends are typically paid quarterly, more than likely, the quarterly dividend is $.40 per share. U23LO1",
+        "prompt": "Your client notices that the listing for the CDL $100 par common stock in the Wall Street Journal indicates that the current yield of the stock is 4%. If the last trade was at $40 per share, more than likely, CDL is paying quarterly dividends of"
+    },
+    "quizlet_81": {
+        "answers": [
+            {
+                "content": "Revocation of the registration of an agent's broker-dealer will result in placing that agent's effective registration in suspense.",
+                "correct": true
+            },
+            {
+                "content": "Individuals whose only securities activity with a broker-dealer is trading for the firm's proprietary account are not required to register as agents.",
+                "correct": false
+            },
+            {
+                "content": "Agents may be licensed in a state even if their broker-dealer is not",
+                "correct": false
+            },
+            {
+                "content": "If the broker-dealer with which that agent is registered should have its registration revoked, the agent's license will be held by the Administrator, and the agent will be required to register with an active broker-dealer no later than 30 days following the revocation.",
+                "correct": false
+            }
+        ],
+        "explanation": "The registration of an agent is not effective during any period when he is not associated with a particular broker-dealer registered under the Uniform Securities Act or a particular issuer. U3LO3",
+        "prompt": "Which of the following statements regarding an agent's registration is CORRECT?"
+    },
+    "quizlet_82": {
+        "answers": [
+            {
+                "content": "using the alternative valuation date",
+                "correct": true
+            },
+            {
+                "content": "reallocating the assets to less risky securities",
+                "correct": false
+            },
+            {
+                "content": "asking for an extension to file the return",
+                "correct": false
+            },
+            {
+                "content": "liquidating the portfolio in advance of the market downturn",
+                "correct": false
+            }
+        ],
+        "explanation": "The executor of an estate has the option of valuing the assets either as of the date of death or six months later (the alternative valuation date). If stock prices fall, then the estate will shrink, resulting in lower estate taxes. U21LO5",
+        "prompt": "If the executor of an estate containing a substantial stock portfolio is of the opinion that the economy is about to enter a down cycle, estate taxes could be reduced by"
+    },
+    "quizlet_83": {
+        "answers": [
+            {
+                "content": "selling call options",
+                "correct": true
+            },
+            {
+                "content": "buying U.S. Treasury STRIPS",
+                "correct": false
+            },
+            {
+                "content": "buying LEAPS",
+                "correct": false
+            },
+            {
+                "content": "buying periodic payment variable annuities",
+                "correct": false
+            }
+        ],
+        "explanation": "When an investor sells an option, put, or call, the premium is received, generating immediate income. LEAPS are long-term options and, like all long options positions, do not generate any income. A periodic payment variable annuity will not begin any payout until the end of the deferral period. U16LO2",
+        "prompt": "Investors seeking current income would benefit from"
+    },
+    "quizlet_84": {
+        "answers": [
+            {
+                "content": "Tenants in common",
+                "correct": false
+            },
+            {
+                "content": "Totten trust",
+                "correct": false
+            },
+            {
+                "content": "Tenancy by the entirety",
+                "correct": true
+            },
+            {
+                "content": "Joint tenants with right of survivorship",
+                "correct": false
+            }
+        ],
+        "explanation": "Tenancy by the entirety is most commonly used for ownership of real property (real estate). U18LO2",
+        "prompt": "Which of the following forms of joint ownership is most often associated with ownership of real estate?"
+    },
+    "quizlet_85": {
+        "answers": [
+            {
+                "content": "dividends are paid in U.S. dollars",
+                "correct": false
+            },
+            {
+                "content": "the issuer is a domestic bank",
+                "correct": false
+            },
+            {
+                "content": "trading takes place on domestic secondary markets",
+                "correct": false
+            },
+            {
+                "content": "currency risk is avoided",
+                "correct": true
+            }
+        ],
+        "explanation": "Even though everything relating to ADRs is done in English using U.S. dollars on domestic stock markets, there is still currency risk since the ultimate value of the stock and its dividends are based upon the foreign company's home currency. U12LO5",
+        "prompt": "All of the following statements relating to ADRs are true EXCEPT"
+    },
+    "quizlet_86": {
+        "answers": [
+            {
+                "content": "the advertisement must be filed with the appropriate SRO within 10 business days of first use",
+                "correct": false
+            },
+            {
+                "content": "authorship of the system must be prominently disclosed",
+                "correct": false
+            },
+            {
+                "content": "a statement reflecting the limitations and difficulties of using the system must be included in the ad",
+                "correct": true
+            },
+            {
+                "content": "results obtained by using the system must be shown using a time period of no less than 12 months",
+                "correct": false
+            }
+        ],
+        "explanation": "An advertisement describing a charting system or any type of formula must always state that there are limitations and difficulties to using said system. U6LO5",
+        "prompt": "An investment adviser wishes to advertise a proprietary charting system used to time the market. In order to be in compliance with the Investment Advisers Act of 1940"
+    },
+    "quizlet_87": {
+        "answers": [
+            {
+                "content": "sell a put on that stock",
+                "correct": false
+            },
+            {
+                "content": "buy a call on that stock",
+                "correct": false
+            },
+            {
+                "content": "buy a put on that stock",
+                "correct": true
+            },
+            {
+                "content": "sell a call on that stock",
+                "correct": false
+            }
+        ],
+        "explanation": "This investor is looking to hedge his risk of loss. The best way to hedge a long position is to buy a put option. U20LO12",
+        "prompt": "An options strategy that would be most useful for an investor with a long position in a stock who is concerned that a proposed management change will negatively impact the stock's price would be to"
+    },
+    "quizlet_88": {
+        "answers": [
+            {
+                "content": "$101.",
+                "correct": false
+            },
+            {
+                "content": "$100.",
+                "correct": false
+            },
+            {
+                "content": "$96.",
+                "correct": true
+            },
+            {
+                "content": "$99.",
+                "correct": false
+            }
+        ],
+        "explanation": "On the first day, the value increased by twice the 10% the ETF gained (20% × 100 = 20). That makes the share value $120. On the second day, the value decreased by twice the 10% the ETF lost, (20% × 120 = 24). That makes the current value $96. U17LO3",
+        "prompt": "An investor purchased a 2x leveraged ETF at a price of $100 per share. On the first day, the index was up 10%. On the next day, it was down 10%. The investor's share value is now"
+    },
+    "quizlet_89": {
+        "answers": [
+            {
+                "content": "Negotiable CD",
+                "correct": false
+            },
+            {
+                "content": "Government securities money market fund",
+                "correct": false
+            },
+            {
+                "content": "GIC",
+                "correct": false
+            },
+            {
+                "content": "DDA",
+                "correct": true
+            }
+        ],
+        "explanation": "DDA stands for demand deposit account, most commonly, a bank checking account. It, like all other bank accounts, carries FDIC insurance. GICs offer neither. Money market funds offer check-writing, but no FDIC coverage; negotiable CDs offer FDIC coverage, but no check-writing. U13LO14",
+        "prompt": "Which of the following would offer your client check-writing privileges and FDIC insurance coverage?"
+    },
+    "quizlet_90": {
+        "answers": [
+            {
+                "content": "only the investment adviser representative must notify the Administrator promptly",
+                "correct": true
+            },
+            {
+                "content": "only the terminating investment adviser must notify the Administrator.",
+                "correct": false
+            },
+            {
+                "content": "the investment adviser representative and each of the federal covered advisers must notify the Administrator promptly",
+                "correct": false
+            },
+            {
+                "content": "the investment adviser representative and the employing adviser must notify the Administrator promptly",
+                "correct": false
+            }
+        ],
+        "explanation": "If you are working for a registered investment adviser within a specific state, that state securities administrator wants to know who you are. The problem becomes a question of who is responsible for notifying the State Securities Administrator of your employment. A federal registered investment adviser is exempt from registration at the state level, and therefore, has very little contact with the state. If you go to work for a federal registered investment adviser, it becomes your duty to notify the State Securities Administrator that you are working there, as well as when you terminate. U2LO3",
+        "prompt": "When an investment adviser representative terminates employment with a federal covered investment adviser and immediately accepts employment performing the same functions with a different federal covered investment adviser in the state where the individual resides"
+    },
+    "quizlet_91": {
+        "answers": [
+            {
+                "content": "owner's equity",
+                "correct": true
+            },
+            {
+                "content": "productivity",
+                "correct": false
+            },
+            {
+                "content": "dividend payout ratio",
+                "correct": false
+            },
+            {
+                "content": "profitability",
+                "correct": false
+            }
+        ],
+        "explanation": "The balance sheet reflects the difference between the company's assets and liabilities. This is the owner's or shareholder's equity. Profits and dividends are on the income statement. U9LO1",
+        "prompt": "An investor reviewing a corporation's balance sheet will be able to determine the company's"
+    },
+    "quizlet_92": {
+        "answers": [
+            {
+                "content": "Form U-4",
+                "correct": false
+            },
+            {
+                "content": "State licensing fee",
+                "correct": true
+            },
+            {
+                "content": "Consent to service of process",
+                "correct": false
+            },
+            {
+                "content": "Renewal notice to the SEC",
+                "correct": false
+            }
+        ],
+        "explanation": "All investment adviser representatives are registered with the states, not the SEC. Renewal requires the payment of the annual renewal registration or licensing fee. The consent to service of process is a permanent document submitted with the initial application for registration. U2LO3",
+        "prompt": "Which of the following is required to effectuate annual renewal of the registration of an investment adviser representative affiliated with a federal covered adviser?"
+    },
+    "quizlet_93": {
+        "answers": [
+            {
+                "content": "need not register as an IAR",
+                "correct": false
+            },
+            {
+                "content": "must register as an IAR",
+                "correct": true
+            },
+            {
+                "content": "would need registration as a federal covered IAR",
+                "correct": false
+            },
+            {
+                "content": "is not covered by the anti-fraud rules, as these are federal covered securities",
+                "correct": false
+            }
+        ],
+        "explanation": "Because Irving works for a registered investment adviser and provides advice on securities (where they are traded is irrelevant), he must register as an IAR, regardless of the nature of the securities that are the subject of his advice. There is no such thing as a federal covered IAR, only a federal covered IA. If the advice relates to securities, no one is exempt from the anti-fraud rules. U2LO1",
+        "prompt": "Irving Wilson works for Wall Street Limited (WSL), a registered investment adviser. He limits his advice exclusively to equity securities listed on the NYSE. Under the Uniform Securities Act, Irving"
+    },
+    "quizlet_94": {
+        "answers": [
+            {
+                "content": "Corporate income tax rate",
+                "correct": false
+            },
+            {
+                "content": "Allowance for bad debts",
+                "correct": false
+            },
+            {
+                "content": "Year-end bonuses to employees",
+                "correct": false
+            },
+            {
+                "content": "Cash dividends",
+                "correct": true
+            }
+        ],
+        "explanation": "Cash dividends are paid out of the company's net income, so an increase or decrease will not impact that net income. Net income is a calculation determined by current operations, so an increase in the amount set aside as an allowance for bad debts will reduce operating income. Because net income is always after taxes, raising the company's income tax rate will obviously decrease the net income of the corporation. One of the major expenses for most corporations is labor so any increase, whether in the form of raises or bonuses, will decrease the net income. U9LO1",
+        "prompt": "LMN, Inc., is preparing to report its net income for the past year. An increase in which of the following would NOT cause a decrease in the reported net income?"
+    },
+    "quizlet_95": {
+        "answers": [
+            {
+                "content": "Cumulative preferred stock",
+                "correct": false
+            },
+            {
+                "content": "Zero-coupon bonds",
+                "correct": false
+            },
+            {
+                "content": "Insured bank CDs",
+                "correct": true
+            },
+            {
+                "content": "TIPS bonds",
+                "correct": false
+            }
+        ],
+        "explanation": "Any negotiable instrument that has a yield component will be subject to interest rate risk. The insured bank CD cannot be traded and, therefore, will not be affected by changes in market interest rates. TIPS protect against inflation, and zero-coupon bonds have the greatest interest rate risk. U11LO1",
+        "prompt": "An investor is concerned that interest rates will be volatile over the next few years. Which of the following would eliminate interest rate risk?"
+    },
+    "quizlet_96": {
+        "answers": [
+            {
+                "content": "$0.50",
+                "correct": false
+            },
+            {
+                "content": "$1.50",
+                "correct": false
+            },
+            {
+                "content": "$11.50",
+                "correct": false
+            },
+            {
+                "content": "$2.50",
+                "correct": true
+            }
+        ],
+        "explanation": "A 6% cumulative preferred stock with a $25 par value would pay an annual dividend of $1.50 ($25 × 6%). Cumulative preferred requires all dividends that have previously been skipped be paid before any dividends paid to common stock. The $.50 that was paid last year left $1 in dividends in arrears. Therefore, this year requires that a $2.50 dividend be paid to the preferred shareholders before any common dividend paid to common shareholders.",
+        "prompt": "A corporation with a 6%, $25 par cumulative preferred paid $.50 to preferred stockholders last year. This year, the company wants to pay common dividends. How much must it pay each preferred share?"
+    },
+    "quizlet_97": {
+        "answers": [
+            {
+                "content": "adoption.",
+                "correct": true
+            },
+            {
+                "content": "endorsement.",
+                "correct": false
+            },
+            {
+                "content": "entanglement.",
+                "correct": false
+            },
+            {
+                "content": "plagiarizing.",
+                "correct": false
+            }
+        ],
+        "explanation": "Adoption is the use of content or a link that is solely the creation of someone else; your firm is just using it. Entanglement is when the firm had a role in the creation of the material. U6LO5",
+        "prompt": "The head of marketing for a regional broker-dealer spots an article in the local newspaper that is an excellent presentation of an investment strategy the firm recommends. If the firm posts a link to the article on its website, it would be known as"
+    },
+    "quizlet_98": {
+        "answers": [
+            {
+                "content": ".33%",
+                "correct": false
+            },
+            {
+                "content": "2%",
+                "correct": false
+            },
+            {
+                "content": "5%",
+                "correct": false
+            },
+            {
+                "content": "3.33%",
+                "correct": true
+            }
+        ],
+        "explanation": "An investor's total return percentage is calculated by adding together income plus capital gain (or loss) and dividing that total by the initial cost. The math looks like this: three quarterly dividends of $1 each is $300. Selling the stock at $59 per share represents a loss of $1 per share or $100. The net positive return is $200 which, when divided by the original cost of $60 per share, results in a total return of 3.33% Even though the CPI is given, the question is not asking for inflation adjusted or real rate of return; it is just another example of a question containing unnecessary information. U23LO2",
+        "prompt": "Early in the year, an investor purchased 100 shares of KAP common stock at a price of $60 per share. Just prior to the end of the year, after receiving three quarterly dividends of $1, the investor liquidated all of the KAP at a price of $59 per share. If the Consumer Price Index (CPI) increased by 3%, the investor's total return over the holding period was"
+    },
+    "quizlet_99": {
+        "answers": [
+            {
+                "content": "current yield",
+                "correct": false
+            },
+            {
+                "content": "yield to maturity",
+                "correct": true
+            },
+            {
+                "content": "duration",
+                "correct": false
+            },
+            {
+                "content": "coupon rate",
+                "correct": false
+            }
+        ],
+        "explanation": "The yield to maturity of a bond considers the accretion of any discount or amortization of any premium as well as the annual coupon rate, taking into consideration the time value of money. U23LO1",
+        "prompt": "The discounted rate that equates a bond's cash flow to its current price is known as the bond's"
+    },
+    "quizlet_100": {
+        "answers": [
+            {
+                "content": "II, III, and IV",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            },
+            {
+                "content": "I, II, and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": true
+            }
+        ],
+        "explanation": "The requirement for written advisory contracts is found in both the Investment Company Act of 1940 for those advising registered investment companies and the Uniform Securities Act for state-registered advisers. Oddly, there is no mention made of this requirement in the Investment Advisers Act of 1940. Sure, it makes good sense, but it is not required. There is nothing in the Securities Exchange Act of 1934 that relates to investment advisers, much less their contracts with clients. U6LO4",
+        "prompt": "Initial and renewal contracts between investment advisers and their clients must be in writing when the contract is under the jurisdiction of <br><br>I. the Securities Exchange Act of 1934 <br>II. the Investment Company Act of 1940 <br>III. the Investment Advisers Act of 1940 <br>IV. the Uniform Securities Act"
+    },
+    "quizlet_101": {
+        "answers": [
+            {
+                "content": "The exercise price",
+                "correct": false
+            },
+            {
+                "content": "The expiration date",
+                "correct": false
+            },
+            {
+                "content": "The underlying asset",
+                "correct": false
+            },
+            {
+                "content": "The premium",
+                "correct": true
+            }
+        ],
+        "explanation": "Supply and demand in the marketplace sets the premium of a listed option. All of the other choices are standardized. U16LO1",
+        "prompt": "Listed options are also known as standardized options. Which of the following choices is not one of the standardized terms of a listed option?"
+    },
+    "quizlet_102": {
+        "answers": [
+            {
+                "content": "While employed full time for a major department store, a clerk who won $10,000 playing the state lottery",
+                "correct": false
+            },
+            {
+                "content": "A public school teacher who gets paid during her summer vacation to give motivational speeches to training directors at major brokerage firms",
+                "correct": true
+            },
+            {
+                "content": "The CEO of a listed corporation who receives a large bonus after an outstanding year",
+                "correct": false
+            },
+            {
+                "content": "A doctor who has formed a professional corporation with three other physicians",
+                "correct": false
+            }
+        ],
+        "explanation": "The speaking income earned by the school teacher is considered self-employment income and is therefore eligible for a Keogh Plan. Remember, corporate employees are not eligible unless they have separate source of self-employment income. U24LO2",
+        "prompt": "On the basis of IRS guidelines, which of the following is most likely eligible to contribute to a Keogh plan?"
+    },
+    "quizlet_103": {
+        "answers": [
+            {
+                "content": "Sell stop",
+                "correct": true
+            },
+            {
+                "content": "Buy limit",
+                "correct": false
+            },
+            {
+                "content": "Sell limit",
+                "correct": false
+            },
+            {
+                "content": "Buy stop",
+                "correct": false
+            }
+        ],
+        "explanation": "Sell stop orders are frequently referred to as stop loss orders and are used either when a security is purchased to offer downside protection or, as in this case, to preserve a gain that has not yet been realized. Buy stops are used to protect against loss or preserve the gain on a short position. U22LO6",
+        "prompt": "Your client has a long position in a security that has had considerable appreciation since the date of purchase. The client is concerned that speculation that the company's CEO may retire could have negative implications for the stock. Wishing to protect those unrealized gains, which of the following orders would be appropriate?"
+    },
+    "quizlet_104": {
+        "answers": [
+            {
+                "content": "Entering a market order to sell",
+                "correct": false
+            },
+            {
+                "content": "Buying the stock on margin",
+                "correct": false
+            },
+            {
+                "content": "Entering a sell limit order",
+                "correct": false
+            },
+            {
+                "content": "Selling the stock short",
+                "correct": true
+            }
+        ],
+        "explanation": "Selling short is a technique used by investors who are of the opinion that the market price of a stock is going to fall. U22LO1",
+        "prompt": "A client with a bearish outlook on a particular stock would be able to benefit from taking which of the following actions?"
+    },
+    "quizlet_105": {
+        "answers": [
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            }
+        ],
+        "explanation": "Because general obligation bonds are backed by taxes rather than revenues, they are generally more secure. Coupon yields on highest-rated municipal bonds are generally lower than those available on corporate bonds with similar maturities. However, the federal tax-free status makes those yields competitive, but only to those in the higher tax brackets. In most cases, only municipal bonds offered by issuers in a specific state are exempt from that state's income tax. U13LO5",
+        "prompt": "An advisory client is interested in learning more about municipal bonds. It would be correct to state that <br><br>I. general obligation bonds are usually, but not always, safer than revenue bonds <br>II. interest received on municipal bonds is generally free of both federal and state income taxes <br>III. municipal bonds are usually suitable for investors in higher tax brackets <br>IV. the coupon yield on AAA-rated municipal bonds will generally be slightly higher than that of AAA-rated corporate bonds with a comparable maturity"
+    },
+    "quizlet_106": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": true
+            },
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": false
+            }
+        ],
+        "explanation": "Issuing stock brings in new capital in the form of cash. This raises the assets and, since stock is equity, raises the net worth by the same amount. U9LO1",
+        "prompt": "The issuance of new common stock will affect which of the following balance sheet items? <br><br>I. Total assets <br>II. Current liabilities <br>III. Retained earnings <br>IV. Net worth"
+    },
+    "quizlet_107": {
+        "answers": [
+            {
+                "content": "the investment policy statement",
+                "correct": true
+            },
+            {
+                "content": "the legal opinion",
+                "correct": false
+            },
+            {
+                "content": "the management agreement",
+                "correct": false
+            },
+            {
+                "content": "the statement of fiduciary responsibility",
+                "correct": false
+            }
+        ],
+        "explanation": "An Investment Policy Statement (IPS) is designed to describe the plan's investment goals and investment strategies. It typically identifies levels of risk acceptable in the construction of a portfolio. An IPS establishes the strategic framework utilized by the fiduciary to manage a portfolio. U24LO5",
+        "prompt": "One of the usual practices of the fiduciary handling a qualified retirement plan is providing a written document that sets forth the objectives and constraints on a managed portfolio. This document is called"
+    },
+    "quizlet_108": {
+        "answers": [
+            {
+                "content": "II and III",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "REITs are pooled tangible real estate assets. Owning an equity REIT gives the investor beneficial ownership of tangible real estate with the possibility of both income and capital appreciation. Most REITs trade in the open market, and their price is determined by supply and demand; there is no redemption by the issuer. REITs will pay distributions in the form of dividends and not a pass-through of principal and interest, as is the case with a mortgage-backed security, such as those issued by GNMA. Although REITs pass through at least 90% of their taxable income, there is no flow-through of losses as is the case with direct participation programs (DPPs).",
+        "prompt": "Which of the following statements regarding REITs are correct? <br><br>I. Equity REITs offer possible income and capital appreciation. <br>II. Investors receive interest and principal payments periodically. <br>III. In order to receive favorable tax benefits, the REIT must pay out at least <br>IV. 90% of its taxable income in the form of dividends. Interests in REITs offer the benefit of flow through of income or loss."
+    },
+    "quizlet_109": {
+        "answers": [
+            {
+                "content": "unless a specific exemption applies, the fund may not engage in margin trading",
+                "correct": false
+            },
+            {
+                "content": "the contract should be in writing",
+                "correct": false
+            },
+            {
+                "content": "the initial contract is for a maximum of one year and then may be renewed on either an annual or biannual basis",
+                "correct": false
+            },
+            {
+                "content": "no contract may be terminated with more than 60 days' written notice",
+                "correct": true
+            }
+        ],
+        "explanation": "Contracts between funds and their advisers may not be terminated with more than 60 days' written notice, and these contracts must—not should—be in writing. The initial contract is for a two-year period and then renewed on an annual basis. Whether or not the fund can trade on margin is not a function of the management contract. U14LO1",
+        "prompt": "Section 15 of the Investment Company Act of 1940 spells out many of the specific requirements for the contract between a management investment company and its investment manager. Among those requirements is that"
+    },
+    "quizlet_110": {
+        "answers": [
+            {
+                "content": "An income fund",
+                "correct": true
+            },
+            {
+                "content": "An index fund",
+                "correct": false
+            },
+            {
+                "content": "A government bond fund",
+                "correct": false
+            },
+            {
+                "content": "A growth fund",
+                "correct": false
+            }
+        ],
+        "explanation": "Income funds invest in those companies who tend to be more liberal in their dividend payout, thus enabling the fund to provide income to the investor. Be careful. The question did not ask about a fund that paid regular dividends; it was the portfolio securities that were the dividend payers, and that could not be a bond fund. U19LO6",
+        "prompt": "If a client prefers owning an investment company whose portfolio consists primarily of companies that have a history of paying regular dividends, rather than companies reinvesting their earnings for the purpose of generating capital appreciation, what type of mutual fund would you recommend?"
+    },
+    "quizlet_111": {
+        "answers": [
+            {
+                "content": "large-cap stock",
+                "correct": false
+            },
+            {
+                "content": "mid-cap stock",
+                "correct": true
+            },
+            {
+                "content": "small-cap stock",
+                "correct": false
+            },
+            {
+                "content": "micro-cap stock",
+                "correct": false
+            }
+        ],
+        "explanation": "Doing the arithmetic, we see that the market capitalization of KAPCO common stock is $3.3 billion. Stocks with a market cap in the range of $2 - $10 billion are considered mid-cap. U20LO6",
+        "prompt": "KAPCO, Inc. has 100,000,000 shares of $1 par common stock outstanding. If the current market price of the KAPCO common stock is $33 per share, KAPCO would be considered a"
+    },
+    "quizlet_112": {
+        "answers": [
+            {
+                "content": "is registered in the state where its principal office is located",
+                "correct": false
+            },
+            {
+                "content": "is a federal covered broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "limits its clientele to employee benefit plans with assets of at least $1 million",
+                "correct": true
+            },
+            {
+                "content": "is a member of the New York Stock Exchange",
+                "correct": false
+            }
+        ],
+        "explanation": "A broker-dealer must be registered in every state it sells or offers to sell securities, unless an exemption is available. If a broker-dealer has no office in a particular state and no business is done in that state other than with institutional clients, registration there is not required. U3LO2",
+        "prompt": "A broker-dealer having no place of business in a state is not required to be registered in that state if the broker-dealer"
+    },
+    "quizlet_113": {
+        "answers": [
+            {
+                "content": "III and IV",
+                "correct": false
+            },
+            {
+                "content": "I and III",
+                "correct": true
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            }
+        ],
+        "explanation": "Proper investment planning involves saving for retirement and what steps are taken to reach that goal are influenced by the time remaining. Future plans are developed using current assets as the starting point. We don't care where the assets are, just what they are. U19LO2",
+        "prompt": "An investment adviser representative is meeting with a potential advisory client. Among the items of information the IAR needs to obtain in order to develop the proper plan are the prospect's <br><br>I. anticipated number of years until retirement <br>II. location of current bank and brokerage accounts <br>III. current savings and investments <br>IV. college alma mater"
+    },
+    "quizlet_114": {
+        "answers": [
+            {
+                "content": "there is probably a misprint in the paper and, more than likely, the asking price is $11.22, making the sales charge 8.5%",
+                "correct": false
+            },
+            {
+                "content": "that this is probably an unregistered hedge fund not subject to SEC rules",
+                "correct": false
+            },
+            {
+                "content": "the KAPLOW Fund is a closed-end company whose selling price is not based upon NAV, as is the case with an open-end fund",
+                "correct": true
+            },
+            {
+                "content": "the KAPLOW Fund is being investigated by the SEC for being sold with a sales charge in excess of the 8.5% maximum limit",
+                "correct": false
+            }
+        ],
+        "explanation": "Closed-end investment company shares trade like any other stock on the exchanges or Nasdaq. That is, the price is determined by supply and demand, not NAV. U14LO2",
+        "prompt": "An investor contacts you somewhat puzzled over the fact that she saw a newspaper listing for the KAPLOW Fund where the net asset value per share was $10.27 and the asking price was $14.14 per share. She wants to know why the difference between the two is so great. You would respond, saying"
+    },
+    "quizlet_115": {
+        "answers": [
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "II and III",
+                "correct": true
+            }
+        ],
+        "explanation": "Contributions to an ESA are limited to $2,000 per beneficiary per year, while the 529 limit is set by the plan sponsor, sometimes as high as $500,000. Unlike the ESA where there is a ceiling on the earnings for a contributor, there is no limit for someone setting up a 529. Both Section 529 plans and Coverdell ESAs enjoy tax-free distributions, and plans may be established by almost anyone. U24LO6",
+        "prompt": "Ways in which a Section 529 plan differs from a Coverdell ESA include <br><br>I. tax-free distributions when the funds are used for qualifying educational expenses. <br>II. higher contribution limits <br>III. no earnings limitations <br>IV. contributions that may be made by someone other than a parent or legal guardian"
+    },
+    "quizlet_116": {
+        "answers": [
+            {
+                "content": "Class B shares",
+                "correct": false
+            },
+            {
+                "content": "No-load shares",
+                "correct": false
+            },
+            {
+                "content": "Class A shares",
+                "correct": true
+            },
+            {
+                "content": "Class C shares",
+                "correct": false
+            }
+        ],
+        "explanation": "Class A shares have a front-end load, but their operating expense ratio is usually lower than that of any other class. Because the question states that the investor is willing to pay a sales charge, no-load shares is an inappropriate choice. U14LO3",
+        "prompt": "Which of the following classes of mutual fund shares would be appropriate for an investor who doesn't mind paying some sales charges on a purchase, but wants to minimize operating expenses over a long-term holding period?"
+    },
+    "quizlet_117": {
+        "answers": [
+            {
+                "content": "II and III",
+                "correct": true
+            },
+            {
+                "content": "I and II",
+                "correct": false
+            },
+            {
+                "content": "I and IV",
+                "correct": false
+            },
+            {
+                "content": "II and IV",
+                "correct": false
+            }
+        ],
+        "explanation": "Once the entertainment agent makes investment decisions for a client who is paying fees for overall services rendered, that agent now comes under the IA-1092 definition of investment adviser. In a like manner, any person who is compensated for giving investment-related advice to employee benefit plans is considered a pension consultant, requiring registration under IA-1092. Banks are never IAs, and the lawyer is merely doing legal and tax work. U1LO2",
+        "prompt": "In October 1987, the SEC promulgated Release IA-1092, which had the effect of broadening the definition of investment adviser. As a result of the release, which of the following would be included in the definition? <br><br>I. Commercial banks offering comprehensive financial planning for their high net worth clients <br>II. Entertainment agents earning a fee for negotiating contracts for their clients and then placing a portion of the client's royalties into investment-grade bonds or large-cap stocks as market conditions dictate <br>III. Persons being compensated for assisting employee benefit plan administrators in selecting investment managers for the plan's assets <br>IV. Lawyers who prepare trust agreements for clients with large securities holdings, with a goal of minimizing estate taxes"
+    },
+    "quizlet_118": {
+        "answers": [
+            {
+                "content": "$300 short-term capital gain",
+                "correct": false
+            },
+            {
+                "content": "$700 short-term capital gain",
+                "correct": false
+            },
+            {
+                "content": "$300 long-term capital gain",
+                "correct": false
+            },
+            {
+                "content": "$700 long-term capital gain",
+                "correct": true
+            }
+        ],
+        "explanation": "Securities acquired as a gift carry the donor's cost basis and date of purchase. In this case, the cost is $25 and the holding period began in 2020. So, the sale is long term and the profit is $7 per share. U21LO5",
+        "prompt": "John Jones purchased 100 shares of DEF common stock at a price of $25 per share on August 4, 2020. On December 1, 2021, with the stock selling for $29 per share, he gifted the stock to his daughter. She subsequently sold the stock nine months later for $32 per share. Her tax consequence is"
+    },
+    "quizlet_119": {
+        "answers": [
+            {
+                "content": "platinum.",
+                "correct": false
+            },
+            {
+                "content": "gold.",
+                "correct": false
+            },
+            {
+                "content": "molybdenum.",
+                "correct": true
+            },
+            {
+                "content": "palladium.",
+                "correct": false
+            }
+        ],
+        "explanation": "When the exam asks about precious metals, there are only four that exist. Those are gold, silver, platinum, and palladium. U17LO6",
+        "prompt": "One form of commodity investing is the purchase of precious metals. An investor in precious metals would be least likey to purchase"
+    },
+    "quizlet_120": {
+        "answers": [
+            {
+                "content": "verify that the investment adviser still qualifies for SEC registration",
+                "correct": true
+            },
+            {
+                "content": "ensure that full disclosure has been made in the adviser's brochure",
+                "correct": false
+            },
+            {
+                "content": "disclose the amount and location of securities or funds of clients that are being held by the adviser or a qualified custodian",
+                "correct": false
+            },
+            {
+                "content": "provide updated information on those associated persons who are in charge of giving investment advice",
+                "correct": false
+            }
+        ],
+        "explanation": "In order to maintain SEC registration, an investment adviser must maintain assets under management of no less than $90 million. The annual updating amendment is used to disclose this information. U1LO5",
+        "prompt": "One of the purposes of filing the annual updating amendment to the Form ADV Part 1A is to"
+    },
+    "quizlet_121": {
+        "answers": [
+            {
+                "content": "a spread.",
+                "correct": false
+            },
+            {
+                "content": "a straddle.",
+                "correct": true
+            },
+            {
+                "content": "an iron condor.",
+                "correct": false
+            },
+            {
+                "content": "a combination.",
+                "correct": false
+            }
+        ],
+        "explanation": "When an investor is not sure which direction the market will move but has a strong opinion that there will be dynamic movement, a strategy that might be employed is the purchase of a straddle. This is the combining of a put and a call on the same stock with the same exercise price and expiration date. U16LO2",
+        "prompt": "An investor purchases one ABC October 50 call at 3 and one ABC October 50 put at $2. This position is"
+    },
+    "quizlet_122": {
+        "answers": [
+            {
+                "content": "LLC",
+                "correct": false
+            },
+            {
+                "content": "Limited partnership",
+                "correct": false
+            },
+            {
+                "content": "S corporation",
+                "correct": false
+            },
+            {
+                "content": "Sole proprietorship",
+                "correct": true
+            }
+        ],
+        "explanation": "When a business is set up as a sole proprietorship, the owner carries unlimited personal liability for all of the company's debts. In each of the other choices, the liability is basically limited to the amount invested. U18LO3",
+        "prompt": "Which of these forms of business structure carries the greatest personal liability?"
+    },
+    "quizlet_123": {
+        "answers": [
+            {
+                "content": "Keogh plans",
+                "correct": false
+            },
+            {
+                "content": "SEP IRAs",
+                "correct": false
+            },
+            {
+                "content": "traditional IRAs",
+                "correct": false
+            },
+            {
+                "content": "Roth IRAs",
+                "correct": true
+            }
+        ],
+        "explanation": "The Roth IRA is the only one of these where there are no required minimum distributions once reaching age 72 . If still employed by the sponsor of a qualified plan, RMDs are not required from that plan, but the question would have to state that. U24LO4",
+        "prompt": "Once reaching the age of 72, required minimum distributions must be taken for retired individuals who were participants in all of the following EXCEPT"
+    },
+    "quizlet_124": {
+        "answers": [
+            {
+                "content": "accept the order because you know the wife and understand that this is something that would be fine with Gerald",
+                "correct": false
+            },
+            {
+                "content": "contact your compliance department, explain the relationship, and wait for further instructions",
+                "correct": false
+            },
+            {
+                "content": "explain that you cannot accept an order from anyone other than the account holder without having written trading authorization",
+                "correct": true
+            },
+            {
+                "content": "email a copy of the trading authorization form and ask her to electronically sign for Gerald and return it so that you can place the order.",
+                "correct": false
+            }
+        ],
+        "explanation": "Orders from anyone other than the account owner need written trading authorization prior to acceptance. U7LO2",
+        "prompt": "Gerald has been a client of yours for more than a decade. Over that period, the relationship expanded from a business one to one of a social nature, including attending events with your respective spouses. One afternoon, Gerald's wife calls explaining that she just got off the phone with Gerald. Before hanging up, he asked her to contact you with a sell order in his account. Having had extensive social contact, you recognize her voice and know that their marriage is on strong footing. You should"
+    },
+    "quizlet_125": {
+        "answers": [
+            {
+                "content": "just above the support level.",
+                "correct": false
+            },
+            {
+                "content": "below the support level.",
+                "correct": true
+            },
+            {
+                "content": "above the resistance level.",
+                "correct": false
+            },
+            {
+                "content": "just below the resistance level.",
+                "correct": false
+            }
+        ],
+        "explanation": "The support level of a stock is the historic repeating bottom. That is, whenever the stock gets that low, it brings out the buyers and pushes the price up. However, when a stock breaks through the support level, it is usually an indication that the support has dried up and there is going to be further decline. That is good for the short-seller. U12LO6",
+        "prompt": "A technical analyst who has been charting the common stock of Kloud Information Storage Systems (KISS) would most likely sell KISS stock short when the market price of the stock is"
+    },
+    "quizlet_126": {
+        "answers": [
+            {
+                "content": "inflation risk",
+                "correct": true
+            },
+            {
+                "content": "business risk",
+                "correct": false
+            },
+            {
+                "content": "market risk",
+                "correct": false
+            },
+            {
+                "content": "systematic risk",
+                "correct": false
+            }
+        ],
+        "explanation": "Over long periods of time, a diversified portfolio of common stock has been proven to be an effective hedge against inflation. However, ownership of stock does entail business and market risk; systematic and market risk are synonymous. U11LO1",
+        "prompt": "Historically, common stock has been shown to protect against"
+    },
+    "quizlet_127": {
+        "answers": [
+            {
+                "content": "engaging in an agency cross transaction",
+                "correct": false
+            },
+            {
+                "content": "selling shares from its proprietary account to an advisory client",
+                "correct": true
+            },
+            {
+                "content": "directing a securities transaction to an affiliated broker-dealer",
+                "correct": false
+            },
+            {
+                "content": "the trade was being executed by an officer or partner of the firm",
+                "correct": false
+            }
+        ],
+        "explanation": "There are two principals in every securities trade: the buyer and the seller. In this case, selling shares directly to the client from its own account places the IA in the position of being one of the principals. This is an action that must be disclosed in writing to the client no later than completion of the transaction. In agency cross transaction, the firm is acting as an agent rather than a principal; that's the reason for the term. U7LO1",
+        "prompt": "Under the Uniform Securities Act, an investment adviser would have to disclose that the firm was acting in a principal capacity when"
+    },
+    "quizlet_128": {
+        "answers": [
+            {
+                "content": "If the order ticket is appropriately marked, the Administrator may not challenge a broker-dealer's assertion that the order was unsolicited.",
+                "correct": false
+            },
+            {
+                "content": "Under certain conditions, an Administrator may prohibit a broker-dealer registered in the state from accepting any unsolicited orders.",
+                "correct": false
+            },
+            {
+                "content": "A client may not purchase, at his own initiative, securities trading in the secondary market if the agent is otherwise prohibited from soliciting the order.",
+                "correct": false
+            },
+            {
+                "content": "An unsolicited order from a noninstitutional client for an unregistered, nonexempt security is considered a transaction exempt from the registration and advertising filing requirements of the act.",
+                "correct": true
+            }
+        ],
+        "explanation": "Clients have the right to buy or sell whatever they desire. The issue becomes a question of who initiates the trade. An unsolicited transaction may be executed by an agent if it is the client who asks for the trade. The trade ticket should be marked as unsolicited. The State Securities Administrator has the right to seek verification from the client that the trade was, in fact, unsolicited. The security involved in the trade can be one that is nonexempt and unregistered in the state. U4LO3",
+        "prompt": "Under the provisions of the Uniform Securities Act, which of the following statements about unsolicited orders is TRUE?"
+    },
+    "quizlet_129": {
+        "answers": [
+            {
+                "content": "Joint tenants with right of survivorship",
+                "correct": false
+            },
+            {
+                "content": "Tenants in common",
+                "correct": false
+            },
+            {
+                "content": "Transfer on death",
+                "correct": true
+            },
+            {
+                "content": "Tenants in the entirety",
+                "correct": false
+            }
+        ],
+        "explanation": "Transfer on death, or TOD as it is usually called, would be the appropriate choice here. It avoids probate, but not estate taxes. It allows the account owner to specify different percentages for each beneficiary if desired. U18LO5",
+        "prompt": "One of your clients is a widow with three grown children. She wants the assets in her account to go to her children upon her death—50% to her daughter and 25% to each of her sons. She does not want the estate to have to deal with probate on these assets. How should her account be set up?"
+    },
+    "quizlet_130": {
+        "answers": [
+            {
+                "content": "AAA bonds",
+                "correct": false
+            },
+            {
+                "content": "Tangible assets",
+                "correct": true
+            },
+            {
+                "content": "Preferred stock",
+                "correct": false
+            },
+            {
+                "content": "Fixed annuities",
+                "correct": false
+            }
+        ],
+        "explanation": "Tangible assets, such as real estate, precious metals, and other commodities, tend to keep pace with inflation. Fixed-dollar investments do not. U20LO1",
+        "prompt": "If a portfolio manager wished to reduce inflation risk, which of the following would be most appropriate to add to the portfolio?"
+    },
+    "quizlet_131": {
+        "answers": [
+            {
+                "content": "The issuer has a AAA rating that is tantamount to dividend payments being a sure thing.",
+                "correct": false
+            },
+            {
+                "content": "Someone other than the issuer has guaranteed the payment of those dividends.",
+                "correct": true
+            },
+            {
+                "content": "A previous IAR has improperly used that term in an effort to make a sale.",
+                "correct": false
+            },
+            {
+                "content": "As a fixed income security, the dividends are guaranteed to never increase.",
+                "correct": false
+            }
+        ],
+        "explanation": "In the Uniform Securities Act, guaranteed means guaranteed as to payment of principal, interest, or dividends by some third party other than the issuer. U6LO3",
+        "prompt": "You have a client who is interested in a preferred stock whose dividends are guaranteed. What is likely the reason for using that term?"
+    },
+    "quizlet_132": {
+        "answers": [
+            {
+                "content": "running a budget deficit",
+                "correct": false
+            },
+            {
+                "content": "changing tax rates",
+                "correct": false
+            },
+            {
+                "content": "changing the discount rate",
+                "correct": true
+            },
+            {
+                "content": "increasing military spending",
+                "correct": false
+            }
+        ],
+        "explanation": "Changing the discount rate is a function of the Federal Reserve Board in implementing monetary policy. U8LO1",
+        "prompt": "Fiscal policy, as implemented by Congress and the administration, would entail all of the following EXCEPT"
+    },
+    "quizlet_133": {
+        "answers": [
+            {
+                "content": "generate liberal tax write-offs for their investors",
+                "correct": false
+            },
+            {
+                "content": "appeal to the sophisticated investor",
+                "correct": false
+            },
+            {
+                "content": "use long and short strategies to provide a stable return in both up and down markets.",
+                "correct": true
+            },
+            {
+                "content": "generate higher fees for their advisers",
+                "correct": false
+            }
+        ],
+        "explanation": "Even though hedge funds are known for using speculative strategies such as selling short and margin trading, the reasoning behind that is to enable the fund to perform well in both bull and bear markets. Although they do appeal to the sophisticated investor, that is a by-product, not a goal. Yes, the management fees are higher than with other investments, but that is the goal of the adviser, not the fund. U14LO4",
+        "prompt": "One of the major goals of most hedge funds is to"
+    },
+    "quizlet_134": {
+        "answers": [
+            {
+                "content": "Bank-insured CDs",
+                "correct": true
+            },
+            {
+                "content": "Newly issued U.S. Treasury bonds",
+                "correct": false
+            },
+            {
+                "content": "Public utility stocks",
+                "correct": false
+            },
+            {
+                "content": "Insured municipal bonds",
+                "correct": false
+            }
+        ],
+        "explanation": "When preservation of capital is a goal and one of the choices is an insured bank CD, pick it. When the question refers to a low tax bracket, municipal bonds will never be the correct choice. Newly issued Treasury bonds have maturities of at least 10 years. During that time, changes to interest rates in the market place would cause the market price of those bonds to fluctuate. Although the public utilities will offer income frequently higher than the CD, there are no guarantees the principal will remain intact. (Some public utilities have gone bankrupt.) U19LO5",
+        "prompt": "An individual has just received an inheritance of $15,000 and has the goals of preservation of capital and income. The client is in a low tax bracket. Which of the following would be the most suitable choice?"
+    },
+    "quizlet_135": {
+        "answers": [
+            {
+                "content": "Katrina, the administrator of the Widget Spinners Corporation pension plan, who is paid for making investment decisions for the portfolio",
+                "correct": false
+            },
+            {
+                "content": "Florence, an employee of the First Fidelity Trust Company, who buys and sells securities to meet the needs of her trust clients",
+                "correct": false
+            },
+            {
+                "content": "Beatrice, who was appointed by the other members of her investment club to make the portfolio decisions for the next quarter",
+                "correct": false
+            },
+            {
+                "content": "Violet, an employee of the Widget Spinners Corporation, who is paid a commission on sales of the company stock to fellow employees",
+                "correct": true
+            }
+        ],
+        "explanation": "When an individual receives compensation for selling employer stock to employees, that person is defined as an agent and must register as such. Managing a pension plan (and getting paid for it, naturally) does not make one an agent; she is not being compensated for the trades. Because banks and trust companies are excluded from the definition of a broker-dealer, their employees cannot be considered agents. U3LO4",
+        "prompt": "Each of the following would be exempt from the definition of an agent under the Uniform Securities Act EXCEPT"
+    },
+    "quizlet_136": {
+        "answers": [
+            {
+                "content": "long-term debt.",
+                "correct": false
+            },
+            {
+                "content": "retained earnings.",
+                "correct": false
+            },
+            {
+                "content": "capital stock.",
+                "correct": false
+            },
+            {
+                "content": "cash.",
+                "correct": true
+            }
+        ],
+        "explanation": "A corporation's capital structure consists of its long-term debt plus shareholders' equity. U9LO1",
+        "prompt": "Looking at the balance sheet, a corporation builds its capital structure with all of the following except"
+    },
+    "quizlet_137": {
+        "answers": [
+            {
+                "content": "Strategic",
+                "correct": false
+            },
+            {
+                "content": "Buy and hold",
+                "correct": false
+            },
+            {
+                "content": "Rebalancing",
+                "correct": false
+            },
+            {
+                "content": "Tactical",
+                "correct": true
+            }
+        ],
+        "explanation": "Tactical asset allocation, also known as active asset allocation, attempts to time the market. As such, there is a relatively high amount of in and out trading, causing commission expense to be a significant factor. U20LO3",
+        "prompt": "Under which of the following asset allocation programs is it most likely that commission expense will have a significant impact on portfolio performance?"
+    },
+    "quizlet_138": {
+        "answers": [
+            {
+                "content": "The qualified plan is permitted to discriminate in favor of key employees.",
+                "correct": false
+            },
+            {
+                "content": "The qualified plan costs less to administer than the nonqualified plan.",
+                "correct": false
+            },
+            {
+                "content": "The nonqualified plan allows for an immediate employer deduction for contributions.",
+                "correct": false
+            },
+            {
+                "content": "The nonqualified plan is permitted to discriminate in favor of highly compensated employees.",
+                "correct": true
+            }
+        ],
+        "explanation": "Unlike a qualified plan, a nonqualified plan is permitted to discriminate in favor of highly compensated employees. Because there are so few regulations involved, the administrative costs of a nonqualified plan are much lower than those for a qualified plan. The nonqualified plan, typically deferred compensation, allows for a tax deduction when the money is ultimately paid out to the employee or beneficiary. U24LO3",
+        "prompt": "Which of the following is the primary advantage to the employer who offers a nonqualified plan when compared to one that offers a qualified plan?"
+    },
+    "quizlet_139": {
+        "answers": [
+            {
+                "content": "18%",
+                "correct": false
+            },
+            {
+                "content": "5%",
+                "correct": false
+            },
+            {
+                "content": "7%",
+                "correct": false
+            },
+            {
+                "content": "6%",
+                "correct": true
+            }
+        ],
+        "explanation": "The arithmetic mean is the same as the average. In this case, add together the three returns and then divide by three. 4 + 5 + 9 = 18 / 3 = 6% U10LO2",
+        "prompt": "An investor has returns of 4%, 5%, and 9% over a three-year period. What is the investor's arithmetic mean?"
+    },
+    "quizlet_140": {
+        "answers": [
+            {
+                "content": "An adviser who only provides impersonal advisory services at an annual charge of less than $500",
+                "correct": false
+            },
+            {
+                "content": "An adviser who deals with qualified clients only",
+                "correct": true
+            },
+            {
+                "content": "An adviser whose only clients are closed-end investment companies",
+                "correct": false
+            },
+            {
+                "content": "An adviser whose only clients are exchange-traded funds",
+                "correct": false
+            }
+        ],
+        "explanation": "There are only two exemptions from NASAA's (and the SEC's) brochure delivery rule. They are when the client is a registered investment company and when the adviser's clients receive only impersonal advice and pay less than $500 in fees per year. Qualified clients, those with at least $1.1 million in assets with the investment adviser or net worth of at least $2.2 million, may be charged performance fees, but that has nothing to do with brochure delivery. U6LO4",
+        "prompt": "With regard to the NASAA Model Brochure Rule Requirements for Investment Advisers, which of the following are not exempt from the delivery requirements of that rule?"
+    }
+};
