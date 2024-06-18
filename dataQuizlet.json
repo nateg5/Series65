@@ -178,7 +178,7 @@ let dataQuizlet = {
     "quizlet_9": {
         "answers": [
             {
-                "content": ", an investment adviser having offices in States D, E, and F and registered with the SEC. Daphna spends most of her time in an office in State D, but, once every other week, she goes to the branch in State E. Daphna would be exempt from registration as an IAR in which of the following states? A) State E, where she has no retail clients",
+                "content": "State E, where she has no retail clients",
                 "correct": false
             },
             {
@@ -195,7 +195,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "As an IAR with a federal covered investment adviser, Daphna only has to register in those states in which she maintains a place of business. That means registering in States D and E. The number of clients is irrelevant.",
-        "prompt": "Daphna works for Automated Asset Allocators (AA"
+        "prompt": "Daphna works for Automated Asset Allocators (AAA), an investment adviser having offices in States D, E, and F and registered with the SEC. Daphna spends most of her time in an office in State D, but, once every other week, she goes to the branch in State E. Daphna would be exempt from registration as an IAR in which of the following states? "
     },
     "quizlet_10": {
         "answers": [
@@ -503,7 +503,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "Two of the major risks faced by DPP investors are the lack of liquidity and the possibility of legislative change.",
-        "prompt": "When discussing the suitability of investing in direct participation programs, particular attention should be focused on which risks? <br><br>I. Legislative <br>II. Liquidity <br>III. Market IV Purchasing power"
+        "prompt": "When discussing the suitability of investing in direct participation programs, particular attention should be focused on which risks? <br><br>I. Legislative <br>II. Liquidity <br>III. Market <br>IV. Purchasing power"
     },
     "quizlet_24": {
         "answers": [
@@ -525,7 +525,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "The conviction on Johnson's record is for a misdemeanor. The fact that the same crime is a felony in another state is not relevant to his application for registration in that state.",
-        "prompt": "John Johnson was convicted five years ago of failure to pay child support—a misdemeanor in his home state. Johnson would now like to register as an IAR in a neighboring state where that crime is considered a felony. Under the Uniform Securities Act, the Administrator of the neighboring state"
+        "prompt": "John Johnson was convicted five years ago of failure to pay child support-a misdemeanor in his home state. Johnson would now like to register as an IAR in a neighboring state where that crime is considered a felony. Under the Uniform Securities Act, the Administrator of the neighboring state"
     },
     "quizlet_25": {
         "answers": [
@@ -942,7 +942,7 @@ let dataQuizlet = {
                 "correct": true
             }
         ],
-        "explanation": "For those with large taxable estates, the purchase of life insurance to cover the potential estate tax liability is frequently recommended. The use of the ILIT will generally keep the proceeds out of the estate. The alternative valuation date only helps if the value of the estate drops sometime during the six months after death. A testamentary trust does little, if anything, to reduce estate taxes, and the capital needs analysis is used to determine the replacement value needed in the event of premature death—unlikely to have a need with this large of an estate.",
+        "explanation": "For those with large taxable estates, the purchase of life insurance to cover the potential estate tax liability is frequently recommended. The use of the ILIT will generally keep the proceeds out of the estate. The alternative valuation date only helps if the value of the estate drops sometime during the six months after death. A testamentary trust does little, if anything, to reduce estate taxes, and the capital needs analysis is used to determine the replacement value needed in the event of premature death-unlikely to have a need with this large of an estate.",
         "prompt": "An estate-planning technique often recommended for those with large taxable estates is the use of"
     },
     "quizlet_44": {
@@ -1008,7 +1008,7 @@ let dataQuizlet = {
                 "correct": false
             }
         ],
-        "explanation": "There are two widely accepted forms of common stock price valuations using dividends—the dividend discount model and the dividend growth model.",
+        "explanation": "There are two widely accepted forms of common stock price valuations using dividends-the dividend discount model and the dividend growth model.",
         "prompt": "The dividend discount model is"
     },
     "quizlet_47": {
@@ -1426,7 +1426,7 @@ let dataQuizlet = {
                 "correct": false
             }
         ],
-        "explanation": "A standard deviation of 14% means an investor can expect a return on an investment to vary ±14 from the average return approximately 68% of the time. A return of +26% minus the 12% average return equals 14%. Likewise, the difference between the -2% return and the average of 12% is also 14%.",
+        "explanation": "A standard deviation of 14% means an investor can expect a return on an investment to vary +/-14 from the average return approximately 68% of the time. A return of +26% minus the 12% average return equals 14%. Likewise, the difference between the -2% return and the average of 12% is also 14%.",
         "prompt": "Plymouth Standard's common stock has an average return of 12%; its returns fall within a range of -2% to +26% approximately 68% of the time. Which one of the following numbers is closest to the standard deviation of returns of Plymouth Standard's stock?"
     },
     "quizlet_66": {
@@ -1471,7 +1471,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "A market maker's quote always reflects the price he is willing to pay (the bid) and the price at which he is willing to sell (offer). The difference between these two is the spread",
-        "prompt": "When a market maker publishes a quote, what prices will be shown? I. Bid II. Market III. Offer IV. Spread"
+        "prompt": "When a market maker publishes a quote, what prices will be shown? <br><br>I. Bid <br>II. Market <br>III. Offer <br>IV. Spread"
     },
     "quizlet_68": {
         "answers": [
@@ -1480,7 +1480,7 @@ let dataQuizlet = {
                 "correct": true
             },
             {
-                "content": "the investment time horizon—short-term or long-term",
+                "content": "the investment time horizon-short-term or long-term",
                 "correct": false
             },
             {
@@ -1515,7 +1515,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "An investment adviser must provide full disclosure to his client if there would be even a hint of conflict of interest. This will include the case where a recommended product will generate a commission or other source of income to the adviser, as well as full disclosure if a recommendation is not consistent with the adviser's own activity in his own account. The adviser can use any source of information to create his own analysis, with disclosure of source only being required if the adviser uses the product of a third party as the presentation to the client. It would be unusual that all clients with the same or similar objectives would purchase or have recommended for purchase the same securities.",
-        "prompt": "An investment adviser representative is required to make disclosure to the client when I. the IAR, in preparing a recommendation, uses research provided by a third party with whom the IAR is not affiliated II. the IAR recommends a specific insurance policy for the client's overall financial plan, where a commission will be received on that sale III. transactions recommended to a specific client are inconsistent with those for other clients with objectives that are similar to that particular client IV. transactions recommended to the client are inconsistent with those for the IAR's own account"
+        "prompt": "An investment adviser representative is required to make disclosure to the client when <br><br>I. the IAR, in preparing a recommendation, uses research provided by a third party with whom the IAR is not affiliated <br>II. the IAR recommends a specific insurance policy for the client's overall financial plan, where a commission will be received on that sale <br>III. transactions recommended to a specific client are inconsistent with those for other clients with objectives that are similar to that particular client <br>IV. transactions recommended to the client are inconsistent with those for the IAR's own account"
     },
     "quizlet_70": {
         "answers": [
@@ -1559,7 +1559,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "The safe harbor requirements of ERISA Section 404(c) relieve the trustee of a 401(k) plan of liability if the plan participants have the ability to select from at least three different investments and are allowed to make selection changes no less frequently than quarterly. Immediate vesting is required in a safe harbor 401(k), which is one that is safe from top-heavy testing.",
-        "prompt": "In order to comply with the safe harbor requirements of Section 404(c) of ERISA, the trustee of a 401(k) plan must I. offer plan participants at least three different investment alternatives II. ensure that plan participants are insulated from control over their portfolios III. allow plan participants to change their investment options no less frequently than quarterly IV. permit immediate vesting of employer contributions."
+        "prompt": "In order to comply with the safe harbor requirements of Section 404(c) of ERISA, the trustee of a 401(k) plan must <br><br>I. offer plan participants at least three different investment alternatives <br>II. ensure that plan participants are insulated from control over their portfolios <br>III. allow plan participants to change their investment options no less frequently than quarterly <br>IV. permit immediate vesting of employer contributions."
     },
     "quizlet_72": {
         "answers": [
@@ -1712,7 +1712,7 @@ let dataQuizlet = {
                 "correct": false
             }
         ],
-        "explanation": "The formula for current yield is annual current dividend divided by current market value. The trick with this question is that you are given a semiannual dividend as information. You must multiply the dividend by 2 to find the annual dividend. Therefore, $ .75 × 2 = $1.50 annual dividend. $1.50 / $60 = 2.50%",
+        "explanation": "The formula for current yield is annual current dividend divided by current market value. The trick with this question is that you are given a semiannual dividend as information. You must multiply the dividend by 2 to find the annual dividend. Therefore, $ .75 * 2 = $1.50 annual dividend. $1.50 / $60 = 2.50%",
         "prompt": "What is the current yield on ABC common stock selling for $60 per share with a semiannual dividend of $.75 per share?"
     },
     "quizlet_79": {
@@ -1932,7 +1932,7 @@ let dataQuizlet = {
                 "correct": false
             }
         ],
-        "explanation": "On the first day, the value increased by twice the 10% the ETF gained (20% × 100 = 20). That makes the share value $120. On the second day, the value decreased by twice the 10% the ETF lost, (20% × 120 = 24). That makes the current value $96. U17LO3",
+        "explanation": "On the first day, the value increased by twice the 10% the ETF gained (20% * 100 = 20). That makes the share value $120. On the second day, the value decreased by twice the 10% the ETF lost, (20% * 120 = 24). That makes the current value $96. U17LO3",
         "prompt": "An investor purchased a 2x leveraged ETF at a price of $100 per share. On the first day, the index was up 10%. On the next day, it was down 10%. The investor's share value is now"
     },
     "quizlet_89": {
@@ -2108,7 +2108,7 @@ let dataQuizlet = {
                 "correct": true
             }
         ],
-        "explanation": "A 6% cumulative preferred stock with a $25 par value would pay an annual dividend of $1.50 ($25 × 6%). Cumulative preferred requires all dividends that have previously been skipped be paid before any dividends paid to common stock. The $.50 that was paid last year left $1 in dividends in arrears. Therefore, this year requires that a $2.50 dividend be paid to the preferred shareholders before any common dividend paid to common shareholders.",
+        "explanation": "A 6% cumulative preferred stock with a $25 par value would pay an annual dividend of $1.50 ($25 * 6%). Cumulative preferred requires all dividends that have previously been skipped be paid before any dividends paid to common stock. The $.50 that was paid last year left $1 in dividends in arrears. Therefore, this year requires that a $2.50 dividend be paid to the preferred shareholders before any common dividend paid to common shareholders.",
         "prompt": "A corporation with a 6%, $25 par cumulative preferred paid $.50 to preferred stockholders last year. This year, the company wants to pay common dividends. How much must it pay each preferred share?"
     },
     "quizlet_97": {
@@ -2373,7 +2373,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "REITs are pooled tangible real estate assets. Owning an equity REIT gives the investor beneficial ownership of tangible real estate with the possibility of both income and capital appreciation. Most REITs trade in the open market, and their price is determined by supply and demand; there is no redemption by the issuer. REITs will pay distributions in the form of dividends and not a pass-through of principal and interest, as is the case with a mortgage-backed security, such as those issued by GNMA. Although REITs pass through at least 90% of their taxable income, there is no flow-through of losses as is the case with direct participation programs (DPPs).",
-        "prompt": "Which of the following statements regarding REITs are correct? <br><br>I. Equity REITs offer possible income and capital appreciation. <br>II. Investors receive interest and principal payments periodically. <br>III. In order to receive favorable tax benefits, the REIT must pay out at least <br>IV. 90% of its taxable income in the form of dividends. Interests in REITs offer the benefit of flow through of income or loss."
+        "prompt": "Which of the following statements regarding REITs are correct? <br><br>I. Equity REITs offer possible income and capital appreciation. <br>II. Investors receive interest and principal payments periodically. <br>III. In order to receive favorable tax benefits, the REIT must pay out at least 90% of its taxable income in the form of dividends. <br>IV. Interests in REITs offer the benefit of flow through of income or loss."
     },
     "quizlet_109": {
         "answers": [
@@ -2394,7 +2394,7 @@ let dataQuizlet = {
                 "correct": true
             }
         ],
-        "explanation": "Contracts between funds and their advisers may not be terminated with more than 60 days' written notice, and these contracts must—not should—be in writing. The initial contract is for a two-year period and then renewed on an annual basis. Whether or not the fund can trade on margin is not a function of the management contract. U14LO1",
+        "explanation": "Contracts between funds and their advisers may not be terminated with more than 60 days' written notice, and these contracts must-not should-be in writing. The initial contract is for a two-year period and then renewed on an annual basis. Whether or not the fund can trade on margin is not a function of the management contract. U14LO1",
         "prompt": "Section 15 of the Investment Company Act of 1940 spells out many of the specific requirements for the contract between a management investment company and its investment manager. Among those requirements is that"
     },
     "quizlet_110": {
@@ -2835,7 +2835,7 @@ let dataQuizlet = {
             }
         ],
         "explanation": "Transfer on death, or TOD as it is usually called, would be the appropriate choice here. It avoids probate, but not estate taxes. It allows the account owner to specify different percentages for each beneficiary if desired. U18LO5",
-        "prompt": "One of your clients is a widow with three grown children. She wants the assets in her account to go to her children upon her death—50% to her daughter and 25% to each of her sons. She does not want the estate to have to deal with probate on these assets. How should her account be set up?"
+        "prompt": "One of your clients is a widow with three grown children. She wants the assets in her account to go to her children upon her death-50% to her daughter and 25% to each of her sons. She does not want the estate to have to deal with probate on these assets. How should her account be set up?"
     },
     "quizlet_130": {
         "answers": [
