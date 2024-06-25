@@ -30,10 +30,10 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-1-2\"><span class=\"mm-56372-1-1-3\"> The DMM has the responsibility of “making the market” and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
-    "explanation_text": "   The DMM has the responsibility of “making the market” and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
-    "prompt": "<p class=\"mm-56372-1-1-0\">Whose responsibility is it to maintain a “fair and orderly market”?</p>",
-    "prompt_text": " Whose responsibility is it to maintain a “fair and orderly market”?",
+    "explanation": "<p class=\"mm-56372-1-1-2\"><span class=\"mm-56372-1-1-3\"> The DMM has the responsibility of “making the market\" and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
+    "explanation_text": "   The DMM has the responsibility of “making the market\" and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
+    "prompt": "Whose responsibility is it to maintain a “fair and orderly market\"?",
+    "prompt_text": " Whose responsibility is it to maintain a “fair and orderly market\"?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-1-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-1-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-1-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-1-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview02": {
@@ -67,9 +67,9 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-2-2\"><span class=\"mm-56372-1-2-3\"> Term life is the least expensive type of life insurance and is sometime called “pure” insurance. Others have additional features that bring additional costs.",
-    "explanation_text": "   Term life is the least expensive type of life insurance and is sometime called “pure” insurance. Others have additional features that bring additional costs.",
-    "prompt": "<p class=\"mm-56372-1-2-0\">What type of insurance policy is the least expensive?</p>",
+    "explanation": "<p class=\"mm-56372-1-2-2\"><span class=\"mm-56372-1-2-3\"> Term life is the least expensive type of life insurance and is sometime called “pure\" insurance. Others have additional features that bring additional costs.",
+    "explanation_text": "   Term life is the least expensive type of life insurance and is sometime called “pure\" insurance. Others have additional features that bring additional costs.",
+    "prompt": "What type of insurance policy is the least expensive?",
     "prompt_text": " What type of insurance policy is the least expensive?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-2-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-2-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-2-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-2-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -106,7 +106,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-3-2\"><span class=\"mm-56372-1-3-3\"> A value investor is most interested in buying companies trading at or below their intrinsic value, and selling them when they are trading above fair value. Benjamin Graham is one of the famous pioneers of the value investing style.",
     "explanation_text": "   A value investor is most interested in buying companies trading at or below their intrinsic value, and selling them when they are trading above fair value. Benjamin Graham is one of the famous pioneers of the value investing style.",
-    "prompt": "<p class=\"mm-56372-1-3-0\">A value investor is more inclined to believe in:</p>",
+    "prompt": "A value investor is more inclined to believe in:",
     "prompt_text": " A value investor is more inclined to believe in:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-3-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-3-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-3-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-3-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -143,8 +143,8 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43583-1-10-2\"><span class=\"mm-43583-1-10-3\"> Typically, EM equities are invested in simply for capital appreciation, not income. Income investors tend to prefer much less volatility than is normal in emerging markets.",
     "explanation_text": "   Typically, EM equities are invested in simply for capital appreciation, not income. Income investors tend to prefer much less volatility than is normal in emerging markets.",
-    "prompt": "<p class=\"mm-43583-1-10-0\">Emerging markets equity investors generally don’t have to worry about which of the following risks?</p>",
-    "prompt_text": "Emerging markets equity investors generally don’t have to worry about which of the following risks?",
+    "prompt": "Emerging markets equity investors generally don't have to worry about which of the following risks?",
+    "prompt_text": "Emerging markets equity investors generally don't have to worry about which of the following risks?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43583-1-10-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43583-1-10-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43583-1-10-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43583-1-10-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview05": {
@@ -178,9 +178,9 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-5-2\"><span class=\"mm-56372-1-5-3\"> The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in “double taxation”",
-    "explanation_text": "   The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in “double taxation”",
-    "prompt": "<p class=\"mm-56372-1-5-0\">What is the least advantageous structure when it comes to taxation?</p>",
+    "explanation": "<p class=\"mm-56372-1-5-2\"><span class=\"mm-56372-1-5-3\"> The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in “double taxation\"",
+    "explanation_text": "   The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in “double taxation\"",
+    "prompt": "What is the least advantageous structure when it comes to taxation?",
     "prompt_text": " What is the least advantageous structure when it comes to taxation?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-5-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-5-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-5-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-5-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -217,7 +217,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43580-1-8-2\"><span class=\"mm-43580-1-8-3\"> While you may pay a 5.5% sales charge on a mutual fund investment, when dividends are reinvested in additional shares, they are bought at NAV.",
     "explanation_text": "   While you may pay a 5.5% sales charge on a mutual fund investment, when dividends are reinvested in additional shares, they are bought at NAV.",
-    "prompt": "<p class=\"mm-43580-1-8-0\">One primary advantage of reinvesting mutual fund dividends is:</p>",
+    "prompt": "One primary advantage of reinvesting mutual fund dividends is:",
     "prompt_text": "One primary advantage of reinvesting mutual fund dividends is:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43580-1-8-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43580-1-8-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43580-1-8-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43580-1-8-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -254,7 +254,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-46986-1-126-2\"><span class=\"mm-46986-1-126-3\"> Real estate investment trusts (REITs) are organized as trusts, which means they cannot distribute losses to their investors. They do, however, pass gains to investors in order to qualify for special tax treatment. If it were a real estate limited partnership (RELP), then it could pass losses to investors as passive losses. This is one of the advantages of limited partnerships.",
     "explanation_text": "   Real estate investment trusts (REITs) are organized as trusts, which means they cannot distribute losses to their investors. They do, however, pass gains to investors  in order to  qualify for special tax treatment. If it were a real estate limited partnership (RELP), then it could pass losses to investors as passive losses. This is one of the advantages of limited partnerships.",
-    "prompt": "<p class=\"mm-46986-1-126-0\">REITs can distribute all of the following to investors EXCEPT:</p>",
+    "prompt": "REITs can distribute all of the following to investors EXCEPT:",
     "prompt_text": "REITs can distribute  all of  the following to investors EXCEPT:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-46986-1-126-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-46986-1-126-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-46986-1-126-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-46986-1-126-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -291,7 +291,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-8-2\"><span class=\"mm-56372-1-8-3\"> For individuals in the 15% tax bracket, the long term capital gains rate for 2013 is 0%.",
     "explanation_text": "   For individuals in the 15% tax bracket, the long term capital gains rate for 2013 is 0%.",
-    "prompt": "<p class=\"mm-56372-1-8-0\">For individuals in the 15% tax bracket, what is the long term capital gains rate for 2013?</p>",
+    "prompt": "For individuals in the 15% tax bracket, what is the long term capital gains rate for 2013?",
     "prompt_text": " For individuals in the 15% tax bracket, what is the long term capital gains rate for 2013?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-8-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-8-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-8-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-8-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -328,7 +328,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-9-2\"><span class=\"mm-56372-1-9-3\"> While buying deep value stocks can be a good investing strategy, it does not necessarily help you avoid any non-systematic risks.",
     "explanation_text": "   While buying deep value stocks can be a good investing strategy, it does not necessarily help you avoid any non-systematic risks.",
-    "prompt": "<p class=\"mm-56372-1-9-0\">Which of the following is not a good way to diversify non-systematic risk in a portfolio?</p>",
+    "prompt": "Which of the following is not a good way to diversify non-systematic risk in a portfolio?",
     "prompt_text": " Which of the following is not a good way to diversify non-systematic risk in a portfolio?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-9-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-9-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-9-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-9-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -336,21 +336,21 @@ let dataTestPrepReview = {
     "answers": [
         {
             "answer_id": 11844708,
-            "content": "Using the designation “Senior Citizen Certified Adviser”",
+            "content": "Using the designation “Senior Citizen Certified Adviser\"",
             "correct": false,
             "id": "1",
             "name": "a"
         },
         {
             "answer_id": 11844707,
-            "content": "Using someone else’s research and stock recommendations as one’s own",
+            "content": "Using someone else's research and stock recommendations as one's own",
             "correct": false,
             "id": "2",
             "name": "b"
         },
         {
             "answer_id": 11844706,
-            "content": "Using current clients’ names and account performance as advertising",
+            "content": "Using current clients' names and account performance as advertising",
             "correct": false,
             "id": "3",
             "name": "c"
@@ -363,9 +363,9 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-10-2\"><span class=\"mm-56372-1-10-3\"> The use of products with guarantees is fine as long as it’s not misleading. Many annuity products with guarantees are popular and perfectly legal.",
-    "explanation_text": "   The use of products with guarantees is fine as long as it’s not misleading. Many annuity products with guarantees are popular and perfectly legal.",
-    "prompt": "<p class=\"mm-56372-1-10-0\">Which of the following is a proper communication to prospects?</p>",
+    "explanation": "<p class=\"mm-56372-1-10-2\"><span class=\"mm-56372-1-10-3\"> The use of products with guarantees is fine as long as it's not misleading. Many annuity products with guarantees are popular and perfectly legal.",
+    "explanation_text": "   The use of products with guarantees is fine as long as it's not misleading. Many annuity products with guarantees are popular and perfectly legal.",
+    "prompt": "Which of the following is a proper communication to prospects?",
     "prompt_text": " Which of the following is a proper communication to prospects?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-10-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-10-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-10-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-10-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -402,7 +402,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-11-2\"><span class=\"mm-56372-1-11-3\"> An S corp is limited to 100 shareholders. This is often a key determinant in choosing to become and an S corp or a C corp.",
     "explanation_text": "   An S corp is limited to 100 shareholders. This is often a key determinant in choosing to become and an S corp or a C corp.",
-    "prompt": "<p class=\"mm-56372-1-11-0\">What business structure is limited to only 100 shareholders?</p>",
+    "prompt": "What business structure is limited to only 100 shareholders?",
     "prompt_text": " What business structure is limited to only 100 shareholders?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-11-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-11-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-11-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-11-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -410,37 +410,37 @@ let dataTestPrepReview = {
     "answers": [
         {
             "answer_id": 11844716,
-            "content": "3’11”",
+            "content": "3'11\"",
             "correct": false,
             "id": "1",
             "name": "a"
         },
         {
             "answer_id": 11844715,
-            "content": "4’0”",
+            "content": "4'0\"",
             "correct": true,
             "id": "2",
             "name": "b"
         },
         {
             "answer_id": 11844714,
-            "content": "4’1”",
+            "content": "4'1\"",
             "correct": false,
             "id": "3",
             "name": "c"
         },
         {
             "answer_id": 11844713,
-            "content": "3’9”",
+            "content": "3'9\"",
             "correct": false,
             "id": "4",
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-12-2\"><span class=\"mm-56372-1-12-3\"> The median is the number in the middle, not the average. Four kids are under 4’ and four kids are over 4’.",
-    "explanation_text": "   The median is the number in the middle, not the average. Four kids are under 4’ and four kids are over 4’.",
-    "prompt": "<p class=\"mm-56372-1-12-0\">In a classroom of kids, 2 kids are 3’4” tall, 2 kids are 3’6” tall, 2 kids are 4’ tall, 2 kids are 4’3” tall, and 2 kids are 4’8” tall. What is the median height?</p>",
-    "prompt_text": " In a classroom of kids, 2 kids are 3’4” tall, 2 kids are 3’6” tall, 2 kids are 4’ tall, 2 kids are 4’3” tall, and 2 kids are 4’8” tall. What is the median height?",
+    "explanation": "<p class=\"mm-56372-1-12-2\"><span class=\"mm-56372-1-12-3\"> The median is the number in the middle, not the average. Four kids are under 4' and four kids are over 4'.",
+    "explanation_text": "   The median is the number in the middle, not the average. Four kids are under 4' and four kids are over 4'.",
+    "prompt": "In a classroom of kids, 2 kids are 3'4\" tall, 2 kids are 3'6\" tall, 2 kids are 4' tall, 2 kids are 4'3\" tall, and 2 kids are 4'8\" tall. What is the median height?",
+    "prompt_text": " In a classroom of kids, 2 kids are 3'4\" tall, 2 kids are 3'6\" tall, 2 kids are 4' tall, 2 kids are 4'3\" tall, and 2 kids are 4'8\" tall. What is the median height?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-12-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-12-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-12-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-12-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview13": {
@@ -476,7 +476,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-13-2\"><span class=\"mm-56372-1-13-3\"> Term life insurance, like its name suggests, is only active for a certain term. This type of policy is usually cheaper than a universal policy or a whole policy, but that is because you could outlive it. If you purchase a 20-year term policy and live past those 20 years, you </span><a id=\"_Int_85fiUmqa\" class=\"mm-56372-1-13-4\"></a><span class=\"mm-56372-1-13-3\">would not receive anything once you die (unless you buy a new insurance policy).",
     "explanation_text": "   Term life insurance, like its name suggests, is only active for a certain term. This type of policy is usually cheaper than a universal policy or a whole policy, but that is because you could outlive it. If you purchase a 20-year term policy and live past those 20 years, you   would  not receive anything once you die (unless you buy a new insurance policy).",
-    "prompt": "<p class=\"mm-56372-1-13-0\">Which form of insurance is only active for a set period of time?</p>",
+    "prompt": "Which form of insurance is only active for a set period of time?",
     "prompt_text": "Which form of insurance is only active for a set period of time?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-13-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-13-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-13-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-13-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\na.mm-56372-1-13-4 {\n    text-decoration: none;\n}\n"
 },
@@ -513,7 +513,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43582-1-2-2\"><span class=\"mm-43582-1-2-3\"> With a low tax bracket and a long time horizon, muni bonds can be eliminated from this group.",
     "explanation_text": "   With a low tax bracket and a long time horizon, muni bonds can be eliminated from this group.",
-    "prompt": "<p class=\"mm-43582-1-2-0\">For a 29-year-old single client, with a high risk tolerance, low tax bracket, and $50,000 in savings, we can eliminate what asset class from our recommendation?</p>",
+    "prompt": "For a 29-year-old single client, with a high risk tolerance, low tax bracket, and $50,000 in savings, we can eliminate what asset class from our recommendation?",
     "prompt_text": "For a 29-year-old single client, with a high risk tolerance, low tax bracket, and $50,000 in savings, we can eliminate what asset class from our recommendation?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43582-1-2-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43582-1-2-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43582-1-2-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43582-1-2-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -550,7 +550,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-15-2\"><span class=\"mm-56372-1-15-3\"> The CAPM uses the risk-free rate to calculate an expected return for a given security and a given risk.",
     "explanation_text": "   The CAPM uses the risk-free rate to calculate an expected return for a given security and a given risk.",
-    "prompt": "<p class=\"mm-56372-1-15-0\">A risk free rate of return is used in which of the following?</p>",
+    "prompt": "A risk free rate of return is used in which of the following?",
     "prompt_text": " A risk free rate of return is used in which of the following?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-15-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-15-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-15-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-15-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -587,7 +587,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43583-1-6-2\"><span class=\"mm-43583-1-6-3\"> Operating expenses are not considered in calculating gross margin, but are factored into the operating margin.",
     "explanation_text": "   Operating expenses are not considered in calculating gross margin, but are factored into the operating margin.",
-    "prompt": "<p class=\"mm-43583-1-6-0\">On an income statement, all of the following would be factored into the gross margin except which of the following?</p>",
+    "prompt": "On an income statement, all of the following would be factored into the gross margin except which of the following?",
     "prompt_text": "On an income statement, all of the following would be factored into the gross margin except which of the following?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43583-1-6-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43583-1-6-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43583-1-6-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43583-1-6-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -624,7 +624,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-17-2\"><span class=\"mm-56372-1-17-3\"> The nominal yield, or coupon rate, does not change over the life of the security.",
     "explanation_text": "   The nominal yield, or coupon rate, does not change over the life of the security.",
-    "prompt": "<p class=\"mm-56372-1-17-0\">For a holder of a discount bond, which of the following will not be moved by a change in interest rates?</p>",
+    "prompt": "For a holder of a discount bond, which of the following will not be moved by a change in interest rates?",
     "prompt_text": " For a holder of a discount bond, which of the following will not be moved by a change in interest rates?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-17-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-17-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-17-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-17-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -659,10 +659,10 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-18-2\"><span class=\"mm-56372-1-18-3\"> Balance of payments tracks a country’s balance of trade as well as investments. The others are key ingredients that make up a country’s balance of trade, whether positive or negative.",
-    "explanation_text": "   Balance of payments tracks a country’s balance of trade as well as investments. The others are key ingredients that make up a country’s balance of trade, whether positive or negative.",
-    "prompt": "<p class=\"mm-56372-1-18-0\">All of the following are factors of a country’s balance of trade except:</p>",
-    "prompt_text": " All of the following are factors of a country’s balance of trade except:",
+    "explanation": "<p class=\"mm-56372-1-18-2\"><span class=\"mm-56372-1-18-3\"> Balance of payments tracks a country's balance of trade as well as investments. The others are key ingredients that make up a country's balance of trade, whether positive or negative.",
+    "explanation_text": "   Balance of payments tracks a country's balance of trade as well as investments. The others are key ingredients that make up a country's balance of trade, whether positive or negative.",
+    "prompt": "All of the following are factors of a country's balance of trade except:",
+    "prompt_text": " All of the following are factors of a country's balance of trade except:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-18-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-18-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-18-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-18-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview19": {
@@ -698,7 +698,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-19-2\"><span class=\"mm-56372-1-19-3\"> Advisers to hedge funds are </span><em class=\"mm-56372-1-19-4\">exempt </em><span class=\"mm-56372-1-19-3\">from registering if they have less than $150 million in assets under management (AUM), but they are not </span><em class=\"mm-56372-1-19-4\">prohibited</em><span class=\"mm-56372-1-19-3\"> from registering. Once they have over $100 million AUM, they may choose to register with the SEC, though it is not required.",
     "explanation_text": "   Advisers to hedge funds are  exempt  from registering if they have less than $150 million in assets under management (AUM), but they are not  prohibited  from registering. Once they have over $100 million AUM, they may choose to register with the SEC, though it is not required.",
-    "prompt": "<p class=\"mm-56372-1-19-0\">Which of the following is not prohibited from registering as an Investment Adviser?</p>",
+    "prompt": "Which of the following is not prohibited from registering as an Investment Adviser?",
     "prompt_text": " Which of the following is not prohibited from registering as an Investment Adviser?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-19-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-19-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-19-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-19-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\nem.mm-56372-1-19-4 {\n    \n    \n    font-style: italic;\n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -735,7 +735,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-20-2\"><span class=\"mm-56372-1-20-3\"> The random walk theory says that actively picking stocks is no better than randomly throwing darts at stocks, much like the efficient market hypothesis.",
     "explanation_text": "   The random walk theory says that actively picking stocks is no better than randomly throwing darts at stocks, much like the efficient market hypothesis.",
-    "prompt": "<p class=\"mm-56372-1-20-0\">A Random Walk Down Wall Street by Burton Malkiel spotlighted what?</p>",
+    "prompt": "A Random Walk Down Wall Street by Burton Malkiel spotlighted what?",
     "prompt_text": " A Random Walk Down Wall Street by Burton Malkiel spotlighted what?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-20-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-20-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-20-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-20-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -770,10 +770,10 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-21-2\"><span class=\"mm-56372-1-21-3\"> Simply divide the bond’s price by the conversion ratio to get the stock’s price. Arbitragers sometimes specialize in taking advantage of the discounts or premiums of convertibles compared to the related stock.",
-    "explanation_text": "   Simply divide the bond’s price by the conversion ratio to get the stock’s price. Arbitragers sometimes specialize in taking advantage of the discounts or premiums of convertibles compared to the related stock.",
-    "prompt": "<p class=\"mm-56372-1-21-0\">If a convertible bond is convertible at 40:1, and the bond is trading at $1,150, what is the stock’s price?</p>",
-    "prompt_text": " If a convertible bond is convertible at 40:1, and the bond is trading at $1,150, what is the stock’s price?",
+    "explanation": "<p class=\"mm-56372-1-21-2\"><span class=\"mm-56372-1-21-3\"> Simply divide the bond's price by the conversion ratio to get the stock's price. Arbitragers sometimes specialize in taking advantage of the discounts or premiums of convertibles compared to the related stock.",
+    "explanation_text": "   Simply divide the bond's price by the conversion ratio to get the stock's price. Arbitragers sometimes specialize in taking advantage of the discounts or premiums of convertibles compared to the related stock.",
+    "prompt": "If a convertible bond is convertible at 40:1, and the bond is trading at $1,150, what is the stock's price?",
+    "prompt_text": " If a convertible bond is convertible at 40:1, and the bond is trading at $1,150, what is the stock's price?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-21-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-21-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-21-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-21-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview22": {
@@ -809,8 +809,8 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43580-1-6-4\"><span class=\"mm-43580-1-6-3\"> When the risk premium widens, it implies that investors are risk averse. Usually in response to concerns for economic growth. When this happens, safer bonds are purchased and yields on riskier bonds need to be higher to attract investors.",
     "explanation_text": "   When the risk premium widens, it implies that investors are risk averse. Usually in response to concerns for economic growth. When this happens, safer bonds are purchased and yields on riskier bonds need to be higher to attract investors.",
-    "prompt": "<p class=\"mm-43580-1-6-0\">The difference in yields between the 10-yr Treasury and high yield “junk” bonds is the yield spread, also called the “risk premium”. When the spread widens, it is an indicator of which of the following?</p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">1. Investor confidence in the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">2. Investor fears for the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">3. Investor preference for stocks over bonds</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">4. Investor preference for safer investments",
-    "prompt_text": "The difference in yields between the 10-yr Treasury and high yield “junk” bonds is the yield spread, also called the “risk premium”. When the spread widens, it is an indicator of which of the following? 1. Investor confidence in the economy 2. Investor fears for the economy 3. Investor preference for stocks over bonds 4. Investor preference for safer investments",
+    "prompt": "The difference in yields between the 10-yr Treasury and high yield “junk\" bonds is the yield spread, also called the “risk premium\". When the spread widens, it is an indicator of which of the following?</p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">1. Investor confidence in the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">2. Investor fears for the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">3. Investor preference for stocks over bonds</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">4. Investor preference for safer investments",
+    "prompt_text": "The difference in yields between the 10-yr Treasury and high yield “junk\" bonds is the yield spread, also called the “risk premium\". When the spread widens, it is an indicator of which of the following? 1. Investor confidence in the economy 2. Investor fears for the economy 3. Investor preference for stocks over bonds 4. Investor preference for safer investments",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43580-1-6-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43580-1-6-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43580-1-6-2 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43580-1-6-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\np.mm-43580-1-6-4 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\n"
 },
 	"testPrepReview23": {
@@ -846,7 +846,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-23-2\"><span class=\"mm-56372-1-23-3\"> Typically, investors will get exposure to more strategies and managers for greater diversification. While greater diversification usually means less overall risk, there is no guarantee of that. And typically, the fees will go up rather than go down.",
     "explanation_text": "   Typically, investors will get exposure to more strategies and managers for greater diversification. While greater diversification usually means less overall risk, there is no guarantee of that. And typically, the fees will go up rather than go down.",
-    "prompt": "<p class=\"mm-56372-1-23-0\">What is one of the benefits of a hedge fund of funds?</p>",
+    "prompt": "What is one of the benefits of a hedge fund of funds?",
     "prompt_text": " What is one of the benefits of a hedge fund of funds?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-23-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-23-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-23-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-23-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -883,7 +883,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-24-2\"><span class=\"mm-56372-1-24-3\"> Bonds with longer maturities and smaller coupons have higher durations, which means they are more susceptible to fluctuations due to interest rate changes. A bond with a short maturity and a high coupon has a low duration and is less variable.",
     "explanation_text": "   Bonds with longer maturities and smaller coupons have higher durations, which means they are more susceptible to fluctuations due to interest rate changes. A bond with a short maturity and a high coupon has a low duration and is less variable.",
-    "prompt": "<p class=\"mm-56372-1-24-0\">Which of the following bonds would have the longest duration?</p>",
+    "prompt": "Which of the following bonds would have the longest duration?",
     "prompt_text": "Which of the following bonds would have the longest duration?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-24-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-24-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-24-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-24-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -920,7 +920,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-25-2\"><span class=\"mm-56372-1-25-3\"> Anyone who directly supervises employees who engage in activities of an IAR must themselves be registered as IARs. Only the assistant who does not take orders would not need to be registered.",
     "explanation_text": "   Anyone who directly supervises employees who engage in activities of an IAR must themselves be registered as IARs. Only the assistant who does not take orders would not need to be registered.",
-    "prompt": "<p class=\"mm-56372-1-25-0\">Which of the following employees of an Investment Advisor would not need to be registered?</p>",
+    "prompt": "Which of the following employees of an Investment Advisor would not need to be registered?",
     "prompt_text": " Which of the following employees of an Investment Advisor would not need to be registered?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-25-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-25-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-25-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-25-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -935,7 +935,7 @@ let dataTestPrepReview = {
         },
         {
             "answer_id": 11844771,
-            "content": "Fitch’s BBB",
+            "content": "Fitch's BBB",
             "correct": true,
             "id": "2",
             "name": "b"
@@ -949,16 +949,16 @@ let dataTestPrepReview = {
         },
         {
             "answer_id": 11844769,
-            "content": "Fitch’s BB",
+            "content": "Fitch's BB",
             "correct": false,
             "id": "4",
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-43580-1-4-2\"><span class=\"mm-43580-1-4-3\"> Fitch’s, and S&amp;P’s, BBB rating is equivalent to Moody’s Baa.",
-    "explanation_text": "   Fitch’s, and S&P’s, BBB rating is equivalent to Moody’s Baa.",
-    "prompt": "<p class=\"mm-43580-1-4-0\">A bond rating from Moody’s of Baa is equal to:</p>",
-    "prompt_text": "A bond rating from Moody’s of Baa is equal to:",
+    "explanation": "<p class=\"mm-43580-1-4-2\"><span class=\"mm-43580-1-4-3\"> Fitch's, and S&amp;P's, BBB rating is equivalent to Moody's Baa.",
+    "explanation_text": "   Fitch's, and S&P's, BBB rating is equivalent to Moody's Baa.",
+    "prompt": "A bond rating from Moody's of Baa is equal to:",
+    "prompt_text": "A bond rating from Moody's of Baa is equal to:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43580-1-4-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43580-1-4-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43580-1-4-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43580-1-4-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview27": {
@@ -994,7 +994,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-27-2\"><span class=\"mm-56372-1-27-3\"> A sole proprietor has unlimited liability. Limiting liability is a prime benefit of most other business structures.",
     "explanation_text": "   A sole proprietor has unlimited liability. Limiting liability is a prime benefit of most other business structures.",
-    "prompt": "<p class=\"mm-56372-1-27-0\">What is the biggest downside to running a sole proprietorship?</p>",
+    "prompt": "What is the biggest downside to running a sole proprietorship?",
     "prompt_text": " What is the biggest downside to running a sole proprietorship?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-27-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-27-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-27-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-27-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1031,7 +1031,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43583-1-9-2\"><span class=\"mm-43583-1-9-3\"> A fund that consistently has positive Alpha is a winner. Usually this is best when risk is taken into account. You can get a higher overall return by taking more risk, but there may be no Alpha at all and that really hurts in a down market.",
     "explanation_text": "   A fund that consistently has positive Alpha is a winner. Usually this is best when risk is taken into account. You can get a higher overall return by taking more risk, but there may be no Alpha at all and that really hurts in a down market.",
-    "prompt": "<p class=\"mm-43583-1-9-0\">Which of the following mutual funds would you most like to invest in?</p>",
+    "prompt": "Which of the following mutual funds would you most like to invest in?",
     "prompt_text": "Which of the following mutual funds would you most like to invest in?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43583-1-9-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43583-1-9-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43583-1-9-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43583-1-9-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1068,7 +1068,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-29-2\"><span class=\"mm-56372-1-29-3\"> When rates are falling, issuers have the opportunity to refinance their debt at lower rates, making it more likely they will call their older, higher rate debt.",
     "explanation_text": "   When rates are falling, issuers have the opportunity to refinance their debt at lower rates, making it more likely they will call their older, higher rate debt.",
-    "prompt": "<p class=\"mm-56372-1-29-0\">In which of the following interest rate environments are bonds most likely to be called?</p>",
+    "prompt": "In which of the following interest rate environments are bonds most likely to be called?",
     "prompt_text": " In which of the following interest rate environments are bonds most likely to be called?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-29-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-29-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-29-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-29-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1105,8 +1105,8 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-30-2\"><span class=\"mm-56372-1-30-3\"> A fixed annuity is most similar to a CD, and does not have the volatility of others.",
     "explanation_text": "   A fixed annuity is most similar to a CD, and does not have the volatility of others.",
-    "prompt": "<p class=\"mm-56372-1-30-0\">What type of annuity is probably best suited for an investor who is only comfortable with CD’s?</p>",
-    "prompt_text": " What type of annuity is probably best suited for an investor who is only comfortable with CD’s?",
+    "prompt": "What type of annuity is probably best suited for an investor who is only comfortable with CD's?",
+    "prompt_text": " What type of annuity is probably best suited for an investor who is only comfortable with CD's?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-30-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-30-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-30-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-30-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview31": {
@@ -1140,9 +1140,9 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-43583-1-2-2\"><span class=\"mm-43583-1-2-3\"> All of the above. All of these, and more, are the tools the Fed uses to “tighten” or “loosen” money in its attempts to reduce unemployment and fight inflation.",
-    "explanation_text": "   All of the above. All of these, and more, are the tools the Fed uses to “tighten” or “loosen” money in its attempts to reduce unemployment and fight inflation.",
-    "prompt": "<p class=\"mm-43583-1-2-0\">Monetary policy tools, used by the Federal Reserve, primarily are:</p>",
+    "explanation": "<p class=\"mm-43583-1-2-2\"><span class=\"mm-43583-1-2-3\"> All of the above. All of these, and more, are the tools the Fed uses to “tighten\" or “loosen\" money in its attempts to reduce unemployment and fight inflation.",
+    "explanation_text": "   All of the above. All of these, and more, are the tools the Fed uses to “tighten\" or “loosen\" money in its attempts to reduce unemployment and fight inflation.",
+    "prompt": "Monetary policy tools, used by the Federal Reserve, primarily are:",
     "prompt_text": "Monetary policy tools, used by the Federal Reserve, primarily are:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43583-1-2-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43583-1-2-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43583-1-2-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43583-1-2-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1179,7 +1179,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-46986-1-136-2\"><span class=\"mm-46986-1-136-3\"> Under Rule 144, restricted stock must be held, fully paid, for six months before it can be sold. This is important for control or for restricted persons who have stock options or restricted stock, as they can get into trouble for selling stock when they are not supposed to.",
     "explanation_text": "   Under Rule 144, restricted stock must be held, fully paid, for six months before it can be sold. This is important for control or for restricted persons who have stock options or restricted stock, as they can get into trouble for selling stock when they are not supposed to.",
-    "prompt": "<p class=\"mm-46986-1-136-0\">Under Rule 144a, for how long must restricted stock be held for, fully paid, before being resold?</p>",
+    "prompt": "Under Rule 144a, for how long must restricted stock be held for, fully paid, before being resold?",
     "prompt_text": "Under Rule 144a, for how long must restricted stock be held for, fully paid, before being resold?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-46986-1-136-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-46986-1-136-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-46986-1-136-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-46986-1-136-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1216,7 +1216,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-33-2\"><span class=\"mm-56372-1-33-3\"> Regularly investing a certain amount into a fund or stock is dollar cost averaging, which allows more shares to be bought when the price is down and gradually build up a position over time.",
     "explanation_text": "   Regularly investing a certain amount into a fund or stock is dollar cost averaging, which allows more shares to be bought when the price is down and gradually build up a position over time.",
-    "prompt": "<p class=\"mm-56372-1-33-0\">Regularly investing money into a mutual fund on a monthly basis is an example of:</p>",
+    "prompt": "Regularly investing money into a mutual fund on a monthly basis is an example of:",
     "prompt_text": " Regularly investing money into a mutual fund on a monthly basis is an example of:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-33-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-33-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-33-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-33-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1253,7 +1253,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-34-2\"><span class=\"mm-56372-1-34-3\"> All income minus all expenses leaves us with discretionary income. It is a good discipline to have some savings and investment a part of the non-discretionary income.",
     "explanation_text": "   All income minus all expenses leaves us with discretionary income. It is a good discipline to have some savings and investment a part of the non-discretionary income.",
-    "prompt": "<p class=\"mm-56372-1-34-0\">What is the monthly discretionary income of a client with $8,000 of salary, $500 of investment income and expenses of $2,000 taxes, $4,000 living expenses, and $500 of travel and entertainment expenses?</p>",
+    "prompt": "What is the monthly discretionary income of a client with $8,000 of salary, $500 of investment income and expenses of $2,000 taxes, $4,000 living expenses, and $500 of travel and entertainment expenses?",
     "prompt_text": " What is the monthly discretionary income of a client with $8,000 of salary, $500 of investment income and expenses of $2,000 taxes, $4,000 living expenses, and $500 of travel and entertainment expenses?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-34-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-34-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-34-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-34-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1290,8 +1290,8 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-35-2\"><span class=\"mm-56372-1-35-3\"> The primary market is where new securities are issued to the market via an IPO. Once those securities are issued, they then trade in the secondary market. The third and fourth markets are for market securities trading OTC or OTC trading between institutions.",
     "explanation_text": "   The primary market is where new securities are issued to the market via an IPO. Once those securities are issued, they then trade in the secondary market. The third and fourth markets are for market securities trading OTC or OTC trading between institutions.",
-    "prompt": "<p class=\"mm-56372-1-35-0\">What market does a company’s stock trade on first when issuing at IPO?</p>",
-    "prompt_text": "What market does a company’s stock trade on first when issuing at IPO?",
+    "prompt": "What market does a company's stock trade on first when issuing at IPO?",
+    "prompt_text": "What market does a company's stock trade on first when issuing at IPO?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-35-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-35-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-35-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-35-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview36": {
@@ -1327,7 +1327,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-36-2\"><span class=\"mm-56372-1-36-3\"> Eurodollar bonds are denominated and pay in US dollars, thereby eliminating currency risk. This can be a great way to get exposure to overseas markets without worrying about the currencies.",
     "explanation_text": "   Eurodollar bonds are denominated and pay in US dollars, thereby eliminating currency risk. This can be a great way to get exposure to overseas markets without worrying about the currencies.",
-    "prompt": "<p class=\"mm-56372-1-36-0\">Which of the following can you avoid by investing in international Eurodollar bonds?</p>",
+    "prompt": "Which of the following can you avoid by investing in international Eurodollar bonds?",
     "prompt_text": " Which of the following can you avoid by investing in international Eurodollar bonds?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-36-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-36-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-36-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-36-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1364,7 +1364,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-37-2\"><span class=\"mm-56372-1-37-3\"> The Market Cap is simply the value of all of the outstanding shares. The market cap will grow as the share price grows, or vice versa.",
     "explanation_text": "   The Market Cap is simply the value of all of the outstanding shares. The market cap will grow as the share price grows, or vice versa.",
-    "prompt": "<p class=\"mm-56372-1-37-0\">All of the following are fundamental ways to value a stock, except:</p>",
+    "prompt": "All of the following are fundamental ways to value a stock, except:",
     "prompt_text": " All of the following are fundamental ways to value a stock, except:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-37-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-37-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-37-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-37-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1401,7 +1401,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-46986-1-121-2\"><span class=\"mm-46986-1-121-3\"> Rule 144 stipulates that restricted stock has to be held for at least six months after being fully paid for. This is normally related to stock owned by controlled persons, like principals of a company. Reg D deals with margin. Reg A deals with IPOs and Rule 147.",
     "explanation_text": "   Rule 144 stipulates that restricted stock  has to  be held for at least six months after being fully paid for. This is normally related to stock owned by controlled persons, like principals of a company. Reg D deals with margin. Reg A deals with IPOs and Rule 147.",
-    "prompt": "<p class=\"mm-46986-1-121-0\">Which rule governs the holding period of restricted stock?</p>",
+    "prompt": "Which rule governs the holding period of restricted stock?",
     "prompt_text": "Which rule governs the holding period of restricted stock?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-46986-1-121-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-46986-1-121-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-46986-1-121-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-46986-1-121-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
@@ -1438,7 +1438,7 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-56372-1-39-2\"><span class=\"mm-56372-1-39-3\"> A defined benefit plan can work out well for older employees looking to make up time, whereas the others use time and compounding as key components. The earlier you start, the better your results will be with a 401k or IRA.",
     "explanation_text": "   A defined benefit plan can work out well for older employees looking to make up time, whereas the others use time and compounding as key components. The earlier you start, the better your results will be with a 401k or IRA.",
-    "prompt": "<p class=\"mm-56372-1-39-0\">Which qualified plan would be best for an older worker who needs to save rapidly for retirement?</p>",
+    "prompt": "Which qualified plan would be best for an older worker who needs to save rapidly for retirement?",
     "prompt_text": " Which qualified plan would be best for an older worker who needs to save rapidly for retirement?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-39-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-39-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-39-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-39-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
