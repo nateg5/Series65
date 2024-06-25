@@ -1,0 +1,112 @@
+let dataPassPerfect = {
+    "passPerfect_1": {
+        "answers": [
+            {
+                "content": "Automobile manufacturer",
+                "correct": true
+            },
+            {
+                "content": "Pharmaceutical manufacturer",
+                "correct": false
+            },
+            {
+                "content": "Gold mining company",
+                "correct": false
+            },
+            {
+                "content": "Computer software developer",
+                "correct": false
+            }
+        ],
+        "explanation": "The performance of cyclical stocks follows the business cycle. In times of GDP expansion, they do well; in times of recession, they do poorly. The classic cyclical stocks are home building, automobile manufacturers and durable goods producers. All of these purchases are deferrable in hard times. <br><br>Pharmaceutical companies are defensive and are not affected by the business cycle; in good times or bad, people must take prescribed drugs. Gold mining stocks are counter-cyclical. In bad economic times, people “flee to safety” and buy gold stocks. Computer software companies are growth companies.",
+        "prompt": "Which of the following stocks would be considered cyclical?"
+    },
+    "passPerfect_2": {
+        "answers": [
+            {
+                "content": "Money market instrument",
+                "correct": false
+            },
+            {
+                "content": "Non-callable funded debt",
+                "correct": false
+            },
+            {
+                "content": "Treasury bill",
+                "correct": true
+            },
+            {
+                "content": "Treasury note",
+                "correct": false
+            }
+        ],
+        "explanation": "The key word is \"riskless.\" Treasury bills mature in 52 weeks or less and are issued by the U.S. Government, the safest issuer available.",
+        "prompt": "Which of the following is NOT a portfolio management \"style?\""
+    },
+    "passPerfect_3": {
+        "answers": [
+            {
+                "content": "Active Management",
+                "correct": false
+            },
+            {
+                "content": "Passive Management",
+                "correct": false
+            },
+            {
+                "content": "Diversification",
+                "correct": true
+            },
+            {
+                "content": "Indexing",
+                "correct": false
+            }
+        ],
+        "explanation": "The management \"styles\" are basically active asset management (the manager selects the specific investments) or \"passive\" asset management, where the manager uses index funds as the investment vehicle. Diversification is not a style; rather it is a technique used to reduce risk.",
+        "prompt": "An officer of a company that wishes to register shares in a State in a “non-issuer” distribution, would rely on which registration procedure?"
+    },
+    "passPerfect_4": {
+        "answers": [
+            {
+                "content": "Agent",
+                "correct": false
+            },
+            {
+                "content": "Investment Adviser",
+                "correct": false
+            },
+            {
+                "content": "Security",
+                "correct": true
+            },
+            {
+                "content": "Broker Dealer",
+                "correct": false
+            }
+        ],
+        "explanation": "The basic definition of a security is: an investment in a common enterprise for profit, with management provided by a third party.",
+        "prompt": "\"An investment in a common enterprise for profit, with management provided by a third party\" is the definition for a(n):"
+    },
+    "passPerfect_5": {
+        "answers": [
+            {
+                "content": "Depression",
+                "correct": false
+            },
+            {
+                "content": "Recovery",
+                "correct": true
+            },
+            {
+                "content": "Expansion",
+                "correct": false
+            },
+            {
+                "content": "Prosperity",
+                "correct": false
+            }
+        ],
+        "explanation": "The normal sequence of the economic cycle is a period of expansion, followed by an economic peak (prosperity), followed by a decline in economic activity (recession), followed by an economic recovery leading to further expansion etc.",
+        "prompt": "During the normal sequence of the economic cycle, after a period of recession, the economy will move to a period of:"
+    },
+};
