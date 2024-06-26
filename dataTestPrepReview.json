@@ -30,10 +30,10 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-1-2\"><span class=\"mm-56372-1-1-3\"> The DMM has the responsibility of “making the market\" and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
-    "explanation_text": "   The DMM has the responsibility of “making the market\" and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
-    "prompt": "Whose responsibility is it to maintain a “fair and orderly market\"?",
-    "prompt_text": " Whose responsibility is it to maintain a “fair and orderly market\"?",
+    "explanation": "<p class=\"mm-56372-1-1-2\"><span class=\"mm-56372-1-1-3\"> The DMM has the responsibility of \"making the market\" and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
+    "explanation_text": "   The DMM has the responsibility of \"making the market\" and ensuring there is liquidity, especially during times of volatility. There has been much commentary around market volatility increasing as these jobs are given over to computers rather than humans.",
+    "prompt": "Whose responsibility is it to maintain a \"fair and orderly market\"?",
+    "prompt_text": " Whose responsibility is it to maintain a \"fair and orderly market\"?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-1-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-1-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-1-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-1-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
 },
 	"testPrepReview02": {
@@ -67,8 +67,8 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-2-2\"><span class=\"mm-56372-1-2-3\"> Term life is the least expensive type of life insurance and is sometime called “pure\" insurance. Others have additional features that bring additional costs.",
-    "explanation_text": "   Term life is the least expensive type of life insurance and is sometime called “pure\" insurance. Others have additional features that bring additional costs.",
+    "explanation": "<p class=\"mm-56372-1-2-2\"><span class=\"mm-56372-1-2-3\"> Term life is the least expensive type of life insurance and is sometime called \"pure\" insurance. Others have additional features that bring additional costs.",
+    "explanation_text": "   Term life is the least expensive type of life insurance and is sometime called \"pure\" insurance. Others have additional features that bring additional costs.",
     "prompt": "What type of insurance policy is the least expensive?",
     "prompt_text": " What type of insurance policy is the least expensive?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-2-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-2-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-2-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-2-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
@@ -178,8 +178,8 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-56372-1-5-2\"><span class=\"mm-56372-1-5-3\"> The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in “double taxation\"",
-    "explanation_text": "   The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in “double taxation\"",
+    "explanation": "<p class=\"mm-56372-1-5-2\"><span class=\"mm-56372-1-5-3\"> The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in \"double taxation\"",
+    "explanation_text": "   The C corp has to pay taxes as an entity and shareholders have to pay income taxes as well, resulting in \"double taxation\"",
     "prompt": "What is the least advantageous structure when it comes to taxation?",
     "prompt_text": " What is the least advantageous structure when it comes to taxation?",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-56372-1-5-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-56372-1-5-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-56372-1-5-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-56372-1-5-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"
@@ -336,7 +336,7 @@ let dataTestPrepReview = {
     "answers": [
         {
             "answer_id": 11844708,
-            "content": "Using the designation “Senior Citizen Certified Adviser\"",
+            "content": "Using the designation \"Senior Citizen Certified Adviser\"",
             "correct": false,
             "id": "1",
             "name": "a"
@@ -809,8 +809,8 @@ let dataTestPrepReview = {
     ],
     "explanation": "<p class=\"mm-43580-1-6-4\"><span class=\"mm-43580-1-6-3\"> When the risk premium widens, it implies that investors are risk averse. Usually in response to concerns for economic growth. When this happens, safer bonds are purchased and yields on riskier bonds need to be higher to attract investors.",
     "explanation_text": "   When the risk premium widens, it implies that investors are risk averse. Usually in response to concerns for economic growth. When this happens, safer bonds are purchased and yields on riskier bonds need to be higher to attract investors.",
-    "prompt": "The difference in yields between the 10-yr Treasury and high yield “junk\" bonds is the yield spread, also called the “risk premium\". When the spread widens, it is an indicator of which of the following?</p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">1. Investor confidence in the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">2. Investor fears for the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">3. Investor preference for stocks over bonds</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">4. Investor preference for safer investments",
-    "prompt_text": "The difference in yields between the 10-yr Treasury and high yield “junk\" bonds is the yield spread, also called the “risk premium\". When the spread widens, it is an indicator of which of the following? 1. Investor confidence in the economy 2. Investor fears for the economy 3. Investor preference for stocks over bonds 4. Investor preference for safer investments",
+    "prompt": "The difference in yields between the 10-yr Treasury and high yield \"junk\" bonds is the yield spread, also called the \"risk premium\". When the spread widens, it is an indicator of which of the following?</p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">1. Investor confidence in the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">2. Investor fears for the economy</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">3. Investor preference for stocks over bonds</span></p><p class=\"mm-43580-1-6-2\"><span class=\"mm-43580-1-6-3\">4. Investor preference for safer investments",
+    "prompt_text": "The difference in yields between the 10-yr Treasury and high yield \"junk\" bonds is the yield spread, also called the \"risk premium\". When the spread widens, it is an indicator of which of the following? 1. Investor confidence in the economy 2. Investor fears for the economy 3. Investor preference for stocks over bonds 4. Investor preference for safer investments",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43580-1-6-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43580-1-6-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43580-1-6-2 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43580-1-6-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\np.mm-43580-1-6-4 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\n"
 },
 	"testPrepReview23": {
@@ -1140,8 +1140,8 @@ let dataTestPrepReview = {
             "name": "d"
         }
     ],
-    "explanation": "<p class=\"mm-43583-1-2-2\"><span class=\"mm-43583-1-2-3\"> All of the above. All of these, and more, are the tools the Fed uses to “tighten\" or “loosen\" money in its attempts to reduce unemployment and fight inflation.",
-    "explanation_text": "   All of the above. All of these, and more, are the tools the Fed uses to “tighten\" or “loosen\" money in its attempts to reduce unemployment and fight inflation.",
+    "explanation": "<p class=\"mm-43583-1-2-2\"><span class=\"mm-43583-1-2-3\"> All of the above. All of these, and more, are the tools the Fed uses to \"tighten\" or \"loosen\" money in its attempts to reduce unemployment and fight inflation.",
+    "explanation_text": "   All of the above. All of these, and more, are the tools the Fed uses to \"tighten\" or \"loosen\" money in its attempts to reduce unemployment and fight inflation.",
     "prompt": "Monetary policy tools, used by the Federal Reserve, primarily are:",
     "prompt_text": "Monetary policy tools, used by the Federal Reserve, primarily are:",
     "style": "span[spacing=preserve] { white-space: pre-wrap; }\np.mm-43583-1-2-0 {\n    line-height: 108%;\n    margin-top: 0;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 3pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nstrong.mm-43583-1-2-1 {\n    \n    \n    font-weight: bold;\n    margin: 0;\n    padding: 0;\n}\np.mm-43583-1-2-2 {\n    line-height: 108%;\n    margin-top: 3pt;\n    margin-left: 0;\n    margin-right: 0;\n    margin-bottom: 10pt;\n    \n    \n    border-top: none;\n    border-left: none;\n    border-bottom: none;\n    border-right: none;\n}\nspan.mm-43583-1-2-3 {\n    \n    \n    margin: 0;\n    padding: 0;\n}\n"

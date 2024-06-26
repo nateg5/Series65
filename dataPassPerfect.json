@@ -18,7 +18,7 @@ let dataPassPerfect = {
                 "correct": false
             }
         ],
-        "explanation": "The performance of cyclical stocks follows the business cycle. In times of GDP expansion, they do well; in times of recession, they do poorly. The classic cyclical stocks are home building, automobile manufacturers and durable goods producers. All of these purchases are deferrable in hard times. <br><br>Pharmaceutical companies are defensive and are not affected by the business cycle; in good times or bad, people must take prescribed drugs. Gold mining stocks are counter-cyclical. In bad economic times, people “flee to safety” and buy gold stocks. Computer software companies are growth companies.",
+        "explanation": "The performance of cyclical stocks follows the business cycle. In times of GDP expansion, they do well; in times of recession, they do poorly. The classic cyclical stocks are home building, automobile manufacturers and durable goods producers. All of these purchases are deferrable in hard times. <br><br>Pharmaceutical companies are defensive and are not affected by the business cycle; in good times or bad, people must take prescribed drugs. Gold mining stocks are counter-cyclical. In bad economic times, people \"flee to safety\" and buy gold stocks. Computer software companies are growth companies.",
         "prompt": "Which of the following stocks would be considered cyclical?"
     },
     "passPerfect_2": {
@@ -41,7 +41,7 @@ let dataPassPerfect = {
             }
         ],
         "explanation": "The key word is \"riskless.\" Treasury bills mature in 52 weeks or less and are issued by the U.S. Government, the safest issuer available.",
-        "prompt": "Which of the following is NOT a portfolio management \"style?\""
+        "prompt": "Which of the following low risk investments is the closest to being riskless?"
     },
     "passPerfect_3": {
         "answers": [
@@ -63,7 +63,7 @@ let dataPassPerfect = {
             }
         ],
         "explanation": "The management \"styles\" are basically active asset management (the manager selects the specific investments) or \"passive\" asset management, where the manager uses index funds as the investment vehicle. Diversification is not a style; rather it is a technique used to reduce risk.",
-        "prompt": "An officer of a company that wishes to register shares in a State in a “non-issuer” distribution, would rely on which registration procedure?"
+        "prompt": "Which of the following is NOT a portfolio management \"style?\""
     },
     "passPerfect_4": {
         "answers": [
