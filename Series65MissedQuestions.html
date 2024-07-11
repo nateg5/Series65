@@ -1,0 +1,404 @@
+<html>
+    <head>
+		<style>
+			body {
+				font-family: arial;
+				color: #111;
+				background-color: #eee;
+			}
+			div, button, th, td {
+				margin: 10px;
+				font-size: 20px;
+				line-height: 1.5em;
+			}
+			th, td {
+				padding: 10px;
+				border: 1px solid #000;
+			}
+			table {
+				border-collapse: collapse;
+			}
+		</style>
+		<script src="data17.json"></script>
+		<script src="data77.json"></script>
+		<script src="data78.json"></script>
+		<script src="data79.json"></script>
+		<script src="data80.json"></script>
+		<script src="data81.json"></script>
+		<script src="data82.json"></script>
+		<script src="data83.json"></script>
+		<script src="data84.json"></script>
+		<script src="data85.json"></script>
+		<script src="data86.json"></script>
+		<script src="data87.json"></script>
+		<script src="data88.json"></script>
+		<script src="data89.json"></script>
+		<script src="data90.json"></script>
+		<script src="data91.json"></script>
+		<script src="data92.json"></script>
+		<script src="dataPassMasters.json"></script>
+		<script src="dataMometrix.json"></script>
+		<script src="dataAchievable.json"></script>
+		<script src="dataSecuritiesce.json"></script>
+		<script src="dataSolomon.json"></script>
+		<script src="dataKaplan.json"></script>
+		<script src="dataStudy.json"></script>
+		<script src="dataBestTestReview.json"></script>
+		<script src="dataEmpireStockBrokerOnline.json"></script>
+		<script src="dataKaplanWarmUp.json"></script>
+		<script src="dataKaplanClassExam.json"></script>
+		<script src="dataKaplanExam1.json"></script>
+		<script src="dataKaplanExam2.json"></script>
+		<script src="dataKaplanExam3.json"></script>
+		<script src="dataKaplanExam4.json"></script>
+		<script src="dataKaplanExam5.json"></script>
+		<script src="dataKaplanUnit1Quiz.json"></script>
+		<script src="dataKaplanUnit2Quiz.json"></script>
+		<script src="dataKaplanUnit3Quiz.json"></script>
+		<script src="dataKaplanUnit4Quiz.json"></script>
+		<script src="dataQuizlet.json"></script>
+		<script src="dataPassPerfect.json"></script>
+		<script src="dataTestPrepReview.json"></script>
+    </head>
+    <body>
+		<div id="questionNumber"></div>
+		<div>&nbsp;</div>
+		<div id="question"></div>
+		<div>&nbsp;</div>
+		<div>
+			<input type="radio" id="radio1" name="answers" value="a" onclick="radioClicked(this)">
+			<label id="answer1" for="radio1"></label>
+		</div>
+		<div>
+			<input type="radio" id="radio2" name="answers" value="b" onclick="radioClicked(this)">
+			<label id="answer2" for="radio2"></label>
+		</div>
+		<div>
+			<input type="radio" id="radio3" name="answers" value="c" onclick="radioClicked(this)">
+			<label id="answer3" for="radio3"></label>
+		</div>
+		<div>
+			<input type="radio" id="radio4" name="answers" value="d" onclick="radioClicked(this)">
+			<label id="answer4" for="radio4"></label>
+		</div>
+		<div>&nbsp;</div>
+		<div id="result"></div>
+		<div>&nbsp;</div>
+		<button onclick="showExplanation()">Show Explanation</button>
+		<div>&nbsp;</div>
+		<div id="explanation"></div>
+		<div>&nbsp;</div>
+		<button onclick="next()">Next</button>
+		<div>&nbsp;</div>
+		<div id="score"></div>
+        <script>
+			let data = {
+				...data17, 
+				...data77, 
+				...data78, 
+				...data79, 
+				...data80, 
+				...data81, 
+				...data82, 
+				...data83, 
+				...data84, 
+				...data85, 
+				...data86, 
+				...data87, 
+				...data88, 
+				...data89, 
+				...data90, 
+				...data91, 
+				...data92,
+				...dataPassMasters,
+				...dataMometrix,
+				...dataAchievable,
+				...dataSecuritiesce,
+				...dataSolomon,
+				...dataKaplan,
+				...dataStudy,
+				...dataBestTestReview,
+				...dataEmpireStockBrokerOnline,
+				...dataKaplanWarmUp,
+				...dataKaplanClassExam,
+				...dataKaplanExam1,
+				...dataKaplanExam2,
+				...dataKaplanExam3,
+				...dataKaplanExam4,
+				...dataKaplanExam5,
+				...dataKaplanUnit1Quiz,
+				...dataKaplanUnit2Quiz,
+				...dataKaplanUnit3Quiz,
+				...dataKaplanUnit4Quiz,
+				...dataQuizlet,
+				...dataPassPerfect,
+				...dataTestPrepReview
+			};
+			let dataKeys = Object.keys(data);
+			
+			let getQuestion = (qData) => {
+				if(qData.settings) {
+					return qData.settings.question_title;
+				} else if(qData.question && qData.question.constructor === String) {
+					return qData.question;
+				} else if(qData.prompt) {
+					return qData.prompt;
+				} else if(qData.text) {
+					return qData.text;
+				} else if(qData.question && qData.question.constructor === Object) {
+					return qData.question.question;
+				} else {
+					alert("ERROR: Invalid data shape for getQuestion");
+				}
+			};
+			
+			let getAnswers = (qData) => {
+				if(qData.answer_array) {
+					return [{
+						answer: qData.answer_array[0][0].substring(3),
+						correct: qData.answer_array[0][1] === 1
+					}, {
+						answer: qData.answer_array[1][0].substring(3),
+						correct: qData.answer_array[1][1] === 1
+					}, {
+						answer: qData.answer_array[2][0].substring(3),
+						correct: qData.answer_array[2][1] === 1
+					}, {
+						answer: qData.answer_array[3][0].substring(3),
+						correct: qData.answer_array[3][1] === 1
+					}];
+				} else if(qData.answers && qData.answers[0].is_right !== undefined) {
+					return [{
+						answer: qData.answers[0].name,
+						correct: qData.answers[0].is_right
+					},{
+						answer: qData.answers[1].name,
+						correct: qData.answers[1].is_right
+					},{
+						answer: qData.answers[2].name,
+						correct: qData.answers[2].is_right
+					},{
+						answer: qData.answers[3].name,
+						correct: qData.answers[3].is_right
+					}];
+				} else if(qData.answers && qData.answers[0].content) {
+					return [{
+						answer: qData.answers[0].content,
+						correct: qData.answers[0].correct
+					},{
+						answer: qData.answers[1].content,
+						correct: qData.answers[1].correct
+					},{
+						answer: qData.answers[2].content,
+						correct: qData.answers[2].correct
+					},{
+						answer: qData.answers[3].content,
+						correct: qData.answers[3].correct
+					}];
+				} else if(qData.answers && qData.answers[0].text) {
+					return [{
+						answer: qData.answers[0].text,
+						correct: qData.answers[0].id
+					},{
+						answer: qData.answers[1].text,
+						correct: qData.answers[1].id
+					},{
+						answer: qData.answers[2].text,
+						correct: qData.answers[2].id
+					},{
+						answer: qData.answers[3].text,
+						correct: qData.answers[3].id
+					}];
+				} else if(qData.answers && qData.answers[0].answer) {
+					return [{
+						answer: qData.answers[0].answer,
+						correct: qData.answers[0].correct === "1"
+					},{
+						answer: qData.answers[1].answer,
+						correct: qData.answers[1].correct === "1"
+					},{
+						answer: qData.answers[2].answer,
+						correct: qData.answers[2].correct === "1"
+					},{
+						answer: qData.answers[3].answer,
+						correct: qData.answers[3].correct === "1"
+					}];
+				} else if(qData.options) {
+					return [{
+						answer: qData.options[0].wikiText,
+						correct: qData.options[0].id === qData.correctQuizQuestionOptionId
+					},{
+						answer: qData.options[1].wikiText,
+						correct: qData.options[1].id === qData.correctQuizQuestionOptionId
+					},{
+						answer: qData.options[2].wikiText,
+						correct: qData.options[2].id === qData.correctQuizQuestionOptionId
+					},{
+						answer: qData.options[3].wikiText,
+						correct: qData.options[3].id === qData.correctQuizQuestionOptionId
+					}];
+				} else {
+					alert("ERROR: Invalid data shape for getAnswers");
+				}
+			};
+			
+			let getExplanation = (qData) => {
+				if(qData.correct_info_text) {
+					return qData.correct_info_text;
+				} else if(qData.explanation !== null && qData.explanation !== undefined) {
+					return qData.explanation;
+				} else if(qData.question && qData.question.explanation) {
+					return qData.question.explanation;
+				} else {
+					alert("ERROR: Invalid data shape for getExplanation");
+				}
+			};
+			
+			let filteredData = {};
+			
+			for(let i = 0; i < dataKeys.length; i++) {
+				let found = false;
+				for(let j = i + 1; j < dataKeys.length; j++) {
+					if(getQuestion(data[dataKeys[i]]).toUpperCase().trim() === getQuestion(data[dataKeys[j]]).toUpperCase().trim()) {
+					    let answers1 = getAnswers(data[dataKeys[i]]);
+						let answers2 = getAnswers(data[dataKeys[j]]);
+						
+						let foundAnswersCount = 0;
+						
+						for(let k = 0; k < answers1.length; k++) {
+						    for(let l = 0; l < answers2.length; l++) {
+							    if(answers1[k].answer.toUpperCase().trim() === answers2[l].answer.toUpperCase().trim() && answers1[k].correct === answers2[l].correct) {
+									foundAnswersCount++;
+								}
+							}
+						}
+						
+						if(foundAnswersCount === 4) {
+							found = true;
+							break;
+						}
+					}
+				}
+				if(!found) {
+					filteredData[dataKeys[i]] = data[dataKeys[i]];
+				}
+			}
+			
+			/*************************************************************
+             * use this in the dev ocnsole to get the missed questions
+			 * 
+			 *     console.log(randomDataKeys.slice(1527));
+			 *
+			 * then copy/paste the missed data keys object here
+             *************************************************************/			 
+			let filteredDataKeys = [
+    "kaplanUnit4Quiz_8",
+    "kaplanUnit1Quiz_26",
+    "kaplanUnit4Quiz_48",
+    "kaplanUnit1Quiz_12",
+    "3585",
+    "3571",
+    "3486"
+];
+			
+			let randomDataKeys = [];
+
+			while(filteredDataKeys.length) {
+				let tempIndex = Math.floor(Math.random() * filteredDataKeys.length);
+				
+				randomDataKeys.push(filteredDataKeys[tempIndex]);
+				
+				filteredDataKeys.splice(tempIndex, 1);
+			}
+			
+			let randomDataKeysIndex = 0;
+			
+			let correctCount = 0;
+			let incorrectCount = 0;
+			let questionAnswered = false;
+			
+			let next = () => {		
+				if(randomDataKeysIndex >= randomDataKeys.length) {
+					alert("Contratulations! You have reached the end of the questions. Please refresh the page to start over.");
+					return;
+				}
+				
+				questionAnswered = false;
+				
+				let qData = filteredData[randomDataKeys[randomDataKeysIndex]];
+				randomDataKeysIndex++;
+				
+				document.getElementById("questionNumber").innerHTML = "Question " + randomDataKeysIndex + " of " + randomDataKeys.length;
+				document.getElementById("question").innerHTML = getQuestion(qData);
+				
+				let answers = getAnswers(qData);
+				
+				let indexes = [0, 1, 2, 3];
+				
+				let randomIndexes = [];
+				
+				while(indexes.length) {
+					let tempIndex = Math.floor(Math.random() * indexes.length);
+					
+					randomIndexes.push(indexes[tempIndex]);
+					
+					indexes.splice(tempIndex, 1);
+				}
+				
+				document.getElementById("answer1").innerHTML = "A: " + answers[randomIndexes[0]].answer;
+				document.getElementById("answer2").innerHTML = "B: " + answers[randomIndexes[1]].answer;
+				document.getElementById("answer3").innerHTML = "C: " + answers[randomIndexes[2]].answer;
+				document.getElementById("answer4").innerHTML = "D: " + answers[randomIndexes[3]].answer;
+				
+				document.getElementById("radio1").value = answers[randomIndexes[0]].correct;
+				document.getElementById("radio2").value = answers[randomIndexes[1]].correct;
+				document.getElementById("radio3").value = answers[randomIndexes[2]].correct;
+				document.getElementById("radio4").value = answers[randomIndexes[3]].correct;
+				
+				document.getElementById("radio1").checked = false;
+				document.getElementById("radio2").checked = false;
+				document.getElementById("radio3").checked = false;
+				document.getElementById("radio4").checked = false;
+				
+				document.getElementById("result").innerHTML = "";
+				
+				document.getElementById("explanation").style.display = "none";
+				document.getElementById("explanation").innerHTML = getExplanation(qData);
+			};
+			
+			let showExplanation = () => {
+				document.getElementById("explanation").style.display = "block";
+			};
+			
+			let updateScore = () => {
+				let total = correctCount + incorrectCount;
+				let percent = (correctCount / (correctCount + incorrectCount)) * 100;
+				document.getElementById("score").innerHTML = correctCount + " out of " + total + ", " + percent.toFixed() + "%";
+			};
+			
+			let radioClicked = (radio) => {
+				if(radio.value === "true") {
+					if(!questionAnswered) {
+						questionAnswered = true;
+						correctCount++;
+						updateScore();
+					}
+					document.getElementById("result").innerHTML = "Correct!";
+					document.getElementById("result").style.color = "green";
+					showExplanation();
+				} else {
+					if(!questionAnswered) {
+						questionAnswered = true;
+						incorrectCount++;
+						updateScore();
+						randomDataKeys.push(randomDataKeys[randomDataKeysIndex-1]);
+					}
+					document.getElementById("result").innerHTML = "Incorrect";
+					document.getElementById("result").style.color = "red";
+				}
+			};
+			
+			next();
+        </script>
+    </body>
+</html>
