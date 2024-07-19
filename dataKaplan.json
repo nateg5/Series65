@@ -711,7 +711,7 @@ let dataKaplan = {
 			"correct": false
 		}],
 		"explanation": "First, compute Dan's after-tax rate of return of 10.95% as follows: .15 x (1 - .27), or .73 = .1095. Then, compute Dan's inflation-adjusted, or real, rate of return by subtracting the 3% inflation rate from his 10.95% after-tax return.",
-		"prompt": "Dan is the owner of a mutual fund that returned him a before-tax return of 15% last year. Inflation is running at an annual rate of 3%, and Dan is in a 27% marginal income tax bracket. What has been Dan's approximate inflation- adjusted after-tax return on the fund over the course of the last year (rounded to the nearest 2 decimal points)?"
+		"prompt": "Dan is the owner of a mutual fund that returned him a before-tax return of 15% last year. Inflation is running at an annual rate of 3%, and Dan is in a 27% marginal income tax bracket. What has been Dan's approximate inflation-adjusted aftertax return on the fund over the course of the last year (rounded to the nearest 2 decimal points)?"
 	},
 	"kaplan43": {
 		"answers": [{
