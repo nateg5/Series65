@@ -298,6 +298,20 @@
 			
 			let randomDataKeysIndex = 0;
 			
+			let jsonData = [];
+			for(let i = 0; i < randomDataKeys.length; i++) {
+				let qData = filteredData[randomDataKeys[i]];
+				let qStruct = {};
+				
+				qStruct.question = getQuestion(qData);				
+				qStruct.answers = getAnswers(qData);
+				qStruct.explanation = getExplanation(qData).replace(/<span[^>]*>/, "<span>").replace(/<p[^>]*>/, "<p>");
+				
+				jsonData.push(qStruct);
+			}
+			
+			console.log(jsonData);
+			
 			let correctCount = 0;
 			let incorrectCount = 0;
 			let questionAnswered = false;
