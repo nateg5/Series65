@@ -462,467 +462,467 @@
 		"explanation": "Trusts can be established to last for many years, while the executor's responsibilities conclude once the estate has been settled."
 	},
     {
-        "question": "A common stockholder's rights include all of the following EXCEPT",
-        "answers": [
-            {
-                "answer": "the receipt of dividends, if declared by the board of directors",
-                "correct": false
-            },
-            {
-                "answer": "electing the board of directors",
-                "correct": false
-            },
-            {
-                "answer": "the right to determine the par value of the stock",
-                "correct": true
-            },
-            {
-                "answer": "preemptive rights",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Par value is an accounting decision made by the company when the stock is first issued and is not something voted on by shareholders. Common stockholders are the owners of a corporation. This basic form of ownership entitles them to all of the privileges discussed here. It also allows them to transfer their ownership, inspect company records, vote on corporate objectives, and lay claim to any residual assets in the event of a liquidation.<br /><br />U12LO2</span>"
-    },
+		"question": "Which of the following rights does a common stockholder NOT possess?",
+		"answers": [
+			{
+				"answer": "The right to receive dividends, if declared by the board of directors.",
+				"correct": false
+			},
+			{
+				"answer": "The right to elect the board of directors.",
+				"correct": false
+			},
+			{
+				"answer": "The right to determine the par value of the stock.",
+				"correct": true
+			},
+			{
+				"answer": "Preemptive rights.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Par value is an accounting decision made by the company at the time the stock is initially issued and is not subject to a vote by shareholders. Common stockholders are the owners of a corporation, which grants them various privileges, including the ability to transfer ownership, inspect company records, vote on corporate matters, and claim any residual assets in the event of liquidation.<br /><br />U12LO2</span>"
+	},
+	{
+		"question": "For a trust account that is not aiming for appreciation, which investment option would be most suitable?",
+		"answers": [
+			{
+				"answer": "Large-cap common and preferred stocks.",
+				"correct": false
+			},
+			{
+				"answer": "Common stock, preferred stock, and debentures.",
+				"correct": false
+			},
+			{
+				"answer": "Highly rated, fixed-income securities.",
+				"correct": true
+			},
+			{
+				"answer": "Common stock in small, highly profitable companies.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The only prudent choice that does not focus on appreciation is investing in highly rated, fixed-income securities.<br /><br />U19LO6</span>"
+	},
+	{
+		"question": "Which of the following options positions are considered bearish? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put",
+		"answers": [
+			{
+				"answer": "II and III.",
+				"correct": true
+			},
+			{
+				"answer": "I and IV.",
+				"correct": false
+			},
+			{
+				"answer": "I and III.",
+				"correct": false
+			},
+			{
+				"answer": "II and IV.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "For a trust account not seeking appreciation, which of the following would be recommended?",
-        "answers": [
-            {
-                "answer": "Large-cap common and preferred stocks",
-                "correct": false
-            },
-            {
-                "answer": "Common stock, preferred stock, and debentures",
-                "correct": false
-            },
-            {
-                "answer": "Highly rated, fixed-income securities",
-                "correct": true
-            },
-            {
-                "answer": "Common stock in small, highly profitable companies",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The only choice that is prudent and does not have a goal of appreciation is the purchase of highly rated, fixed-income securities.<br /><br />U19LO6</span>"
-    },
+		"question": "Which types of life insurance always provide some guaranteed death benefit?",
+		"answers": [
+			{
+				"answer": "Whole, Universal, and Variable life.",
+				"correct": true
+			},
+			{
+				"answer": "Whole life.",
+				"correct": false
+			},
+			{
+				"answer": "Variable and Universal life.",
+				"correct": false
+			},
+			{
+				"answer": "Whole and Variable life.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "What is the maximum amount that can be contributed to a Coverdell Education Savings Account (ESA) in one year?",
+		"answers": [
+			{
+				"answer": "$500 per parent.",
+				"correct": false
+			},
+			{
+				"answer": "$2,000 per child.",
+				"correct": true
+			},
+			{
+				"answer": "$500 per couple.",
+				"correct": false
+			},
+			{
+				"answer": "$2,000 per couple.",
+				"correct": false
+			}
+		],
+		"explanation": "The contribution limit for each child's ESA is $2,000 per year. Therefore, if a couple has three children, they can contribute a total of $6,000, or $2,000 for each child, annually."
+	},
+	{
+		"question": "What determines an annuitant's interest in the insurer's separate account before distributions from the annuity commence?",
+		"answers": [
+			{
+				"answer": "Accumulation unit.",
+				"correct": true
+			},
+			{
+				"answer": "Joint and last survivor annuity.",
+				"correct": false
+			},
+			{
+				"answer": "Deferred annuity.",
+				"correct": false
+			},
+			{
+				"answer": "Variable annuity.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "Which options positions are bearish? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put",
-        "answers": [
-            {
-                "answer": "II and III",
-                "correct": true
-            },
-            {
-                "answer": "I and IV",
-                "correct": false
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "According to the Securities Exchange Act of 1934, which of the following would be considered a municipal security?",
+		"answers": [
+			{
+				"answer": "A City of Chicago school district bond.",
+				"correct": true
+			},
+			{
+				"answer": "50-year bonds issued by the Tennessee Valley Authority.",
+				"correct": false
+			},
+			{
+				"answer": "A U.S. Treasury bill.",
+				"correct": false
+			},
+			{
+				"answer": "A Province of Ontario library construction bond.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Under federal law, municipal bonds are those issued by any domestic political body or subdivision from the state level down. Treasury bills and TVA bonds are classified as government securities, not municipal securities. Additionally, Canadian cities or provinces do not qualify as municipal securities under federal law.<br /><br />U13LO5</span>"
+	},
+	{
+		"question": "If the U.S. dollar is appreciating against foreign currencies, which of the following statements is NOT true?",
+		"answers": [
+			{
+				"answer": "The U.S. dollar buys more of foreign currencies.",
+				"correct": false
+			},
+			{
+				"answer": "U.S. goods become more expensive in foreign countries.",
+				"correct": false
+			},
+			{
+				"answer": "Foreign goods become cheaper in the United States.",
+				"correct": false
+			},
+			{
+				"answer": "U.S. exports become more competitive.",
+				"correct": true
+			}
+		],
+		"explanation": "<span>As the U.S. dollar appreciates, U.S. exports will cost more for foreign buyers, making them less competitive. The stronger dollar allows for purchasing more foreign goods per dollar, but it does not enhance the competitiveness of U.S. exports.<br /><br />U8LO1</span>"
+	},
+	{
+		"question": "An 83-year-old widower expresses that he is risk-averse and seeks an investment focused on capital preservation. Which option would you recommend?",
+		"answers": [
+			{
+				"answer": "An index fund.",
+				"correct": false
+			},
+			{
+				"answer": "Bank-insured CDs.",
+				"correct": true
+			},
+			{
+				"answer": "Long-term U.S. government bonds.",
+				"correct": false
+			},
+			{
+				"answer": "Preferred stock.",
+				"correct": false
+			}
+		],
+		"explanation": "For capital preservation, the best option is a bank-insured CD, which is considered very safe. A money market fund is also a suitable choice, but you won't find both options in the same question."
+	},
     {
-        "question": "Always has some guaranteed death benefit",
-        "answers": [
-            {
-                "answer": "Whole, Universal and Variable life",
-                "correct": true
-            },
-            {
-                "answer": "Whole life",
-                "correct": false
-            },
-            {
-                "answer": "Variable and Universal life",
-                "correct": false
-            },
-            {
-                "answer": "Whole and Variable life",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "If a bond is trading at a premium over its par value, then its:",
+		"answers": [
+			{
+				"answer": "Current yield is less than its nominal yield.",
+				"correct": true
+			},
+			{
+				"answer": "Nominal yield is less than its current yield.",
+				"correct": false
+			},
+			{
+				"answer": "Yield to maturity is greater than its current yield.",
+				"correct": false
+			},
+			{
+				"answer": "None of the above.",
+				"correct": false
+			}
+		],
+		"explanation": "A bond selling at a premium will yield less than its coupon rate (nominal yield). Conversely, a bond trading at a discount will yield more. There is an inverse relationship between bond prices and bond yields."
+	},
+	{
+		"question": "Which of the following is NOT considered a leading economic indicator?",
+		"answers": [
+			{
+				"answer": "Orders for durable goods.",
+				"correct": false
+			},
+			{
+				"answer": "New housing permits.",
+				"correct": false
+			},
+			{
+				"answer": "Duration of unemployment.",
+				"correct": true
+			},
+			{
+				"answer": "Money supply.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The average duration it takes for an unemployed person to find a new job is a lagging indicator, not a leading one. Employment typically improves last as the economy begins to expand, and layoffs are often one of the final measures companies take during economic downturns.<br /><br />U8LO3</span>"
+	},
+	{
+		"question": "An Administrator can deny an individual's application for registration as an investment adviser representative for all of the following reasons EXCEPT:",
+		"answers": [
+			{
+				"answer": "Lack of experience.",
+				"correct": true
+			},
+			{
+				"answer": "Conviction for a securities-related misdemeanor within the past 10 years.",
+				"correct": false
+			},
+			{
+				"answer": "Failure to pass a written exam.",
+				"correct": false
+			},
+			{
+				"answer": "Submitting an incomplete application.",
+				"correct": false
+			}
+		],
+		"explanation": "A lack of experience alone is not sufficient grounds for denying registration."
+	},
     {
-        "question": "The maximum amount that may be invested in a Coverdell ESA in one year is",
-        "answers": [
-            {
-                "answer": "$500 per parent",
-                "correct": false
-            },
-            {
-                "answer": "$2,000 per child",
-                "correct": true
-            },
-            {
-                "answer": "$500 per couple",
-                "correct": false
-            },
-            {
-                "answer": "$2,000 per couple",
-                "correct": false
-            }
-        ],
-        "explanation": "Only $2,000 may be invested in each child's ESA per year. If a couple has three children, they may contribute $6,000 in total, or $2,000 per child, per year."
-    },
+		"question": "At what age are minimum distributions from a Tax-Sheltered Annuity (TSA) required for a retired participant?",
+		"answers": [
+			{
+				"answer": "59 1/2.",
+				"correct": false
+			},
+			{
+				"answer": "70 1/2.",
+				"correct": true
+			},
+			{
+				"answer": "85.",
+				"correct": false
+			},
+			{
+				"answer": "There is no minimum distribution rule applicable to TSAs.",
+				"correct": false
+			}
+		],
+		"explanation": "Minimum distributions from TSAs must begin by April 1 of the year following the year in which the participant turns 70 1/2."
+	},
+	{
+		"question": "To assess the change in GDP from one year to another, both years' GDP should be expressed in:",
+		"answers": [
+			{
+				"answer": "The exchange value of the dollar compared to major foreign currencies.",
+				"correct": false
+			},
+			{
+				"answer": "The current dollar price of gold bullion.",
+				"correct": false
+			},
+			{
+				"answer": "International depositary receipts.",
+				"correct": false
+			},
+			{
+				"answer": "Constant dollars.",
+				"correct": true
+			}
+		],
+		"explanation": "<span>To accurately compare GDP between years and assess actual economic activity, economists use constant dollars to remove the effects of inflation.<br /><br />U8LO2</span>"
+	},
+	{
+		"question": "Where is the cost of goods sold reported?",
+		"answers": [
+			{
+				"answer": "Balance sheet.",
+				"correct": false
+			},
+			{
+				"answer": "Income statement.",
+				"correct": true
+			},
+			{
+				"answer": "Both.",
+				"correct": false
+			},
+			{
+				"answer": "Neither.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "Determines an annuitant's interest in the insurer's separate account before distribution from the annuity begins",
-        "answers": [
-            {
-                "answer": "Accumulation unit",
-                "correct": true
-            },
-            {
-                "answer": "Joint and last survivor annuity",
-                "correct": false
-            },
-            {
-                "answer": "Deferred annuity",
-                "correct": false
-            },
-            {
-                "answer": "Variable annuity",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "Which of the following is classified as a security under the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "A guaranteed, lump-sum payment to a beneficiary under a modified endowment policy.",
+				"correct": false
+			},
+			{
+				"answer": "Fixed, guaranteed payments made for life or for a specified period under an annuity contract.",
+				"correct": false
+			},
+			{
+				"answer": "Commodity futures contracts.",
+				"correct": false
+			},
+			{
+				"answer": "An investment contract.",
+				"correct": true
+			}
+		],
+		"explanation": "Investment contracts are defined as securities under the Uniform Securities Act and are often used synonymously with the term 'security.' A guaranteed lump-sum payment to a beneficiary is considered an endowment policy, which is excluded from the definition of a security. Fixed payments from annuity contracts are also not classified as securities. Commodity futures contracts and the commodities themselves do not fall under the definition of securities."
+	},
+	{
+		"question": "What is a taxpayer's marginal tax rate?",
+		"answers": [
+			{
+				"answer": "The rate of tax paid on margin account interest.",
+				"correct": false
+			},
+			{
+				"answer": "Generally lower than the effective tax rate.",
+				"correct": false
+			},
+			{
+				"answer": "The rate of taxation on any additional taxable income received.",
+				"correct": true
+			},
+			{
+				"answer": "The rate of tax paid on total taxable income.",
+				"correct": false
+			}
+		],
+		"explanation": "The marginal tax rate refers to the rate of taxation applied to any additional taxable income received. It is often described as the tax on the 'next' dollar or the 'last' dollar of income. The effective tax rate, on the other hand, is the overall rate paid on total taxable income."
+	},
+	{
+		"question": "Which of the following individuals is required to register as an investment adviser under the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "An investment adviser who only serves institutional clients and whose only office is in this state.",
+				"correct": true
+			},
+			{
+				"answer": "An accountant who does not claim to provide investment advisory services but gives incidental advice to clients as part of accounting services.",
+				"correct": false
+			},
+			{
+				"answer": "An investment adviser representative with no place of business in the state who has dealt with 7 retail clients in the past 12 months.",
+				"correct": false
+			},
+			{
+				"answer": "An investment adviser whose advice is limited to securities issued or guaranteed by the U.S. government and who has 3 places of business in the state.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The Uniform Securities Act mandates that individuals defined as investment advisers register with the state. Accountants are exempt when their advice is incidental to their profession and no extra compensation is charged. Advisers whose advice pertains only to securities issued or guaranteed by the government are excluded from the definition of investment adviser under the Investment Advisers Act of 1940, making them federal covered investment advisers not required to register with the Administrator, even if they have offices in the state. If an adviser has an office in the state, they must register unless they are federal covered. The investment adviser representative has exceeded the de minimis limits and must register in the state, but as an IAR, not as an IA.<br /><br />U1LO3</span>"
+	},
     {
-        "question": "As defined in the Securities Exchange Act of 1934, the term municipal security would exclude all of the following EXCEPT",
-        "answers": [
-            {
-                "answer": "a City of Chicago school district bond",
-                "correct": true
-            },
-            {
-                "answer": "50-year bonds issued by the Tennessee Valley Authority",
-                "correct": false
-            },
-            {
-                "answer": "a U.S. Treasury bill",
-                "correct": false
-            },
-            {
-                "answer": "a Province of Ontario library construction bond",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Under federal law, municipal bonds are those issued by any domestic political body or subdivision from the state level on down. Treasury bills and TVA issues are defined as government securities, not municipal securities. Under federal law, Canadian cities (or provinces) are not municipal securities.<br /><br />U13LO5</span>"
-    },
-    {
-        "question": "If the U.S. dollar has been appreciating against foreign currencies, all of the following statements are true EXCEPT",
-        "answers": [
-            {
-                "answer": "the U.S. dollar buys more of foreign currencies",
-                "correct": false
-            },
-            {
-                "answer": "U.S. goods become more expensive in foreign countries",
-                "correct": false
-            },
-            {
-                "answer": "foreign goods become cheaper in the United States",
-                "correct": false
-            },
-            {
-                "answer": "U.S. exports become more competitive",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>The U.S. exports will cost more to foreigners and become less competitive. The dollar is worth more in terms of foreign currencies and will purchase more foreign goods per dollar.<br /><br />U8LO1</span>"
-    },
-    {
-        "question": "An 83-year-old widower explains to you that he is risk averse and wishes to find an investment that will provide him with preservation of capital. Which of the following might you recommend?",
-        "answers": [
-            {
-                "answer": "an index fund",
-                "correct": false
-            },
-            {
-                "answer": "bank-insured CDs",
-                "correct": true
-            },
-            {
-                "answer": "long-term U.S. government bonds",
-                "correct": false
-            },
-            {
-                "answer": "preferred stock",
-                "correct": false
-            }
-        ],
-        "explanation": "There are 2 answers for preservation of capital on this exam. The strongest is a bank insured CD, followed by a money market fund (you'll never have both in the same question)."
-    },
-    {
-        "question": "A bond is selling at a premium over par value. Therefore, its",
-        "answers": [
-            {
-                "answer": "current yield is less than its nominal yield",
-                "correct": true
-            },
-            {
-                "answer": "nominal yield is less than its current yield",
-                "correct": false
-            },
-            {
-                "answer": "yield to maturity is greater than its current yield",
-                "correct": false
-            },
-            {
-                "answer": "none of the above",
-                "correct": false
-            }
-        ],
-        "explanation": "Any bond selling at a premium will yield less than the coupon rate (nominal yield). Conversely, of course, a bond trading at a discount will certainly yield more. Remember, there is an inverse relationship between bond prices and bond yields. See the previous question for an example of a bond selling at a premium."
-    },
-    {
-        "question": "Which of the following is a NOT a leading economic indicator?",
-        "answers": [
-            {
-                "answer": "Orders for durable goods",
-                "correct": false
-            },
-            {
-                "answer": "New housing permits",
-                "correct": false
-            },
-            {
-                "answer": "Duration of unemployment",
-                "correct": true
-            },
-            {
-                "answer": "Money supply",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The average amount of time it takes for an unemployed person to find a new job is a lagging indicator, not a leading one. Employment is usually one of the last things to pick up as the economy enters a period of expansion. Layoffs are one of the last resorts for companies when the economy turns down.<br /><br />U8LO3</span>"
-    },
-    {
-        "question": "An Administrator can deny an individual's application for registration as an investment adviser representative for all of the following reasons EXCEPT",
-        "answers": [
-            {
-                "answer": "lack of experience",
-                "correct": true
-            },
-            {
-                "answer": "conviction for a securities-related misdemeanor within the past 10 years",
-                "correct": false
-            },
-            {
-                "answer": "failure to pass a written exam",
-                "correct": false
-            },
-            {
-                "answer": "submitting an incomplete application",
-                "correct": false
-            }
-        ],
-        "explanation": "Lack of experience, by itself, is not cause for registration denial."
-    },
-    {
-        "question": "Minimum distributions from a TSA are required when a retired participant is age",
-        "answers": [
-            {
-                "answer": "59 1/2",
-                "correct": false
-            },
-            {
-                "answer": "70 1/2",
-                "correct": true
-            },
-            {
-                "answer": "85",
-                "correct": false
-            },
-            {
-                "answer": "There is no minimum distribution rule applicable to TSAs.",
-                "correct": false
-            }
-        ],
-        "explanation": "Minimum distributions from TSAs are required to start by April 1 of the year following the year in which the participant turns 70 1/2."
-    },
-    {
-        "question": "To determine the amount of change in the GDP from 1 year to another, both years' GDP should be converted into",
-        "answers": [
-            {
-                "answer": "the exchange value of the dollar, as compared with major foreign currencies",
-                "correct": false
-            },
-            {
-                "answer": "the current dollar price of gold bullion",
-                "correct": false
-            },
-            {
-                "answer": "international depositary receipts",
-                "correct": false
-            },
-            {
-                "answer": "constant dollars",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>To compare GDP from 1 year to another, and thus to compare the amount of actual economic activity, economists use constant dollars to eliminate distortions caused by inflation.<br /><br />U8LO2</span>"
-    },
-    {
-        "question": "Cost of goods sold",
-        "answers": [
-            {
-                "answer": "Balance sheet",
-                "correct": false
-            },
-            {
-                "answer": "Income statement",
-                "correct": true
-            },
-            {
-                "answer": "Both",
-                "correct": false
-            },
-            {
-                "answer": "Neither",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is defined as a security under the Uniform Securities Act?",
-        "answers": [
-            {
-                "answer": "A guaranteed, lump-sum payment to a beneficiary under a modified endowment policy",
-                "correct": false
-            },
-            {
-                "answer": "Fixed, guaranteed payments made for life or for a specified period under an annuity contract",
-                "correct": false
-            },
-            {
-                "answer": "Commodity futures contracts",
-                "correct": false
-            },
-            {
-                "answer": "An investment contract",
-                "correct": true
-            }
-        ],
-        "explanation": "Investment contracts are defined as a security under the Uniform Securities Act. In fact, the term is often used as a synonym for a security. A guaranteed, lump-sum payment to a beneficiary is an endowment policy excluded from the definition of a security. Fixed, guaranteed payments made for life or for a specified period are fixed annuity contracts not defined as securities. Commodity futures contracts and the commodities themselves are not securities. It is much easier to remember what is not a security than what is."
-    },
-    {
-        "question": "A taxpayer's marginal tax rate is",
-        "answers": [
-            {
-                "answer": "the rate of tax paid on margin account interest",
-                "correct": false
-            },
-            {
-                "answer": "generally lower than the effective tax rate",
-                "correct": false
-            },
-            {
-                "answer": "the rate of taxation on any additional taxable income received",
-                "correct": true
-            },
-            {
-                "answer": "the rate of tax paid on total taxable income",
-                "correct": false
-            }
-        ],
-        "explanation": "Marginal tax rate is defined as the rate of taxation on any additional taxable income received. It is sometimes referred to as the tax on the \"next\" dollar or the \"last\" dollar of income. The effective tax rate is the overall rate paid on the total taxable income."
-    },
-    {
-        "question": "Which of the following persons must register as an investment adviser under the Uniform Securities Act?",
-        "answers": [
-            {
-                "answer": "An investment adviser who only serves institutional clients and whose only office is in this state",
-                "correct": true
-            },
-            {
-                "answer": "An accountant who makes no pretense of providing investment advisory services but gives incidental advice to clients as a small part of accounting services provided",
-                "correct": false
-            },
-            {
-                "answer": "An investment adviser representative with no place of business in the state who has dealt with 7 retail clients during the most recent 12 month period",
-                "correct": false
-            },
-            {
-                "answer": "An investment adviser whose advice is limited to securities issued or guaranteed by the U.S. government and who has 3 places of business in the state",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The Uniform Securities Act requires those defined as investment advisers to register with the state. Accountants are excluded when their advice is incidental to their profession and no additional compensation is charged. Advisers whose only advice is on securities issued or guaranteed by the government are excluded from the definition of investment adviser under the Investment Advisers Act of 1940. This means they are federal covered investment advisers, not required to register with the Administrator even with offices in the state. As long as there is an office in the state, unless the adviser is federal covered (as described in the previous sentence), there is no exemption from registration in that state. The IAR has exceeded the de minimis limits and would have to register in the state, but as an IAR, not as an IA.<br /><br />U1LO3</span>"
-    },
-    {
-        "question": "Tamika is an investment adviser representative with Financial Engineers, LLC, a covered investment adviser. The firm uses an investment policy statement to help design financial plans for their clients. One of Tamika's current clients plans to purchase a new boat 7 months from now. When using the IPS, this would be considered",
-        "answers": [
-            {
-                "answer": "a capital need",
-                "correct": false
-            },
-            {
-                "answer": "an investment goal",
-                "correct": false
-            },
-            {
-                "answer": "an investment constraint",
-                "correct": true
-            },
-            {
-                "answer": "a financial objective",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Investment constraints are obstacles or restrictions that must be met in order to meet objectives. In this case, we are dealing with a liquidity constraint - in 7 months, cash will be necessary to make the purchase.<br /><br />U19LO5</span>"
-    },
-    {
-        "question": "The best way for an American investor to get exposure to foreign stocks:",
-        "answers": [
-            {
-                "answer": "Warrants",
-                "correct": false
-            },
-            {
-                "answer": "REITs",
-                "correct": false
-            },
-            {
-                "answer": "ADRs",
-                "correct": true
-            },
-            {
-                "answer": "Preferred stocks",
-                "correct": false
-            }
-        ],
-        "explanation": "<p><strong class=\"mm-20474-1-31-1\"></strong> American Depository Receipts are the simplest way to invest in foreign stocks. These shares remove some of the worries of investing in countries with less rigorous regulations.</span></p>"
-    },
-    {
-        "question": "Susan participates in a Section 401(k) plan at work that includes loan provisions. Susan has recently enrolled in college and has inquired about the possible consequences of borrowing from the plan to help pay for her education. As her financial planner, what is your advice to her?",
-        "answers": [
-            {
-                "answer": "The loan will statutorily be treated as a taxable distribution from the plan.",
-                "correct": false
-            },
-            {
-                "answer": "The loan must be repayable within 5 years at a reasonable rate of interest.",
-                "correct": true
-            },
-            {
-                "answer": "The 401(k) plan needs to be rewritten as loans are only available from qualified plans.",
-                "correct": false
-            },
-            {
-                "answer": "The loan is not being made for reasons of an unforeseeable emergency and therefore is not possible.",
-                "correct": false
-            }
-        ],
-        "explanation": "For a loan not to be treated as a taxable distribution for tax purposes, it must be repayable within 5 years at a reasonable rate of interest. The unforeseeable emergency requirements are found in a Section 457 Plan."
-    },
+		"question": "Tamika is an investment adviser representative with Financial Engineers, LLC, a covered investment adviser. The firm utilizes an investment policy statement (IPS) to assist in designing financial plans for clients. One of Tamika's clients intends to purchase a new boat in 7 months. In the context of the IPS, this situation would be classified as:",
+		"answers": [
+			{
+				"answer": "A capital need.",
+				"correct": false
+			},
+			{
+				"answer": "An investment goal.",
+				"correct": false
+			},
+			{
+				"answer": "An investment constraint.",
+				"correct": true
+			},
+			{
+				"answer": "A financial objective.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Investment constraints are limitations or restrictions that must be addressed to achieve objectives. In this case, it represents a liquidity constraint, as cash will be required in 7 months to complete the purchase.<br /><br />U19LO5</span>"
+	},
+	{
+		"question": "What is the best way for an American investor to gain exposure to foreign stocks?",
+		"answers": [
+			{
+				"answer": "Warrants.",
+				"correct": false
+			},
+			{
+				"answer": "REITs.",
+				"correct": false
+			},
+			{
+				"answer": "ADRs.",
+				"correct": true
+			},
+			{
+				"answer": "Preferred stocks.",
+				"correct": false
+			}
+		],
+		"explanation": "<p><strong>American Depository Receipts (ADRs) are the simplest method for investing in foreign stocks. They alleviate some concerns associated with investing in countries that have less stringent regulations.</strong></p>"
+	},
+	{
+		"question": "Susan is enrolled in a Section 401(k) plan at her workplace that allows loans. She has recently started college and is asking about the implications of borrowing from the plan to help finance her education. As her financial planner, what advice would you give her?",
+		"answers": [
+			{
+				"answer": "The loan will be treated as a taxable distribution from the plan by law.",
+				"correct": false
+			},
+			{
+				"answer": "The loan must be repaid within 5 years at a reasonable interest rate.",
+				"correct": true
+			},
+			{
+				"answer": "The 401(k) plan needs to be revised since loans are only available from qualified plans.",
+				"correct": false
+			},
+			{
+				"answer": "The loan cannot be taken as it is not for an unforeseeable emergency.",
+				"correct": false
+			}
+		],
+		"explanation": "To avoid being classified as a taxable distribution, a loan must be repayable within 5 years at a reasonable interest rate. The requirements for unforeseeable emergencies apply to Section 457 Plans."
+	},
     {
         "question": "If a client wishes the assets in her account to pass directly to specific beneficiaries after her death, her account should be titled",
         "answers": [
