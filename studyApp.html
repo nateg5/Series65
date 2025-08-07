@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Series 65 Study App</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for the app */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8; /* Light blue-gray background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 100%;
+            max-width: 700px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .question-section {
+            margin-bottom: 20px;
+        }
+
+        .question-text {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #2c3e50; /* Dark blue-gray */
+            margin-bottom: 25px;
+            line-height: 1.4;
+        }
+
+        .options-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .option-button {
+            background-color: #ecf0f1; /* Light gray */
+            color: #34495e; /* Darker gray */
+            padding: 15px 20px;
+            border-radius: 8px;
+            border: 2px solid #bdc3c7; /* Medium gray border */
+            cursor: pointer;
+            font-size: 1.1rem;
+            text-align: left;
+            transition: all 0.2s ease-in-out;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .option-button:hover:not(.correct):not(.incorrect) {
+            background-color: #dbe4e8;
+            border-color: #95a5a6;
+        }
+
+        .option-button.selected {
+            border-color: #3498db; /* Blue for selected */
+            background-color: #e8f3fa; /* Lighter blue background */
+        }
+
+        .option-button.correct {
+            background-color: #e6ffe6; /* Light green */
+            border-color: #27ae60; /* Green */
+            color: #27ae60;
+            font-weight: 600;
+        }
+
+        .option-button.incorrect {
+            background-color: #ffe6e6; /* Light red */
+            border-color: #e74c3c; /* Red */
+            color: #e74c3c;
+            font-weight: 600;
+        }
+
+        .feedback-section {
+            min-height: 50px;
+            margin-bottom: 20px;
+        }
+
+        .feedback-text {
+            font-size: 1.2rem;
+            font-weight: 500;
+            margin-top: 10px;
+        }
+
+        .feedback-text.correct-feedback {
+            color: #27ae60; /* Green */
+        }
+
+        .feedback-text.incorrect-feedback {
+            color: #e74c3c; /* Red */
+        }
+
+        .navigation-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap; /* Allow wrapping on smaller screens */
+        }
+
+        .action-button {
+            background-color: #3498db; /* Blue */
+            color: white;
+            padding: 12px 25px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 600;
+            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+            box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+        }
+
+        .action-button:hover {
+            background-color: #2980b9; /* Darker blue */
+            transform: translateY(-2px);
+        }
+
+        .action-button:disabled {
+            background-color: #95a5a6; /* Gray out when disabled */
+            cursor: not-allowed;
+            box-shadow: none;
+            transform: none;
+        }
+
+        .score-display {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-top: 20px;
+        }
+
+        .start-screen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            text-align: center;
+        }
+
+        .start-screen h1 {
+            font-size: 2.5rem;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .start-screen p {
+            font-size: 1.2rem;
+            color: #7f8c8d;
+            line-height: 1.5;
+        }
+
+        .start-button {
+            background-color: #2ecc71; /* Green */
+            color: white;
+            padding: 15px 30px;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            font-size: 1.3rem;
+            font-weight: 700;
+            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+            box-shadow: 0 6px 15px rgba(46, 204, 113, 0.4);
+        }
+
+        .start-button:hover {
+            background-color: #27ae60; /* Darker green */
+            transform: translateY(-3px);
+        }
+
+        .end-screen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 25px;
+            text-align: center;
+        }
+
+        .end-screen h2 {
+            font-size: 2rem;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .end-screen p {
+            font-size: 1.3rem;
+            color: #7f8c8d;
+        }
+
+        .retake-button {
+            background-color: #e67e22; /* Orange */
+            color: white;
+            padding: 12px 25px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 600;
+            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+            box-shadow: 0 4px 10px rgba(230, 126, 34, 0.3);
+        }
+
+        .retake-button:hover {
+            background-color: #d35400; /* Darker orange */
+            transform: translateY(-2px);
+        }
+
+        .quiz-buttons-container { /* New style for the buttons container */
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            width: 100%;
+            max-width: 400px;
+            margin-bottom: 20px;
+        }
+
+        .quiz-selection-button { /* Style for individual quiz selection buttons */
+            background-color: #3498db; /* Blue, similar to action button */
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 600;
+            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+            box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+            text-align: center;
+        }
+
+        .quiz-selection-button:hover {
+            background-color: #2980b9; /* Darker blue */
+            transform: translateY(-2px);
+        }
+
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            .question-text {
+                font-size: 1.2rem;
+            }
+            .option-button, .action-button, .start-button, .retake-button, .quiz-selection-button {
+                font-size: 1rem;
+                padding: 10px 15px;
+            }
+            .start-screen h1 {
+                font-size: 2rem;
+            }
+            .start-screen p {
+                font-size: 1rem;
+            }
+            .end-screen h2 {
+                font-size: 1.8rem;
+            }
+            .end-screen p {
+                font-size: 1.1rem;
+            }
+            .navigation-buttons {
+                flex-direction: column;
+                gap: 10px;
+            }
+            .quiz-buttons-container {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="app" class="container">
+        <!-- Start Screen -->
+        <div id="start-screen" class="start-screen">
+            <h1>Series 65 Study App 📚</h1>
+            <p>Prepare for your Uniform Investment Adviser Law Examination with practice questions covering key topics.</p>
+            <div id="quiz-buttons-container" class="quiz-buttons-container">
+                <!-- Quiz selection buttons will be dynamically loaded here -->
+            </div>
+            <!-- The "Start Quiz" button is now handled by clicking a specific quiz button -->
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="hidden">
+            <div class="question-section">
+                <p id="question-number" class="text-sm text-gray-500 mb-2"></p>
+                <p id="question-text" class="question-text"></p>
+            </div>
+
+            <div id="options-container" class="options-container">
+                <!-- Options will be dynamically loaded here -->
+            </div>
+
+            <div class="feedback-section">
+                <p id="feedback-text" class="feedback-text"></p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button id="submit-button" class="action-button">Submit Answer</button>
+                <button id="next-button" class="action-button" disabled>Next Question</button>
+            </div>
+
+            <div class="score-display">
+                Score: <span id="score">0</span> / <span id="total-questions">0</span>
+            </div>
+        </div>
+
+        <!-- End Screen -->
+        <div id="end-screen" class="hidden end-screen">
+            <h2>Quiz Complete! 🎉</h2>
+            <p>You answered <span id="final-score">0</span> out of <span id="final-total-questions">0</span> questions correctly.</p>
+            <button id="retake-quiz-button" class="retake-button">Retake Quiz</button>
+        </div>
+    </div>
+
+    <script>
+        // Object containing multiple quizzes
+        const quizzes = {
+            "Introduction to IA Law": [
+                {
+                    question: "Which of the following is NOT considered an investment adviser under the Investment Advisers Act of 1940?",
+                    answers: [
+                        { answer: "A lawyer who provides investment advice incidental to their legal practice.", correct: false },
+                        { answer: "A financial planner who charges a fee for creating financial plans.", correct: false },
+                        { answer: "A person who publishes a general market newsletter without specific client advice.", correct: true },
+                        { answer: "A bank trust department that manages client portfolios for a fee.", correct: false }
+                    ],
+                    explanation: "Publishers of bona fide newspapers, news magazines, or business publications of general and regular circulation are excluded from the definition of investment adviser under the Investment Advisers Act of 1940, provided they do not render advice based on specific client situations."
+                },
+                {
+                    question: "An investment adviser's brochure (Form ADV Part 2A) must be delivered to a client:",
+                    answers: [
+                        { answer: "At least annually, regardless of changes.", correct: false },
+                        { answer: "No later than the time of entering into an advisory contract.", correct: false },
+                        { answer: "Within 48 hours of entering into an advisory contract, or at the time of contract if the client has a 5-day right to terminate without penalty.", correct: true },
+                        { answer: "Only upon client request.", correct: false }
+                    ],
+                    explanation: "Under the Investment Advisers Act of 1940, an investment adviser must deliver the brochure at least 48 hours prior to entering into any advisory contract, or at the time of entering into the contract if the client has a right to terminate the contract without penalty within five business days after entering into the contract."
+                },
+                {
+                    question: "Which type of risk is most likely to be diversified away in a well-constructed portfolio?",
+                    answers: [
+                        { answer: "Systematic risk", correct: false },
+                        { answer: "Market risk", correct: false },
+                        { answer: "Unsystematic risk", correct: true },
+                        { answer: "Interest rate risk", correct: false }
+                    ],
+                    explanation: "Unsystematic risk (also known as specific risk or diversifiable risk) is the risk inherent in a specific company or industry. It can be reduced or eliminated through diversification, as opposed to systematic risk (market risk), which affects all investments and cannot be diversified away."
+                }
+            ],
+            "Investment Vehicles & Risk": [
+                {
+                    question: "Under the Uniform Securities Act, which of the following is NOT a security?",
+                    answers: [
+                        { answer: "An investment contract", correct: false },
+                        { answer: "A fixed annuity contract", correct: true },
+                        { answer: "A variable annuity contract", correct: false },
+                        { answer: "A certificate of interest in a profit-sharing agreement", correct: false }
+                    ],
+                    explanation: "Fixed annuity contracts are generally not considered securities because the insurer bears the investment risk and guarantees a fixed payout. Variable annuity contracts, however, are considered securities because the annuitant bears the investment risk."
+                },
+                {
+                    question: "A client's investment portfolio primarily consists of highly liquid, short-term money market instruments. What is the most significant risk associated with this portfolio?",
+                    answers: [
+                        { answer: "Credit risk", correct: false },
+                        { answer: "Inflation risk", correct: true },
+                        { answer: "Market risk", correct: false },
+                        { answer: "Liquidity risk", correct: false }
+                    ],
+                    explanation: "While money market instruments are highly liquid and have low credit and market risk, their low returns often mean that the purchasing power of the investment may be eroded by inflation, making inflation risk the most significant concern for such a portfolio."
+                },
+                {
+                    question: "Which of the following describes the risk that an issuer of a bond may not be able to make interest payments or repay the principal?",
+                    answers: [
+                        { answer: "Interest rate risk", correct: false },
+                        { answer: "Liquidity risk", correct: false },
+                        { answer: "Default risk (Credit risk)", correct: true },
+                        { answer: "Reinvestment risk", correct: false }
+                    ],
+                    explanation: "Default risk, also known as credit risk, is the possibility that a bond issuer will fail to make timely payments of interest or principal."
+                }
+            ]
+            // Add more quizzes here as needed
+        };
+
+        // DOM Elements
+        const startScreen = document.getElementById('start-screen');
+        const quizScreen = document.getElementById('quiz-screen');
+        const endScreen = document.getElementById('end-screen');
+        const quizButtonsContainer = document.getElementById('quiz-buttons-container'); // New element
+        const questionNumberElement = document.getElementById('question-number');
+        const questionTextElement = document.getElementById('question-text');
+        const optionsContainer = document.getElementById('options-container');
+        const feedbackTextElement = document.getElementById('feedback-text');
+        const submitButton = document.getElementById('submit-button');
+        const nextButton = document.getElementById('next-button');
+        const scoreElement = document.getElementById('score');
+        const totalQuestionsElement = document.getElementById('total-questions');
+        const finalScoreElement = document.getElementById('final-score');
+        const finalTotalQuestionsElement = document.getElementById('final-total-questions');
+        const retakeQuizButton = document.getElementById('retake-quiz-button');
+
+        // Quiz State Variables
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let selectedOptionButton = null;
+        let currentQuestions = []; // Array to hold questions for the selected quiz
+        let missedQuestions = []; // New array to store incorrectly answered questions
+        let isReviewingMissedQuestions = false; // Flag to indicate if we are in the review phase
+        let initialTotalQuestions = 0; // New variable to store the initial total questions
+        let missedQuestionsCount =  0; // New variable to store the number of missed questions
+
+        // Function to create quiz selection buttons
+        function createQuizButtons() {
+            quizButtonsContainer.innerHTML = ''; // Clear existing buttons
+            for (const quizName in quizzes) {
+                const button = document.createElement('button');
+                button.classList.add('quiz-selection-button');
+                button.textContent = `Start ${quizName} Quiz`;
+                button.dataset.quizName = quizName; // Store the quiz name in a data attribute
+                button.addEventListener('click', (event) => startQuiz(event.target.dataset.quizName));
+                quizButtonsContainer.appendChild(button);
+            }
+        }
+
+        // Function to shuffle array elements in place
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+            }
+        }
+
+        // Function to start the quiz
+        function startQuiz(quizName) {
+            currentQuestions = [...quizzes[quizName]]; // Copy the array to shuffle it
+            shuffleArray(currentQuestions); // Shuffle questions for the selected quiz
+
+            currentQuestionIndex = 0;
+            score = 0;
+            missedQuestions = []; // Reset missed questions for a new quiz
+            isReviewingMissedQuestions = false; // Reset review flag
+            initialTotalQuestions = currentQuestions.length; // Store the initial total questions
+
+            startScreen.classList.add('hidden');
+            quizScreen.classList.remove('hidden');
+            endScreen.classList.add('hidden');
+            totalQuestionsElement.textContent = initialTotalQuestions; // Display initial total
+            scoreElement.textContent = score;
+            loadQuestion();
+        }
+
+        // Function to load a question
+        function loadQuestion() {
+            // Reset state for new question
+            selectedOptionButton = null;
+            feedbackTextElement.textContent = '';
+            feedbackTextElement.className = 'feedback-text'; // Reset classes
+            submitButton.disabled = true;
+            nextButton.disabled = true;
+
+            if (currentQuestionIndex < currentQuestions.length) {
+                const currentQuestion = currentQuestions[currentQuestionIndex];
+                // Update question number display based on whether it's initial quiz or review
+                if (isReviewingMissedQuestions) {
+                    questionNumberElement.textContent = `Review Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
+                } else {
+                    questionNumberElement.textContent = `Question ${currentQuestionIndex + 1} of ${initialTotalQuestions}`;
+                }
+                
+                questionTextElement.textContent = currentQuestion.question;
+                optionsContainer.innerHTML = ''; // Clear previous options
+
+                // Shuffle answers before displaying them
+                const shuffledAnswers = [...currentQuestion.answers]; // Create a copy to shuffle
+                shuffleArray(shuffledAnswers);
+
+                shuffledAnswers.forEach((answer) => {
+                    const button = document.createElement('button');
+                    button.classList.add('option-button');
+                    button.textContent = answer.answer;
+                    button.dataset.correct = answer.correct; // Store correct in dataset
+                    button.addEventListener('click', () => selectOption(button));
+                    optionsContainer.appendChild(button);
+                });
+            } else {
+                // Quiz finished, check for missed questions
+                if (missedQuestions.length > 0) {
+                    // Update missed questions count
+                    missedQuestionsCount += missedQuestions.length;
+                    // Transition to reviewing missed questions
+                    currentQuestions = [...missedQuestions]; // Set currentQuestions to the missed ones
+                    shuffleArray(currentQuestions); // Shuffle missed questions too
+                    currentQuestionIndex = 0; // Start from the beginning of missed questions
+                    isReviewingMissedQuestions = true;
+                    // Clear missedQuestions for the next potential review cycle (if user retakes quiz)
+                    missedQuestions = [];
+                    // Update total questions displayed for the review phase
+                    totalQuestionsElement.textContent = initialTotalQuestions; // Keep initial total for score display
+                    scoreElement.textContent = score; // Score doesn't reset for review
+                    loadQuestion(); // Load the first missed question
+                } else {
+                    // No more questions or already reviewed missed questions
+                    showEndScreen();
+                }
+            }
+        }
+
+        // Function to handle option selection
+        function selectOption(button) {
+            // Remove 'selected' class from all options first
+            document.querySelectorAll('.option-button').forEach(btn => {
+                btn.classList.remove('selected');
+            });
+
+            // Add 'selected' class to the clicked button
+            button.classList.add('selected');
+            selectedOptionButton = button; // Store the button element
+            submitButton.disabled = false; // Enable submit button once an option is selected
+        }
+
+        // Function to submit the answer
+        function submitAnswer() {
+            if (selectedOptionButton === null) {
+                feedbackTextElement.textContent = 'Please select an answer.';
+                feedbackTextElement.classList.add('incorrect-feedback');
+                return;
+            }
+
+            const currentQuestion = currentQuestions[currentQuestionIndex];
+            const allOptionButtons = document.querySelectorAll('.option-button');
+
+            // Disable all option buttons after submission
+            allOptionButtons.forEach(button => button.disabled = true);
+
+            // Check if the selected option is correct using its dataset
+            if (selectedOptionButton.dataset.correct === 'true') {
+				if(!isReviewingMissedQuestions) {
+					score++;
+				}
+                scoreElement.textContent = score;
+                feedbackTextElement.textContent = 'Correct! ✅ ' + currentQuestion.explanation;
+                feedbackTextElement.classList.add('correct-feedback');
+                // Highlight the selected correct answer
+                selectedOptionButton.classList.add('correct');
+            } else {
+                // Add the missed question to the missedQuestions array
+                missedQuestions.push(currentQuestion);
+                feedbackTextElement.textContent = 'Incorrect. ❌ The correct answer was: ' + currentQuestion.answers.find(a => a.correct).answer + '. ' + currentQuestion.explanation;
+                feedbackTextElement.classList.add('incorrect-feedback');
+                // Highlight selected as incorrect
+                selectedOptionButton.classList.add('incorrect');
+                // Highlight the actual correct answer
+                allOptionButtons.forEach(button => {
+                    if (button.dataset.correct === 'true') {
+                        button.classList.add('correct');
+                    }
+                });
+            }
+            submitButton.disabled = true; // Disable submit after checking
+            nextButton.disabled = false; // Enable next button
+        }
+
+        // Function to move to the next question
+        function nextQuestion() {
+            currentQuestionIndex++;
+            loadQuestion();
+        }
+
+        // Function to show the end screen
+        function showEndScreen() {
+            quizScreen.classList.add('hidden');
+            endScreen.classList.remove('hidden');
+            finalScoreElement.textContent = score;
+            finalTotalQuestionsElement.textContent = initialTotalQuestions;// + missedQuestionsCount; // Use initialTotalQuestions here
+        }
+
+        // Event Listeners
+        submitButton.addEventListener('click', submitAnswer);
+        nextButton.addEventListener('click', nextQuestion);
+        retakeQuizButton.addEventListener('click', () => {
+            endScreen.classList.add('hidden');
+            startScreen.classList.remove('hidden');
+            createQuizButtons(); // Re-create buttons on retake
+        });
+
+        // Initial setup when the page loads
+        createQuizButtons();
+    </script>
+</body>
+</html>
