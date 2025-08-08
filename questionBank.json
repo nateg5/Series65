@@ -924,1259 +924,1259 @@
 		"explanation": "To avoid being classified as a taxable distribution, a loan must be repayable within 5 years at a reasonable interest rate. The requirements for unforeseeable emergencies apply to Section 457 Plans."
 	},
     {
-        "question": "If a client wishes the assets in her account to pass directly to specific beneficiaries after her death, her account should be titled",
-        "answers": [
-            {
-                "answer": "TIC",
-                "correct": false
-            },
-            {
-                "answer": "testamentary account",
-                "correct": false
-            },
-            {
-                "answer": "JTWROS",
-                "correct": false
-            },
-            {
-                "answer": "TOD",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>TOD (transfer on death) provides that, upon the death of the account holder, the assets pass to the named beneficiary or beneficiaries without going through probate.<br /><br />U18LO5</span>"
-    },
+		"question": "If a client wants the assets in her account to be transferred directly to specific beneficiaries upon her death, how should her account be titled?",
+		"answers": [
+			{
+				"answer": "TIC",
+				"correct": false
+			},
+			{
+				"answer": "testamentary account",
+				"correct": false
+			},
+			{
+				"answer": "JTWROS",
+				"correct": false
+			},
+			{
+				"answer": "TOD",
+				"correct": true
+			}
+		],
+		"explanation": "A TOD (transfer on death) designation ensures that, upon the account holder's death, the assets are transferred to the named beneficiary or beneficiaries without the need for probate."
+	},
+	{
+		"question": "Which type of analysis primarily uses financial statements?",
+		"answers": [
+			{
+				"answer": "Technical analysis",
+				"correct": false
+			},
+			{
+				"answer": "Fundamental analysis",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "What is the calculation used to compare the actual rate of return to the internal rate of return?",
+		"answers": [
+			{
+				"answer": "active rate of return",
+				"correct": false
+			},
+			{
+				"answer": "real rate of return",
+				"correct": false
+			},
+			{
+				"answer": "standard deviation",
+				"correct": false
+			},
+			{
+				"answer": "net present value",
+				"correct": true
+			}
+		],
+		"explanation": "Net present value (NPV) measures the actual rate of return against the required or internal rate of return. This calculation helps investors determine if they are earning more or less than necessary to convert their present value into future value."
+	},
     {
-        "question": "Financial statements",
-        "answers": [
-            {
-                "answer": "Technical analysis",
-                "correct": false
-            },
-            {
-                "answer": "Fundamental analysis",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "Which of the following statements about both traditional and Roth IRAs is TRUE?",
+		"answers": [
+			{
+				"answer": "Contributions are deductible.",
+				"correct": false
+			},
+			{
+				"answer": "Withdrawals at retirement are tax-free.",
+				"correct": false
+			},
+			{
+				"answer": "Earnings on investments are not taxed during the accumulation period.",
+				"correct": true
+			},
+			{
+				"answer": "Distributions must begin the year after the year the owner turns 70 1/2.",
+				"correct": false
+			}
+		],
+		"explanation": "Both traditional and Roth IRAs share the characteristic that investment earnings are not taxed during the accumulation phase. Traditional IRAs allow for tax-deductible contributions, but withdrawals are taxed. In contrast, Roth IRAs do not permit tax-deductible contributions, yet qualified withdrawals are tax-free. Traditional IRAs require distributions to start in the year after the owner reaches age 70 1/2, but this requirement does not apply to Roth IRAs."
+	},
+	{
+		"question": "A publicly traded corporation allows its employees to buy shares of the company's common stock directly from the issuer. A specific employee is assigned to process these stock orders. Under the USA, this employee",
+		"answers": [
+			{
+				"answer": "must register as an agent of the issuer",
+				"correct": false
+			},
+			{
+				"answer": "need not register as an agent of the issuer under any circumstances",
+				"correct": false
+			},
+			{
+				"answer": "may receive commissions without registration",
+				"correct": false
+			},
+			{
+				"answer": "must register as an agent if commissions or other compensation will be received by the employee, either directly or indirectly",
+				"correct": true
+			}
+		],
+		"explanation": "According to the USA, an individual is considered an agent when conducting transactions with an issuer's existing employees if commissions are involved. Therefore, the statement that the employee 'need not register as an agent of the issuer under any circumstances' is incorrect, as there are situations where registration is required."
+	},
+	{
+		"question": "Regarding an annuity, which of the following statements is correct? <br><br>I. Taxes on earned dividends, interest, and capital gains are paid annually until the owner withdraws money from the contract. <br>II. Random withdrawals are subject to LIFO tax rules. <br>III. Money invested in a nonqualified annuity represents the investor's cost basis. <br>IV. Upon withdrawal, the amount exceeding the investor's cost basis is taxed as ordinary income.",
+		"answers": [
+			{
+				"answer": "I only",
+				"correct": false
+			},
+			{
+				"answer": "I, II and IV",
+				"correct": false
+			},
+			{
+				"answer": "II, III and IV",
+				"correct": true
+			},
+			{
+				"answer": "IV only",
+				"correct": false
+			}
+		],
+		"explanation": "Withdrawals that are not annuitized are treated under LIFO tax rules; the money invested in an annuity is considered the investor's cost basis; and any amount withdrawn that exceeds the cost basis is taxed as ordinary income. Taxes on earned dividends, interest, and capital gains are not paid annually; instead, they are deferred and paid later when the owner withdraws funds from the contract."
+	},
     {
-        "question": "The calculation used to compare the actual rate of return compared to the internal rate of return is the",
-        "answers": [
-            {
-                "answer": "active rate of return",
-                "correct": false
-            },
-            {
-                "answer": "real rate of return",
-                "correct": false
-            },
-            {
-                "answer": "standard deviation",
-                "correct": false
-            },
-            {
-                "answer": "net present value",
-                "correct": true
-            }
-        ],
-        "explanation": "The net present value of an investment is a comparison of the actual rate of return compared to the required or internal rate of return. Investors would use this calculation to determine if they are earning more or less than required to turn their present value into future value."
-    },
+		"question": "According to the Uniform Securities Act, which of the following individuals is classified as an agent?",
+		"answers": [
+			{
+				"answer": "Secretary of a branch office sales manager",
+				"correct": false
+			},
+			{
+				"answer": "Clerk at a broker-dealer who is authorized to take orders",
+				"correct": true
+			},
+			{
+				"answer": "Silent partner of a broker-dealer",
+				"correct": false
+			},
+			{
+				"answer": "Broker-dealer executive who does not solicit or transact business",
+				"correct": false
+			}
+		],
+		"explanation": "An agent is anyone who solicits or receives orders while representing a broker-dealer. Silent partners, administrative staff, and broker-dealer executives without sales responsibilities do not qualify as agents under the USA, as they do not solicit or receive orders."
+	},
+	{
+		"question": "Regarding record-keeping, how long must investment advisers maintain records according to the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "5 years",
+				"correct": false
+			},
+			{
+				"answer": "5 years, with the first 2 years in the principal office of the adviser",
+				"correct": true
+			},
+			{
+				"answer": "3 years",
+				"correct": false
+			},
+			{
+				"answer": "3 years, with the first 2 years in the principal office of the adviser",
+				"correct": false
+			}
+		],
+		"explanation": "State-registered investment advisers are required to keep records for a total of 5 years, with the first 2 years' records maintained at the adviser's principal office."
+	},
+	{
+		"question": "An employee seeking long-term capital gain treatment would prefer their employer to offer",
+		"answers": [
+			{
+				"answer": "incentive stock options",
+				"correct": true
+			},
+			{
+				"answer": "non-qualified stock options",
+				"correct": false
+			},
+			{
+				"answer": "listed stock options",
+				"correct": false
+			},
+			{
+				"answer": "portable stock options",
+				"correct": false
+			}
+		],
+		"explanation": "If the time limit conditions are satisfied, exercising an incentive stock option (ISO) can lead to long-term capital gains, whereas non-qualified options are always treated as ordinary income."
+	},
     {
-        "question": "Which of the following statements regarding both traditional and Roth IRAs is TRUE?",
-        "answers": [
-            {
-                "answer": "Contributions are deductible.",
-                "correct": false
-            },
-            {
-                "answer": "Withdrawals at retirement are tax free.",
-                "correct": false
-            },
-            {
-                "answer": "Earnings on investments are not taxed during the accumulation period.",
-                "correct": true
-            },
-            {
-                "answer": "Distributions must begin the year after the year the owner reaches age 70 1/2.",
-                "correct": false
-            }
-        ],
-        "explanation": "The common factor for both traditional and Roth IRAs is that investment earnings are not taxed during the accumulation period. Traditional IRAs offer tax-deductible contributions but withdrawals are taxed. Roth IRAs do not offer tax-deductible contributions, but qualified withdrawals are tax free. Traditional IRAs require distributions to begin in the year after the year an owner reaches age 70 1/2, but this is not true for Roth IRAs."
-    },
+		"question": "What delays distributions until the owner chooses to receive them?",
+		"answers": [
+			{
+				"answer": "Accumulation unit",
+				"correct": false
+			},
+			{
+				"answer": "Joint and last survivor annuity",
+				"correct": false
+			},
+			{
+				"answer": "Deferred annuity",
+				"correct": true
+			},
+			{
+				"answer": "Variable annuity",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "Which of the following is NOT classified as a security under the USA?",
+		"answers": [
+			{
+				"answer": "A fixed annuity contract",
+				"correct": true
+			},
+			{
+				"answer": "Bonds issued by the Canadian national government",
+				"correct": false
+			},
+			{
+				"answer": "Treasury bonds issued by the U.S. government",
+				"correct": false
+			},
+			{
+				"answer": "Common stock issued by a bank",
+				"correct": false
+			}
+		],
+		"explanation": "A fixed annuity contract is considered an insurance contract, not a security."
+	},
+	{
+		"question": "Many institutional investors, particularly in the philanthropic sector, are increasingly using ESG factors when deciding where to invest their funds. These factors are best described as",
+		"answers": [
+			{
+				"answer": "exchange, sales, and general.",
+				"correct": false
+			},
+			{
+				"answer": "exchange, sensitivity, and growth.",
+				"correct": false
+			},
+			{
+				"answer": "earnings, systematic, and governmental.",
+				"correct": false
+			},
+			{
+				"answer": "environmental, social, and governance.",
+				"correct": true
+			}
+		],
+		"explanation": "The ESG factors that should be evaluated when analyzing a company include its environmental, social, and governance risk exposures."
+	},
     {
-        "question": "A publicly traded corporation offers its employees an opportunity to purchase shares of the company's common stock directly from the issuer. A specific employee of the company is designated to process any orders for that stock. Under the USA, the employee",
-        "answers": [
-            {
-                "answer": "must register as an agent of the issuer",
-                "correct": false
-            },
-            {
-                "answer": "need not register as an agent of the issuer under any circumstances",
-                "correct": false
-            },
-            {
-                "answer": "may receive commissions without registration",
-                "correct": false
-            },
-            {
-                "answer": "must register as an agent if commissions or other remuneration will be received by the employee, either directly or indirectly",
-                "correct": true
-            }
-        ],
-        "explanation": "Under the USA, an individual is an agent when effecting transactions with an issuer's existing employees if commissions are paid. Therefore, \"need not register as an agent of the issuer under any circumstances\" is not correct because there are cases where the employee would have to register as an agent."
-    },
+		"question": "A deceased individual's fractional interest in an account is retained by their estate. This arrangement is known as",
+		"answers": [
+			{
+				"answer": "Tenants in common",
+				"correct": true
+			},
+			{
+				"answer": "Full power of attorney",
+				"correct": false
+			},
+			{
+				"answer": "Discretionary authorization",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "Regarding exchange traded notes (ETNs):",
+		"answers": [
+			{
+				"answer": "Are considered liquid and safe",
+				"correct": false
+			},
+			{
+				"answer": "Include equity within their portfolio",
+				"correct": false
+			},
+			{
+				"answer": "Pay periodic interest payments",
+				"correct": false
+			},
+			{
+				"answer": "Are a type of exchange traded debt security offering a return that is linked to a market index",
+				"correct": true
+			}
+		],
+		"explanation": "Exchange traded notes are a form of exchange traded debt security that provides a return linked to a market index. Unlike traditional debt instruments, ETNs do not pay periodic interest payments. They represent an unsecured debt obligation of the issuer, typically a commercial bank or financial firm. ETNs are structured products designed for sophisticated investors, promising to pay the full value of the index at maturity, minus management fees. Investors in ETNs face credit risk from the issuer and market risk."
+	},
+	{
+		"question": "A portfolio manager who adopts a value investing strategy would most likely concentrate on",
+		"answers": [
+			{
+				"answer": "52-week highs and lows",
+				"correct": false
+			},
+			{
+				"answer": "financial statements",
+				"correct": true
+			},
+			{
+				"answer": "market capitalization",
+				"correct": false
+			},
+			{
+				"answer": "moving averages",
+				"correct": false
+			}
+		],
+		"explanation": "Value investors seek to identify undervalued opportunities, often analyzing the company's financial statements."
+	},
     {
-        "question": "With an annuity <br><br>I. taxes on earned dividends, interest, and capital gains are paid annually, until the owner withdraws money from the contract <br>II. random withdrawals are handled under LIFO tax rules <br>III. money invested in a nonqualified annuity represents the investor's cost basis <br>IV. upon withdrawal, the amount exceeding the investor's cost basis is taxed as ordinary income",
-        "answers": [
-            {
-                "answer": "I only",
-                "correct": false
-            },
-            {
-                "answer": "I, II and IV",
-                "correct": false
-            },
-            {
-                "answer": "II, III and IV",
-                "correct": true
-            },
-            {
-                "answer": "IV only",
-                "correct": false
-            }
-        ],
-        "explanation": "Money randomly withdrawn (not annuitized) is handled under LIFO tax rules; money invested in an annuity represents the investor's cost basis; and on withdrawal, the amount exceeding the investor's cost basis is taxed as ordinary income. Taxes on earned dividends, interest, and capital gains are not paid annually. They are deferred and paid later, when the owner withdraws money from the contract."
-    },
+		"question": "The CPI is a measure of inflation. Is this statement TRUE or FALSE?",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "The CPI is indeed a measure of inflation."
+	},
+	{
+		"question": "Which of the following elements would you expect to find in the investment policy statement (IPS) of a qualified plan? <br><br>I. Information from the summary plan document specified by the Department of Labor <br>II. The method for measuring the investment performance of the plan <br>III. A list of the portfolio assets as of the most recent quarter <br>IV. Investment limitations imposed on the portfolio managers",
+		"answers": [
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "I and IV",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": false
+			},
+			{
+				"answer": "II and IV",
+				"correct": true
+			}
+		],
+		"explanation": "The IPS should include details on how the investment performance of the plan is assessed and the investment parameters that portfolio managers must follow. It does not include the summary plan description (SPD), which is intended for employees to understand eligibility, vesting, matching contributions, etc. The IPS is designed to establish 'policy' for the portfolio rather than to list its composition."
+	},
+	{
+		"question": "An investment advisory contract does NOT need to include which of the following?",
+		"answers": [
+			{
+				"answer": "the fees and their method of computation",
+				"correct": false
+			},
+			{
+				"answer": "a statement prohibiting assignment of client accounts without client consent",
+				"correct": false
+			},
+			{
+				"answer": "the states in which the adviser is licensed to conduct business",
+				"correct": true
+			},
+			{
+				"answer": "notification requirement upon change in membership if an investment partnership",
+				"correct": false
+			}
+		],
+		"explanation": "The USA does not mandate that investment advisers include a list of states in which they are licensed to operate within their contracts. However, advisers are required to specify their fee computation method, include a statement prohibiting assignment without client consent, and provide notification of any changes in membership within the investment partnership."
+	},
     {
-        "question": "Which of the following persons is defined as an agent by the Uniform Securities Act?",
-        "answers": [
-            {
-                "answer": "Secretary of a branch office sales manager",
-                "correct": false
-            },
-            {
-                "answer": "Clerk at a broker-dealer who is authorized to take orders",
-                "correct": true
-            },
-            {
-                "answer": "Silent partner of a broker-dealer",
-                "correct": false
-            },
-            {
-                "answer": "Broker-dealer executive who does not solicit or transact business",
-                "correct": false
-            }
-        ],
-        "explanation": "Anyone who solicits or receives an order while representing a broker-dealer is an agent. Silent partners, administrative personnel, and executives of broker-dealers with no sales responsibilities are not agents under the terms of the USA because they do not solicit or receive orders."
-    },
+		"question": "Who is required to file Form PF?",
+		"answers": [
+			{
+				"answer": "SEC-registered advisers with at least $150 million in private fund assets under management",
+				"correct": true
+			},
+			{
+				"answer": "SEC-exempt reporting advisers",
+				"correct": false
+			},
+			{
+				"answer": "SEC-registered advisers with no more than $150 million in private fund assets under management",
+				"correct": false
+			},
+			{
+				"answer": "state-registered private fund managers, regardless of the amount of assets under management",
+				"correct": false
+			}
+		],
+		"explanation": "Form PF is required to be filed by private fund managers registered with the SEC who manage private fund assets reaching or exceeding $150 million. Exempt reporting advisers are not required to file this form, and state-registered advisers do not report on it because if they reached the $150 million threshold, they would need to register with the SEC."
+	},
+	{
+		"question": "In which of the following is a risk-free rate of return utilized?",
+		"answers": [
+			{
+				"answer": "Capital asset pricing model",
+				"correct": true
+			},
+			{
+				"answer": "Strong form of efficient market hypothesis",
+				"correct": false
+			},
+			{
+				"answer": "Weak form of efficient market hypothesis",
+				"correct": false
+			},
+			{
+				"answer": "Modern portfolio theory",
+				"correct": false
+			}
+		],
+		"explanation": "The Capital Asset Pricing Model (CAPM) employs the risk-free rate to determine the expected return for a specific security based on its risk."
+	},
+	{
+		"question": "In the banking sector, the term POD refers to an account similar to the TOD designation used by broker-dealers. An older, yet sometimes still used term for this type of account is",
+		"answers": [
+			{
+				"answer": "demand deposit account (DDA)",
+				"correct": false
+			},
+			{
+				"answer": "Totten trust",
+				"correct": true
+			},
+			{
+				"answer": "revocable trust",
+				"correct": false
+			},
+			{
+				"answer": "passbook savings account",
+				"correct": false
+			}
+		],
+		"explanation": "The term 'Totten trust' originates from a 1904 New York court decision in the case In re Totten. The ruling established that an individual could open a bank account as a trustee for another person, who would not have rights to the funds until the account owner passed away. The account owner acts as the trustee, managing the funds that will eventually go to the trust beneficiary, and can change beneficiaries as needed. Regardless of whether it is referred to as a Totten trust or a POD account, the outcome remains the same."
+	},
     {
-        "question": "With regard to the keeping of records, the Uniform Securities Act states that investment advisers must keep records for",
-        "answers": [
-            {
-                "answer": "5 years",
-                "correct": false
-            },
-            {
-                "answer": "5 years, the first 2 in the principal office of the adviser",
-                "correct": true
-            },
-            {
-                "answer": "3 years",
-                "correct": false
-            },
-            {
-                "answer": "3 years, the first 2 in the principal office of the adviser",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>For state-registered investment advisers, records must be kept for a total of 5 years. For the first 2 of those years, they must be located in the principal office of the adviser.<br /><br />U1LO5</span>"
-    },
+		"question": "What is the strategy behind covered call writing?",
+		"answers": [
+			{
+				"answer": "selling a call option on a security that the investor owns to decrease the stock's return volatility and earn income from the premium",
+				"correct": true
+			},
+			{
+				"answer": "purchasing two call options on the same security owned to amplify the position",
+				"correct": false
+			},
+			{
+				"answer": "acquiring a call option on a security that has been sold short",
+				"correct": false
+			},
+			{
+				"answer": "selling a call option on an index that includes some of the securities in the investor's portfolio",
+				"correct": false
+			}
+		],
+		"explanation": "A covered call is defined as an investor holding 100 shares of the underlying stock for each option sold. The premium earned not only provides income but also offers some downside protection equivalent to the amount received."
+	},
+	{
+		"question": "Short selling stock is considered a high-risk investment strategy. Which of the following methods does NOT provide any level of protection?",
+		"answers": [
+			{
+				"answer": "purchasing a call option on the shorted stock.",
+				"correct": false
+			},
+			{
+				"answer": "purchasing a put option on the shorted stock.",
+				"correct": true
+			},
+			{
+				"answer": "selling a put option on the shorted stock.",
+				"correct": false
+			},
+			{
+				"answer": "placing a buy stop order for the shorted stock.",
+				"correct": false
+			}
+		],
+		"explanation": "The primary risk of short selling is that the stock price may increase instead of decrease. Buyers of put options share the same market perspective as short sellers—they profit when the security's price drops. Acquiring a put option is akin to 'doubling down' on the bet. The most effective way to hedge a short position is to buy a call option on the security, ensuring a guaranteed 'buy-back' price regardless of how high the stock price climbs. Selling a put option allows the seller to keep the premium if the stock price rises, partially offsetting any losses. A buy stop order will trigger a market order to buy the stock once the price exceeds the stop price, closing the position and preventing further losses."
+	},
+	{
+		"question": "<p>Regulators express concern when agents and investment adviser representatives utilize social media to interact with clients from their:<br><br>I. Laptops<br>II. Desktops<br>III. Mobile phones<br>IV. Home computers<br></p>",
+		"answers": [
+			{
+				"answer": "I, II, III, IV",
+				"correct": true
+			},
+			{
+				"answer": "I, III",
+				"correct": false
+			},
+			{
+				"answer": "III",
+				"correct": false
+			},
+			{
+				"answer": "IV",
+				"correct": false
+			}
+		],
+		"explanation": "<p>Regulators are concerned regardless of the device used when agents and investment adviser representatives communicate with clients via social media.<br></p>"
+	},
     {
-        "question": "An employee wishing to obtain long-term capital gain treatment would prefer the employer to offer",
-        "answers": [
-            {
-                "answer": "incentive stock options",
-                "correct": true
-            },
-            {
-                "answer": "non-qualified stock options",
-                "correct": false
-            },
-            {
-                "answer": "listed stock options",
-                "correct": false
-            },
-            {
-                "answer": "portable stock options ",
-                "correct": false
-            }
-        ],
-        "explanation": "Assuming the time limit conditions are met, exercise of an ISO can result in longterm capital gains while non-qualified options are always treated as ordinary income. "
-    },
+		"question": "Which form of the efficient markets hypothesis (EMH) aligns with the belief that no information, including non-public insider information, can be used to predict future market movements?",
+		"answers": [
+			{
+				"answer": "Weak form",
+				"correct": false
+			},
+			{
+				"answer": "Semi-strong form",
+				"correct": false
+			},
+			{
+				"answer": "Strong form",
+				"correct": true
+			},
+			{
+				"answer": "Semi-weak form",
+				"correct": false
+			}
+		],
+		"explanation": "<div><p>The efficient market hypothesis (EMH) posits that all available information is already reflected in the market prices of securities. A strong belief in EMH often leads investors to manage their portfolios passively, favoring index funds and exchange-traded funds (ETFs).</p><p>Strong form EMH asserts that all information, including private data, is incorporated into market prices. In contrast, semi-strong form EMH suggests that while private information can influence future price predictions, insider trading remains illegal. Weak form EMH indicates that some publicly available information related to fundamental analysis can be used to forecast future price movements.</p><p>It is important to note that semi-weak form EMH is not a recognized category.</p></div>"
+	},
+	{
+		"question": "Which of the following statements about agent registration under the Uniform Securities Act is CORRECT?",
+		"answers": [
+			{
+				"answer": "In the absence of any action by the Administrator, a registration becomes effective at noon on the 30th day after a complete application is filed.",
+				"correct": true
+			},
+			{
+				"answer": "If the Administrator requests amendments to the application before the registration becomes effective, the registration will be considered to have been filed on the original filing date.",
+				"correct": false
+			},
+			{
+				"answer": "The Administrator can ask the agent to provide a statement of assets and liabilities.",
+				"correct": false
+			},
+			{
+				"answer": "The Administrator can initiate disciplinary action within two years after an agent withdraws their registration.",
+				"correct": false
+			}
+		],
+		"explanation": "Typically, the registration of individuals takes effect at noon on the 30th day following the filing. If the Administrator requires amendments, the timeline resets with the submission of those amendments, not the initial filing date. Agents do not have financial requirements, and the Administrator has up to one year after termination to initiate any actions."
+	},
+	{
+		"question": "What are SEP IRAs?",
+		"answers": [
+			{
+				"answer": "are primarily utilized by large corporations",
+				"correct": false
+			},
+			{
+				"answer": "are primarily utilized by small businesses",
+				"correct": true
+			},
+			{
+				"answer": "are established by nonemployees",
+				"correct": false
+			},
+			{
+				"answer": "cannot be established by self-employed individuals",
+				"correct": false
+			}
+		],
+		"explanation": "SEP IRAs are commonly set up by small businesses and self-employed individuals because they are simpler and more cost-effective to establish and manage compared to other retirement plans."
+	},
     {
-        "question": "Delays distributions until the owner elects to receive them",
-        "answers": [
-            {
-                "answer": "Accumulation unit",
-                "correct": false
-            },
-            {
-                "answer": "Joint and last survivor annuity",
-                "correct": false
-            },
-            {
-                "answer": "Deferred annuity",
-                "correct": true
-            },
-            {
-                "answer": "Variable annuity",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "Which of the following would NOT be of interest to a fundamental analyst?",
+		"answers": [
+			{
+				"answer": "data from the U.S. Department of Commerce regarding disposable income",
+				"correct": false
+			},
+			{
+				"answer": "developments in the automotive industry",
+				"correct": false
+			},
+			{
+				"answer": "annual reports from corporations",
+				"correct": false
+			},
+			{
+				"answer": "daily trading volumes on the NYSE",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Daily trading volume is a focus for technical analysts, who examine market fluctuations rather than fundamental economic indicators.<br /><br />U12LO6</span>"
+	},
+	{
+		"question": "Which of the following statements about college funding plans is FALSE?",
+		"answers": [
+			{
+				"answer": "funds in ESAs can be withdrawn tax-free even if the child is under 18",
+				"correct": false
+			},
+			{
+				"answer": "funds in 529 plans can only be withdrawn tax-free if used at an accredited educational institution",
+				"correct": false
+			},
+			{
+				"answer": "Section 529 plans permit a gift tax exclusion that is five times the annual limit, which can be repeated every five years",
+				"correct": false
+			},
+			{
+				"answer": "if a beneficiary of an ESA withdraws funds for nonqualified expenses, they will be taxed on the full withdrawal amount plus a 10% penalty",
+				"correct": true
+			}
+		],
+		"explanation": "The tax and 10% penalty apply only to the earnings, as contributions are made with after-tax dollars."
+	},
+	{
+		"question": "If an investment adviser wants to promote a proprietary charting system for market timing, what must they do to comply with the Investment Advisers Act of 1940?",
+		"answers": [
+			{
+				"answer": "the advertisement must be submitted to the relevant SRO within 10 business days of its initial use",
+				"correct": false
+			},
+			{
+				"answer": "the creator of the system must be clearly identified in the advertisement",
+				"correct": false
+			},
+			{
+				"answer": "the advertisement must include a statement about the limitations and challenges of using the system",
+				"correct": true
+			},
+			{
+				"answer": "results from using the system must be presented over a minimum period of 12 months",
+				"correct": false
+			}
+		],
+		"explanation": "Any advertisement that describes a charting system or formula must clearly state the limitations and challenges associated with its use. U6LO5"
+	},
     {
-        "question": "Which of the following is NOT defined as a security under the USA?",
-        "answers": [
-            {
-                "answer": "A fixed annuity contract",
-                "correct": true
-            },
-            {
-                "answer": "Bonds issued by the Canadian national government",
-                "correct": false
-            },
-            {
-                "answer": "Treasury bonds issued by the U.S. government",
-                "correct": false
-            },
-            {
-                "answer": "Common stock issued by a bank",
-                "correct": false
-            }
-        ],
-        "explanation": "A fixed annuity contract is an insurance contract, not a security."
-    },
+		"question": "Which of the following statements regarding dividends on common stock is FALSE?",
+		"answers": [
+			{
+				"answer": "Only shareholders who own the stock on the record date will receive dividends",
+				"correct": false
+			},
+			{
+				"answer": "Corporations are legally required to pay dividends to their shareholders every year",
+				"correct": true
+			},
+			{
+				"answer": "Dividends are a proportional distribution of corporate profits to shareholders",
+				"correct": false
+			},
+			{
+				"answer": "Dividends can be issued in cash, property, or additional stock",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Dividends are a portion of a corporation's profits distributed to shareholders as owners. They are not automatically paid, and shareholders do not have a legal right to receive them. Instead, dividends must be declared by the corporation's board of directors, who may choose to pay them in cash, property, or stock.<br /><br />U12LO2</span>"
+	},
+	{
+		"question": "According to the Investment Advisers Act of 1940, a registered investment adviser providing advisory services to individuals must",
+		"answers": [
+			{
+				"answer": "maintain a minimum net worth of $100,000",
+				"correct": false
+			},
+			{
+				"answer": "restrict advice to securities listed on major exchanges",
+				"correct": false
+			},
+			{
+				"answer": "refrain from controlling or holding client funds and securities",
+				"correct": false
+			},
+			{
+				"answer": "supply each new client with a disclosure statement or brochure at the time of entering into the advisory agreement",
+				"correct": true
+			}
+		],
+		"explanation": "The brochure rule mandates that each client receives a written disclosure statement from the adviser no later than when the advisory agreement is signed. This may include a copy of Part 2A and 2B of Form ADV or another document with similar information. There are no minimum net worth requirements for SEC-registered investment advisers."
+	},
+	{
+		"question": "Can an individual under the age of 70 1/2 contribute to a traditional IRA?",
+		"answers": [
+			{
+				"answer": "only if they have earned income",
+				"correct": true
+			},
+			{
+				"answer": "only if they are not covered by an employer-sponsored pension plan",
+				"correct": false
+			},
+			{
+				"answer": "only if they do not have a Keogh plan",
+				"correct": false
+			},
+			{
+				"answer": "only if their adjusted gross income falls between $91,000 and $118,000 if married, and $61,000 and $71,000 if single",
+				"correct": false
+			}
+		],
+		"explanation": "Any individual with earned income who is under 70 1/2 years old is eligible to contribute to a traditional IRA. The ability to deduct those contributions will depend on their coverage under qualified plans and their income level."
+	},
     {
-        "question": "Increasingly, many institutional investors, especially those in the philanthropic arena, are using ESG factors when considering where to invest their funds. Those factors are most accurately described as",
-        "answers": [
-            {
-                "answer": "exchange, sales, and general.",
-                "correct": false
-            },
-            {
-                "answer": "exchange, sensitivity, and growth.",
-                "correct": false
-            },
-            {
-                "answer": "earnings, systematic, and governmental.",
-                "correct": false
-            },
-            {
-                "answer": "environmental, social, and governance.",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>The ESG business factors that should be considered when analyzing a firm are a company's environmental, social, and governance risk exposures.<br /><br />U18LO4</span>"
-    },
+		"question": "According to the Uniform Securities Act, which of the following statements about a sale, an offer, or an offer and sale are TRUE?<br><br>I. Any security provided as a bonus for the purchase of other securities is considered to have been offered and sold for value.<br>II. A supposed gift of assessable stock is regarded as involving an offer and sale.<br>III. Every sale or offer of a warrant or stock right to purchase or subscribe to another security is deemed to include an offer of the other security.<br>IV. A genuine pledge is considered an offer and sale.",
+		"answers": [
+			{
+				"answer": "I, II, and III",
+				"correct": true
+			},
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "II and IV",
+				"correct": false
+			},
+			{
+				"answer": "III and IV",
+				"correct": false
+			}
+		],
+		"explanation": "The term 'sale' does not encompass a genuine pledge. However, it does include securities given as bonuses with purchases and gifts of assessable stock, as the owner of assessable stock may be required to provide additional funds. Sales of rights or warrants are considered offers of the underlying security."
+	},
+	{
+		"question": "For a registered representative (RR) to be held liable in an AML legal prosecution, they:",
+		"answers": [
+			{
+				"answer": "must have actively participated in facilitating the money laundering.",
+				"correct": false
+			},
+			{
+				"answer": "must have gained from the money laundering.",
+				"correct": false
+			},
+			{
+				"answer": "may only need to be shown to have ignored the activity.",
+				"correct": true
+			},
+			{
+				"answer": "must have initiated the activity.",
+				"correct": false
+			}
+		],
+		"explanation": "While some of the other options may seem appealing, the term 'MUST' is a warning sign whenever it appears in a test question."
+	},
+	{
+		"question": "Which of the following statements about investment companies is FALSE?",
+		"answers": [
+			{
+				"answer": "The Investment Company Act of 1940 categorizes investment companies into three types: face-amount certificate companies, unit investment trusts, and management investment companies.",
+				"correct": false
+			},
+			{
+				"answer": "An investment company can provide investors with two methods of participating in the fund: by purchasing closed-end shares or, if preferred, open-end redeemable shares.",
+				"correct": true
+			},
+			{
+				"answer": "When investors sell or redeem their open-end fund shares, they receive the net asset value (NAV) based on the forward pricing rule.",
+				"correct": false
+			},
+			{
+				"answer": "When investors sell their closed-end fund shares, they may receive an amount lower than the current net asset value.",
+				"correct": false
+			}
+		],
+		"explanation": "An investment company cannot offer investors two methods of participating in the fund. The fund must either be a closed-end fund with shares traded in the market or an open-end fund with redeemable shares. The Investment Company Act of 1940 classifies investment companies into three types: FACs, UITs, and management investment companies. When investors sell or redeem their open-end fund shares, they receive the NAV as of the close of the day the order is received (i.e., based on the next computed NAV after the order arrives). Since closed-end fund shares are priced based on supply and demand, the price received when selling may be higher, lower, or equal to the NAV."
+	},
     {
-        "question": "A deceased's fractional interest in an account is retained by his estate",
-        "answers": [
-            {
-                "answer": "Tenants in common",
-                "correct": true
-            },
-            {
-                "answer": "Full power of attorney",
-                "correct": false
-            },
-            {
-                "answer": "Discretionary authorization",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "The value of a separate account is determined by its performance in which type of annuity?",
+		"answers": [
+			{
+				"answer": "Accumulation unit",
+				"correct": false
+			},
+			{
+				"answer": "Joint and last survivor annuity",
+				"correct": false
+			},
+			{
+				"answer": "Deferred annuity",
+				"correct": false
+			},
+			{
+				"answer": "Variable annuity",
+				"correct": true
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "A country looking to restructure its debt using Brady bonds aims to reduce its debt servicing costs.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "One advantage of Brady bonds is that they allow sovereign governments to borrow at a lower cost due to the collateral backing the bond."
+	},
+	{
+		"question": "What is a defining characteristic of an S corporation?",
+		"answers": [
+			{
+				"answer": "flow-through tax treatment",
+				"correct": true
+			},
+			{
+				"answer": "limited lifetime",
+				"correct": false
+			},
+			{
+				"answer": "more than 100 shareholders",
+				"correct": false
+			},
+			{
+				"answer": "unlimited personal liability",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Shareholders of an S corporation enjoy limited liability, are restricted to a maximum of 100 shareholders, and benefit from flow-through tax treatment.<br /><br />U18LO3</span>"
+	},
     {
-        "question": "<p>Exchange traded notes:<br></p>",
-        "answers": [
-            {
-                "answer": "Are considered liquid and safe",
-                "correct": false
-            },
-            {
-                "answer": "Include equity within their portfolio",
-                "correct": false
-            },
-            {
-                "answer": "Pay periodic interest payments",
-                "correct": false
-            },
-            {
-                "answer": "Are a type of exchange traded debt security offering a return that is linked to a market index",
-                "correct": true
-            }
-        ],
-        "explanation": "<p>Exchange traded notes are a type of exchange traded debt security offering a return that is linked to a market index. An ETN does not pay periodic interest payments, as traditional debt instruments do. An ETN is an unsecured debt obligation of the issuer, usually a commercial bank or other financial firm. ETNs are a type of structured product suitable for sophisticated investors. The ETN promises to pay, at maturity, the full value of the index, minus the management fee. ETNs expose the investor to credit risk of the issuer and market risk.<br></p>"
-    },
+		"question": "A company reports the following items on its balance sheet:<br><br>Long-term liabilities: $10,000,000<br>Par value of common stock: $5,000,000<br>Paid-in capital: $10,000,000<br>Retained earnings: $25,000,000<br><br>What is the company's debt to equity ratio?",
+		"answers": [
+			{
+				"answer": "4:1",
+				"correct": false
+			},
+			{
+				"answer": "1:3",
+				"correct": false
+			},
+			{
+				"answer": "3:1",
+				"correct": false
+			},
+			{
+				"answer": "1:4",
+				"correct": true
+			}
+		],
+		"explanation": "The debt to equity ratio is determined by dividing long-term liabilities by stockholders' equity. Stockholders' equity is calculated by adding the par value of common stock and any preferred stock issued to the paid-in capital and retained earnings. Thus, $10,000,000 / $40,000,000 = 1:4."
+	},
+	{
+		"question": "A bond analyst is creating a yield curve and observes that short-term maturities have higher yields than intermediate and long-term maturities. This situation is an example of a(n)",
+		"answers": [
+			{
+				"answer": "inverted yield curve",
+				"correct": true
+			},
+			{
+				"answer": "positive yield curve",
+				"correct": false
+			},
+			{
+				"answer": "normal yield curve",
+				"correct": false
+			},
+			{
+				"answer": "algorithmic yield curve",
+				"correct": false
+			}
+		],
+		"explanation": "An inverted, or negative, yield curve occurs when short-term debt instruments yield more than those with longer maturities. Conversely, a positive or normal yield curve is characterized by increasing yields as maturities lengthen."
+	},
+	{
+		"question": "Which money market instrument typically offers a lower interest rate compared to others of similar maturity?",
+		"answers": [
+			{
+				"answer": "Commercial paper",
+				"correct": false
+			},
+			{
+				"answer": "T-bills",
+				"correct": false
+			},
+			{
+				"answer": "CDs",
+				"correct": false
+			},
+			{
+				"answer": "Tax-exempt municipal notes",
+				"correct": true
+			}
+		],
+		"explanation": "<p>Generally, the tax-free status of municipal notes leads to a lower interest rate, which, when considering taxes, is likely to remain competitive.</p>"
+	},
     {
-        "question": "A portfolio manager who follows the value style of investing would most likely focus her attention on",
-        "answers": [
-            {
-                "answer": "52-week highs and lows",
-                "correct": false
-            },
-            {
-                "answer": "financial statements",
-                "correct": true
-            },
-            {
-                "answer": "market capitalization",
-                "correct": false
-            },
-            {
-                "answer": "moving averages",
-                "correct": false
-            }
-        ],
-        "explanation": "Value managers look for value, as found on the company's financial statements."
-    },
+		"question": "A broker-dealer cannot open an account for which of the following?",
+		"answers": [
+			{
+				"answer": "a trust.",
+				"correct": false
+			},
+			{
+				"answer": "the estate of a deceased person.",
+				"correct": false
+			},
+			{
+				"answer": "a city.",
+				"correct": false
+			},
+			{
+				"answer": "a deceased person",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Broker-dealers are permitted to open accounts only for individuals as defined by the Uniform Securities Act. There are three categories of non-persons: minors, deceased individuals, and those declared mentally incompetent. The term 'person' is quite broad and includes political entities like cities and states. While a deceased individual is not considered a person, their estate can still have an account.<br /><br />U18LO1</span>"
+	},
+	{
+		"question": "According to the Uniform Securities Act, which of the following statements about unsolicited orders is TRUE?",
+		"answers": [
+			{
+				"answer": "If the order ticket is properly marked, the Administrator cannot dispute a broker-dealer's claim that the order was unsolicited.",
+				"correct": false
+			},
+			{
+				"answer": "In certain situations, an Administrator may prevent a broker-dealer registered in the state from accepting any unsolicited orders.",
+				"correct": false
+			},
+			{
+				"answer": "A client cannot purchase securities trading in the secondary market on their own initiative if the agent is otherwise prohibited from soliciting the order.",
+				"correct": false
+			},
+			{
+				"answer": "An unsolicited order from a non-institutional client for an unregistered, nonexempt security is deemed a transaction exempt from the registration and advertising filing requirements of the act.",
+				"correct": true
+			}
+		],
+		"explanation": "Clients have the right to buy or sell any securities they wish. The key issue is who initiates the trade. An unsolicited transaction can be executed by an agent if the client requests the trade. The trade ticket should be marked as unsolicited. The State Securities Administrator has the authority to verify with the client that the trade was indeed unsolicited. The security involved can be nonexempt and unregistered in the state. U4LO3"
+	},
+	{
+		"question": "For a 29-year-old single client with a high risk tolerance, low tax bracket, and $50,000 in savings, which asset class can we exclude from our recommendations?",
+		"answers": [
+			{
+				"answer": "Money market funds",
+				"correct": false
+			},
+			{
+				"answer": "Municipal bond funds",
+				"correct": true
+			},
+			{
+				"answer": "Emerging market stock funds",
+				"correct": false
+			},
+			{
+				"answer": "Individual dividend-paying stocks",
+				"correct": false
+			}
+		],
+		"explanation": "<p><span>Given the client's low tax bracket and long investment horizon, municipal bonds can be excluded from the recommendations.</span></p>"
+	},
     {
-        "question": "The CPI is a measurement of inflation.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": true
-            },
-            {
-                "answer": "False",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "The CPI is a measurement of inflation."
-    },
+		"question": "According to NASAA's Model Rule on Unethical Business Practices of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers, when is it considered unethical for an investment adviser to borrow money from a client?",
+		"answers": [
+			{
+				"answer": "When the client is a bank or financial institution that lends money",
+				"correct": false
+			},
+			{
+				"answer": "When the client is an affiliate of the investment adviser",
+				"correct": false
+			},
+			{
+				"answer": "When the client is a broker-dealer",
+				"correct": false
+			},
+			{
+				"answer": "When the client is an immediate family member",
+				"correct": true
+			}
+		],
+		"explanation": "It is deemed unethical to borrow money or securities from a client unless the client is a broker-dealer, a bank, or another financial institution engaged in lending, or an affiliated person of the adviser. Borrowing from a client can create a conflict of interest and may influence the advice given. Even when the client is a family member, borrowing is not permissible unless it meets one of the specified conditions. The question does not indicate that the family member meets any of those conditions, and such details will be clearly stated in exam questions."
+	},
+	{
+		"question": "An applicant for registration as an IAR in this state was convicted 4 years ago of a non-financial crime in another state. In that state, the crime was classified as a misdemeanor, but in this state, it is considered a felony. When reviewing this IAR's application, the Administrator will",
+		"answers": [
+			{
+				"answer": "consider the crime as any felony",
+				"correct": false
+			},
+			{
+				"answer": "consider the crime as a non-financial misdemeanor",
+				"correct": true
+			},
+			{
+				"answer": "consider the crime as a non-financial felony",
+				"correct": false
+			},
+			{
+				"answer": "censure the investment adviser for considering employing this individual",
+				"correct": false
+			}
+		],
+		"explanation": "Although the crime is classified as a felony in the state where registration is being sought, the applicant's record indicates a misdemeanor, meaning this individual would not face statutory disqualification."
+	},
+	{
+		"question": "Among the investment vehicles listed below, which one trades on an exchange at a price that is not related to its underlying value?",
+		"answers": [
+			{
+				"answer": "private hedge fund",
+				"correct": false
+			},
+			{
+				"answer": "open-end investment company",
+				"correct": false
+			},
+			{
+				"answer": "closed-end investment company",
+				"correct": true
+			},
+			{
+				"answer": "all of the above",
+				"correct": false
+			}
+		],
+		"explanation": "Closed-end shares are traded on major stock exchanges, and their market price is influenced by supply and demand, rather than the underlying value of the fund's portfolio. In contrast, the pricing of open-end funds (mutual funds) is directly based on the net asset value of the portfolio. Additionally, neither private hedge funds nor mutual funds trade on an exchange. Therefore, option C is the only choice that trades on an exchange."
+	},
     {
-        "question": "Which of the following would you expect to see in the investment policy statement of a qualified plan? <br><br>I. The information in the summary plan document specified by the Department of Labor <br>II. The method to be used to measure the investment performance of the plan <br>III. A listing of the portfolio assets as of the most recent quarter <br>IV. Investment limitations placed on the portfolio managers",
-        "answers": [
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "I and IV",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": true
-            }
-        ],
-        "explanation": "The IPS would include information on how the investment performance of the plan is measured as well as the investment parameters to be followed by the portfolio managers. It would not include the summary plan description (document), generally referred to by the initials SPD. That is for the employees' to learn about eligibility, vesting, matching contributions, etc. It has nothing to do with how the money is invested. The purpose of the IPS is to set \"policy\" for the portfolio, not to list its composition."
-    },
+		"question": "Which of the following individuals are considered fiduciaries? <br><br>I. Executor of an estate <br>II. Administrator of a trust <br>III. Custodian of an UGMA/UTMA account <br>IV. Conservator for a legally incompetent person",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": false
+			},
+			{
+				"answer": "I, II and III",
+				"correct": false
+			},
+			{
+				"answer": "III and IV",
+				"correct": false
+			},
+			{
+				"answer": "I, II, III and IV",
+				"correct": true
+			}
+		],
+		"explanation": "All individuals listed have fiduciary responsibilities due to the authority entrusted to them."
+	},
+	{
+		"question": "The general partner is fully liable for all losses and debts of the partnership.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "The general partner bears full liability for all partnership losses and debts."
+	},
+	{
+		"question": "The term 'federal covered investment adviser' applies to a person who",
+		"answers": [
+			{
+				"answer": "is registered as such under the Investment Advisers Act of 1940",
+				"correct": true
+			},
+			{
+				"answer": "restricts the advice offered solely to securities listed on the New York Stock Exchange (NYSE)",
+				"correct": false
+			},
+			{
+				"answer": "is registered as such under the Investment Company Act of 1940",
+				"correct": false
+			},
+			{
+				"answer": "restricts the advice offered solely to securities issued or guaranteed by the U.S. government or one of its political subdivisions",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Only those who register as federal covered investment advisers under the Investment Advisers Act of 1940 are classified as such. Merely providing advice on exchange-listed securities (which are considered federal covered securities) does not qualify someone as a federal covered adviser. If the assets under management (AUM) are below $100 million, registration is typically only possible at the state level unless an exception applies. While the term 'federal covered adviser' does include those who limit their advice to securities issued or guaranteed by the U.S. government, it does not apply if the advice pertains to political subdivisions (such as states or cities).<br /><br />U1LO5</span>"
+	},
     {
-        "question": "An investment advisory contract need NOT include",
-        "answers": [
-            {
-                "answer": "the fees and their method of computation",
-                "correct": false
-            },
-            {
-                "answer": "a statement prohibiting assignment of client accounts without client consent",
-                "correct": false
-            },
-            {
-                "answer": "the states in which the adviser is licensed to conduct business",
-                "correct": true
-            },
-            {
-                "answer": "notification requirement upon change in membership if an investment partnership ",
-                "correct": false
-            }
-        ],
-        "explanation": "The USA does not require investment advisers to include in their contracts a list of those states in which they are licensed to do business. The USA does require advisers to include their method of computing fees, a statement prohibiting assignment without client consent, and notification of change in membership of the investment partnership."
-    },
+		"question": "Which of the following low-risk investments is closest to being riskless?",
+		"answers": [
+			{
+				"answer": "Money market instrument",
+				"correct": false
+			},
+			{
+				"answer": "Non-callable funded debt",
+				"correct": false
+			},
+			{
+				"answer": "Treasury bill",
+				"correct": true
+			},
+			{
+				"answer": "Treasury note",
+				"correct": false
+			}
+		],
+		"explanation": "The key term here is 'riskless.' Treasury bills have maturities of 52 weeks or less and are issued by the U.S. Government, which is the safest issuer available."
+	},
+	{
+		"question": "Which of the following is NOT considered a person as defined by the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "XYZ Dry Cleaners, Inc., whose shareholders all work on the premises and also provide financial advice to customers who request it.",
+				"correct": false
+			},
+			{
+				"answer": "A small unincorporated investment club.",
+				"correct": false
+			},
+			{
+				"answer": "A child prodigy for whom his mother, as custodian, opened an account at a major securities firm.",
+				"correct": true
+			},
+			{
+				"answer": "Guelph, a small city outside of Toronto, Ontario, that maintains an investment account at a brokerage house to invest surplus funds.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>According to the Uniform Securities Act, the term 'person' has a specific definition. 'Person' includes individuals, corporations, associations, joint-stock companies, trusts, unincorporated organizations, governments, or political subdivisions of a government. A minor child is not considered a person legally capable of entering into contracts. Therefore, custodial accounts must be opened by adults on behalf of minor children.<br /><br />U1LO1</span>"
+	},
+	{
+		"question": "Investors do not incur capital gains tax when they receive stock dividends. Instead, the cost basis of the shares is adjusted downward.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "This principle also applies in the case of a stock split."
+	},
     {
-        "question": "Form PF must be filed by",
-        "answers": [
-            {
-                "answer": "SEC-registered advisers with at least $150 million in private fund assets under management",
-                "correct": true
-            },
-            {
-                "answer": "SEC-exempt reporting advisers",
-                "correct": false
-            },
-            {
-                "answer": "SEC-registered advisers with no more than $150 million in private fund assets under management",
-                "correct": false
-            },
-            {
-                "answer": "state-registered private fund managers, regardless of the amount of assets under management",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Form PF is the form used by those private fund managers who are registered with the SEC and whose private fund AUM reaches or exceeds the $150 million threshold. Exempt reporting advisers are, as the term implies, exempt from reporting. State-registered advisers don't report on the form because, among other things, if they reached the $150 million mark, they'd have to register with the SEC.<br /><br />U1LO4</span>"
-    },
-    {
-        "question": "A risk free rate of return is used in which of the following?",
-        "answers": [
-            {
-                "answer": "Capital asset pricing model",
-                "correct": true
-            },
-            {
-                "answer": "Strong form of efficient market hypothesis",
-                "correct": false
-            },
-            {
-                "answer": "Weak form of efficient market hypothesis",
-                "correct": false
-            },
-            {
-                "answer": "Modern portfolio theory",
-                "correct": false
-            }
-        ],
-        "explanation": "<p><span> The CAPM uses the risk-free rate to calculate an expected return for a given security and a given risk."
-    },
-    {
-        "question": "In the banking industry, the term POD refers to an account similar to the TOD designation used by broker-dealers. An old, but sometimes still used term to describe this kind of account, is",
-        "answers": [
-            {
-                "answer": "demand deposit account (DDA)",
-                "correct": false
-            },
-            {
-                "answer": "Totten trust",
-                "correct": true
-            },
-            {
-                "answer": "revocable trust",
-                "correct": false
-            },
-            {
-                "answer": "passbook savings account",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The name comes from a 1904 decision in a New York case called In re Totten. The court ruled that someone could open a bank account as a trustee for another person, who had no right to the money until the account owner died. The account owner is the trustee, in control of money that will eventually go to the trust beneficiary, and could change beneficiaries as desired. But whether the arrangement is called a Totten trust or a POD account, the result is the same.<br /><br />U18LO5</span>"
-    },
-    {
-        "question": "Covered call writing is a strategy where an investor",
-        "answers": [
-            {
-                "answer": "sells a call on a security he owns to reduce the volatility of the stock's returns and to generate income with the premium",
-                "correct": true
-            },
-            {
-                "answer": "buys two calls on the same security he owns to leverage the position",
-                "correct": false
-            },
-            {
-                "answer": "buys a call on a security he has sold short",
-                "correct": false
-            },
-            {
-                "answer": "sells a call on an index that contains some of the securities that he has in his portfolio",
-                "correct": false
-            }
-        ],
-        "explanation": "A covered call is simply defined as an investor owning 100 shares of the underlying stock for each option written (sold). The premium received is not only a source of income, but also serves to provide downside protection to the extent of the amount received."
-    },
-    {
-        "question": "A high-risk investment strategy is the short sale of stock. Each of the following is a method of offering some degree of protection EXCEPT",
-        "answers": [
-            {
-                "answer": "buying a call on the short stock.",
-                "correct": false
-            },
-            {
-                "answer": "buying a put on the short stock.",
-                "correct": true
-            },
-            {
-                "answer": "selling a put on the short stock.",
-                "correct": false
-            },
-            {
-                "answer": "entering a buy stop order for the short stock.",
-                "correct": false
-            }
-        ],
-        "explanation": "The risk in selling a stock short is that the price of the stock will rise rather than fall. Those who purchase put options have the same market view as those who sell short-they will profit if the price of the security declines. Buying a put would be the equivalent of \"doubling down\" on your bet. The best way to hedge (protect) a short stock position is to purchase a call option on the security because that gives you a guaranteed \"buy-back\" price regardless of how high the stock's price rises. If you sell a put on the stock and the price rises, the put will expire and the seller will have the premium to partially offset any loss. If the short seller enters a buy stop order, once the price rises (or goes through) the stop price, a market order to buy the stock will be entered and the position will be closed out preventing any further loss."
-    },
-    {
-        "question": "<p>Regulators are concerned when agents and investment adviser representatives use social media to communicate with their clients from their:<br><br>I.\tLaptops<br>II.\tDesktops<br>III.\tMobile phones<br>IV.\tHome computers<br></p>",
-        "answers": [
-            {
-                "answer": "I, II, III, IV",
-                "correct": true
-            },
-            {
-                "answer": "I, III",
-                "correct": false
-            },
-            {
-                "answer": "III",
-                "correct": false
-            },
-            {
-                "answer": "IV",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>No matter which device is used, regulators are worried when agents and investment adviser representatives use social media to communicate with their clients.<br></p>"
-    },
-    {
-        "question": "The belief that no information, including non-public inside information, can be utilized to determine future market movements is closely aligned with which of the following forms of efficient markets hypothesis (EMH)?",
-        "answers": [
-            {
-                "answer": "Weak form",
-                "correct": false
-            },
-            {
-                "answer": "Semi-strong form",
-                "correct": false
-            },
-            {
-                "answer": "Strong form",
-                "correct": true
-            },
-            {
-                "answer": "Semi-weak form",
-                "correct": false
-            }
-        ],
-        "explanation": "<div><p>Efficient market hypothesis (EMH) is the theory that available information is already factored into the market prices of securities. The more one believes in EMH, the more likely they are to passively manage their portfolios by investing in index funds and exchange traded funds (ETFs).</p><p>Strong form EMH is the theory that all information, including private information, is already factored into market prices of securities. Semi-strong form EMH is similar, but states that private information may be used to predict future price movements (although insider trading is still illegal). Weak form EMH is similar to semi-strong, but states that some publicly available information related to fundamental analysis may be used to predict future price movements.</p><p>Semi-weak form EMH does not exist.</p></div>"
-    },
-    {
-        "question": "Which of the following statements regarding agent registration under the Uniform Securities Act is TRUE?",
-        "answers": [
-            {
-                "answer": "In the absence of any action by the Administrator, the effective date of a registration is noon of the 30th day after the filing of a complete application.",
-                "correct": true
-            },
-            {
-                "answer": "If, before the effective date of the registration, the Administrator requires amendments to the application, the registration will be considered to have first been filed as of the original filing date.",
-                "correct": false
-            },
-            {
-                "answer": "The Administrator may request the agent furnish a statement of assets and liabilities.",
-                "correct": false
-            },
-            {
-                "answer": "The Administrator may initiate a disciplinary action within two years of an agent's withdrawal of registration.",
-                "correct": false
-            }
-        ],
-        "explanation": "Normally, registration of persons becomes effective at noon of the 30th day following filing. If the Administrator requires the filing of amendments, the clock starts over again with the filing of those amendments, not the original filing date. Agents do not have financial requirements, and the Administrator has a maximum of one year after termination to initiate any actions. U3LO5"
-    },
-    {
-        "question": "SEP IRAs",
-        "answers": [
-            {
-                "answer": "are used primarily by large corporations",
-                "correct": false
-            },
-            {
-                "answer": "are used primarily by small businesses",
-                "correct": true
-            },
-            {
-                "answer": "are set up by nonemployees",
-                "correct": false
-            },
-            {
-                "answer": "cannot be set up by self-employed persons",
-                "correct": false
-            }
-        ],
-        "explanation": "Small businesses and self-employed persons typically establish SEP IRAs because they are easier and less expensive than other plans for an employer to set up and administer."
-    },
-    {
-        "question": "A fundamental analyst would be interested in all of the following EXCEPT",
-        "answers": [
-            {
-                "answer": "statistics of the U.S. Department of Commerce on disposable income",
-                "correct": false
-            },
-            {
-                "answer": "innovations within the automotive industry",
-                "correct": false
-            },
-            {
-                "answer": "corporate annual reports",
-                "correct": false
-            },
-            {
-                "answer": "daily trading volumes on the NYSE",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Trading volume interests the technical analyst, who looks at fluctuations in the market, not at fundamental economic values.<br /><br />U12LO6</span>"
-    },
-    {
-        "question": "All of the following are true about college funding plans EXCEPT",
-        "answers": [
-            {
-                "answer": "proceeds in ESAs may be withdrawn income tax free even if the child is under age 18",
-                "correct": false
-            },
-            {
-                "answer": "proceeds in 529s may be withdrawn incometax free only if used at an accredited academic institution",
-                "correct": false
-            },
-            {
-                "answer": "Section 529 plans allow a gift tax exclusion equal to five times the annual limit that may be repeated every 5 years",
-                "correct": false
-            },
-            {
-                "answer": "a beneficiary of an ESA who withdraws the funds for nonqualified expenses will be taxed on the entire amount of the withdrawal plus a 10% penalty",
-                "correct": true
-            }
-        ],
-        "explanation": "The tax and 10% penalty is only levied against earnings since the contributions were made with after-tax dollars. "
-    },
-    {
-        "question": "An investment adviser wishes to advertise a proprietary charting system used to time the market. In order to be in compliance with the Investment Advisers Act of 1940",
-        "answers": [
-            {
-                "answer": "the advertisement must be filed with the appropriate SRO within 10 business days of first use",
-                "correct": false
-            },
-            {
-                "answer": "authorship of the system must be prominently disclosed",
-                "correct": false
-            },
-            {
-                "answer": "a statement reflecting the limitations and difficulties of using the system must be included in the ad",
-                "correct": true
-            },
-            {
-                "answer": "results obtained by using the system must be shown using a time period of no less than 12 months",
-                "correct": false
-            }
-        ],
-        "explanation": "An advertisement describing a charting system or any type of formula must always state that there are limitations and difficulties to using said system. U6LO5"
-    },
-    {
-        "question": "Which of the following statements about dividends on common stock is NOT true?",
-        "answers": [
-            {
-                "answer": "Only those who are owners of the stock on the record date will receive dividends",
-                "correct": false
-            },
-            {
-                "answer": "Corporations are contractually obligated to pay dividends to their shareholders each year",
-                "correct": true
-            },
-            {
-                "answer": "Dividends represent a pro rata distribution of corporate profits to shareholders",
-                "correct": false
-            },
-            {
-                "answer": "Dividends may be paid in cash, property, or stock",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Dividends are the share of a corporation's profits that the corporation pays to shareholders as owners of the corporation. Dividends are not paid to shareholders automatically, and shareholders have no contractual right to receive dividends. Instead, dividends must be declared by the corporation's board of directors. The board of directors may elect to pay a dividend in cash, property, or stock.<br /><br />U12LO2</span>"
-    },
-    {
-        "question": "Under the Investment Advisers Act of 1940, a registered investment adviser who provides investment advisory services to individuals must",
-        "answers": [
-            {
-                "answer": "have a minimum net worth of $100,000",
-                "correct": false
-            },
-            {
-                "answer": "limit the giving of advice to securities listed on major exchanges",
-                "correct": false
-            },
-            {
-                "answer": "avoid maintaining control or custody of client funds and securities",
-                "correct": false
-            },
-            {
-                "answer": "provide each new client with a disclosure statement or brochure no later than when entering into the advisory agreement",
-                "correct": true
-            }
-        ],
-        "explanation": "The brochure rule requires that each client be given a written disclosure statement by the adviser no later than the time of entering into the advisory agreement. It may consist of a copy of Part 2A and 2B of Form ADV or another document providing similar information. There are no minimum net worth requirements for SEC registered investment advisers."
-    },
-    {
-        "question": "An individual younger than age 70 1/2 may contribute to a traditional IRA",
-        "answers": [
-            {
-                "answer": "only if he has earned income",
-                "correct": true
-            },
-            {
-                "answer": "only if he is not covered by a pension plan through an employer",
-                "correct": false
-            },
-            {
-                "answer": "only if he does not own a Keogh plan",
-                "correct": false
-            },
-            {
-                "answer": "only if his adjusted gross income is between $91,000 and $118,000 if married, and $61,000 and $71,000 if single",
-                "correct": false
-            }
-        ],
-        "explanation": "Any individual with earned income who is under age 70 1/2 may contribute to a traditional IRA. The deductibility of those contributions will be determined by that person's coverage under qualified plans and by his level of income."
-    },
-    {
-        "question": "Under the Uniform Securities Act, which of the following statements regarding a sale, an offer, or an offer and sale are TRUE?<br><br>I. Any security given or delivered with or as a bonus for any purchase of securities is considered to have been offered and sold for value.<br>II. A purported gift of assessable stock is considered to involve an offer and sale.<br>III. Every sale or offer of a warrant or stock right to purchase or subscribe to another security is considered to include an offer of the other security.<br>IV. A bona fide pledge is considered an offer and sale.",
-        "answers": [
-            {
-                "answer": "I, II, and III",
-                "correct": true
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": false
-            },
-            {
-                "answer": "III and IV",
-                "correct": false
-            }
-        ],
-        "explanation": "The term sale does not include a bona fide pledge. It does include securities given as a bonus with a purchase and gifts of assessable stock because the owner of the assessable stock may be called upon to come up with additional money. Sales of rights or warrants are considered offers of the underlying security."
-    },
-    {
-        "question": "In order to be held liable in an AML legal prosecution, an RR:",
-        "answers": [
-            {
-                "answer": "must have played an active role in aiding and abetting the money laundering.",
-                "correct": false
-            },
-            {
-                "answer": "must have benefited from the money laundering.",
-                "correct": false
-            },
-            {
-                "answer": "may only need to be shown to have turned a blind eye to the activity.",
-                "correct": true
-            },
-            {
-                "answer": "must have initiated the activity.",
-                "correct": false
-            }
-        ],
-        "explanation": "As attractive as some of the other answers may appear, the word MUST is a red flag any time is shows up in a test question."
-    },
-    {
-        "question": "Which of the following statements regarding investment companies is NOT true?",
-        "answers": [
-            {
-                "answer": "The Investment Company Act of 1940 classifies investment companies into three types: face-amount certificate companies, unit investment trusts, and management investment companies.",
-                "correct": false
-            },
-            {
-                "answer": "An investment company can offer investors two ways of participating in the fund under management: through the purchase of closedend shares, or, if the investor prefers, openend redeemable shares.",
-                "correct": true
-            },
-            {
-                "answer": "When investors sell or redeem their openend fund shares, they receive the net asset value (NAV) based on the forward pricing rule.",
-                "correct": false
-            },
-            {
-                "answer": "When investors sell their closed-end fund shares, they may receive an amount below the current net asset value.",
-                "correct": false
-            }
-        ],
-        "explanation": "An investment company cannot offer investors two ways of participating in the fund under management. The fund must either be a closed-end fund with shares traded in the marketplace or an openend fund with redeemable shares. The Investment Company Act of 1940 classifies investment companies into three types: FACs, UITs, and management investment companies. When investors sell or redeem their open-end fund shares, they receive the NAV as of the close of the day the order was received (i.e., based on the next computed NAV after the order arrives). Because closed-end fund shares are priced based on supply and demand, the price a holder receives when selling might be more, less or the same as the NAV."
-    },
-    {
-        "question": "Performance of a separate account determines value",
-        "answers": [
-            {
-                "answer": "Accumulation unit",
-                "correct": false
-            },
-            {
-                "answer": "Joint and last survivor annuity",
-                "correct": false
-            },
-            {
-                "answer": "Deferred annuity",
-                "correct": false
-            },
-            {
-                "answer": "Variable annuity",
-                "correct": true
-            }
-        ],
-        "explanation": ""
-    },
-    {
-        "question": "A country wishing to restructure its debt using Brady bonds would do so to save on debt servicing costs.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": true
-            },
-            {
-                "answer": "False",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "One of the benefits of Brady bonds is the ability of the sovereign government to borrow at a lower cost because of the collateral behind the bond."
-    },
-    {
-        "question": "An S corporation is characterized by",
-        "answers": [
-            {
-                "answer": "flow-through tax treatment",
-                "correct": true
-            },
-            {
-                "answer": "limited lifetime",
-                "correct": false
-            },
-            {
-                "answer": "more than 100 shareholders",
-                "correct": false
-            },
-            {
-                "answer": "unlimited personal liability",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Shareholders of an S corporation have limited liability, are limited to no more than 100 shareholders, and receive flow-through tax treatment.<br /><br />U18LO3</span>"
-    },
-    {
-        "question": "A company has the following items on its balance sheet:<br><br>Long term liabilities $10,000,000<br>Par value of common stock $5,000,000<br>Paid in capital $10,000,000<br>Retained earnings $25,000,000<br><br>The debt to equity ratio of the company is",
-        "answers": [
-            {
-                "answer": "4:1",
-                "correct": false
-            },
-            {
-                "answer": "1:3",
-                "correct": false
-            },
-            {
-                "answer": "3:1",
-                "correct": false
-            },
-            {
-                "answer": "1:4",
-                "correct": true
-            }
-        ],
-        "explanation": "The debt to equity ratio is calculated by dividing long term liabilities by stockholders' equity. The stockholders' equity can be calculated by adding par value of common and preferred stock issued to the paid in capital and retained earnings. Therefore, $10,000,000 / $40,000,000 = 1:4."
-    },
-    {
-        "question": "A bond analyst is plotting a yield curve and notices that short-term maturities have higher yields than intermediate and long-term maturities. This is an example of a(n)",
-        "answers": [
-            {
-                "answer": "inverted yield curve",
-                "correct": true
-            },
-            {
-                "answer": "positive yield curve",
-                "correct": false
-            },
-            {
-                "answer": "normal yield curve",
-                "correct": false
-            },
-            {
-                "answer": "algorithmic yield curve",
-                "correct": false
-            }
-        ],
-        "explanation": "An inverted, or negative, yield curve is one that results when debt with short-term maturities has higher yields than those with maturities that are longer. A positive, or normal, yield curve results when the yields increase as maturities do."
-    },
-    {
-        "question": "Which money market instrument would normally pay a lower interest rate than others of similar maturity?",
-        "answers": [
-            {
-                "answer": "Commercial paper",
-                "correct": false
-            },
-            {
-                "answer": "T-bills",
-                "correct": false
-            },
-            {
-                "answer": "CDs",
-                "correct": false
-            },
-            {
-                "answer": "Tax exempt municipal notes",
-                "correct": true
-            }
-        ],
-        "explanation": "<p>All things being equal, the tax free nature of municipal notes will result in a lower rate of interest, which after taxes are considered is likely to be competitive.</span></p>"
-    },
-    {
-        "question": "A broker-dealer would not be able to open an account for",
-        "answers": [
-            {
-                "answer": "a trust.",
-                "correct": false
-            },
-            {
-                "answer": "the estate of a deceased person.",
-                "correct": false
-            },
-            {
-                "answer": "a city.",
-                "correct": false
-            },
-            {
-                "answer": "a deceased person",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Broker-dealers can only open accounts for those who are persons, as defined in the Uniform Securities Act. There are three nonpersons: minors, deceased persons, and those declared mentally incompetent. Remember, the term \"person\" is very broad and includes political subdivisions such as cities and states. Even though the deceased individual is not a person, that individual's estate is.<br /><br />U18LO1</span>"
-    },
-    {
-        "question": "Under the provisions of the Uniform Securities Act, which of the following statements about unsolicited orders is TRUE?",
-        "answers": [
-            {
-                "answer": "If the order ticket is appropriately marked, the Administrator may not challenge a broker-dealer's assertion that the order was unsolicited.",
-                "correct": false
-            },
-            {
-                "answer": "Under certain conditions, an Administrator may prohibit a broker-dealer registered in the state from accepting any unsolicited orders.",
-                "correct": false
-            },
-            {
-                "answer": "A client may not purchase, at his own initiative, securities trading in the secondary market if the agent is otherwise prohibited from soliciting the order.",
-                "correct": false
-            },
-            {
-                "answer": "An unsolicited order from a noninstitutional client for an unregistered, nonexempt security is considered a transaction exempt from the registration and advertising filing requirements of the act.",
-                "correct": true
-            }
-        ],
-        "explanation": "Clients have the right to buy or sell whatever they desire. The issue becomes a question of who initiates the trade. An unsolicited transaction may be executed by an agent if it is the client who asks for the trade. The trade ticket should be marked as unsolicited. The State Securities Administrator has the right to seek verification from the client that the trade was, in fact, unsolicited. The security involved in the trade can be one that is nonexempt and unregistered in the state. U4LO3"
-    },
-    {
-        "question": "For a 29-year-old single client, with a high risk tolerance, low tax bracket, and $50,000 in savings, we can eliminate what asset class from our recommendation?",
-        "answers": [
-            {
-                "answer": "Money market funds",
-                "correct": false
-            },
-            {
-                "answer": "Municipal bond funds",
-                "correct": true
-            },
-            {
-                "answer": "Emerging market stock funds",
-                "correct": false
-            },
-            {
-                "answer": "Individual dividend paying stocks",
-                "correct": false
-            }
-        ],
-        "explanation": "<p><span> With a low tax bracket and a long time horizon, muni bonds can be eliminated from this group."
-    },
-    {
-        "question": "Under NASAA's Model Rule on Unethical Business Practices of Investment Advisers, Investment Adviser Representatives, and Federal Covered Advisers, when is it unethical for an investment adviser to borrow money from a client?",
-        "answers": [
-            {
-                "answer": "When the client is a bank or financial institution in the business of loaning money",
-                "correct": false
-            },
-            {
-                "answer": "When the client is an affiliate of the investment adviser",
-                "correct": false
-            },
-            {
-                "answer": "When the client is a broker-dealer",
-                "correct": false
-            },
-            {
-                "answer": "When the client is an immediate family member",
-                "correct": true
-            }
-        ],
-        "explanation": "It is unethical to borrow money or securities from a client, unless the client is a broker-dealer, a bank or other financial institution in the business of loaning money, or an affiliated person of the adviser. Owing money or securities to a client is not only unethical, it could also influence advice rendered to a client, creating a potential conflict of interest. Even when the client is an immediate family member, borrowing must not take place unless it meets one of the conditions state above. How do we know the family member does not meet one of those conditions? We know because nothing in the question indicates such and, on the exam, if such is the case, it will be clearly spelled out."
-    },
-    {
-        "question": "An applicant for registration as an IAR in this state was convicted 4 years ago of a nonfinancially related crime in another state. Under that state's laws, the crime was a misdemeanor, but under this state's laws, it is a felony. When viewing this IAR's application, the Administrator will",
-        "answers": [
-            {
-                "answer": "treat the crime as any felony",
-                "correct": false
-            },
-            {
-                "answer": "treat the crime as a nonfinancial misdemeanor",
-                "correct": true
-            },
-            {
-                "answer": "treat the crime as a nonfinancial felony",
-                "correct": false
-            },
-            {
-                "answer": "censure the investment adviser for even thinking of employing this individual",
-                "correct": false
-            }
-        ],
-        "explanation": "Even though the crime is a felony in the state where registration is being sought, the applicant's record shows a misdemeanor and, therefore, this individual would not be subject to statutory disqualification."
-    },
-    {
-        "question": "Considering each of the investment vehicles shown below, which trades on an exchange at a price which is unrelated to its underlying value?",
-        "answers": [
-            {
-                "answer": "private hedge fund",
-                "correct": false
-            },
-            {
-                "answer": "open-end investment company",
-                "correct": false
-            },
-            {
-                "answer": "closed-end investment company",
-                "correct": true
-            },
-            {
-                "answer": "all of the above",
-                "correct": false
-            }
-        ],
-        "explanation": "Closed-end shares trade on the major stock exchanges. The market price is based upon the same economic factor as other listed common stocks - supply & demand. The bid and ask price of a closed-end fund is not dependent upon the value of the fund's portfolio, which is quite opposite from how the open-end fund (mutual fund) works, where pricing is directly based upon net asset value of the portfolio. Additionally, neither private hedge funds nor mutual funds trade on an exchange. Answer C. is the only choice which trades on an exchange."
-    },
-    {
-        "question": "Which of the following persons are considered fiduciaries? <br><br>I. Executor of an estate <br>II. Administrator of a trust <br>III. Custodian of an UGMA/UTMA account <br>IV. Conservator for a legally incompetent person",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": false
-            },
-            {
-                "answer": "I, II and III",
-                "correct": false
-            },
-            {
-                "answer": "III and IV",
-                "correct": false
-            },
-            {
-                "answer": "I, II, III and IV",
-                "correct": true
-            }
-        ],
-        "explanation": "All of the persons listed have fiduciary responsibilities because of the authority with which they are entrusted."
-    },
-    {
-        "question": "The general partner is fully liable for all partnership losses and debts.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": true
-            },
-            {
-                "answer": "False",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "The general partner is fully liable for all partnership losses and debts."
-    },
-    {
-        "question": "The term \"federal covered investment adviser\" would apply to a person who",
-        "answers": [
-            {
-                "answer": "is registered as such under the Investment Advisers Act of 1940",
-                "correct": true
-            },
-            {
-                "answer": "limits the advice offered strictly to securities listed on the New York Stock Exchange (NYSE)",
-                "correct": false
-            },
-            {
-                "answer": "is registered as such under the Investment Company Act of 1940",
-                "correct": false
-            },
-            {
-                "answer": "limits the advice offered strictly to securities issued or guaranteed by the U.S. government or 1 of its political subdivisions",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Only federal covered investment advisers register under the Investment Advisers Act of 1940. Even if the person only gives advice on exchange-listed securities (which are federal covered securities), that does not make the person federal covered. After all, if the AUM is under $100 million, registration is only possible with the state(s), unless meeting an exception. Although the term \"federal covered adviser\" does apply to those who limit their advice to securities issued or guaranteed by the U.S. government, it would not apply if advice is given on political subdivisions (states, cities, etc.).<br /><br />U1LO5</span>"
-    },
-    {
-        "question": "Which of the following low risk investments is the closest to being riskless?",
-        "answers": [
-            {
-                "answer": "Money market instrument",
-                "correct": false
-            },
-            {
-                "answer": "Non-callable funded debt",
-                "correct": false
-            },
-            {
-                "answer": "Treasury bill",
-                "correct": true
-            },
-            {
-                "answer": "Treasury note",
-                "correct": false
-            }
-        ],
-        "explanation": "The key word is \"riskless.\" Treasury bills mature in 52 weeks or less and are issued by the U.S. Government, the safest issuer available."
-    },
-    {
-        "question": "Which of the following is NOT a person as defined by the Uniform Securities Act?",
-        "answers": [
-            {
-                "answer": "XYZ Dry Cleaners, Inc., whose shareholders all work on the premises and also offer financial advice to customers who request it.",
-                "correct": false
-            },
-            {
-                "answer": "A small unincorporated investment club.",
-                "correct": false
-            },
-            {
-                "answer": "A child prodigy for whom his mother, as custodian, opened an account at a major securities firm.",
-                "correct": true
-            },
-            {
-                "answer": "Guelph, a small city outside of Toronto, Ontario, that maintains an investment account at a brokerage house to invest surplus funds.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Under the Uniform Securities Act, the term \"person\" has a specific meaning. \"Person\" refers to an individual, corporation, association, joint-stock company, trust, unincorporated organization, government, or political subdivision of a government. A minor child, is not a person legally capable of entering into contracts. Adults must open custodial accounts on behalf of minor children.<br /><br />U1LO1</span>"
-    },
-    {
-        "question": "Investors are not subject to capital gains tax when they receive stock dividends. Instead, the cost basis of shares is adjusted downward.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": true
-            },
-            {
-                "answer": "False",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "The same is true with a stock split."
-    },
-    {
-        "question": "In which of the following circumstances is a person most likely to be considered an investment adviser?",
-        "answers": [
-            {
-                "answer": "A pension consultant who bills by the hour for the advice he provides on the merits of specific investment managers",
-                "correct": true
-            },
-            {
-                "answer": "A sports representative or agent who successfully negotiates contracts and endorsements for athletes, then suggests that the athlete place his new-found wealth in the trust department of a major commercial bank",
-                "correct": false
-            },
-            {
-                "answer": "A financial planner who only gives general investment advice not related to securities and then offers discounts to clients who subscribe to a newsletter he publishes on fly fishing",
-                "correct": false
-            },
-            {
-                "answer": "A teacher who gives better grades to the 10 most successful students who invest an imaginary $100,000 portfolio employing both the investment techniques and specific securities recommendations outlined in the course",
-                "correct": false
-            }
-        ],
-        "explanation": "A consultant who advises pension funds on the merits of investment managers and their approaches to the market is specifically described as an investment adviser in Release IA-1092. Note that the sports representative in this case does not make specific investment recommendations. The recommendation that a person place funds in a commercial bank does not, of itself, constitute investment advice. The teacher is engaged in an educational exercise in which no compensation is received."
-    },
-    {
-        "question": "Which of the following is a risk faced by investors in foreign stocks that is not found when investing in domestic issues?",
-        "answers": [
-            {
-                "answer": "Credit risk",
-                "correct": false
-            },
-            {
-                "answer": "Exchange rate risk",
-                "correct": true
-            },
-            {
-                "answer": "Market risk",
-                "correct": false
-            },
-            {
-                "answer": "Business risk",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>An investor who invests in foreign stocks is subject to many of the same risks associated with domestic stock investment, but a unique risk faced by investors in foreign stocks is exchange rate risk. Someone who invests in foreign stocks has as much invested in the currency of the foreign stock as in the stock itself. Exchange rate risk is not necessarily a bad thing, but it is one more significant factor that investors in foreign stocks must take into account. Credit risk never applies to stock; only debt securities and both domestic and foreign issues are subject to business risk.<br /><br />U12LO5</span>"
-    },
-    {
-        "question": "Which of the following state registered investment advisers would be required to furnish an audited balance sheet as part of its disclosure statement? <br><br>I. The adviser's fee is automatically debited from the client's account. <br>II. The adviser receives its fee each year in advance in the amount of $900. <br>III. The client's securities are held by a broker-dealer with whom the adviser has an affiliate relationship.",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": false
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": true
-            },
-            {
-                "answer": "I, II, and III",
-                "correct": false
-            }
-        ],
-        "explanation": "If an IA is registered or is registering with one or more of the state securities authorities, the dollar amount reporting threshold for including the required balance sheet is more than $500 in fees per client, six months or more in advance. Unlike the federal law, under state law, a balance sheet is also required whenever the IA maintains custody of client assets. When the custodian is an affiliated broker-dealer (as in this case), the balance sheet requirement is triggered. When the only reason one is considered to have custody is automatic debiting of fees, the balance sheet is not normally required. Yes, there are certain conditions to be met to qualify for this exception, but on the exam, in a question like this, you may assume they're met."
-    },
+		"question": "Under which of the following circumstances is a person most likely to be classified as an investment adviser?",
+		"answers": [
+			{
+				"answer": "A pension consultant who charges by the hour for advice on the merits of specific investment managers",
+				"correct": true
+			},
+			{
+				"answer": "A sports representative or agent who negotiates contracts and endorsements for athletes and then suggests that the athlete deposit their new wealth in the trust department of a major commercial bank",
+				"correct": false
+			},
+			{
+				"answer": "A financial planner who provides only general investment advice unrelated to securities and offers discounts to clients who subscribe to a newsletter about fly fishing",
+				"correct": false
+			},
+			{
+				"answer": "A teacher who gives higher grades to the 10 most successful students who invest an imaginary $100,000 portfolio using the investment techniques and specific securities recommendations from the course",
+				"correct": false
+			}
+		],
+		"explanation": "A consultant advising pension funds on the merits of investment managers is specifically identified as an investment adviser in Release IA-1092. The sports representative does not provide specific investment recommendations, and merely suggesting a bank does not constitute investment advice. The teacher is conducting an educational exercise without receiving compensation."
+	},
+	{
+		"question": "Which of the following is a risk associated with investing in foreign stocks that is not present when investing in domestic stocks?",
+		"answers": [
+			{
+				"answer": "Credit risk",
+				"correct": false
+			},
+			{
+				"answer": "Exchange rate risk",
+				"correct": true
+			},
+			{
+				"answer": "Market risk",
+				"correct": false
+			},
+			{
+				"answer": "Business risk",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Investors in foreign stocks face many of the same risks as those investing in domestic stocks, but a unique risk is exchange rate risk. When investing in foreign stocks, investors are also exposed to the currency of the foreign stock, making exchange rate fluctuations a significant factor to consider. Credit risk applies only to debt securities, while both domestic and foreign stocks are subject to business risk.<br /><br />U12LO5</span>"
+	},
+	{
+		"question": "Which of the following state-registered investment advisers must provide an audited balance sheet as part of their disclosure statement? <br><br>I. The adviser's fee is automatically deducted from the client's account. <br>II. The adviser charges an annual fee of $900 in advance. <br>III. The client's securities are held by a broker-dealer with whom the adviser has an affiliate relationship.",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": false
+			},
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": true
+			},
+			{
+				"answer": "I, II, and III",
+				"correct": false
+			}
+		],
+		"explanation": "If an investment adviser is registered with state securities authorities, they must provide an audited balance sheet if they charge more than $500 in fees per client and collect fees six months or more in advance. Under state law, a balance sheet is also required when the adviser maintains custody of client assets. This requirement is triggered when the custodian is an affiliated broker-dealer. If the only reason for custody is the automatic deduction of fees, a balance sheet is typically not required, assuming certain conditions are met."
+	},
     {
         "question": "If a 50-year-old individual wants to withdraw funds from her IRA, the withdrawal will be taxed as",
         "answers": [
