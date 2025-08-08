@@ -2178,863 +2178,863 @@
 		"explanation": "If an investment adviser is registered with state securities authorities, they must provide an audited balance sheet if they charge more than $500 in fees per client and collect fees six months or more in advance. Under state law, a balance sheet is also required when the adviser maintains custody of client assets. This requirement is triggered when the custodian is an affiliated broker-dealer. If the only reason for custody is the automatic deduction of fees, a balance sheet is typically not required, assuming certain conditions are met."
 	},
     {
-        "question": "If a 50-year-old individual wants to withdraw funds from her IRA, the withdrawal will be taxed as",
-        "answers": [
-            {
-                "answer": "ordinary income",
-                "correct": false
-            },
-            {
-                "answer": "ordinary income plus a 10% penalty",
-                "correct": true
-            },
-            {
-                "answer": "capital gains",
-                "correct": false
-            },
-            {
-                "answer": "capital gains plus a 10% penalty",
-                "correct": false
-            }
-        ],
-        "explanation": "All withdrawals from IRAs are taxed at the individual's ordinary income tax rate at the time of withdrawal. Distributions made before age 59 1/2 will incur an additional 10% tax penalty."
-    },
+		"question": "What tax implications does a 50-year-old woman face if she withdraws money from her IRA?",
+		"answers": [
+			{
+				"answer": "taxed as ordinary income",
+				"correct": false
+			},
+			{
+				"answer": "taxed as ordinary income plus a 10% penalty",
+				"correct": true
+			},
+			{
+				"answer": "taxed as capital gains",
+				"correct": false
+			},
+			{
+				"answer": "taxed as capital gains plus a 10% penalty",
+				"correct": false
+			}
+		],
+		"explanation": "Withdrawals from IRAs are subject to taxation at the individual's ordinary income tax rate at the time of the withdrawal. If the withdrawal occurs before the age of 59 1/2, an additional 10% tax penalty will apply."
+	},
+	{
+		"question": "USAAdvisers operates in 10 states in the Midwest. What financial requirements must USAAdvisers fulfill?",
+		"answers": [
+			{
+				"answer": "the requirements of each state where it operates",
+				"correct": false
+			},
+			{
+				"answer": "the requirements of the state where its main office is located",
+				"correct": true
+			},
+			{
+				"answer": "the requirements of the state with the strictest financial regulations",
+				"correct": false
+			},
+			{
+				"answer": "the requirements set by the SEC",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Investment advisers, unlike broker-dealers, register with either the SEC or the state(s), but not both. This indicates that USAAdvisers is a state-registered adviser not governed by the SEC. According to the Uniform Securities Act, for financial requirements, bonding, recordkeeping, etc., as long as the adviser complies with the regulations of the state where the principal office is situated, the other states do not impose additional requirements.<br /><br />U1LO5</span>"
+	},
+	{
+		"question": "If an agent withholds essential information that a reasonable investor needs to make informed choices due to fear of losing a sale, how is this action classified under the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "considered fraudulent only for nonexempt securities",
+				"correct": false
+			},
+			{
+				"answer": "considered fraudulent only for exempt securities",
+				"correct": false
+			},
+			{
+				"answer": "considered fraudulent for both exempt and nonexempt securities",
+				"correct": true
+			},
+			{
+				"answer": "not considered fraudulent if there was no intent to withhold the information",
+				"correct": false
+			}
+		],
+		"explanation": "Material facts are those that investors depend on to make investment decisions. Deliberately omitting a material fact during the sale, purchase, or offer of a security is deemed fraudulent, regardless of whether the security is exempt or nonexempt."
+	},
     {
-        "question": "USAAdvisers is registered in 10 Midwest states. Regarding financial requirements, USAAdvisers must meet those of",
-        "answers": [
-            {
-                "answer": "each state in which it has a place of business",
-                "correct": false
-            },
-            {
-                "answer": "the state in which its principal office is located",
-                "correct": true
-            },
-            {
-                "answer": "the state with the most stringent financial requirements",
-                "correct": false
-            },
-            {
-                "answer": "the SEC",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Unlike broker-dealers, investment advisers register with either the SEC or the state(s), but never both. Therefore, we know this must be a state-registered adviser not under the jurisdiction of the SEC. Under the Uniform Securities Act, when it comes to financial requirements, bonding, recordkeeping, and so forth, as long as the adviser meets the requirements of the state in which the principal office is located, the other states have no further claim.<br /><br />U1LO5</span>"
-    },
+		"question": "How would a portfolio manager with a growth investment strategy likely achieve diversification?",
+		"answers": [
+			{
+				"answer": "by creating a portfolio with a very high correlation among assets",
+				"correct": false
+			},
+			{
+				"answer": "by allocating part of the portfolio to securities that have a negative correlation",
+				"correct": true
+			},
+			{
+				"answer": "by investing a portion of the portfolio in high-yield bonds",
+				"correct": false
+			},
+			{
+				"answer": "by focusing on stocks within one or two industries",
+				"correct": false
+			}
+		],
+		"explanation": "Securities that exhibit a negative correlation enhance diversification in a growth portfolio because they tend to move in the opposite direction of the other holdings. This means that losses in one area can be balanced by gains in another."
+	},
+	{
+		"question": "If a client wishes to save $40,000 for their child's college education without risking the principal, what would you suggest?",
+		"answers": [
+			{
+				"answer": "investing in common stock",
+				"correct": false
+			},
+			{
+				"answer": "purchasing zero-coupon bonds issued by the U.S. Treasury",
+				"correct": true
+			},
+			{
+				"answer": "buying municipal bonds for their tax advantages",
+				"correct": false
+			},
+			{
+				"answer": "investing in corporate bonds with high interest rates",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Treasury STRIPS are backed by the U.S. government, ensuring no risk of default. As zero-coupon bonds, they do not provide current income, making them suitable for a client seeking a full return at a future date for college expenses.<br /><br />U19LO5</span>"
+	},
+	{
+		"question": "Which economic theory supports government spending to stimulate the economy into an expansionary phase?",
+		"answers": [
+			{
+				"answer": "Supply-side economics",
+				"correct": false
+			},
+			{
+				"answer": "Classical economics",
+				"correct": false
+			},
+			{
+				"answer": "Monetarist economics",
+				"correct": false
+			},
+			{
+				"answer": "Keynesian economics",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Keynesian economists promote government intervention in the economy through increased spending, which boosts aggregate demand and drives economic growth.<br /><br />U8LO1</span>"
+	},
     {
-        "question": "Fearing loss of a potential sale, an agent omits facts that a prudent investor requires to make informed decisions. Under the Uniform Securities Act, this action is",
-        "answers": [
-            {
-                "answer": "fraudulent for nonexempt securities only",
-                "correct": false
-            },
-            {
-                "answer": "fraudulent for exempt securities only",
-                "correct": false
-            },
-            {
-                "answer": "fraudulent for both exempt and nonexempt securities",
-                "correct": true
-            },
-            {
-                "answer": "not fraudulent if there was willful intent to omit the information",
-                "correct": false
-            }
-        ],
-        "explanation": "Material facts are facts that an investor relies on to make investment decisions. The willful omission of a material fact in the sale, purchase, or offer of a security is fraudulent. This applies whether the security offered is exempt or nonexempt."
-    },
+		"question": "Which of the following account types can be established with a Transfer on Death (TOD) designation? <br><br>I. Individual <br>II. Joint tenants in common <br>III. Joint tenants with rights of survivorship <br>IV. UTMA",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": false
+			},
+			{
+				"answer": "I and III",
+				"correct": true
+			},
+			{
+				"answer": "I, III, and IV",
+				"correct": false
+			},
+			{
+				"answer": "II and IV",
+				"correct": false
+			}
+		],
+		"explanation": "The only account types eligible for a Transfer on Death (TOD) designation are individual accounts and those held as Joint Tenants with Rights of Survivorship (JTWROS). Minors cannot designate a beneficiary; any assets will be included in the deceased's estate upon their death."
+	},
+	{
+		"question": "What is NOT required to perform a quantitative analysis using present value calculations?",
+		"answers": [
+			{
+				"answer": "Time period involved",
+				"correct": false
+			},
+			{
+				"answer": "Initial account value at the start of the period",
+				"correct": true
+			},
+			{
+				"answer": "Final account value at the end of the period",
+				"correct": false
+			},
+			{
+				"answer": "Expected rate of return of the portfolio",
+				"correct": false
+			}
+		],
+		"explanation": "Present value calculations are used to determine the amount needed today to achieve a specific value in the future. The present value is what we are trying to find, so it is not available at the moment."
+	},
+	{
+		"question": "When making recommendations for clients, non-financial factors can be just as significant, or even more so, than financial ones. For instance, clients who prefer to avoid investments in fossil fuels are expressing their",
+		"answers": [
+			{
+				"answer": "demographics.",
+				"correct": false
+			},
+			{
+				"answer": "values.",
+				"correct": true
+			},
+			{
+				"answer": "investment experience.",
+				"correct": false
+			},
+			{
+				"answer": "educational background.",
+				"correct": false
+			}
+		],
+		"explanation": "There is a growing trend in investment practices known as socially responsible investing. Clients who choose to avoid fossil fuel investments are reflecting their values and beliefs."
+	},
     {
-        "question": "A portfolio manager with a growth style would probably diversify by",
-        "answers": [
-            {
-                "answer": "attempting to build a portfolio with a very high correlation",
-                "correct": false
-            },
-            {
-                "answer": "devoting a portion of the portfolio to securities with a negative correlation",
-                "correct": true
-            },
-            {
-                "answer": "placing a portion of the portfolio into high-yield bonds",
-                "correct": false
-            },
-            {
-                "answer": "concentrating in stocks in one or two industries",
-                "correct": false
-            }
-        ],
-        "explanation": "Securities with a negative correlation add diversification to a growth portfolio because they move in the opposite direction of the balance of the holdings. Therefore, losses are offset by gains."
-    },
+		"question": "Which of the following would be the least relevant to a chartist?",
+		"answers": [
+			{
+				"answer": "The volume of shares traded in the past month",
+				"correct": false
+			},
+			{
+				"answer": "The advance/decline line",
+				"correct": false
+			},
+			{
+				"answer": "The short interest",
+				"correct": false
+			},
+			{
+				"answer": "The relationship between the current market price of a company's common stock and its most recently reported earnings per share",
+				"correct": true
+			}
+		],
+		"explanation": "<span>A chartist focuses on the volume of shares traded and the short interest for specific stocks. The advance/decline line is another technical indicator. The price-to-earnings ratio is primarily used in fundamental analysis rather than technical (charting) analysis.<br /><br />U12LO6</span>"
+	},
+	{
+		"question": "Which of the following individuals is not exempt from registration as an investment adviser under the Investment Advisers Act of 1940?",
+		"answers": [
+			{
+				"answer": "An adviser with total assets under management of $125 million, specializing in stocks listed on the New York Stock Exchange, whose only business location is in State F and whose clients are 110 individuals residing in State F",
+				"correct": true
+			},
+			{
+				"answer": "An adviser managing seven private funds with total assets under management in the U.S. of $125 million",
+				"correct": false
+			},
+			{
+				"answer": "An adviser whose clients consist solely of insurance companies",
+				"correct": false
+			},
+			{
+				"answer": "An adviser whose only office is in State G and serves only State G residents, none of whom are private funds, and does not deal in securities listed on any national securities exchange",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The intrastate exemption does not have a numerical limit, as long as all clients are state residents and none are private funds. However, this State F adviser cannot provide advice on securities traded on a national stock exchange, which disqualifies them from the exemption. Additionally, with $125 million in assets under management, this adviser must register with the SEC as a federal covered investment adviser. Under federal law, an exemption from registration applies if the adviser’s only clients are insurance companies. Furthermore, if an adviser’s only clients are private funds (regardless of the number) and their U.S. assets under management are less than $150 million, that adviser is also exempt. Note that the adviser in State G would likely need to register in that state, but this question pertains to federal law requirements.<br /><br />U1LO4</span>"
+	},
+	{
+		"question": "The Conference Board publishes monthly economic information, including various indicators. Economic indicators can be classified as leading, lagging, or coincidental, based on their timing relative to overall economic changes. Which of the following is considered a lagging economic indicator?",
+		"answers": [
+			{
+				"answer": "Nonagricultural employment",
+				"correct": false
+			},
+			{
+				"answer": "Average prime interest rate",
+				"correct": true
+			},
+			{
+				"answer": "Manufacturers' new orders for consumer goods",
+				"correct": false
+			},
+			{
+				"answer": "Building permits (housing starts)",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Both the S&P 500 and building permits are leading economic indicators, as is the measure of hours worked, which reflects changes in the average workweek during the current period. The average prime rate is a lagging indicator because, during an economic downturn, the longer rates remain low, the faster the recovery is expected to be.<br /><br />U8LO3</span>"
+	},
     {
-        "question": "If your customer wants to set aside $40,000 for when his child starts college, but does not want to endanger the principal, you should recommend",
-        "answers": [
-            {
-                "answer": "common stock",
-                "correct": false
-            },
-            {
-                "answer": "zero-coupon bonds backed by the U.S. Treasury",
-                "correct": true
-            },
-            {
-                "answer": "municipal bonds for their tax benefits",
-                "correct": false
-            },
-            {
-                "answer": "corporate bonds with high rates of interest",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Treasury STRIPS are guaranteed by the U.S. government, so there is no chance of default. They are zero-coupon bonds and offer no current income, which is appropriate for a client who wants 100% return paid at a future date for college expenses.<br /><br />U19LO5</span>"
-    },
+		"question": "What should a client with 25 years until retirement primarily invest in?",
+		"answers": [
+			{
+				"answer": "private placements",
+				"correct": false
+			},
+			{
+				"answer": "preferred stocks",
+				"correct": false
+			},
+			{
+				"answer": "bonds",
+				"correct": false
+			},
+			{
+				"answer": "common stocks",
+				"correct": true
+			}
+		],
+		"explanation": "<span>With a long time horizon of 25 years until retirement, this client should focus on investing primarily in stocks. Historically, equity securities have yielded the highest returns over extended periods.<br /><br />U19LO5</span>"
+	},
+	{
+		"question": "An elderly widow without independent income wants to invest the proceeds from her late husband's life insurance. What would be the most appropriate recommendation?",
+		"answers": [
+			{
+				"answer": "Municipal bonds",
+				"correct": false
+			},
+			{
+				"answer": "Call options",
+				"correct": false
+			},
+			{
+				"answer": "An oil and gas exploration program that you believe will succeed",
+				"correct": false
+			},
+			{
+				"answer": "A high-grade corporate bond mutual fund",
+				"correct": true
+			}
+		],
+		"explanation": "<span>This client requires income. Among the options provided, the bond fund is the most suitable choice as it offers income while maintaining a level of safety. Although municipal bonds may be safer, the tax-free income benefits would likely be irrelevant for a client with no independent income.<br /><br />U19LO5</span>"
+	},
+	{
+		"question": "Which type of institutional investor typically exhibits low risk tolerance and high liquidity needs?",
+		"answers": [
+			{
+				"answer": "Trusts",
+				"correct": false
+			},
+			{
+				"answer": "Defined benefit pension plans",
+				"correct": false
+			},
+			{
+				"answer": "Foundations",
+				"correct": false
+			},
+			{
+				"answer": "Banks",
+				"correct": true
+			}
+		],
+		"explanation": "In suitability questions, it's important to find a logical answer. While all these options generally have a lower risk tolerance, banks stand out due to their high liquidity needs. They must be prepared to meet withdrawal requests from depositors at any time, unlike foundations, trusts, and defined benefit pension plans, which usually have lower liquidity requirements."
+	},
     {
-        "question": "Which school of economists encourages a government to spend money to move the economy into an expansionary phase?",
-        "answers": [
-            {
-                "answer": "Supply side",
-                "correct": false
-            },
-            {
-                "answer": "Classical",
-                "correct": false
-            },
-            {
-                "answer": "Monetarist",
-                "correct": false
-            },
-            {
-                "answer": "Keynesian",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Keynesians advocate government intervention in the workings of the economy through increased government spending, which in turn increases aggregate demand.<br /><br />U8LO1</span>"
-    },
+		"question": "A couple in their early 30s, married for 4 years, has a relatively high disposable income and is planning to purchase a condominium. If they need a secure place to invest their down payment for approximately 6 months, which mutual fund would be the most appropriate for them?",
+		"answers": [
+			{
+				"answer": "LMN Cash Reserves Money Market Fund",
+				"correct": true
+			},
+			{
+				"answer": "ATF Capital Appreciation Fund",
+				"correct": false
+			},
+			{
+				"answer": "ABC Growth & Income Fund",
+				"correct": false
+			},
+			{
+				"answer": "XYZ Investment-Grade Bond Fund",
+				"correct": false
+			}
+		],
+		"explanation": "Since these clients are preparing for a significant purchase in the near future, they need a highly liquid investment to keep their funds safe for a short duration. The money market fund aligns best with this requirement."
+	},
+	{
+		"question": "Country A has developed a new product that is experiencing high global demand. What is the likely outcome of this situation?",
+		"answers": [
+			{
+				"answer": "a trade surplus for Country A",
+				"correct": true
+			},
+			{
+				"answer": "a trade deficit for Country A",
+				"correct": false
+			},
+			{
+				"answer": "an increase in the income tax rates of Country A",
+				"correct": false
+			},
+			{
+				"answer": "a decrease in the value of the currency of Country A",
+				"correct": false
+			}
+		],
+		"explanation": "<span>When a country’s exports surpass its imports, it results in a trade surplus. This typically leads to a positive balance of payments, which can increase the value of that country's currency compared to others. The impact of this new product on Country A's tax legislation is uncertain.<br /><br />U8LO1</span>"
+	},
+	{
+		"question": "Which of the following is most likely considered a defensive stock?",
+		"answers": [
+			{
+				"answer": "A stock with an extremely high PE ratio",
+				"correct": false
+			},
+			{
+				"answer": "A stock that has a strong cash position and minimal debt",
+				"correct": false
+			},
+			{
+				"answer": "A stock from a food company",
+				"correct": true
+			},
+			{
+				"answer": "An aerospace stock",
+				"correct": false
+			}
+		],
+		"explanation": "<span>A defensive stock is one that is expected to maintain its earnings during economic downturns. Typical examples include stocks from companies that provide essential consumer goods, such as food. A stock with a very high PE ratio often indicates a speculative company that may quickly lose value.<br /><br />U8LO2</span>"
+	},
     {
-        "question": "Which of the following accounts could be opened with a TOD designation? <br><br>I. Individual <br>II. Joint tenants in common <br>III. Joint tenants with rights of survivorship <br>IV. UTMA",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": false
-            },
-            {
-                "answer": "I and III",
-                "correct": true
-            },
-            {
-                "answer": "I, III and IV",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": false
-            }
-        ],
-        "explanation": "The only types of accounts that may have the Transfer on Death (TOD) designation are individual and JTWROS. Minors can not designate a beneficiary. Upon the death of a minor, any assets belong in the deceased's estate."
-    },
+		"question": "What is a principal purpose of the Securities Exchange Act of 1934?",
+		"answers": [
+			{
+				"answer": "I. establish specific statutory standards for contractual agreements between corporations issuing bonds and the representatives of the bondholders",
+				"correct": false
+			},
+			{
+				"answer": "II. protect the public from unfair and inequitable practices in the over-the-counter market and on stock exchanges",
+				"correct": true
+			},
+			{
+				"answer": "III. reimburse customers of failed broker-dealers",
+				"correct": false
+			},
+			{
+				"answer": "IV. set standards for organizations that provide securities investment advice",
+				"correct": false
+			}
+		],
+		"explanation": "Choice I pertains to the Trust Indenture Act of 1939 (not tested); Choice III relates to the Securities Investor Protection Act (SIPA) of 1970, which established the Securities Investor Protection Corporation (SIPC) (also not tested); and Choice IV is associated with the Investment Advisers Act of 1940."
+	},
+	{
+		"question": "As a stockholder, one of your rights is to vote on significant corporate issues, such as electing members to the board of directors. What date determines which shareholders are eligible to vote?",
+		"answers": [
+			{
+				"answer": "the ex-dividend date.",
+				"correct": false
+			},
+			{
+				"answer": "the last day of the company's fiscal year.",
+				"correct": false
+			},
+			{
+				"answer": "the record date.",
+				"correct": true
+			},
+			{
+				"answer": "the election date.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The record date is the date set by the company that determines who must be listed as an owner in the company's records to participate in the annual meeting and corporate elections. A point not tested is that there is no standard for how far in advance of the voting date this should be, other than it must be at least the normal settlement period, which is currently 2 business days.<br /><br />U12LO2</span>"
+	},
+	{
+		"question": "What is the classification of the sale of stock from a privately owned company to the public in an initial public offering?",
+		"answers": [
+			{
+				"answer": "Exempt transaction",
+				"correct": false
+			},
+			{
+				"answer": "Non-exempt transaction",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "The sale of stock from a previously privately owned company to the public in an initial public offering is classified as a non-exempt transaction."
+	},
     {
-        "question": "In order to make a quantitative evaluation using the present value computation, which of the following is NOT needed?",
-        "answers": [
-            {
-                "answer": "Time period involved",
-                "correct": false
-            },
-            {
-                "answer": "Account value at the beginning of the period",
-                "correct": true
-            },
-            {
-                "answer": "Account value at the end of the period",
-                "correct": false
-            },
-            {
-                "answer": "Anticipated rate of return of the portfolio",
-                "correct": false
-            }
-        ],
-        "explanation": "Present value is calculated to determine the amount required now to have a specified value at some time in the future. It is what we are looking for so we don't have it now."
-    },
+		"question": "In the last two quarters, the GDP decreased by 3%, unemployment increased by 0.7%, and the Consumer Price Index dropped by 1.3%. What is this economic condition called?",
+		"answers": [
+			{
+				"answer": "inflation",
+				"correct": false
+			},
+			{
+				"answer": "depression",
+				"correct": false
+			},
+			{
+				"answer": "stagflation",
+				"correct": false
+			},
+			{
+				"answer": "recession",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Two consecutive quarters of economic decline are referred to as a recession.<br /><br />U8LO2</span>"
+	},
+	{
+		"question": "Which of the following is NOT considered a portfolio management \"style?\"",
+		"answers": [
+			{
+				"answer": "Active Management",
+				"correct": false
+			},
+			{
+				"answer": "Passive Management",
+				"correct": false
+			},
+			{
+				"answer": "Diversification",
+				"correct": true
+			},
+			{
+				"answer": "Indexing",
+				"correct": false
+			}
+		],
+		"explanation": "The management \"styles\" primarily include active asset management (where the manager selects specific investments) and passive asset management, which utilizes index funds as the investment vehicle. Diversification is not a style; it is a technique employed to mitigate risk."
+	},
+	{
+		"question": "According to federal law, what is the statute of limitations for civil liability?",
+		"answers": [
+			{
+				"answer": "1 year after discovery or 3 years after the action, whichever comes first",
+				"correct": true
+			},
+			{
+				"answer": "1 year after the discovery of the action",
+				"correct": false
+			},
+			{
+				"answer": "2 years after discovery or 3 years after the action, whichever comes first",
+				"correct": false
+			},
+			{
+				"answer": "2 years after the action",
+				"correct": false
+			}
+		],
+		"explanation": "Under federal regulations, the statute of limitations for a civil action is the earlier of 1 year after discovery or 3 years after the action. In contrast, under the Uniform Securities Act (USA), it is the earlier of 2 years after discovery or 3 years after the action."
+	},
     {
-        "question": "When preparing recommendations for clients, nonfinancial considerations can often be as important, or even more important, than financial ones. For example, clients who want to avoid investing in fossil fuels would be expressing their",
-        "answers": [
-            {
-                "answer": "demographics.",
-                "correct": false
-            },
-            {
-                "answer": "values.",
-                "correct": true
-            },
-            {
-                "answer": "investment experience.",
-                "correct": false
-            },
-            {
-                "answer": "educational background.",
-                "correct": false
-            }
-        ],
-        "explanation": "A growing trend in investment circles is socially responsible investing. Those clients are expressing their values or attitudes."
-    },
+		"question": "Which of the following statements made by an investment adviser would be considered fraudulent?",
+		"answers": [
+			{
+				"answer": "\"We believe that fundamental analysis is the best method for selecting stocks for our clients.\"",
+				"correct": false
+			},
+			{
+				"answer": "\"Our fees are nonnegotiable\" (when ADV Part 2A clearly states otherwise).",
+				"correct": true
+			},
+			{
+				"answer": "\"We require any associated person providing general investment advice to hold a CFA designation.\"",
+				"correct": false
+			},
+			{
+				"answer": "\"We manage over $40 billion in assets, representing both institutional and retail clients.\"",
+				"correct": false
+			}
+		],
+		"explanation": "Making a false statement is considered fraud. If Form ADV Part 2 indicates that the fees are negotiable, claiming they are not is misleading. An adviser can express their preferred analysis method, and firms can establish their own standards, even if not mandated by regulatory bodies. Additionally, it is acceptable to highlight the amount of assets under management if they are accurate."
+	},
+	{
+		"question": "What analytical tool is used to estimate the current value of a common stock based on projected future dividends?",
+		"answers": [
+			{
+				"answer": "the price-to-earnings ratio",
+				"correct": false
+			},
+			{
+				"answer": "the dividend payout ratio",
+				"correct": false
+			},
+			{
+				"answer": "the dividend discount model",
+				"correct": true
+			},
+			{
+				"answer": "the future value computation",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Two commonly accepted methods for projecting the price of common stock using dividends are the dividend discount model and the dividend growth model.<br /><br />U12LO6</span>"
+	},
+	{
+		"question": "Which economic theory posits that economic growth is driven by lower tax rates and reduced government spending?",
+		"answers": [
+			{
+				"answer": "Keynesian theory",
+				"correct": false
+			},
+			{
+				"answer": "monetary theory",
+				"correct": false
+			},
+			{
+				"answer": "demand-side theory",
+				"correct": false
+			},
+			{
+				"answer": "supply-side theory",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Supply-side economics, associated with Arthur Laffer, argues that high taxes and government intervention negatively impact the economy.<br /><br />U8LO1</span>"
+	},
     {
-        "question": "Which of the following would be of least interest to a chartist?",
-        "answers": [
-            {
-                "answer": "The volume of shares traded during the past month",
-                "correct": false
-            },
-            {
-                "answer": "The advance/decline line",
-                "correct": false
-            },
-            {
-                "answer": "The short interest",
-                "correct": false
-            },
-            {
-                "answer": "The relationship between the current market price of an issuer&#039;s common stock and most recently reported earnings per share",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>A chartist is interested in the volume of shares traded, and the short interest for that particular stock. The advance/decline line is another technical indicator. The price-to-earnings ratio is used in fundamental as opposed to technical (charting) analysis.<br /><br />U12LO6</span>"
-    },
+		"question": "What do followers of the efficient market hypothesis believe?",
+		"answers": [
+			{
+				"answer": "monitoring the business cycle is the best way to maximize returns",
+				"correct": false
+			},
+			{
+				"answer": "focusing on concentration rather than diversification will yield superior returns",
+				"correct": false
+			},
+			{
+				"answer": "listening to pundits on TV will make you wealthy",
+				"correct": false
+			},
+			{
+				"answer": "an efficient market produces random results",
+				"correct": true
+			}
+		],
+		"explanation": "The efficient market hypothesis (EMH) is essentially an extension of the Random Walk Theory, which suggests that randomly selecting investments (like throwing darts at a stock market page) is as effective as any method. If the market is truly efficient, no investor has an advantage."
+	},
+	{
+		"question": "Which of the following individuals is clearly eligible to make a catch-up contribution?",
+		"answers": [
+			{
+				"answer": "Roger, who has completed 1 year of service",
+				"correct": false
+			},
+			{
+				"answer": "Emily, who is fully vested",
+				"correct": false
+			},
+			{
+				"answer": "Sam, who has completed 15 years of service",
+				"correct": false
+			},
+			{
+				"answer": "Hannah, who is 55 years old",
+				"correct": true
+			}
+		],
+		"explanation": "Catch-up contributions are permitted for participants who are age 50 and older."
+	},
+	{
+		"question": "Under the Investment Advisers Act of 1940, which of the following provisions can investment advisory contracts include? <br><br>I. assignment without the client's consent <br>II. changes in a partnership with notification to clients within a reasonable timeframe <br>III. compensation based on average assets under management over a specified period",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": false
+			},
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": true
+			},
+			{
+				"answer": "I, II, and III",
+				"correct": false
+			}
+		],
+		"explanation": "Contracts with clients, whether written or oral (as the Investment Advisers Act of 1940 does not mandate written contracts), cannot be assigned without the client's consent under any circumstances. If the adviser operates as a partnership, clients must be notified of any changes in partnership membership within a reasonable timeframe. It is always permissible to charge fees based on the average value of assets under management."
+	},
     {
-        "question": "Who of the following is not exempt from registration as an investment adviser under the Investment Advisers Act of 1940?",
-        "answers": [
-            {
-                "answer": "An adviser, with total AUM of $125 million, specializing in stocks listed on the New York Stock Exchange, whose only place of business is in State F and whose only clients are 110 State F resident individuals",
-                "correct": true
-            },
-            {
-                "answer": "An adviser to seven private funds with total assets under management in the U.S. of $125 million",
-                "correct": false
-            },
-            {
-                "answer": "An adviser whose clientele consists solely of insurance companies",
-                "correct": false
-            },
-            {
-                "answer": "An adviser whose only office is in State G who deals only with State G residents, none of whom is a private fund, and does not deal in securities listed on any national securities exchange",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The intrastate exemption has no numerical limitation, only that all of the clients be residents of the state and none of the clients can be private funds. However, no advice may be given on securities traded on a national stock exchange which causes this State F adviser to lose the exemption. Furthermore, with $125 million in AUM, this IA would need to register with the SEC as a federal covered investment adviser. Under the federal law, an exemption from registration applies if the adviser's only clients are insurance companies. And, if an adviser's only clients are private funds (regardless of how many) and AUM in the United States is less than $150 million, that adviser is exempt as well. Please note that the adviser in State G would likely have to register in that state, but this question deals with the requirements of the federal law.<br /><br />U1LO4</span>"
-    },
+		"question": "An investment adviser representative focuses on the senior market. Many of his clients are considering selling their homes to move into assisted living facilities. The profits from selling their homes will help cover the costs of their new residences. According to current tax laws, which of the following statements are TRUE? <br><br>I. A single individual pays no tax on the first $250,000 of net profit from the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>II. A single individual pays no tax on the first $500,000 of net profit from the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>III. A married couple pays no tax on the first $250,000 of net profit from the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>IV. A married couple pays no tax on the first $500,000 of net profit from the sale of a primary residence that has been occupied for at least 2 of the past 5 years.",
+		"answers": [
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "I and IV",
+				"correct": true
+			},
+			{
+				"answer": "II and III",
+				"correct": false
+			},
+			{
+				"answer": "II and IV",
+				"correct": false
+			}
+		],
+		"explanation": "When a primary residence that has been occupied for at least 2 of the last 5 years is sold at a profit, the first $250,000 for an individual and the first $500,000 for a married couple is exempt from taxation. Any amount above that is taxed as a capital gain on Schedule D of Form 1040."
+	},
+	{
+		"question": "<p>The Chief Compliance Officer of an investment advisory firm is required to review the firm's policies and procedures at least:</p>",
+		"answers": [
+			{
+				"answer": "Semi-annually",
+				"correct": false
+			},
+			{
+				"answer": "Annually",
+				"correct": true
+			},
+			{
+				"answer": "Quarterly",
+				"correct": false
+			},
+			{
+				"answer": "Monthly",
+				"correct": false
+			}
+		],
+		"explanation": "<p>The Chief Compliance Officer must review the investment advisory firm's policies and procedures at least once a year.<br></p>"
+	},
+	{
+		"question": "Your client, who is in the 35% federal income tax bracket, currently holds corporate bonds with a coupon yield of 7%. To achieve the same after-tax income, he would need to purchase municipal bonds with a coupon rate of:",
+		"answers": [
+			{
+				"answer": "7.00%",
+				"correct": false
+			},
+			{
+				"answer": "2.45%",
+				"correct": false
+			},
+			{
+				"answer": "9.45%",
+				"correct": false
+			},
+			{
+				"answer": "4.55%",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Since the 7% yield on the corporate bond is fully taxable, the client effectively receives 4.55% ($70 per bond minus 35% in taxes, which is $24.50, resulting in $45.50 per year). Because interest on municipal bonds is tax-free, a 4.55% coupon will yield the same after-tax income.<br /><br />U13LO6</span>"
+	},
     {
-        "question": "The Conference Board releases information about the economy on a monthly basis. Included are a number of different indicators. Economic indicators can be leading, lagging, or coincidental, which indicates the timing of their changes relative to how the economy as a whole changes. Which of the following is a lagging economic indicator?",
-        "answers": [
-            {
-                "answer": "Nonagricultural employment",
-                "correct": false
-            },
-            {
-                "answer": "Average prime interest rate",
-                "correct": true
-            },
-            {
-                "answer": "Manufacturers' new orders for consumer goods",
-                "correct": false
-            },
-            {
-                "answer": "Building permits (housing starts)",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Both the S&P 500 and housing permits are leading economic indicators, as is the measure of hours worked because it reflects changes in the average workweek during the current period. The average prime rate is a lagging indicator because, in an economic downturn, the longer rates stay low, the quicker the recovery should be.<br /><br />U8LO3</span>"
-    },
+		"question": "Funds in a UTMA account can be used for certain expenses related to the minor. Which of the following is an acceptable use of UTMA funds?",
+		"answers": [
+			{
+				"answer": "A vacation trip to Orlando",
+				"correct": true
+			},
+			{
+				"answer": "Milk, bread, and eggs",
+				"correct": false
+			},
+			{
+				"answer": "Covering the minor's share of heating and lighting expenses",
+				"correct": false
+			},
+			{
+				"answer": "A new suit",
+				"correct": false
+			}
+		],
+		"explanation": "While the custodian has considerable discretion in spending from this account, generally, it is not allowed to use the funds for basic necessities such as food, clothing, and shelter."
+	},
+	{
+		"question": "What would a fundamental analyst be most interested in?",
+		"answers": [
+			{
+				"answer": "Resistance and support levels",
+				"correct": false
+			},
+			{
+				"answer": "A P/E analysis of the stocks in the Dow Jones Industrial Average",
+				"correct": true
+			},
+			{
+				"answer": "A 200-day moving average",
+				"correct": false
+			},
+			{
+				"answer": "The outstanding short interest in the market",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Fundamental analysts focus on P/E ratios, while the other tools mentioned are more aligned with technical analysis.<br /><br />U12LO6</span>"
+	},
+	{
+		"question": "Martin holds both the CPA and CFP designations. If he has provided portfolio advice to about 40 clients in the past year, is he required to register as an investment adviser?",
+		"answers": [
+			{
+				"answer": "Yes, because he provides investment advice on a more than incidental basis.",
+				"correct": true
+			},
+			{
+				"answer": "Yes, because he could earn commission income from investment clients.",
+				"correct": false
+			},
+			{
+				"answer": "No, because he qualifies for the de minimis exemption with relatively few clients.",
+				"correct": false
+			},
+			{
+				"answer": "No, because he is a CPA.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Even though Martin is an accountant, he provides investment advice on a more than incidental basis, which is typically defined as having more than 10 client contacts per year. There is no indication that Martin will be executing commissionable trades; he is only providing advice.<br /><br />U1LO3</span>"
+	},
     {
-        "question": "A client with 25 years until retirement should invest primarily in",
-        "answers": [
-            {
-                "answer": "private placements",
-                "correct": false
-            },
-            {
-                "answer": "preferred stocks",
-                "correct": false
-            },
-            {
-                "answer": "bonds",
-                "correct": false
-            },
-            {
-                "answer": "common stocks",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>This client's time horizon is quite long. With 25 years until retirement, the customer should invest primarily in stocks. Historically, over long time periods, equity securities have provided the greatest returns.<br /><br />U19LO5</span>"
-    },
-    {
-        "question": "An elderly widow with no independent income wishes to invest the proceeds from her recently deceased husband's life insurance. Which of the following would be the most suitable recommendation?",
-        "answers": [
-            {
-                "answer": "Municipal bonds",
-                "correct": false
-            },
-            {
-                "answer": "Call options",
-                "correct": false
-            },
-            {
-                "answer": "Oil and gas exploration program that you know is going to strike",
-                "correct": false
-            },
-            {
-                "answer": "High-grade corporate bond mutual fund",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>This customer needs income. Of the answers provided, the bond fund would be the most suitable because it would provide income while maintaining relative safety. While the municipal bonds are probably safer, the benefits of their tax-free income would probably be lost on a client with no independent income.<br /><br />U19LO5</span>"
-    },
-    {
-        "question": "Low risk tolerance and high liquidity needs are typical characteristics of which type of institutional investor?",
-        "answers": [
-            {
-                "answer": "Trusts",
-                "correct": false
-            },
-            {
-                "answer": "Defined benefit pension plans",
-                "correct": false
-            },
-            {
-                "answer": "Foundations",
-                "correct": false
-            },
-            {
-                "answer": "Banks",
-                "correct": true
-            }
-        ],
-        "explanation": "As with so many suitability questions, students frequently have to sit back and try to find a logical answer. Although the risk tolerance for all of these choices tends to be on the lower end of the scale, banks are different when it comes to liquidity needs. Banks tend to have high liquidity needs because they must be ready to meet withdrawals at any time by depositors. The nature of foundations, trusts, and defined benefit pension plans is such that they typically have lower liquidity needs than banks."
-    },
-    {
-        "question": "A couple in their early 30s has been married for 4 years, their disposable income is relatively high, and they are planning to buy a condominium. If they need a safe place to invest their down payment for about 6 months, which of the following mutual funds is the most suitable for these customers?",
-        "answers": [
-            {
-                "answer": "LMN Cash Reserves Money Market Fund",
-                "correct": true
-            },
-            {
-                "answer": "ATF Capital Appreciation Fund",
-                "correct": false
-            },
-            {
-                "answer": "ABC Growth & Income Fund",
-                "correct": false
-            },
-            {
-                "answer": "XYZ Investment-Grade Bond Fund",
-                "correct": false
-            }
-        ],
-        "explanation": "These customers are preparing to make a major purchase within the next few months, so they require a highly liquid investment to keep their money safe for a short amount of time. The money market fund best matches this objective."
-    },
-    {
-        "question": "Country A develops a new product that is in high demand around the world. The likely effect of this would be",
-        "answers": [
-            {
-                "answer": "a trade surplus for Country A",
-                "correct": true
-            },
-            {
-                "answer": "a trade deficit for Country A",
-                "correct": false
-            },
-            {
-                "answer": "an increase in the income tax rates of Country A",
-                "correct": false
-            },
-            {
-                "answer": "a decrease in the value of the currency of Country A",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>When exports exceed imports (the likely case here), it leads to a trade surplus. Invariably, that causes a positive balance of payments, which has the tendency to increase the value of that country's currency relative to others. There is no way to know how this new product will impact the tax legislation of Country A.<br /><br />U8LO1</span>"
-    },
-    {
-        "question": "Which of the following is most likely to be regarded as a defensive stock?",
-        "answers": [
-            {
-                "answer": "A stock selling at an extremely high PE ratio",
-                "correct": false
-            },
-            {
-                "answer": "A stock with a strong cash position and little debt",
-                "correct": false
-            },
-            {
-                "answer": "A food company stock",
-                "correct": true
-            },
-            {
-                "answer": "An aerospace stock",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>A defensive stock maintains future earnings that are likely to withstand an economic downturn. Typical examples are stocks of those firms that supply basic consumer necessities such as foodstuffs. A stock selling at an extremely high PE ratio is indicative of a speculative company or one that can decline in value rapidly.<br /><br />U8LO2</span>"
-    },
-    {
-        "question": "A principal purpose of the Securities Exchange Act of 1934 is generally considered to be to",
-        "answers": [
-            {
-                "answer": "I. establish specific statutory standards for contractual agreements between corporations issuing bonds and the representatives of investors who own the bonds",
-                "correct": false
-            },
-            {
-                "answer": "II. protect the public against unfair and inequitable practices in the over-the-counter market and on stock exchanges",
-                "correct": true
-            },
-            {
-                "answer": "III. reimburse customers of failed broker-dealers",
-                "correct": false
-            },
-            {
-                "answer": "IV. establish standards to govern activities of organizations that engage in the business of providing securities investment advice",
-                "correct": false
-            }
-        ],
-        "explanation": "Choice I relates to the Trust Indenture Act of 1939 (not tested); Choice III relates to SIPA of 1970, which created SIPC (also not tested); and Choice IV relates to the Investment Advisers Act of 1940."
-    },
-    {
-        "question": "One of the rights of being a stockholder is the ability to vote on important corporate matters, such as the election of members to the board of directors. The date that determines which shareholders are eligible to votes is",
-        "answers": [
-            {
-                "answer": "the ex-dividend date.",
-                "correct": false
-            },
-            {
-                "answer": "the last day of the company's fiscal year.",
-                "correct": false
-            },
-            {
-                "answer": "the record date.",
-                "correct": true
-            },
-            {
-                "answer": "the election date.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The record date is a date announced by the company as the official date you must be an owner on the company's records in order to participate in the annual meeting and corporate election. A fact not tested is there is no standard regarding how far in advance of the voting date this should be other than it must be at least the normal settlement period, currently 2 business days.<br /><br />U12LO2</span>"
-    },
-    {
-        "question": "Sale of stock of a privately owned company to the public in an initial public offering",
-        "answers": [
-            {
-                "answer": "Exempt transaction",
-                "correct": false
-            },
-            {
-                "answer": "Non-exempt transaction",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "The sale of stock of a previously privately owned company to the public in an initial public offering is not an exempt transaction."
-    },
-    {
-        "question": "During the past 2 quarters, the GDP declined by 3%, unemployment rose by 0.7%, and the Consumer Price Index fell off by 1.3%; this economic condition is called",
-        "answers": [
-            {
-                "answer": "inflation",
-                "correct": false
-            },
-            {
-                "answer": "depression",
-                "correct": false
-            },
-            {
-                "answer": "stagflation",
-                "correct": false
-            },
-            {
-                "answer": "recession",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Two consecutive quarters of economic decline is termed a recession.<br /><br />U8LO2</span>"
-    },
-    {
-        "question": "Which of the following is NOT a portfolio management \"style?\"",
-        "answers": [
-            {
-                "answer": "Active Management",
-                "correct": false
-            },
-            {
-                "answer": "Passive Management",
-                "correct": false
-            },
-            {
-                "answer": "Diversification",
-                "correct": true
-            },
-            {
-                "answer": "Indexing",
-                "correct": false
-            }
-        ],
-        "explanation": "The management \"styles\" are basically active asset management (the manager selects the specific investments) or \"passive\" asset management, where the manager uses index funds as the investment vehicle. Diversification is not a style; rather it is a technique used to reduce risk."
-    },
-    {
-        "question": "Under federal law, the statute of limitations for civil liability is",
-        "answers": [
-            {
-                "answer": "1 year after discovery or 3 years after the action, whichever is sooner",
-                "correct": true
-            },
-            {
-                "answer": "1 year after discovery of the action",
-                "correct": false
-            },
-            {
-                "answer": "2 years after discovery or 3 years after the action, whichever is sooner",
-                "correct": false
-            },
-            {
-                "answer": "2 years after the action",
-                "correct": false
-            }
-        ],
-        "explanation": "In the federal regulations, the statute of limitations for a civil action is the sooner of 1 year after discovery or 3 years after the action. Under the USA, it is the sooner of 2 years after discovery or 3 years after the action."
-    },
-    {
-        "question": "Which of the following statements made by an investment adviser would be fraudulent?",
-        "answers": [
-            {
-                "answer": "\"We believe that fundamental analysis is the best way to select stocks for our clients.\"",
-                "correct": false
-            },
-            {
-                "answer": "\"Our fees are nonnegotiable\" (when ADV Part 2A clearly indicates otherwise).",
-                "correct": true
-            },
-            {
-                "answer": "\"We require any associated person determining general investment advice to be a CFA.\"",
-                "correct": false
-            },
-            {
-                "answer": "\"We have over $40 billion in assets under management representing both institutional and retail clients.\"",
-                "correct": false
-            }
-        ],
-        "explanation": "Stating an untruth would be considered fraud. If the Form ADV Part 2 says that the fees are negotiable, you can't state that they are not. An adviser may certainly state which method of analysis he thinks is best. A firm can also set whatever standards it wishes, even though none are required by the regulatory bodies. As far as bragging about the amount of AUM, if you've got them, it is okay to flaunt them."
-    },
-    {
-        "question": "An analytical tool used to project the current value of a common stock using projected future dividends is",
-        "answers": [
-            {
-                "answer": "the price-to-earnings ratio",
-                "correct": false
-            },
-            {
-                "answer": "the dividend payout ratio",
-                "correct": false
-            },
-            {
-                "answer": "the dividend discount model",
-                "correct": true
-            },
-            {
-                "answer": "the future value computation",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>There are two widely accepted forms of common stock price projection using dividends - the dividend discount model and the dividend growth model.<br /><br />U12LO6</span>"
-    },
-    {
-        "question": "The economic theory that says economic growth results from lower tax rates and lower government spending is",
-        "answers": [
-            {
-                "answer": "Keynesian theory",
-                "correct": false
-            },
-            {
-                "answer": "monetary theory",
-                "correct": false
-            },
-            {
-                "answer": "demand-side theory",
-                "correct": false
-            },
-            {
-                "answer": "supply-side theory",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Supply-side economics is the theory of Arthur Laffer, who believed that heavy taxing and government intervention have a negative effect on the economy.<br /><br />U8LO1</span>"
-    },
-    {
-        "question": "Followers of the efficient market hypothesis believe that",
-        "answers": [
-            {
-                "answer": "following the business cycle is the best way to maximize returns",
-                "correct": false
-            },
-            {
-                "answer": "concentration rather than diversification will produce superior returns",
-                "correct": false
-            },
-            {
-                "answer": "by following the pundits on TV, you'll wind up rich",
-                "correct": false
-            },
-            {
-                "answer": "an efficient market is one that produces random results",
-                "correct": true
-            }
-        ],
-        "explanation": "EMH is really just an extension of the Random Walk Theory, which states that throwing darts at the stock market page is as good as any way to select investments. If the market is truly efficient, no one has an edge."
-    },
-    {
-        "question": "Which of the following individuals is clearly eligible to make a catch-up contribution?",
-        "answers": [
-            {
-                "answer": "Roger, who has completed 1 year of service",
-                "correct": false
-            },
-            {
-                "answer": "Emily, who is fully vested",
-                "correct": false
-            },
-            {
-                "answer": "Sam, who has completed 15 years of service",
-                "correct": false
-            },
-            {
-                "answer": "Hannah, who is 55 years old",
-                "correct": true
-            }
-        ],
-        "explanation": "Catch-up contributions are allowed to participants who are age 50 and over."
-    },
-    {
-        "question": "The Investment Advisers Act of 1940 would permit investment advisory contracts to provide for <br><br>I. assignment without the client's consent <br>II. changes to be made in a partnership with notification to clients within a reasonable period of time <br>III. compensation based on average assets under management over a particular time period",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": false
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": true
-            },
-            {
-                "answer": "I, II, and III",
-                "correct": false
-            }
-        ],
-        "explanation": "A client's contracts, whether written or oral (technically, the Investment Advisers Act of 1940 does not require written contracts), may not be assigned without the client's consent under any circumstances. If the adviser is a partnership, notice must be made to clients of any changes in the membership of the partnership within a reasonable period. It is always permitted to charge a fee based on the average value of assets under management."
-    },
-    {
-        "question": "An investment adviser representative specializes in the senior market. A number of his clients have reached the age where they are contemplating selling their homes and moving into an assisted living facility. The profit made on the sale of their homes will be used to defray the costs of their new residence. Under current tax laws, which of the following are TRUE? <br><br>I. A single person pays no tax on the first $250,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>II. A single person pays no tax on the first $500,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>III. A married couple pays no tax on the first $250,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years. <br>IV. A married couple pays no tax on the first $500,000 of net profit realized on the sale of a primary residence that has been occupied for at least 2 of the past 5 years.",
-        "answers": [
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "I and IV",
-                "correct": true
-            },
-            {
-                "answer": "II and III",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": false
-            }
-        ],
-        "explanation": "When a primary residence that has been lived in for at least 2 of the 5 years is sold at a profit, the first $250,000 for an individual and the first $500,000 for a married couple is not subject to taxation. Everything in excess of that is taxed as capital gain on Schedule D of the Form 1040. "
-    },
-    {
-        "question": "<p>The Chief Compliance Officer of an investment advisory firm must review the firm's policies and procedures no less frequently than:<br></p>",
-        "answers": [
-            {
-                "answer": "Semi-annually",
-                "correct": false
-            },
-            {
-                "answer": "Annually",
-                "correct": true
-            },
-            {
-                "answer": "Quarterly",
-                "correct": false
-            },
-            {
-                "answer": "Monthly",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>The Chief Compliance Officer must review the investment advisory firm's policies and procedures no less frequently than annually.<br></p>"
-    },
-    {
-        "question": "Your client in the 35% federal income tax bracket currently owns some corporate bonds with a coupon yield of 7%. In order to receive the same income after taxes, he would need to buy municipal bonds with a coupon of",
-        "answers": [
-            {
-                "answer": "7.00%",
-                "correct": false
-            },
-            {
-                "answer": "2.45%",
-                "correct": false
-            },
-            {
-                "answer": "9.45%",
-                "correct": false
-            },
-            {
-                "answer": "4.55%",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Because the 7% on the corporate bond is fully taxable, the client receives a net of 4.55% ($70 per bond less 35% in taxes {$24.50}, or $45.50 per year). Interest on municipal bonds is tax free, so a 4.55% coupon will result in the same amount of after-tax income.<br /><br />U13LO6</span>"
-    },
-    {
-        "question": "Money in an UTMA may be used to pay for certain expenses relating to the minor. Which of the following would be permitted usage of funds in an UTMA?",
-        "answers": [
-            {
-                "answer": "A vacation trip to Orlando",
-                "correct": true
-            },
-            {
-                "answer": "Milk, bread, and eggs",
-                "correct": false
-            },
-            {
-                "answer": "Paying for the minor's share of the heating and lighting expenses",
-                "correct": false
-            },
-            {
-                "answer": "A new suit",
-                "correct": false
-            }
-        ],
-        "explanation": "Although the custodian has wide latitude in how money in this account may be spent, in general, it is not permitted to use it for the basic necessities, such as food, clothing, and shelter."
-    },
-    {
-        "question": "A fundamental analyst would be most interested in which of the following?",
-        "answers": [
-            {
-                "answer": "Resistance and support levels",
-                "correct": false
-            },
-            {
-                "answer": "A P/E analysis of the stocks included in the Dow Jones Industrial Average",
-                "correct": true
-            },
-            {
-                "answer": "A 200-day moving average",
-                "correct": false
-            },
-            {
-                "answer": "The outstanding short interest in the market",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Fundamentalists look at P/E ratios; the other tools mentioned are technical.<br /><br />U12LO6</span>"
-    },
-    {
-        "question": "Martin holds both the CPA and the CFP designations. Within the previous year, if he has provided portfolio advice to approximately 40 clients, is Martin required to register as an investment adviser?",
-        "answers": [
-            {
-                "answer": "Yes, because he provides investment advice on a more than incidental basis.",
-                "correct": true
-            },
-            {
-                "answer": "Yes, because he could receive commission income from investment clients.",
-                "correct": false
-            },
-            {
-                "answer": "No, because he falls under the de minimis exemption having relatively few clients.",
-                "correct": false
-            },
-            {
-                "answer": "No, because he is a CPA.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Although Martin is an accountant, he provides investment advice on a more than incidental basis (typically regarded as more than 10 client contacts per year). Nothing indicates that Martin will be executing commissionable trades; only providing advice.<br /><br />U1LO3</span>"
-    },
-    {
-        "question": "Which of the following clients of a federal covered investment adviser are NOT exempt from the delivery requirements of the brochure rule?",
-        "answers": [
-            {
-                "answer": "An open-end investment company with less than $25 million in assets",
-                "correct": false
-            },
-            {
-                "answer": "A closed-end investment company traded on the New York Stock Exchange",
-                "correct": false
-            },
-            {
-                "answer": "An individual investor purchasing the IA's newsletter with an annual subscription price of $410",
-                "correct": false
-            },
-            {
-                "answer": "An employee benefit plan with assets of at least $5 million",
-                "correct": true
-            }
-        ],
-        "explanation": "The only exemptions from the IA brochure rule are registered investment companies (both open and closed-end) and impersonal advice costing less than $500 per year."
-    },
-    {
-        "question": "Market risk (systematic risk) is the risk associated with the specific business decisions of a company's manager.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": false
-            },
-            {
-                "answer": "False",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "Market risk is systematic risk, or the risk that the overall market will have an adverse effect on a security independent of the company's circumstances."
-    },
-    {
-        "question": "<p>Matilda has a portfolio of 1,000 shares of ABC and would like to generate some income. Which strategy would accomplish this goal?<br></p>",
-        "answers": [
-            {
-                "answer": "Sell puts on ABC",
-                "correct": false
-            },
-            {
-                "answer": "Short ABC",
-                "correct": false
-            },
-            {
-                "answer": "Sell covered calls on ABC",
-                "correct": true
-            },
-            {
-                "answer": "Buy calls on ABC",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>Selling options creates a flow of income for the seller in the form of the premium that is paid by the buyer. Because Matilda already owns shares of ABC, it would make sense for her to sell covered calls on ABC to generate income.<br></p>"
-    },
+		"question": "Which of the following clients of a federal covered investment adviser are NOT exempt from the brochure rule's delivery requirements?",
+		"answers": [
+			{
+				"answer": "An open-end investment company with less than $25 million in assets",
+				"correct": false
+			},
+			{
+				"answer": "A closed-end investment company listed on the New York Stock Exchange",
+				"correct": false
+			},
+			{
+				"answer": "An individual investor purchasing the IA's newsletter for an annual subscription fee of $410",
+				"correct": false
+			},
+			{
+				"answer": "An employee benefit plan with assets of at least $5 million",
+				"correct": true
+			}
+		],
+		"explanation": "The only exemptions from the investment adviser brochure rule apply to registered investment companies (both open and closed-end) and to impersonal advice that costs less than $500 per year."
+	},
+	{
+		"question": "Market risk (systematic risk) refers to the risk associated with the specific business decisions made by a company's manager.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": false
+			},
+			{
+				"answer": "False",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "Market risk is considered systematic risk, which is the risk that the overall market will negatively impact a security, regardless of the company's specific circumstances."
+	},
+	{
+		"question": "<p>Matilda owns a portfolio of 1,000 shares of ABC and wants to generate some income. Which strategy would help her achieve this goal?<br></p>",
+		"answers": [
+			{
+				"answer": "Sell puts on ABC",
+				"correct": false
+			},
+			{
+				"answer": "Short ABC",
+				"correct": false
+			},
+			{
+				"answer": "Sell covered calls on ABC",
+				"correct": true
+			},
+			{
+				"answer": "Buy calls on ABC",
+				"correct": false
+			}
+		],
+		"explanation": "<p>Selling options provides income for the seller in the form of premiums paid by the buyer. Since Matilda already owns shares of ABC, selling covered calls on those shares would be a logical way for her to generate income.<br></p>"
+	},
     {
         "question": "IRAs and Keogh plans are similar in the following ways EXCEPT",
         "answers": [
