@@ -33044,487 +33044,487 @@
         "explanation": "<p>An SBA loan, and other loans, would be considered a long term liability, not a current liability.</span></p>"
     },
     {
-        "question": "Which of the following statements regarding the antifraud provisions of the Uniform Securities Act (USA) is TRUE?",
-        "answers": [
-            {
-                "answer": "Exempt securities are not subject to the antifraud provisions of the USA.",
-                "correct": false
-            },
-            {
-                "answer": "The only securities exempt from those provisions are those issued by national governments or political subdivisions of countries that maintain diplomatic relations with the United States.",
-                "correct": false
-            },
-            {
-                "answer": "The only securities exempt from those provisions are those that are properly registered under blue-sky laws.",
-                "correct": false
-            },
-            {
-                "answer": "No securities are exempt from the antifraud provisions of the act.",
-                "correct": true
-            }
-        ],
-        "explanation": "Neither exempt securities nor exempt transactions are exempt from the USA's antifraud provisions. The best way to look at this question is to ask yourself, \"When would I be permitted to engage in fraudulent activity?\""
-    },
+		"question": "Which of the following statements about the antifraud provisions of the Uniform Securities Act (USA) is CORRECT?",
+		"answers": [
+			{
+				"answer": "Exempt securities are not subject to the antifraud provisions of the USA.",
+				"correct": false
+			},
+			{
+				"answer": "The only securities exempt from these provisions are those issued by national governments or political subdivisions of countries that have diplomatic relations with the United States.",
+				"correct": false
+			},
+			{
+				"answer": "The only securities exempt from these provisions are those that are properly registered under blue-sky laws.",
+				"correct": false
+			},
+			{
+				"answer": "No securities are exempt from the antifraud provisions of the act.",
+				"correct": true
+			}
+		],
+		"explanation": "Both exempt securities and exempt transactions are subject to the antifraud provisions of the USA. A useful way to approach this question is to consider, 'When would I be allowed to engage in fraudulent behavior?'"
+	},
+	{
+		"question": "The prospectus for a fund indicates that the minimum initial investment is $500,000. This is most likely indicative of which type of fund?",
+		"answers": [
+			{
+				"answer": "Balanced",
+				"correct": false
+			},
+			{
+				"answer": "Hedge",
+				"correct": true
+			},
+			{
+				"answer": "Small-cap growth",
+				"correct": false
+			},
+			{
+				"answer": "Specialized",
+				"correct": false
+			}
+		],
+		"explanation": "A defining feature of hedge funds is their requirement for a substantial minimum investment."
+	},
+	{
+		"question": "If an investment adviser submits an initial registration with a state on June 30, which of the following statements about the filing fee is TRUE?",
+		"answers": [
+			{
+				"answer": "The entire year's fee must be paid.",
+				"correct": true
+			},
+			{
+				"answer": "The fee will be prorated from the filing date.",
+				"correct": false
+			},
+			{
+				"answer": "The fee will be prorated from the effective date.",
+				"correct": false
+			},
+			{
+				"answer": "No filing fee is necessary until December 31.",
+				"correct": false
+			}
+		],
+		"explanation": "Although some states may allow exceptions for late filings in the year, under the USA, filing fees are not prorated. The full year's fee is required with the initial registration application."
+	},
     {
-        "question": "The prospectus for a fund states that the minimum initial investment is $500,000. This is most likely what type of fund?",
-        "answers": [
-            {
-                "answer": "Balanced",
-                "correct": false
-            },
-            {
-                "answer": "Hedge",
-                "correct": true
-            },
-            {
-                "answer": "Small-cap growth",
-                "correct": false
-            },
-            {
-                "answer": "Specialized",
-                "correct": false
-            }
-        ],
-        "explanation": "One of the characteristics of hedge funds is a high minimum investment requirement."
-    },
+		"question": "An Administrator cannot stop an adviser from taking custody of securities or funds if the adviser informs the Administrator beforehand. Is this statement TRUE or FALSE?",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": false
+			},
+			{
+				"answer": "False",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "An Administrator has the authority, through rules or orders, to prevent an adviser from taking custody. If the Administrator decides to prohibit custody, the adviser cannot override this decision by simply notifying the Administrator in advance."
+	},
+	{
+		"question": "Regarding the filing of the consent to service of process, which of the following statements is TRUE?",
+		"answers": [
+			{
+				"answer": "It must be filed annually on the dates specified by the Administrator.",
+				"correct": false
+			},
+			{
+				"answer": "It is not required for investment adviser representatives, only for investment advisers.",
+				"correct": false
+			},
+			{
+				"answer": "It expires at the same time as the registration on December 31.",
+				"correct": false
+			},
+			{
+				"answer": "It is submitted with the initial registration and remains on file indefinitely.",
+				"correct": true
+			}
+		],
+		"explanation": "The consent to service of process is submitted with the initial registration and is kept on file permanently."
+	},
+	{
+		"question": "Regarding stocks, which of the following indicates the first day an employee can exercise their option to buy shares of the company?",
+		"answers": [
+			{
+				"answer": "Exercise date",
+				"correct": false
+			},
+			{
+				"answer": "Expiration date",
+				"correct": false
+			},
+			{
+				"answer": "Grant date",
+				"correct": false
+			},
+			{
+				"answer": "Vesting date",
+				"correct": true
+			}
+		],
+		"explanation": "The vesting date is the first day employees are allowed to start purchasing shares of the company. The exercise date refers to when options are actually used, while the grant date is when the options are given to the employee."
+	},
     {
-        "question": "If an investment adviser files an initial registration with a state on June 30, which of the following statements regarding the filing fee to be paid is TRUE?",
-        "answers": [
-            {
-                "answer": "The full year&#039;s fee must be paid.",
-                "correct": true
-            },
-            {
-                "answer": "The fee will be prorated from the filing date.",
-                "correct": false
-            },
-            {
-                "answer": "The fee will be prorated from the effective date.",
-                "correct": false
-            },
-            {
-                "answer": "No filing fee is required until December 31.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>While some states make exceptions for filings late in the year, under the USA there is no pro rating of filing fees. The full year's fee must be paid with the initial registration request.<br /><br />U1LO5</span>"
-    },
+		"question": "Which positions result in selling stock at exercise? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put",
+		"answers": [
+			{
+				"answer": "II and III",
+				"correct": true
+			},
+			{
+				"answer": "I and IV",
+				"correct": false
+			},
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "II and IV",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "Which of the following is NOT included in measures of central tendency?",
+		"answers": [
+			{
+				"answer": "median",
+				"correct": false
+			},
+			{
+				"answer": "mode",
+				"correct": false
+			},
+			{
+				"answer": "mean",
+				"correct": false
+			},
+			{
+				"answer": "advance/decline ratio",
+				"correct": true
+			}
+		],
+		"explanation": "Median, Mode, and Mean are all recognized as measures of central tendency, as they aim to identify a point 'between extremes.' The Advance/Decline ratio, however, measures market breadth on a specific day and does not indicate any central tendency."
+	},
+	{
+		"question": "A registered investment adviser has discretionary authority over client accounts. The accounting department has just found that the firm's net worth is $8,500. According to the Uniform Securities Act, they <br><br>I. must inform the Administrator of the net worth deficiency by the end of that day <br>II. must inform the Administrator of the net worth deficiency by the end of the next business day <br>III. must submit a financial report to the Administrator by the first business day after notification <br>IV. may not continue to exercise discretion until they restore their net worth",
+		"answers": [
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "I and IV",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": true
+			},
+			{
+				"answer": "II and IV",
+				"correct": false
+			}
+		],
+		"explanation": "Under the USA, an investment adviser with discretionary authority over client accounts must maintain a minimum net worth of $10,000. If the adviser falls below this threshold, they must notify the Administrator by the end of the next business day. A complete financial report must then be submitted to the Administrator by the end of the business day following the notification. Unless directed otherwise by the Administrator, the firm may continue to exercise discretion."
+	},
     {
-        "question": "An Administrator may not prevent custody of securities or funds if an adviser notifies the Administrator before taking custody.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": false
-            },
-            {
-                "answer": "False",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "An Administrator may, by rule or order, prevent an adviser from taking custody. If an Administrator prevents custody, an adviser cannot overrule the Administrator by notifying the Administrator first."
-    },
+		"question": "In most situations, which tax filing status leads to the highest income tax?",
+		"answers": [
+			{
+				"answer": "head of household",
+				"correct": false
+			},
+			{
+				"answer": "married filing jointly",
+				"correct": false
+			},
+			{
+				"answer": "qualifying widower with a dependent child",
+				"correct": false
+			},
+			{
+				"answer": "single",
+				"correct": true
+			}
+		],
+		"explanation": "Generally, for the same income level, filing as single results in the highest income tax, while married filing jointly results in the lowest. Head of household is typically the most beneficial option for those who are unmarried but have children."
+	},
+	{
+		"question": "A man holds 15% of a company's stock, while his wife owns 5% of the same company's stock. If the wife intends to sell her shares, which of the following statements are TRUE? <br><br>I. Both the husband and wife are affiliates. <br>II. He is an affiliate, but she is not. <br>III. She must file under Rule 144. <br>IV. She does not need to file under Rule 144.",
+		"answers": [
+			{
+				"answer": "I and III",
+				"correct": true
+			},
+			{
+				"answer": "I and IV",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": false
+			},
+			{
+				"answer": "II and IV",
+				"correct": false
+			}
+		],
+		"explanation": "His 15% ownership constitutes control, while her 5% does not. However, because she is the spouse of an affiliate, she is considered one as well, making this a sale of control stock. All sales of control stock (unless exempt) require a Rule 144 filing."
+	},
+	{
+		"question": "Which of the following factors does NOT support fundamental analysis when evaluating a variety of qualitative factors?",
+		"answers": [
+			{
+				"answer": "the company's competitive position.",
+				"correct": false
+			},
+			{
+				"answer": "the company's stock price trend.",
+				"correct": true
+			},
+			{
+				"answer": "the quality and experience of the company's management team.",
+				"correct": false
+			},
+			{
+				"answer": "the company's business model.",
+				"correct": false
+			}
+		],
+		"explanation": "The company's stock price trend is relevant to technical analysis. Technicians focus on 'charting prices and volume over time.' The other factors are essential considerations in fundamental analysis."
+	},
     {
-        "question": "When filing the consent to service of process, which of the following is TRUE?",
-        "answers": [
-            {
-                "answer": "It must be filed annually on the dates specified by the Administrator.",
-                "correct": false
-            },
-            {
-                "answer": "It is not required of investment adviser representatives, only investment advisers.",
-                "correct": false
-            },
-            {
-                "answer": "It expires simultaneously with the registration on December 31.",
-                "correct": false
-            },
-            {
-                "answer": "It is supplied with the initial registration and remains on file permanently.",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>The consent to service of process is supplied with the initial registration and remains on file permanently.<br /><br />U1LO5</span>"
-    },
+		"question": "XYZ Aircraft Manufacturing Corporation, located in the United States, announces a multibillion-dollar order for its new jumbo jet from Fly Airlines, a carrier based in Japan. Once the sale is finalized, there will be",
+		"answers": [
+			{
+				"answer": "a debit to the current account of the United States",
+				"correct": false
+			},
+			{
+				"answer": "no impact on the balance of trade",
+				"correct": false
+			},
+			{
+				"answer": "a credit to the current account of the United States",
+				"correct": true
+			},
+			{
+				"answer": "a credit to the current account of Japan",
+				"correct": false
+			}
+		],
+		"explanation": "Whenever funds from a foreign source enter the United States, it is recorded as a credit item in the U.S. balance of payments."
+	},
+	{
+		"question": "A broker-dealer quotes a stock at 42 to a half. The difference between these two figures is referred to as",
+		"answers": [
+			{
+				"answer": "the broker's commission",
+				"correct": false
+			},
+			{
+				"answer": "the dealer's markup",
+				"correct": false
+			},
+			{
+				"answer": "the profit margin",
+				"correct": false
+			},
+			{
+				"answer": "the spread",
+				"correct": true
+			}
+		],
+		"explanation": "The dealer's quote indicates the bid and the offer (ask) prices. In this case, the bid is 42 and the offer is 42.50. The difference between these two prices is known as the spread."
+	},
+	{
+		"question": "A securities analyst selects stocks by first identifying superior companies, regardless of their industry sector or the overall economic conditions. This analyst is employing",
+		"answers": [
+			{
+				"answer": "the business cycle approach.",
+				"correct": false
+			},
+			{
+				"answer": "the top-down approach.",
+				"correct": false
+			},
+			{
+				"answer": "the optimal portfolio approach.",
+				"correct": false
+			},
+			{
+				"answer": "the bottom-up approach.",
+				"correct": true
+			}
+		],
+		"explanation": "This method exemplifies the bottom-up analysis approach. Instead of concentrating on the overall market (the 'macro' perspective) or sectors expected to outperform, this strategy focuses on identifying the most attractive individual stocks based on the company's fundamentals."
+	},
     {
-        "question": "<p>Concerning stocks, which of the following represents the first day which an employee is able to exercise their option to purchase shares of the company?</p>",
-        "answers": [
-            {
-                "answer": "Exercise date",
-                "correct": false
-            },
-            {
-                "answer": "Expiration date",
-                "correct": false
-            },
-            {
-                "answer": "Grant date",
-                "correct": false
-            },
-            {
-                "answer": "Vesting date",
-                "correct": true
-            }
-        ],
-        "explanation": "<p>The vesting date is the first day when employees can begin to purchase shares of the company. The exercise date is the day options are used, while the grant date is the day the options are provided to the employee.</p>"
-    },
+		"question": "If one of your clients passes away, from whom can you legally accept instructions regarding the individual's estate?",
+		"answers": [
+			{
+				"answer": "a CPA who prepared the deceased's tax return",
+				"correct": false
+			},
+			{
+				"answer": "the spouse of the deceased",
+				"correct": false
+			},
+			{
+				"answer": "a person with durable power of attorney",
+				"correct": false
+			},
+			{
+				"answer": "the administrator in intestacy",
+				"correct": true
+			}
+		],
+		"explanation": "When an individual dies without a will (intestate), the state appoints an administrator in intestacy who, similar to an executor for a will, has authority over the deceased's assets. A durable power of attorney, like any other power of attorney, becomes void upon the death of either party."
+	},
+	{
+		"question": "A depression is characterized as a decline in GDP for six or more consecutive months. Is this statement TRUE or FALSE?",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": false
+			},
+			{
+				"answer": "False",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "A depression is defined as a decrease in GDP for at least six consecutive quarters."
+	},
+	{
+		"question": "According to the Securities Exchange Act of 1934, which of the following would NOT be classified as a municipal security? <br><br>I. City of Chicago school district bond <br>II. U.S. Treasury Bill <br>III. Province of Ontario library construction bond",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": false
+			},
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "II only",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": true
+			}
+		],
+		"explanation": "Treasury bills are classified as government securities, not municipal securities. Additionally, under federal law, Canadian cities or provinces do not qualify as municipal securities."
+	},
     {
-        "question": "Which positions sell stock at exercise? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put",
-        "answers": [
-            {
-                "answer": "II and III",
-                "correct": true
-            },
-            {
-                "answer": "I and IV",
-                "correct": false
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "What is duration?",
+		"answers": [
+			{
+				"answer": "equivalent to the yield to maturity",
+				"correct": false
+			},
+			{
+				"answer": "a measure of a bond's volatility in relation to changes in interest rates",
+				"correct": true
+			},
+			{
+				"answer": "the deviation of a bond's returns from its average returns",
+				"correct": false
+			},
+			{
+				"answer": "identical to a bond's maturity",
+				"correct": false
+			}
+		],
+		"explanation": "Duration assesses a bond's sensitivity to interest rate changes. A longer duration indicates a greater change in the bond's price in response to interest rate fluctuations."
+	},
+	{
+		"question": "An investment adviser registered in four states may enter into an advisory contract with all of the following prospective clients except for",
+		"answers": [
+			{
+				"answer": "a bank.",
+				"correct": false
+			},
+			{
+				"answer": "an insurance company.",
+				"correct": false
+			},
+			{
+				"answer": "a minor.",
+				"correct": true
+			},
+			{
+				"answer": "a trust.",
+				"correct": false
+			}
+		],
+		"explanation": "Minors are not recognized as legal persons, so advisory (or brokerage) accounts cannot be established for them. Unit 24 covers UTMA accounts for minors."
+	},
+	{
+		"question": "In a direct participation program, who is liable for the business's debts?",
+		"answers": [
+			{
+				"answer": "general partner(s)",
+				"correct": true
+			},
+			{
+				"answer": "limited partner(s)",
+				"correct": false
+			},
+			{
+				"answer": "shareholder(s)",
+				"correct": false
+			},
+			{
+				"answer": "sole proprietor",
+				"correct": false
+			}
+		],
+		"explanation": "Direct participation programs (DPPs) include at least one general partner (GP) and one limited partner (LP). Limited partners have liability restricted to their investment, including any commitments not yet fulfilled, while general partners are responsible for the entity's debts."
+	},
     {
-        "question": "Measures of central tendency exclude:",
-        "answers": [
-            {
-                "answer": "median",
-                "correct": false
-            },
-            {
-                "answer": "mode",
-                "correct": false
-            },
-            {
-                "answer": "mean",
-                "correct": false
-            },
-            {
-                "answer": "advance/decline ratio",
-                "correct": true
-            }
-        ],
-        "explanation": "Median, Mode and Mean are all considered measures of central tendency, from the concept that they purport to find a point 'in between extremes.' The Advance/Decline ratio is a measure of the breadth of the market on a given day, and does not reflect any central tendency."
-    },
-    {
-        "question": "A registered investment adviser has discretionary authority over client accounts. Its accounting department has just discovered that the firm's net worth is $8,500. Under the Uniform Securities Act, they <br><br>I. must notify the Administrator of the net worth deficiency by the close of that day <br>II. must notify the Administrator of the net worth deficiency by the close of the next business day <br>III. must file a financial report with the Administrator by the first business day following notice <br>IV. may no longer exercise discretion until they increase their net worth",
-        "answers": [
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "I and IV",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": true
-            },
-            {
-                "answer": "II and IV ",
-                "correct": false
-            }
-        ],
-        "explanation": "Under the USA, an investment adviser exercising discretion over client accounts must maintain minimum net worth of $10,000. If the adviser falls below that minimum, it must notify the Administrator by the close of business the following day. Then, a complete financial report must be furnished to the Administrator by the close of business the day following the sending of the notice. Unless otherwise instructed by the Administrator, the firm may continue to exercise discretion."
-    },
-    {
-        "question": "In most cases, the tax filing status that results in the highest income tax is",
-        "answers": [
-            {
-                "answer": "head of household",
-                "correct": false
-            },
-            {
-                "answer": "married filing jointly",
-                "correct": false
-            },
-            {
-                "answer": "qualifying widower with a dependant child",
-                "correct": false
-            },
-            {
-                "answer": "single",
-                "correct": true
-            }
-        ],
-        "explanation": "In general, for the same amount of income, filing single will result in the highest income tax while married filing jointly, the lowest. Head of household is usually the best for those who are not married, but do have children."
-    },
-    {
-        "question": "A man owns 15% of the stock of a company. His wife owns 5% of the stock of the same company. If the wife wishes to sell the stock she owns, which of the following statements are TRUE? <br><br>I. Both the husband and the wife are affiliates. <br>II. He is an affiliate, but she is not. <br>III. She must file under Rule 144. <br>IV. She does not have to file under Rule 144.",
-        "answers": [
-            {
-                "answer": "I and III",
-                "correct": true
-            },
-            {
-                "answer": "I and IV",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": false
-            },
-            {
-                "answer": "II and IV",
-                "correct": false
-            }
-        ],
-        "explanation": "His 15% ownership is control. Her 5% is not, but the fact that she is the spouse of an affiliate makes her one, causing this to be a sale of control stock. All sales of control stock (unless an exemption applies) must be accompanied by a Rule 144 filing."
-    },
-    {
-        "question": "All the following factors support fundamental analysis while assessing a wide range of qualitative factors except",
-        "answers": [
-            {
-                "answer": "the company's competitive position.",
-                "correct": false
-            },
-            {
-                "answer": "the company's stock price trend.",
-                "correct": true
-            },
-            {
-                "answer": "the company's management team's quality and experience.",
-                "correct": false
-            },
-            {
-                "answer": "the company's business model.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The company's stock price trend is important to technical analysis. Remember that a technician \"charts prices and volume over time\". The others are factors to consider in fundamental analysis.<br /><br />U12LO6</span>"
-    },
-    {
-        "question": "XYZ Aircraft Manufacturing Corporation, based in the United States, announces a multibillion dollar order for its new jumbo jet from Fly Airlines, a Japanese-based carrier. When the sale is completed, there will be",
-        "answers": [
-            {
-                "answer": "a debit to the current account of the United States",
-                "correct": false
-            },
-            {
-                "answer": "no effect on the balance of trade",
-                "correct": false
-            },
-            {
-                "answer": "a credit to the current account of the United States",
-                "correct": true
-            },
-            {
-                "answer": "a credit to the current account of Japan",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Whenever money from a foreign source enters the United States, it becomes a credit item in the U.S. balance of payments.<br /><br />U8LO1</span>"
-    },
-    {
-        "question": "A broker-dealer quotes a stock 42 to a half. The difference between these two numbers is known as",
-        "answers": [
-            {
-                "answer": "the broker's commission",
-                "correct": false
-            },
-            {
-                "answer": "the dealer's markup",
-                "correct": false
-            },
-            {
-                "answer": "the profit margin",
-                "correct": false
-            },
-            {
-                "answer": "the spread",
-                "correct": true
-            }
-        ],
-        "explanation": "The dealer's quote represents the bid and the offer (ask) prices. This quote is 42 bid and 42.50 offered. The difference between these two is the spread."
-    },
-    {
-        "question": "A securities analyst's stock selection method is to begin by looking for superior companies, regardless of their industry sector or the condition of the overall economy. In so doing, this analyst is using",
-        "answers": [
-            {
-                "answer": "the business cycle approach.",
-                "correct": false
-            },
-            {
-                "answer": "the top-down approach.",
-                "correct": false
-            },
-            {
-                "answer": "the optimal portfolio approach.",
-                "correct": false
-            },
-            {
-                "answer": "the bottom-up approach.",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>This is the basic approach of bottom-up analysis. Rather than focusing the attention on the overall market (the \"macro\" view of the economy) or the sectors that are likely to outperform, this approach seeks to identify, usually based on the company's fundamentals, the most attractive individual stocks.<br /><br />U8LO1</span>"
-    },
-    {
-        "question": "One of your clients dies. You could legally take instructions regarding the individual's estate from",
-        "answers": [
-            {
-                "answer": "a CPA who prepared the deceased's tax return",
-                "correct": false
-            },
-            {
-                "answer": "the spouse of the deceased",
-                "correct": false
-            },
-            {
-                "answer": "a person with durable power of attorney",
-                "correct": false
-            },
-            {
-                "answer": "the administrator in intestacy",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>If an individual dies without a will (intestate), the state will appoint an administrator in intestacy who, just as an executor for one who had a will, has control over the deceased's assets. A durable power of attorney, just like any other power, expires upon the death of either party to the power.<br /><br />U18LO4</span>"
-    },
-    {
-        "question": "A depression is defined as a decrease in the GDP for 6 or more consecutive months.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": false
-            },
-            {
-                "answer": "False",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "A depression is a decrease in the GDP for at least six consecutive quarters."
-    },
-    {
-        "question": "Under the Securities Exchange Act of 1934, the term municipal security would NOT include a(n) <br><br>I. City of Chicago school district bond <br>II. U.S. Treasury Bill <br>III. Province of Ontario library construction bond",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": false
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II only",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": true
-            }
-        ],
-        "explanation": "Treasury bills are defined as government securities, not municipal securities. Under federal law, Canadian cities (or provinces) are not municipal securities."
-    },
-    {
-        "question": "Duration is",
-        "answers": [
-            {
-                "answer": "equivalent to the yield to maturity",
-                "correct": false
-            },
-            {
-                "answer": "a measure of a bond's volatility with respect to a change in interest rates",
-                "correct": true
-            },
-            {
-                "answer": "the deviation of a bond's returns from its average returns",
-                "correct": false
-            },
-            {
-                "answer": "identical to a bond's maturity",
-                "correct": false
-            }
-        ],
-        "explanation": "Duration measures a bond's sensitivity to a change in interest rates. The longer the duration, the greater the change in a bond's price with respect to interest rate changes."
-    },
-    {
-        "question": "An investment adviser registered in 4 states would be permitted to enter into an advisory contract with all of the following prospective clients except",
-        "answers": [
-            {
-                "answer": "a bank.",
-                "correct": false
-            },
-            {
-                "answer": "an insurance company.",
-                "correct": false
-            },
-            {
-                "answer": "a minor.",
-                "correct": true
-            },
-            {
-                "answer": "a trust.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Because minors are not considered legal persons, advisory (or brokerage) accounts cannot be opened for them. Unit 24 discusses the UTMA accounts for minors.<br /><br />U18LO1</span>"
-    },
-    {
-        "question": "In a direct participation program, liability for the debts of the business falls upon the",
-        "answers": [
-            {
-                "answer": "general partner(s)",
-                "correct": true
-            },
-            {
-                "answer": "limited partner(s)",
-                "correct": false
-            },
-            {
-                "answer": "shareholder(s)",
-                "correct": false
-            },
-            {
-                "answer": "sole proprietor",
-                "correct": false
-            }
-        ],
-        "explanation": "DPPs consist of at least one GP and one LP. The liability of the limited partners is limited to their investment, including commitments made but not yet fulfilled. On the other hand, the general partners bear the liability for the debts of the entity. "
-    },
-    {
-        "question": "Under the Uniform Securities Act, which of the following persons has to register as an investment adviser?",
-        "answers": [
-            {
-                "answer": "An agent of a broker-dealer who gives investment advice within the course of his duties with the firm for which a fee is charged",
-                "correct": false
-            },
-            {
-                "answer": "A broker-dealer who gives advice for which he charges a specific fee",
-                "correct": true
-            },
-            {
-                "answer": "A broker-dealer who gives investment advice that is incidental to the course of its business and for which no special compensation is received",
-                "correct": false
-            },
-            {
-                "answer": "An attorney who writes a legal opinion for a municipal bond indenture",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Broker-dealers need not register as investment advisers unless they charge a separate fee for providing investment advice. If the advice is strictly incidental and without a separate charge, the BD is not an investment advisor. Attorneys are not investment advisers provided their investment advice is incidental to their practice. Giving a legal opinion on a municipal security indenture is not investment advice. Agents giving advice for which a fee is charged must register as investment adviser representatives and their BDs as investment advisers.<br /><br />U1LO3</span>"
-    }
+		"question": "According to the Uniform Securities Act, which of the following individuals is required to register as an investment adviser?",
+		"answers": [
+			{
+				"answer": "An agent of a broker-dealer who provides investment advice as part of their duties for which a fee is charged",
+				"correct": false
+			},
+			{
+				"answer": "A broker-dealer who charges a specific fee for providing advice",
+				"correct": true
+			},
+			{
+				"answer": "A broker-dealer who offers investment advice that is incidental to their business and does not receive any special compensation for it",
+				"correct": false
+			},
+			{
+				"answer": "An attorney who provides a legal opinion for a municipal bond indenture",
+				"correct": false
+			}
+		],
+		"explanation": "Broker-dealers are not required to register as investment advisers unless they charge a separate fee for investment advice. If the advice is incidental and no additional charge is made, the broker-dealer does not qualify as an investment adviser. Attorneys are also not considered investment advisers if their investment advice is incidental to their legal practice. Providing a legal opinion on a municipal security indenture does not constitute investment advice. Agents who charge a fee for advice must register as investment adviser representatives, and their broker-dealers must register as investment advisers."
+	}
 ]
