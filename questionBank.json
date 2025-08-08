@@ -3036,995 +3036,995 @@
 		"explanation": "<p>Selling options provides income for the seller in the form of premiums paid by the buyer. Since Matilda already owns shares of ABC, selling covered calls on those shares would be a logical way for her to generate income.<br></p>"
 	},
     {
-        "question": "IRAs and Keogh plans are similar in the following ways EXCEPT",
-        "answers": [
-            {
-                "answer": "deferral of taxes",
-                "correct": false
-            },
-            {
-                "answer": "distributions without penalty can begin as early as age 59 1/2",
-                "correct": false
-            },
-            {
-                "answer": "identical amounts of cash contributions are allowed",
-                "correct": true
-            },
-            {
-                "answer": "there is a 50% tax penalty for insufficient distributions ",
-                "correct": false
-            }
-        ],
-        "explanation": "IRAs and Keogh plans do not have identical contribution amounts; IRAs allow a maximum of $7,000 per individual or $14,000 per couple per year, whereas Keogh (HR-10) plans allow substantially more (smaller of 25% of salary or $69,000). Both IRAs and Keoghs allow tax-deferred growth until the individual withdraws the funds. IRAs and Keoghs have premature distribution penalties before age 59 1/2. Once the participant reaches 73, required minimum distributions must be made or a 25% tax penalty will be assessed."
-    },
+		"question": "Which of the following statements about IRAs and Keogh plans is NOT true?",
+		"answers": [
+			{
+				"answer": "taxes can be deferred",
+				"correct": false
+			},
+			{
+				"answer": "penalty-free withdrawals can start at age 59 1/2",
+				"correct": false
+			},
+			{
+				"answer": "the same contribution limits apply",
+				"correct": true
+			},
+			{
+				"answer": "a 50% tax penalty applies for inadequate distributions",
+				"correct": false
+			}
+		],
+		"explanation": "IRAs and Keogh plans do not share the same contribution limits; IRAs permit a maximum contribution of $7,000 per individual or $14,000 per couple annually, while Keogh (HR-10) plans allow significantly higher contributions (the lesser of 25% of salary or $69,000). Both types of accounts enable tax-deferred growth until funds are withdrawn. Additionally, both IRAs and Keoghs impose penalties for early withdrawals before age 59 1/2. After reaching age 73, participants must take required minimum distributions or face a 25% tax penalty."
+	},
+	{
+		"question": "What is NOT an advantage of investing in preferred stock compared to common stock?",
+		"answers": [
+			{
+				"answer": "Priority in liquidation scenarios",
+				"correct": false
+			},
+			{
+				"answer": "Priority in dividend distributions",
+				"correct": false
+			},
+			{
+				"answer": "Higher potential for capital appreciation",
+				"correct": true
+			},
+			{
+				"answer": "No concerns regarding voting rights",
+				"correct": false
+			}
+		],
+		"explanation": "Common stocks generally have a higher likelihood of capital appreciation compared to preferred stocks, which do not provide voting rights."
+	},
+	{
+		"question": "Which investment option is associated with income and low risk?",
+		"answers": [
+			{
+				"answer": "Government bond fund",
+				"correct": true
+			},
+			{
+				"answer": "Large-cap fund",
+				"correct": false
+			},
+			{
+				"answer": "Asset allocation fund",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "Which is not a benefit of investing in Preferred stock over common stock?",
-        "answers": [
-            {
-                "answer": "Senior position in a liquidation event",
-                "correct": false
-            },
-            {
-                "answer": "Senior position in dividend payments",
-                "correct": false
-            },
-            {
-                "answer": "Greater chance for capital gains",
-                "correct": true
-            },
-            {
-                "answer": "Don't have to bother with voting rights issues",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>Common stocks are much more likely to have capital gains than preferred. Preferred stock doesn't have voting rights.</span></p>"
-    },
+		"question": "When assessing an investor's risk tolerance, an investment adviser representative should take into account: <br><br>I. the investor's comfort with market fluctuations <br>II. the duration of the investment, whether long-term or short-term <br>III. the need for liquidity <br>IV. the investor's overall investment attitude",
+		"answers": [
+			{
+				"answer": "I only",
+				"correct": false
+			},
+			{
+				"answer": "I and II",
+				"correct": false
+			},
+			{
+				"answer": "I, II and III",
+				"correct": false
+			},
+			{
+				"answer": "I, II, III and IV",
+				"correct": true
+			}
+		],
+		"explanation": "The investment adviser representative must evaluate a client's tolerance for volatility, investment timeline, liquidity requirements, and comfort level with various investment types. All these factors contribute to understanding a client's attitude toward risk."
+	},
+	{
+		"question": "Which type of annuity is most appropriate for an investor who prefers certificates of deposit (CDs)?",
+		"answers": [
+			{
+				"answer": "An equity-indexed annuity",
+				"correct": false
+			},
+			{
+				"answer": "A variable annuity",
+				"correct": false
+			},
+			{
+				"answer": "An immediate annuity",
+				"correct": false
+			},
+			{
+				"answer": "A fixed annuity",
+				"correct": true
+			}
+		],
+		"explanation": "A fixed annuity closely resembles a CD and does not carry the volatility associated with other types of annuities."
+	},
+	{
+		"question": "What is the relationship between the coupon rate and yield to maturity for a bond sold at par?",
+		"answers": [
+			{
+				"answer": "less than its yield to maturity",
+				"correct": false
+			},
+			{
+				"answer": "less than its current yield",
+				"correct": false
+			},
+			{
+				"answer": "equal to its current yield",
+				"correct": true
+			},
+			{
+				"answer": "greater than its yield to maturity",
+				"correct": false
+			}
+		],
+		"explanation": "When a bond is priced at par, its coupon rate, current yield, and yield to maturity are all equal."
+	},
     {
-        "question": "Income/low risk",
-        "answers": [
-            {
-                "answer": "Government bond fund",
-                "correct": true
-            },
-            {
-                "answer": "Large-cap fund",
-                "correct": false
-            },
-            {
-                "answer": "Asset allocation fund",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "How is core inflation best defined?",
+		"answers": [
+			{
+				"answer": "related to the raw materials for producers",
+				"correct": false
+			},
+			{
+				"answer": "considered acceptable by the central bank",
+				"correct": false
+			},
+			{
+				"answer": "that omits prices of certain volatile goods",
+				"correct": true
+			},
+			{
+				"answer": "that reflects a market basket of consumer products",
+				"correct": false
+			}
+		],
+		"explanation": "Core inflation is calculated using a price index that excludes the prices of food and energy."
+	},
+	{
+		"question": "What is the term for a person who conducts transactions in municipal securities on behalf of a broker-dealer?",
+		"answers": [
+			{
+				"answer": "Agent",
+				"correct": true
+			},
+			{
+				"answer": "Not an agent",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": "Individuals must be registered as agents when executing transactions on behalf of broker-dealers, regardless of whether the securities are exempt."
+	},
+	{
+		"question": "What defines the monthly retirement benefit an employee will receive?",
+		"answers": [
+			{
+				"answer": "Defined benefit plan",
+				"correct": true
+			},
+			{
+				"answer": "Keogh plan",
+				"correct": false
+			},
+			{
+				"answer": "Spousal IRA contributions",
+				"correct": false
+			},
+			{
+				"answer": "Payroll deduction plan",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "In determining an investor's risk tolerance, an investment adviser representative must consider <br><br>I. level of tolerance toward market volatility <br>II. investment time horizon, long term or short term <br>III. liquidity requirements <br>IV. investment temperament",
-        "answers": [
-            {
-                "answer": "I only",
-                "correct": false
-            },
-            {
-                "answer": "I and II",
-                "correct": false
-            },
-            {
-                "answer": "I, II and III",
-                "correct": false
-            },
-            {
-                "answer": "I, II, III and IV",
-                "correct": true
-            }
-        ],
-        "explanation": "The investment adviser representative must consider a client's volatility tolerance, investment time frame, liquidity needs, and comfort with different types of investments. These are all elements in the understanding of a customer's attitude toward risk."
-    },
+		"question": "Generally, a person who conducts transactions in securities for themselves or on behalf of others in a business context must register as a broker-dealer in the state.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": "Individuals who engage in securities transactions for themselves or for others must register as broker-dealers in the state unless they are specifically excluded from this definition or are exempt from registration."
+	},
+	{
+		"question": "An investor bought 1,000 shares of XYZ at $40 each 12 months ago. The investor received four quarterly dividends of $0.50 and sold the shares at $38. What is the investor's total return?",
+		"answers": [
+			{
+				"answer": "10 percent",
+				"correct": false
+			},
+			{
+				"answer": "2.5 percent",
+				"correct": false
+			},
+			{
+				"answer": "5 percent",
+				"correct": false
+			},
+			{
+				"answer": "0 percent",
+				"correct": true
+			}
+		],
+		"explanation": "The investor received a total of $2 in dividends and incurred a $2 capital loss, resulting in a total return of $0 for the investment. When considering both dividends and capital loss, the investor broke even."
+	},
+	{
+		"question": "Who holds the primary responsibility for overseeing the activities of an investment adviser representative associated with a federal covered investment adviser?",
+		"answers": [
+			{
+				"answer": "the investment adviser representative themselves",
+				"correct": false
+			},
+			{
+				"answer": "the investment adviser that the IAR represents",
+				"correct": true
+			},
+			{
+				"answer": "the SEC",
+				"correct": false
+			},
+			{
+				"answer": "the Administrator",
+				"correct": false
+			}
+		],
+		"explanation": "Every registered investment adviser, whether registered with the SEC or at the state level, is responsible for supervising its representatives."
+	},
     {
-        "question": "What type of annuity is probably best suited for an investor who is only comfortable with CD's?",
-        "answers": [
-            {
-                "answer": "An equity-indexed annuity",
-                "correct": false
-            },
-            {
-                "answer": "A variable annuity",
-                "correct": false
-            },
-            {
-                "answer": "An immediate annuity",
-                "correct": false
-            },
-            {
-                "answer": "A fixed annuity",
-                "correct": true
-            }
-        ],
-        "explanation": "<p><span> A fixed annuity is most similar to a CD, and does not have the volatility of others."
-    },
+		"question": "Which of the following statements about the provisions of the Investment Advisers Act of 1940 is TRUE?",
+		"answers": [
+			{
+				"answer": "Registered Investment Advisers must disclose their sources of information for specific client recommendations.",
+				"correct": false
+			},
+			{
+				"answer": "An investment adviser needs to obtain client consent to accept a buyout offer for all of the adviser's shares.",
+				"correct": false
+			},
+			{
+				"answer": "Five Partners Advisers, Ltd. must notify all clients that one of the five partners has retired and has been replaced by a new partner.",
+				"correct": true
+			},
+			{
+				"answer": "Using a client's contract as collateral for a loan to the adviser is not considered an assignment of the contract.",
+				"correct": false
+			}
+		],
+		"explanation": "Both state and federal regulations require advisers operating as partnerships to inform clients of changes in partners when it represents a minority interest in the firm. Advisers are not obligated to disclose the sources for specific recommendations. An advisory firm can be sold without needing client consent. However, if the sale results in a change that qualifies as an assignment, the adviser must obtain client consent to keep their contracts. Regulatory authorities view the pledging of clients' contracts as an assignment."
+	},
+	{
+		"question": "What is the minimum percentage of cash value that must be accessible for a policy loan after three years?",
+		"answers": [
+			{
+				"answer": "9",
+				"correct": false
+			},
+			{
+				"answer": "24",
+				"correct": false
+			},
+			{
+				"answer": "75",
+				"correct": true
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "What type of indicator is GDP?",
+		"answers": [
+			{
+				"answer": "Prime rate",
+				"correct": false
+			},
+			{
+				"answer": "Lagging indicator",
+				"correct": false
+			},
+			{
+				"answer": "Leading indicator",
+				"correct": false
+			},
+			{
+				"answer": "Coincident indicator",
+				"correct": true
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "A bond offered at par has a coupon rate",
-        "answers": [
-            {
-                "answer": "less than its yield to maturity",
-                "correct": false
-            },
-            {
-                "answer": "less than its current yield",
-                "correct": false
-            },
-            {
-                "answer": "equal to its current yield",
-                "correct": true
-            },
-            {
-                "answer": "greater than its yield to maturity",
-                "correct": false
-            }
-        ],
-        "explanation": "When a bond is selling at par, its coupon or nominal rate, current yield, and yield to maturity are all the same."
-    },
+		"question": "What is commonly referred to as mutual funds?",
+		"answers": [
+			{
+				"answer": "Open-end company",
+				"correct": true
+			},
+			{
+				"answer": "Closed-end company",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "Which of the following does NOT represent ownership in a corporation?",
+		"answers": [
+			{
+				"answer": "Mortgage bonds",
+				"correct": true
+			},
+			{
+				"answer": "Common stock",
+				"correct": false
+			},
+			{
+				"answer": "Convertible preferred stock",
+				"correct": false
+			},
+			{
+				"answer": "Preferred stock",
+				"correct": false
+			}
+		],
+		"explanation": "Ownership in a corporation is represented by its equity securities. All types of stock are considered equity, while all bonds are classified as debt."
+	},
+	{
+		"question": "What adjustment is made to gross domestic product to provide a more accurate representation of economic results?",
+		"answers": [
+			{
+				"answer": "To include bank reserves",
+				"correct": false
+			},
+			{
+				"answer": "For inflation",
+				"correct": true
+			},
+			{
+				"answer": "To match foreign GDP",
+				"correct": false
+			},
+			{
+				"answer": "Downward by the balance of payments",
+				"correct": false
+			}
+		],
+		"explanation": "Adjusting GDP for inflation allows for a clearer measurement of economic activity by reducing distortion. A constant dollar adjustment is applied to eliminate the effects of inflation."
+	},
     {
-        "question": "Core inflation is best described as an inflation rate",
-        "answers": [
-            {
-                "answer": "for producers' raw materials",
-                "correct": false
-            },
-            {
-                "answer": "the central bank views as acceptable",
-                "correct": false
-            },
-            {
-                "answer": "that excludes certain volatile goods prices",
-                "correct": true
-            },
-            {
-                "answer": "that represents a market basket of consumer items",
-                "correct": false
-            }
-        ],
-        "explanation": "Core inflation is measured using a price index that excludes food and energy prices."
-    },
+		"question": "Which of the following is classified as a coincident economic indicator?",
+		"answers": [
+			{
+				"answer": "Machine tool orders",
+				"correct": false
+			},
+			{
+				"answer": "Agricultural employment",
+				"correct": false
+			},
+			{
+				"answer": "Stock market prices as indicated by the S&P 500",
+				"correct": false
+			},
+			{
+				"answer": "Industrial production",
+				"correct": true
+			}
+		],
+		"explanation": "Industrial production is considered a coincident indicator. In contrast, stock indexes and manufacturing orders are leading indicators, and agricultural employment is not typically used as an economic indicator."
+	},
+	{
+		"question": "If a wealthy uncle wants to provide $1,000 per month indefinitely to his favorite niece, and the account earns 5% annually, what is the necessary deposit?",
+		"answers": [
+			{
+				"answer": "$20,000",
+				"correct": false
+			},
+			{
+				"answer": "$24,000",
+				"correct": false
+			},
+			{
+				"answer": "$200,000",
+				"correct": false
+			},
+			{
+				"answer": "$240,000",
+				"correct": true
+			}
+		],
+		"explanation": "First, convert the monthly payment to an annual amount: $1,000 per month equals $12,000 per year. Then, divide $12,000 by the 5% return rate to determine that a lump-sum deposit of $240,000 is required."
+	},
+	{
+		"question": "A broker-dealer registered with the SEC and multiple states must comply with the net capital standard of the state that has the strictest requirements.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": false
+			},
+			{
+				"answer": "False",
+				"correct": true
+			},
+			{
+				"answer": "None",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": "When a broker-dealer is registered with both the SEC and several states, the financial and operational standards they must meet are those set by the SEC."
+	},
     {
-        "question": "Person who effects transactions in municipal securities on behalf of a broker-dealer",
-        "answers": [
-            {
-                "answer": "Agent",
-                "correct": true
-            },
-            {
-                "answer": "Not an agent",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "Persons must be registered as agents when they effect transactions on behalf of brokerdealers whether or not the securities are exempt."
-    },
+		"question": "What investment option provides safety of principal with yields slightly higher than a government bond fund?",
+		"answers": [
+			{
+				"answer": "Ginnie Mae fund",
+				"correct": true
+			},
+			{
+				"answer": "Special situation fund",
+				"correct": false
+			},
+			{
+				"answer": "Asset allocation fund",
+				"correct": false
+			},
+			{
+				"answer": "Index fund",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "What is the best choice for someone looking to invest in real estate while also needing liquidity?",
+		"answers": [
+			{
+				"answer": "REITs",
+				"correct": true
+			},
+			{
+				"answer": "Preferred stock in a real estate company",
+				"correct": false
+			},
+			{
+				"answer": "Common stock in a real estate company",
+				"correct": false
+			},
+			{
+				"answer": "ADRs",
+				"correct": false
+			}
+		],
+		"explanation": "REITs, or Real Estate Investment Trusts, are the most effective way for individuals to invest in commercial real estate while maintaining liquidity."
+	},
+	{
+		"question": "Which of the following statements about an investment's internal rate of return (IRR) is NOT true?",
+		"answers": [
+			{
+				"answer": "IRR indicates the interest rate that equates the initial investment with the present value of future cash flows",
+				"correct": false
+			},
+			{
+				"answer": "Investments are considered acceptable if their internal rates of return exceed the investor's required rate of return",
+				"correct": false
+			},
+			{
+				"answer": "IRR cannot be determined for investments with uneven cash flows",
+				"correct": true
+			},
+			{
+				"answer": "IRR is the single rate of return that results in an investment having a net present value (NPV) of 0",
+				"correct": false
+			}
+		],
+		"explanation": "IRR is the interest rate that balances the initial investment with the present value of future cash flows; it is the rate of return that results in an investment having a net present value of 0. While challenging, it is possible to calculate IRR for investments with uneven cash flows, such as common stocks."
+	},
     {
-        "question": "Specifies the monthly amount an employee will receive at retirement",
-        "answers": [
-            {
-                "answer": "Defined benefit plan",
-                "correct": true
-            },
-            {
-                "answer": "Keogh plan",
-                "correct": false
-            },
-            {
-                "answer": "Spousal IRA contributions",
-                "correct": false
-            },
-            {
-                "answer": "Payroll deduction plan",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "What is the primary defining characteristic of an equity security?",
+		"answers": [
+			{
+				"answer": "It signifies ownership in a corporation.",
+				"correct": true
+			},
+			{
+				"answer": "The ability to keep pace with inflation.",
+				"correct": false
+			},
+			{
+				"answer": "It pays dividends, typically on a quarterly basis.",
+				"correct": false
+			},
+			{
+				"answer": "Voting rights.",
+				"correct": false
+			}
+		],
+		"explanation": "The term \"equity\" refers to ownership, which is the most significant aspect of an equity security, whether it is common or preferred stock. While many equity securities pay dividends, this is not fundamental to their definition. Equity securities include preferred stock, which has fixed dividends but does not provide inflation protection or voting rights."
+	},
+	{
+		"question": "Kevin holds $500,000 in Treasury bonds and wants to use Treasury bond futures contracts to fully hedge his position. Given a contract size of $100,000, how should Kevin proceed to hedge?",
+		"answers": [
+			{
+				"answer": "Go short 5 contracts",
+				"correct": true
+			},
+			{
+				"answer": "Go long 500 contracts",
+				"correct": false
+			},
+			{
+				"answer": "Go short 500 contracts",
+				"correct": false
+			},
+			{
+				"answer": "Go long 5 contracts",
+				"correct": false
+			}
+		],
+		"explanation": "Since Kevin owns Treasury bonds, he will benefit from price increases and incur losses when prices decrease. To hedge his bond holdings, he needs a futures position that moves in the opposite direction: losing when Treasury prices rise and gaining when they fall. A short position in Treasury futures will provide this gain/loss profile. With a contract size of $100,000, Kevin needs to short enough contracts to cover his $500,000 bond holdings: $500,000 desired exposure / $100,000 per contract = 5 contracts. Therefore, he should short 5 contracts to fully hedge."
+	},
+	{
+		"question": "A state-registered investment adviser with custody of customer funds and securities finds that its net worth is $32,000. Which of the following actions would NOT be required?",
+		"answers": [
+			{
+				"answer": "Filing a financial report with the Administrator by the end of the next business day after notice",
+				"correct": false
+			},
+			{
+				"answer": "Notifying the Administrator of the deficiency by the end of the next business day",
+				"correct": false
+			},
+			{
+				"answer": "Reporting to the Administrator the number of client accounts managed by the investment adviser",
+				"correct": false
+			},
+			{
+				"answer": "Returning customer funds and securities within three business days of the discovery",
+				"correct": true
+			}
+		],
+		"explanation": "When a firm's net worth falls below $35,000, it must notify the Administrator and file reports. However, unless directed by the Administrator, there is no obligation to return client assets."
+	},
     {
-        "question": "In general, a person who effects transactions in securities for itself or for the account of others in the course of business must register in the state as a broker-dealer.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": true
-            },
-            {
-                "answer": "False",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "A person who effects transactions in securities for itself or for the account of others must register in the state as a brokerdealer unless specifically excluded from the definition or exempt from registration."
-    },
+		"question": "Which of the following statements about international investing is accurate?",
+		"answers": [
+			{
+				"answer": "The returns on foreign securities are typically lower than those from U.S. markets.",
+				"correct": false
+			},
+			{
+				"answer": "Information about foreign investments is not as easily accessible as that for domestic investments.",
+				"correct": true
+			},
+			{
+				"answer": "Including foreign securities in a portfolio may increase overall portfolio risk due to the differing movements of foreign and U.S. markets.",
+				"correct": false
+			},
+			{
+				"answer": "Foreign markets are generally mature and do not offer growth opportunities.",
+				"correct": false
+			}
+		],
+		"explanation": "Generally, foreign investments lack the transparency found in domestic markets. Investors may achieve higher returns in foreign markets, and adding foreign securities to a portfolio can reduce risk through enhanced diversification, as there may be a low correlation with U.S. markets. While securities markets in many developed economies are mature, they can still experience growth, and emerging markets present significant growth potential alongside their higher risks."
+	},
+	{
+		"question": "A customer wants to buy a security that provides periodic interest payments, ensures safety of principal, and protects against purchasing power risk. What should the customer purchase?",
+		"answers": [
+			{
+				"answer": "TIPS",
+				"correct": true
+			},
+			{
+				"answer": "TIGRS",
+				"correct": false
+			},
+			{
+				"answer": "CMOs",
+				"correct": false
+			},
+			{
+				"answer": "STRIPS",
+				"correct": false
+			}
+		],
+		"explanation": "TIPS (Treasury Inflation-Protected Securities) provide inflation protection and ensure the safety of principal since they are backed by the U.S. government."
+	},
+	{
+		"question": "Which type of annuity provides payouts as long as one of the annuitants is alive?",
+		"answers": [
+			{
+				"answer": "Accumulation unit",
+				"correct": false
+			},
+			{
+				"answer": "Joint and last survivor annuity",
+				"correct": true
+			},
+			{
+				"answer": "Deferred annuity",
+				"correct": false
+			},
+			{
+				"answer": "Variable annuity",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
     {
-        "question": "An investor purchased 1000 shares of XYZ at $40 12 months ago. The investor has received four quarterly dividends of 50 cents and sells the shares at $38. The investor&#8217;s total return is:",
-        "answers": [
-            {
-                "answer": "10 percent",
-                "correct": false
-            },
-            {
-                "answer": "2.5 percent",
-                "correct": false
-            },
-            {
-                "answer": "5 percent",
-                "correct": false
-            },
-            {
-                "answer": "0 percent",
-                "correct": true
-            }
-        ],
-        "explanation": "The investor received a total of $2 in dividends and realized a $2 capital loss for a total return of $0 for the entire investment . The investor broke even when the dividends and capital loss are considered. "
-    },
+		"question": "What action should an agent take when a client decides to open an options account?",
+		"answers": [
+			{
+				"answer": "Ensure that an options agreement is signed before the first trade occurs",
+				"correct": false
+			},
+			{
+				"answer": "Provide an options disclosure document no later than 15 days after the first trade",
+				"correct": false
+			},
+			{
+				"answer": "Discuss the risks associated with trading options with the client before the first options trade",
+				"correct": true
+			},
+			{
+				"answer": "Obtain approval from the designated options supervisor to open the account no later than one business day after the first options trade",
+				"correct": false
+			}
+		],
+		"explanation": "It is crucial to address suitability and risk with the client before allowing options trading. The options disclosure document must be delivered at the time of account opening, and the options agreement should be returned within 15 days after the account is opened. An options account must be approved by a designated supervisor before any trading can occur."
+	},
+	{
+		"question": "Which of the following is NOT a consideration when a broker-dealer reviews or approves a communication intended for public distribution?",
+		"answers": [
+			{
+				"answer": "Whether statements of benefits are balanced with statements of potential risks",
+				"correct": false
+			},
+			{
+				"answer": "The nature of the audience for the communication",
+				"correct": false
+			},
+			{
+				"answer": "Whether the communication will be distributed in written form or on the firm's website",
+				"correct": true
+			},
+			{
+				"answer": "Whether the communication targets existing customers or prospective ones",
+				"correct": false
+			}
+		],
+		"explanation": "The format of the communication is not what matters; the content is what is important."
+	},
+	{
+		"question": "According to the Uniform Securities Act, which of the following are considered states?<br><br>I. Puerto Rico<br>II. American Samoa<br>III. The District of Columbia<br>IV. Guam",
+		"answers": [
+			{
+				"answer": "I, II, III, IV",
+				"correct": true
+			},
+			{
+				"answer": "I, III, IV",
+				"correct": false
+			},
+			{
+				"answer": "I, II",
+				"correct": false
+			},
+			{
+				"answer": "II, III",
+				"correct": false
+			}
+		],
+		"explanation": "Under the Uniform Securities Act, 'state' refers to any state, territory, or possession of the United States, including the District of Columbia and Puerto Rico. U.S. territories include American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the U.S. Virgin Islands."
+	},
     {
-        "question": "The primary responsibility for supervising the activities of an investment adviser representative who is affiliated with a federal covered investment adviser lies with",
-        "answers": [
-            {
-                "answer": "the investment adviser representative",
-                "correct": false
-            },
-            {
-                "answer": "the investment adviser the IAR represents",
-                "correct": true
-            },
-            {
-                "answer": "the SEC",
-                "correct": false
-            },
-            {
-                "answer": "the Administrator",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>It is the obligation of every registered investment adviser, whether SEC or state-registered, to supervise its representatives.<br /><br />U1LO6</span>"
-    },
+		"question": "If a country's current account indicates a trade deficit, it is most likely that:",
+		"answers": [
+			{
+				"answer": "Short-term capital flows exceed long-term capital flows.",
+				"correct": false
+			},
+			{
+				"answer": "Tax payments surpass tax receipts.",
+				"correct": false
+			},
+			{
+				"answer": "Net exports are positive.",
+				"correct": false
+			},
+			{
+				"answer": "Imports exceed exports.",
+				"correct": true
+			}
+		],
+		"explanation": "A trade deficit occurs when imports are greater than exports."
+	},
+	{
+		"question": "According to the Securities Act of 1933, the term 'issuer' includes: <br><br>I. A government entity issuing exempt securities. <br>II. A corporation issuing securities in an exempt transaction. <br>III. An antique dealer selling items from a collection of rare books.",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": true
+			},
+			{
+				"answer": "II and III",
+				"correct": false
+			},
+			{
+				"answer": "III only",
+				"correct": false
+			},
+			{
+				"answer": "I, II, and III",
+				"correct": false
+			}
+		],
+		"explanation": "An issuer is defined as a person or entity that issues a security, regardless of whether the security is exempt. In this case, the antique dealer is selling collectibles, not securities."
+	},
+	{
+		"question": "After the annuitant's death, beneficiaries under a life and 15-year period certain option are subject to:",
+		"answers": [
+			{
+				"answer": "Capital gains tax on the total amount of payments received.",
+				"correct": false
+			},
+			{
+				"answer": "Ordinary income tax on the total amount of payments received, plus a 10% withdrawal penalty if the annuitant was under age 59 1/2.",
+				"correct": false
+			},
+			{
+				"answer": "Ordinary income tax on the portion of the payout that exceeds the cost basis.",
+				"correct": true
+			},
+			{
+				"answer": "Tax-free payout of all remaining annuity benefits.",
+				"correct": false
+			}
+		],
+		"explanation": "Payments from the annuity to the beneficiary through a period certain option are taxed similarly to other periodic annuity payments; any benefits exceeding the cost basis are subject to ordinary income tax. However, no 10% penalty applies in this scenario."
+	},
     {
-        "question": "Which of the following statements regarding provisions of the Investment Advisers Act of 1940 is TRUE?",
-        "answers": [
-            {
-                "answer": "Big Gains Registered Investment Advisers must disclose its sources of information for specific recommendations they make to their clients.",
-                "correct": false
-            },
-            {
-                "answer": "An investment adviser must obtain client permission to accept a buyout offer for all of the adviser's stock.",
-                "correct": false
-            },
-            {
-                "answer": "Five Partners Advisers, Ltd., must inform all clients that one of the 5 partners has retired and been replaced by a new partner.",
-                "correct": true
-            },
-            {
-                "answer": "Pledging a client's contract as collateral for a loan to the adviser would not be considered an assignment of the contract.",
-                "correct": false
-            }
-        ],
-        "explanation": "Both state and federal law require advisers operating as partnerships to notify their clients of changes in partners where it represents a minority interest in the firm. No adviser is required to disclose the sources for a particular recommendation. An advisory firm can be sold without client permission. However, if the transaction results in a change that would be deemed to be an assignment, the adviser must obtain the consent of the clients to maintain their contracts. The regulatory bodies consider a pledge of clients' contracts to be an assignment."
-    },
+		"question": "Your client, age 60, is retired and living in a home with a fully paid-off mortgage. Her portfolio consists of growth stocks and high-quality bonds, and she is an experienced investor comfortable with moderate risk. Her goal is to achieve a moderate level of current income to supplement her corporate pension plan distributions and earnings from her IRA. Which mutual fund would be the most suitable for her?",
+		"answers": [
+			{
+				"answer": "ABC Equity Income Fund",
+				"correct": true
+			},
+			{
+				"answer": "QRS Capital Appreciation Fund",
+				"correct": false
+			},
+			{
+				"answer": "XYZ Biotechnology Fund",
+				"correct": false
+			},
+			{
+				"answer": "LMN Stock Index Fund",
+				"correct": false
+			}
+		],
+		"explanation": "An equity fund that aims to provide both current income and income growth aligns best with the client's objectives and investment profile. A stock index fund does not deliver the current income needed, while the capital appreciation and biotechnology funds are too risky and do not provide income, making them unsuitable for this retired individual."
+	},
+	{
+		"question": "Which of the following securities are traded on regulated stock exchanges with their prices determined by supply and demand? <br><br>I. Closed-end investment companies <br>II. Exchange-traded funds <br>III. Face amount certificate companies <br>IV. Mutual funds",
+		"answers": [
+			{
+				"answer": "I and II",
+				"correct": true
+			},
+			{
+				"answer": "I and III",
+				"correct": false
+			},
+			{
+				"answer": "II and III",
+				"correct": false
+			},
+			{
+				"answer": "III and IV",
+				"correct": false
+			}
+		],
+		"explanation": "Closed-end funds and exchange-traded funds (ETFs) are both traded on stock exchanges, with their prices influenced by supply and demand, similar to other stocks."
+	},
+	{
+		"question": "The transfer of funds from one retirement plan to another, typically within a specified timeframe, is referred to as a rollover.",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": "This is termed a rollover because it generally must be completed within a specified period, typically 60 days, to avoid penalties. In contrast, a direct transfer does not involve time limits, as the investor never has access to the funds."
+	},
     {
-        "question": "Minimum percent of cash value that must be available for a policy loan after 3 years",
-        "answers": [
-            {
-                "answer": "9",
-                "correct": false
-            },
-            {
-                "answer": "24",
-                "correct": false
-            },
-            {
-                "answer": "75",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
+		"question": "Where do securities trade in an auction format?",
+		"answers": [
+			{
+				"answer": "Primary market",
+				"correct": false
+			},
+			{
+				"answer": "NYSE",
+				"correct": true
+			},
+			{
+				"answer": "NASDAQ",
+				"correct": false
+			},
+			{
+				"answer": "OTC",
+				"correct": false
+			}
+		],
+		"explanation": "The NYSE has historically operated as an auction-based marketplace with specialists on the trading floor. These specialists match buyers and sellers for a company's stock and also trade from their own accounts to ensure market liquidity. Today, the NYSE functions as a hybrid marketplace, combining a physical trading floor with electronic trading, and the specialists are now referred to as designated market makers."
+	},
+	{
+		"question": "What is true about a sole proprietor of an insurance business that only provides advice on fixed-income annuity contracts?",
+		"answers": [
+			{
+				"answer": "They do not need to register under any securities laws.",
+				"correct": true
+			},
+			{
+				"answer": "They must register as an investment adviser under the Investment Advisers Act of 1940.",
+				"correct": false
+			},
+			{
+				"answer": "They must register as an investment adviser representative under the USA.",
+				"correct": false
+			},
+			{
+				"answer": "They must register as a broker-dealer with the SEC.",
+				"correct": false
+			}
+		],
+		"explanation": "A sole proprietor of an insurance business does not need to register under the Uniform Securities Act or the Investment Advisers Act, as they provide advice solely on fixed-income annuities, which are considered insurance products and not securities. Regulations under the USA and federal securities laws apply only to securities."
+	},
+	{
+		"question": "What is the designation of an individual who represents her nonexempt employer in selling its securities to existing employees for a commission?",
+		"answers": [
+			{
+				"answer": "Agent",
+				"correct": true
+			},
+			{
+				"answer": "Not an agent",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			},
+			{
+				"answer": "None",
+				"correct": false
+			}
+		],
+		"explanation": "An individual who represents an employer in selling securities to employees must register as an agent if they receive a commission. If no commission is involved, registration is not required."
+	},
     {
-        "question": "GDP",
-        "answers": [
-            {
-                "answer": "Prime rate",
-                "correct": false
-            },
-            {
-                "answer": "Lagging indicator",
-                "correct": false
-            },
-            {
-                "answer": "Leading indicator",
-                "correct": false
-            },
-            {
-                "answer": "Coincident indicator",
-                "correct": true
-            }
-        ],
-        "explanation": ""
-    },
-    {
-        "question": "Usually called mutual funds",
-        "answers": [
-            {
-                "answer": "Open-end company",
-                "correct": true
-            },
-            {
-                "answer": "Closed-end company",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
-    {
-        "question": "All of the following represent ownership in corporation except",
-        "answers": [
-            {
-                "answer": "mortgage bonds.",
-                "correct": true
-            },
-            {
-                "answer": "common stock.",
-                "correct": false
-            },
-            {
-                "answer": "convertible preferred stock.",
-                "correct": false
-            },
-            {
-                "answer": "preferred stock.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>Ownership in a corporation resides in its equity securities. All stock is equity while all bonds are debt.<br /><br />U12LO1</span>"
-    },
-    {
-        "question": "To reflect a more accurate picture of economic results, gross domestic product is adjusted",
-        "answers": [
-            {
-                "answer": "to include bank reserves",
-                "correct": false
-            },
-            {
-                "answer": "for inflation",
-                "correct": true
-            },
-            {
-                "answer": "to match foreign GDP",
-                "correct": false
-            },
-            {
-                "answer": "downward by the balance of payments",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>By adjusting GDP for inflation, one can measure economic activity with less distortion. A constant dollar adjustment is made to remove the effects of inflation.<br /><br />U8LO2</span>"
-    },
-    {
-        "question": "Which of the following is a coincident economic indicator?",
-        "answers": [
-            {
-                "answer": "Machine tool orders",
-                "correct": false
-            },
-            {
-                "answer": "Agricultural employment",
-                "correct": false
-            },
-            {
-                "answer": "Stock market prices as measured by the S&amp;P 500",
-                "correct": false
-            },
-            {
-                "answer": "Industrial production",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>Industrial production is a coincident indicator. The stock indexes and manufacturing orders are leading indicators. Economists do not use agricultural employment as an indicator.<br /><br />U8LO3</span>"
-    },
-    {
-        "question": "A rich uncle wishes to provide $1,000 per month in perpetuity to his favorite niece. If the account can be invested to earn 5% per annum, what is the required deposit?",
-        "answers": [
-            {
-                "answer": "$20,000",
-                "correct": false
-            },
-            {
-                "answer": "$24,000",
-                "correct": false
-            },
-            {
-                "answer": "$200,000",
-                "correct": false
-            },
-            {
-                "answer": "$240,000",
-                "correct": true
-            }
-        ],
-        "explanation": "The first step is to take the monthly income and convert it to a yearly number: $1,000 per month is $12,000 per year. Then, divide that $12,000 by the 5% rate of return, and you arrive at a lump-sum deposit of $240,000. "
-    },
-    {
-        "question": "A broker-dealer registered with the SEC and several states must meet the net capital standard of the state with the most stringent requirements.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": false
-            },
-            {
-                "answer": "False",
-                "correct": true
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "When a broker-dealer is registered with both the SEC and several states (the usual case), the financial and operational requirements to be met are those of the SEC."
-    },
-    {
-        "question": "Achieve safety of principal with yields slightly higher than government bond fund",
-        "answers": [
-            {
-                "answer": "Ginnie Mae fund",
-                "correct": true
-            },
-            {
-                "answer": "Special situation fund",
-                "correct": false
-            },
-            {
-                "answer": "Asset allocation fund",
-                "correct": false
-            },
-            {
-                "answer": "Index fund",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
-    {
-        "question": "The best option for someone wanting to invest in real estate, but needing liquidity, is:",
-        "answers": [
-            {
-                "answer": "REITs",
-                "correct": true
-            },
-            {
-                "answer": "Preferred stock in a real estate company",
-                "correct": false
-            },
-            {
-                "answer": "Common stock in a real estate company",
-                "correct": false
-            },
-            {
-                "answer": "ADRs",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>REITs, or Real Estate Investment Trusts, are the best way for most people to invest in commercial real estate.</span></p>"
-    },
-    {
-        "question": "All of the following statements regarding an investment's internal rate of return (IRR) are true EXCEPT",
-        "answers": [
-            {
-                "answer": "IRR expresses the rate of interest that matches the initial investment with the present value of future cash flows",
-                "correct": false
-            },
-            {
-                "answer": "investments are acceptable when their internal rates of return exceed the investor's required rate of return",
-                "correct": false
-            },
-            {
-                "answer": "IRR cannot be calculated for investments with uneven cash flows",
-                "correct": true
-            },
-            {
-                "answer": "IRR is the one rate of return that results in an investment having a net present value (NPV) of 0",
-                "correct": false
-            }
-        ],
-        "explanation": "IRR is the rate of interest that equates the initial investment with the present value of future cash flows; it is the rate of return that results in an investment having a net present value of 0. It is possible, although very difficult, to calculate IRR for investments with uneven cash flows such as common stocks."
-    },
-    {
-        "question": "The primary defining characteristic of an equity security is",
-        "answers": [
-            {
-                "answer": "it represents ownership in a corporation.",
-                "correct": true
-            },
-            {
-                "answer": "the ability to keep pace with inflation.",
-                "correct": false
-            },
-            {
-                "answer": "it pays dividends, usually quarterly.",
-                "correct": false
-            },
-            {
-                "answer": "voting rights.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>What does the term \"equity\" mean? It means ownership and that is the single most significant fact about an equity security, whether common or preferred stock. Many pay dividends, but that is not at the core of being an equity security. Equity securities include preferred stock, which, with its fixed dividend, does not offer inflation protection and does not have voting rights.<br /><br />U12LO1</span>"
-    },
-    {
-        "question": "Kevin owns $500,000 in Treasury bonds, and wishes to use Treasury bond futures contracts to fully hedge his position.  Assuming a contract size of $100,000, how should Kevin hedge his position?",
-        "answers": [
-            {
-                "answer": "Go short 5 contracts",
-                "correct": true
-            },
-            {
-                "answer": "Go long 500 contracts",
-                "correct": false
-            },
-            {
-                "answer": "Go short 500 contracts",
-                "correct": false
-            },
-            {
-                "answer": "Go long 5 contracts",
-                "correct": false
-            }
-        ],
-        "explanation": "Since Kevin owns Treasury bonds, he will gain on his bond holding when Treasury prices increase, and lose on his bond holding when Treasury prices decrease.  To hedge his bond holdings with futures, the futures position must move in the opposite direction:  lose when Treasury prices increase, and gain when Treasury prices decrease.  A short position on the Treasury futures will exhibit this gain/loss profile.  Since the contract size is given as $100,000, and Kevin wants to fully hedge his $500,000 of bond holdings, he needs to go short enough contracts to get $500,000 of futures exposure:  $500,000 exposure desired/$100,000 per contract = 5 contracts.  Kevin needs to short 5 contracts to fully hedge."
-    },
-    {
-        "question": "A state-registered investment adviser maintaining custody of customer funds and securities discovers that its net worth is $32,000. Which of the following steps would NOT be required?",
-        "answers": [
-            {
-                "answer": "Filing a financial report with the Administrator by the close of business on the next business day following notice",
-                "correct": false
-            },
-            {
-                "answer": "Notifying the Administrator of the deficiency by the close of business on the next business day",
-                "correct": false
-            },
-            {
-                "answer": "Reporting to the Administrator the number of client accounts being served by the investment adviser",
-                "correct": false
-            },
-            {
-                "answer": "Returning the customer funds and securities within three business days of the discovery",
-                "correct": true
-            }
-        ],
-        "explanation": "Once the firm's net worth is below $35,000, notifications and reports must be sent to the Administrator. Unless ordered by the Administrator, there is no requirement to return client assets to them."
-    },
-    {
-        "question": "Which of the following statements concerning international investing is correct?",
-        "answers": [
-            {
-                "answer": "The rates of return on foreign securities are generally less than those available from U.S. markets.",
-                "correct": false
-            },
-            {
-                "answer": "Information is not as readily available on foreign investments as on domestic ones.",
-                "correct": true
-            },
-            {
-                "answer": "The addition of foreign securities to a portfolio may result in increased portfolio risk due to the different movements of foreign markets and U.S. markets.",
-                "correct": false
-            },
-            {
-                "answer": "Foreign markets are usually mature and offer no growth advantages.",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>In general, foreign investments don't have the transparency of domestic ones. Investors may earn higher returns in foreign markets and including foreign securities in an investment portfolio may lower risk through greater diversification. This is because there may be a low correlation with U.S. markets. Although securities markets in most developed economies are mature, that doesn't mean they can't grow and the markets in emerging economies offer great potential growth commensurate with their greater risk.<br /><br />U12LO5</span>"
-    },
-    {
-        "question": "A customer wishes to buy a security providing periodic interest payments, safety of principal, and protection from purchasing power risk. The customer should purchase",
-        "answers": [
-            {
-                "answer": "TIPS",
-                "correct": true
-            },
-            {
-                "answer": "TIGRS",
-                "correct": false
-            },
-            {
-                "answer": "CMOs",
-                "correct": false
-            },
-            {
-                "answer": "STRIPS",
-                "correct": false
-            }
-        ],
-        "explanation": "TIPS offer inflation protection and safety of principal because they are backed by the U.S. government."
-    },
-    {
-        "question": "Annuity payouts continue as long as one of the annuitants is alive",
-        "answers": [
-            {
-                "answer": "Accumulation unit",
-                "correct": false
-            },
-            {
-                "answer": "Joint and last survivor annuity",
-                "correct": true
-            },
-            {
-                "answer": "Deferred annuity",
-                "correct": false
-            },
-            {
-                "answer": "Variable annuity",
-                "correct": false
-            }
-        ],
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following actions should be taken by an agent when a client decides to open an options account?",
-        "answers": [
-            {
-                "answer": "Assure that an options agreement has been signed prior to the first trade taking place",
-                "correct": false
-            },
-            {
-                "answer": "Provide an options disclosure document no later than 15 days after the first trade",
-                "correct": false
-            },
-            {
-                "answer": "Review with the client the risks involved when trading options before the first options trade",
-                "correct": true
-            },
-            {
-                "answer": "Obtain approval from the designated options supervisor to open the account no later than 1 business day after the first options trade",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>It is imperative that suitability and risk be addressed with the client before allowing option trading to take place. The ODD must be delivered no later than with account opening, and the options agreement must be returned no later than 15 days after the account opening. An options account must be approved by a designated supervisor prior to any trading takes place in the account.<br /><br />U18LO2</span>"
-    },
-    {
-        "question": "Which of the following is NOT a factor when a communication to be distributed to the public is either being reviewed or approved by the broker-dealer?",
-        "answers": [
-            {
-                "answer": "Whether statements of benefits are balanced with statements of potential risks",
-                "correct": false
-            },
-            {
-                "answer": "The nature of the audience to which the communication is intended to be distributed",
-                "correct": false
-            },
-            {
-                "answer": "Whether the piece will be distributed in written form or on the firm's website",
-                "correct": true
-            },
-            {
-                "answer": "Whether the communication is targeting existing customers or prospective ones",
-                "correct": false
-            }
-        ],
-        "explanation": "The format is not what counts; it is the content that matters."
-    },
-    {
-        "question": "<p>Under the Uniform Securities Act, which of the following are considered states?<br><br>I.\tPuerto Rico<br>II.\tAmerican Samoa<br>III.\tThe District of Columbia<br>IV.\tGuam<br></p>",
-        "answers": [
-            {
-                "answer": "I, II, III, IV",
-                "correct": true
-            },
-            {
-                "answer": "I, III, IV",
-                "correct": false
-            },
-            {
-                "answer": "I, II",
-                "correct": false
-            },
-            {
-                "answer": "II, III",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>Under the Uniform Securities Act state means: any state, territory, or possession of the United States, the District of Columbia and Puerto Rico. U.S. territories include: American Samoa, Guam, Puerto Rico, Northern Mariana Islands, and the U.S. Virgin Islands.<br></p>"
-    },
-    {
-        "question": "If a country's current account shows a trade deficit, it is most likely that",
-        "answers": [
-            {
-                "answer": "short-term flows are greater than long-term flows.",
-                "correct": false
-            },
-            {
-                "answer": "tax payments are greater than tax receipts.",
-                "correct": false
-            },
-            {
-                "answer": "net exports are greater than zero.",
-                "correct": false
-            },
-            {
-                "answer": "imports are greater than exports.",
-                "correct": true
-            }
-        ],
-        "explanation": "<span>A trade deficit occurs when imports are greater than exports.<br /><br />U8LO1</span>"
-    },
-    {
-        "question": "The term issuer, as defined in the Securities Act of 1933, would include: <br><br>I. a government entity issuing exempt securities. <br>II. a corporation issuing securities in an exempt transaction. <br>III. an antique dealer selling items from a collection of rare books.",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": true
-            },
-            {
-                "answer": "II and III",
-                "correct": false
-            },
-            {
-                "answer": "III only",
-                "correct": false
-            },
-            {
-                "answer": "I, II, and III",
-                "correct": false
-            }
-        ],
-        "explanation": "An issuer is a person who issues a security, whether or not the security is exempt. In the question, the antique dealer is issuing collectibles, not securities."
-    },
-    {
-        "question": "After the death of the annuitant, beneficiaries under a life and 15-year period certain option are subject to",
-        "answers": [
-            {
-                "answer": "capital gains taxation on the total amount of payments received",
-                "correct": false
-            },
-            {
-                "answer": "ordinary income taxation on the total amount of payments received, plus a 10% withdrawal penalty if the annuitant was under age 59 1/2",
-                "correct": false
-            },
-            {
-                "answer": "ordinary income taxation on the amount of the payout that exceeds the cost basis",
-                "correct": true
-            },
-            {
-                "answer": "tax-free payout of all remaining annuity benefits",
-                "correct": false
-            }
-        ],
-        "explanation": "Payments from the annuity to the beneficiary through a period certain option are taxed in the same way as other periodic annuity payments; benefits over the amount of the cost basis are taxable as ordinary income. However, no 10% penalty applies in this situation."
-    },
-    {
-        "question": "Your customer, age 60, is retired and living at home with a fully paid-off mortgage. Her portfolio contains growth stocks and high-quality bonds, and she is a longtime investor and comfortable with moderate risk. Her objective is a moderate level of current income to supplement her corporate pension plan distributions and the earnings from her IRA. Which of the following mutual funds is the most suitable for this customer?",
-        "answers": [
-            {
-                "answer": "ABC Equity Income Fund",
-                "correct": true
-            },
-            {
-                "answer": "QRS Capital Appreciation Fund",
-                "correct": false
-            },
-            {
-                "answer": "XYZ Biotechnology Fund",
-                "correct": false
-            },
-            {
-                "answer": "LMN Stock Index Fund",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>An equity fund that aims to achieve both current income and growth of income best suits the objectives and investment profile of the client. A stock index fund does not offer the current income that the client requires. The capital appreciation and biotechnology funds not only fail to provide income; they are too risky for this retired person.<br /><br />U19LO6</span>"
-    },
-    {
-        "question": "Which of the following securities trade on regulated stock exchanges with their prices being determined by supply and demand? <br><br>I. Closed-end investment companies <br>II. Exchange-traded funds <br>III. Face amount certificate companies <br>IV. Mutual funds",
-        "answers": [
-            {
-                "answer": "I and II",
-                "correct": true
-            },
-            {
-                "answer": "I and III",
-                "correct": false
-            },
-            {
-                "answer": "II and III",
-                "correct": false
-            },
-            {
-                "answer": "III and IV ",
-                "correct": false
-            }
-        ],
-        "explanation": "Both closed-end funds and exchange-traded funds (ETFs) trade on stock exchanges with their prices being determined by supply and demand just like any other stock."
-    },
-    {
-        "question": "The movement of funds from one retirement plan to another, generally within a specified period, is called a rollover.",
-        "answers": [
-            {
-                "answer": "True",
-                "correct": true
-            },
-            {
-                "answer": "False",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "Why isn't this a transfer? The key is the phrase, \"generally within a specified period.\" That refers to the 60 days one has to complete the rollover without penalty. In the case of a direct transfer, time limits are not a relevant factor-the investor never has access to the funds."
-    },
-    {
-        "question": "<p>Where do securities trade at auction?<br></p>",
-        "answers": [
-            {
-                "answer": "Primary market",
-                "correct": false
-            },
-            {
-                "answer": "NYSE",
-                "correct": true
-            },
-            {
-                "answer": "NASDAQ",
-                "correct": false
-            },
-            {
-                "answer": "OTC",
-                "correct": false
-            }
-        ],
-        "explanation": "<p>The NYSE historically has been an auction based marketplace with specialists on the floor. The specialist matches buyers and sellers for a company's stock, and also trades out of his own account to ensure liquidity in the market. Today, the NYSE functions as a hybrid marketplace, maintaining a physical floor but also with some trading occurring electronically. Today, we call the specialists designated market makers.<br></p>"
-    },
-    {
-        "question": "The sole proprietor of an insurance business that exclusively provides advice on fixed-income annuity contracts",
-        "answers": [
-            {
-                "answer": "need not register under any securities laws",
-                "correct": true
-            },
-            {
-                "answer": "must register as an investment adviser under the Investment Advisers Act of 1940",
-                "correct": false
-            },
-            {
-                "answer": "must register as an investment adviser representative under the USA",
-                "correct": false
-            },
-            {
-                "answer": "must register as a broker-dealer with the SEC",
-                "correct": false
-            }
-        ],
-        "explanation": "<span>The sole proprietor of an insurance business need not register under the Uniform Securities Act or Investment Advisers Act. He provides advice on fixed-income annuities only, which are insurance products, not securities. Regulations under the USA, as well as federal securities laws, only apply to securities.<br /><br />U1LO3</span>"
-    },
-    {
-        "question": "An individual who represents her nonexempt employer in the sale of its securities to existing employees for a commission",
-        "answers": [
-            {
-                "answer": "Agent",
-                "correct": true
-            },
-            {
-                "answer": "Not an agent",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            },
-            {
-                "answer": "Null",
-                "correct": false
-            }
-        ],
-        "explanation": "A person who represents an employer in selling securities to employees must register as an agent if the person receives a commission. If no commission is paid, registration is not necessary."
-    },
-    {
-        "question": "A client places an order to buy 300 DWQ at 140 stop, but not over 144. This is",
-        "answers": [
-            {
-                "answer": "a buy stop order",
-                "correct": false
-            },
-            {
-                "answer": "a buy limit order",
-                "correct": false
-            },
-            {
-                "answer": "a market not held order",
-                "correct": false
-            },
-            {
-                "answer": "a buy stop limit order",
-                "correct": true
-            }
-        ],
-        "explanation": "The customer has specified a buy stop limit order. If the stock rises to the stop price of $140, the order is triggered and then becomes a buy limit order at 144, meaning an order to buy at $144 or lower. A market not held order allows the broker to submit a market order and is not held or committed to executing the order at a specific price."
-    },
-    {
-        "question": "The regulatory bodies consider which of the following social media sites to be predominately used for business rather than personal communications?",
-        "answers": [
-            {
-                "answer": "Facebook",
-                "correct": false
-            },
-            {
-                "answer": "Instagram",
-                "correct": false
-            },
-            {
-                "answer": "LinkedIn",
-                "correct": true
-            },
-            {
-                "answer": "Twitter",
-                "correct": false
-            }
-        ],
-        "explanation": "LinkedIn is viewed as a site used far more for business purposes than the others."
-    },
-    {
-        "question": "Which of the following is required to register as an investment adviser with the state securities Administrator?",
-        "answers": [
-            {
-                "answer": "The author of a book on money and banking that was sold to residents of the state in which it is published.",
-                "correct": false
-            },
-            {
-                "answer": "An investment advisory firm with $85 million in assets under management that opens an office in the state.",
-                "correct": true
-            },
-            {
-                "answer": "A person with no office in the state whose only advisory clients are investment companies and banks in the state.",
-                "correct": false
-            },
-            {
-                "answer": "A newly formed investment advisory firm with $145 million in assets under management that has two offices in the state and serves exclusively individual clients.",
-                "correct": false
-            }
-        ],
-        "explanation": "Unless some kind of exemption applies, an investment adviser must register on the state level if it manages less than $100 million in assets. Publishers of general circulation books are exempt from state registration, as are advisers with no offices in the state whose only customers are institutions, such as banks and investment companies, in the state. Investment advisers with $110 million or more in assets under management must register with the SEC, not the state Administrator regardless of offices in the state and the type of clientele being served."
-    },
+		"question": "A client places an order to buy 300 shares of DWQ at a stop price of 140, but not exceeding 144. This is classified as:",
+		"answers": [
+			{
+				"answer": "A buy stop order",
+				"correct": false
+			},
+			{
+				"answer": "A buy limit order",
+				"correct": false
+			},
+			{
+				"answer": "A market not held order",
+				"correct": false
+			},
+			{
+				"answer": "A buy stop limit order",
+				"correct": true
+			}
+		],
+		"explanation": "This order is a buy stop limit order. If the stock price reaches the stop price of $140, the order is activated and becomes a buy limit order at $144, meaning it will buy at $144 or lower. A market not held order allows the broker to submit a market order without being committed to a specific price."
+	},
+	{
+		"question": "Which of the following social media platforms do regulatory bodies consider primarily used for business rather than personal communication?",
+		"answers": [
+			{
+				"answer": "Facebook",
+				"correct": false
+			},
+			{
+				"answer": "Instagram",
+				"correct": false
+			},
+			{
+				"answer": "LinkedIn",
+				"correct": true
+			},
+			{
+				"answer": "Twitter",
+				"correct": false
+			}
+		],
+		"explanation": "LinkedIn is recognized as a platform that is predominantly used for business purposes compared to the others."
+	},
+	{
+		"question": "Which of the following must register as an investment adviser with the state securities Administrator?",
+		"answers": [
+			{
+				"answer": "The author of a book on money and banking sold to residents of the state where it is published.",
+				"correct": false
+			},
+			{
+				"answer": "An investment advisory firm with $85 million in assets under management that opens an office in the state.",
+				"correct": true
+			},
+			{
+				"answer": "A person with no office in the state whose only advisory clients are investment companies and banks in the state.",
+				"correct": false
+			},
+			{
+				"answer": "A newly formed investment advisory firm with $145 million in assets under management that has two offices in the state and serves only individual clients.",
+				"correct": false
+			}
+		],
+		"explanation": "An investment adviser must register at the state level if they manage less than $100 million in assets unless an exemption applies. Authors of general circulation books are exempt from state registration, as are advisers with no offices in the state whose clients are solely institutions like banks and investment companies. Investment advisers managing $110 million or more must register with the SEC, not the state Administrator, regardless of their offices or clientele."
+	},
     {
         "question": "A form of business structure that exposes all personal assets of the owner to creditors is",
         "answers": [
