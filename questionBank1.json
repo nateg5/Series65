@@ -1,0 +1,992 @@
+[
+    {
+		"question": "Which of the following individuals would NOT be exempt from the definition of an investment adviser according to the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "An accountant who hosts seminars discussing the tax advantages of contributing to both traditional and Roth IRAs.",
+				"correct": false
+			},
+			{
+				"answer": "A lawyer who charges clients by the hour for drafting trust documents for individuals referred by an investment adviser.",
+				"correct": false
+			},
+			{
+				"answer": "A high school teacher who receives a small fee for providing investment advice to engineers.",
+				"correct": true
+			},
+			{
+				"answer": "A financial planner who gives presentations to the local PTA about the benefits of term life insurance.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The LATE exclusion applies when professionals provide advice incidentally. If a teacher (or any of the others) is compensated specifically for giving advice, even if it's a small amount, the exclusion is no longer valid. To be classified as an investment adviser, one must provide advice on securities; term life insurance does not qualify as a security. Additionally, preparing trust documents does not constitute securities advice, even if clients are referred by an investment adviser. Lastly, accountants often provide tax advice, and IRAs are not considered securities.<br /><br />U1LO3</span>"
+	},
+	{
+		"question": "Which type of business account does not require evaluating the suitability of its owners?",
+		"answers": [
+			{
+				"answer": "S corporations",
+				"correct": false
+			},
+			{
+				"answer": "General partnerships",
+				"correct": false
+			},
+			{
+				"answer": "Sole proprietorships",
+				"correct": false
+			},
+			{
+				"answer": "C corporations",
+				"correct": true
+			}
+		],
+		"explanation": "<span>Since a C corporation is a separate legal entity from its shareholders, the suitability assessment for a C corporation account is based solely on the corporation itself. In contrast, the other types of business structures allow income and losses to flow through to the individual owners, making it essential to assess the collective suitability of the individual owners (or the single owner in the case of a sole proprietorship).<br /><br />U18LO3</span>"
+	},
+	{
+		"question": "Which of the following is NOT a provision under the Securities Exchange Act of 1934?",
+		"answers": [
+			{
+				"answer": "Mandating that all securities listed on a national exchange must be registered with the SEC.",
+				"correct": false
+			},
+			{
+				"answer": "Banning manipulative practices like wash trades and false statements.",
+				"correct": false
+			},
+			{
+				"answer": "Requiring complete disclosure for an upcoming IPO.",
+				"correct": true
+			},
+			{
+				"answer": "Mandating the registration of transfer agents.",
+				"correct": false
+			}
+		],
+		"explanation": "The requirement for disclosure regarding new issues (IPOs) is outlined in the Securities Act of 1933."
+	},
+    {
+		"question": "Is straight-line depreciation classified as a tax preference item for the Alternative Minimum Tax (AMT) calculation?",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": false
+			},
+			{
+				"answer": "False",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "Only accelerated depreciation qualifies as a tax preference item when calculating AMT."
+	},
+	{
+		"question": "When both the Consumer Price Index (CPI) and consumer demand are rising, which phase of the business cycle is the economy likely experiencing?",
+		"answers": [
+			{
+				"answer": "Peak to contraction",
+				"correct": false
+			},
+			{
+				"answer": "Contraction to trough",
+				"correct": false
+			},
+			{
+				"answer": "Recovery to trough",
+				"correct": false
+			},
+			{
+				"answer": "Expansion to peak",
+				"correct": true
+			}
+		],
+		"explanation": "<span>As prices rise and consumer demand increases, the economy transitions from expansion to peak. If demand continues to grow while supply remains constant, it will exert upward pressure on prices throughout the expansion phase until reaching the peak.<br /><br />U8LO2</span>"
+	},
+	{
+		"question": "Is a state-registered investment adviser who has custody of a client's securities or funds and exercises discretion in the account typically required to maintain a minimum net worth of $35,000?",
+		"answers": [
+			{
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"answer": "False",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": "An adviser who has custody of client assets, regardless of whether they have discretion, is generally required to maintain a net worth of $35,000."
+	},
+    {
+		"question": "Which type of investment exposes the investor the least to reinvestment risk?",
+		"answers": [
+			{
+				"answer": "Treasury STRIPS/zero-coupon bonds",
+				"correct": true
+			},
+			{
+				"answer": "Preferred stock in a growth company",
+				"correct": false
+			},
+			{
+				"answer": "Treasury notes",
+				"correct": false
+			},
+			{
+				"answer": "Common stock in an electric utility",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Treasury STRIPS (Separate Trading of Registered Interest and Principal of Securities) are zero-coupon bonds that do not pay interest. As a result, there is no income to reinvest during the holding period, eliminating reinvestment risk.<br /><br />U11LO1</span>"
+	},
+	{
+		"question": "Under what circumstances would a transactional exemption be applicable under the USA when an agent for a broker-dealer is involved?",
+		"answers": [
+			{
+				"answer": "Selling a large block of an unregistered nonexempt security to an individual who qualifies as an accredited investor",
+				"correct": false
+			},
+			{
+				"answer": "Selling a large block of an unregistered nonexempt security to an insurance company that is not authorized to operate in this state",
+				"correct": true
+			},
+			{
+				"answer": "Selling a retail client $10,000 worth of U.S. Treasury bonds",
+				"correct": false
+			},
+			{
+				"answer": "Receiving an unsolicited order from a client to buy heating oil contracts",
+				"correct": false
+			}
+		],
+		"explanation": "Selling a security to an institution, such as an insurance company, is classified as an exempt transaction. The fact that the company is not authorized to do business in the state means its securities are not exempt, but the transaction itself remains exempt because it involves an institution. The term accredited investor is irrelevant in this context; only institutional sales qualify for exempt treatment, not wealthy individuals. While T-bonds are exempt securities, selling them to a retail client does not constitute an exempt transaction. Additionally, heating oil contracts are classified as commodities, not securities."
+	},
+	{
+		"question": "What is the primary benefit of investing in open-end mutual funds?",
+		"answers": [
+			{
+				"answer": "Right of accumulation",
+				"correct": false
+			},
+			{
+				"answer": "Breakpoints",
+				"correct": false
+			},
+			{
+				"answer": "Forward pricing",
+				"correct": false
+			},
+			{
+				"answer": "Diversification",
+				"correct": true
+			}
+		],
+		"explanation": "<p>Open-end mutual funds provide professionally managed, diversified portfolios, which help to mitigate investment risk.<br /></p>"
+	},
+    {
+		"question": "ABC is a broker-dealer that is a member of FINRA and acts as the principal underwriter for the XYZ Mutual Fund. Which of the following transactions by ABC would be prohibited unless the SEC grants an exemption?",
+		"answers": [
+			{
+				"answer": "ABC redeems 500 shares of the XYZ Mutual Fund from its investment account.",
+				"correct": false
+			},
+			{
+				"answer": "ABC buys 500 shares of the XYZ Mutual Fund for its investment account.",
+				"correct": false
+			},
+			{
+				"answer": "ABC acquires some securities directly from XYZ's portfolio.",
+				"correct": true
+			},
+			{
+				"answer": "All of the above.",
+				"correct": false
+			}
+		],
+		"explanation": "Without an exemptive order from the SEC, it would violate the Investment Company Act of 1940 for any affiliated person to purchase any security from an investment company, except for shares of the fund itself."
+	},
+	{
+		"question": "An investor wishes to set up accounts for his three nephews following his brother's passing. Under the Uniform Gifts to Minors Act (UGMA), what can the investor do?",
+		"answers": [
+			{
+				"answer": "Open one account for all three nephews.",
+				"correct": false
+			},
+			{
+				"answer": "Open three separate accounts and deposit cash and securities.",
+				"correct": true
+			},
+			{
+				"answer": "Open three separate accounts and deposit insurance policies.",
+				"correct": false
+			},
+			{
+				"answer": "Open three separate accounts and deposit fixed annuities.",
+				"correct": false
+			}
+		],
+		"explanation": "UGMA regulations stipulate that each UGMA account must have a single beneficial owner and one custodian. Cash and securities can be contributed to the account, but insurance contracts and fixed annuities are not permitted."
+	},
+	{
+		"question": "Which type of investment would an investor concerned about liquidity be least likely to choose?",
+		"answers": [
+			{
+				"answer": "Stock subject to Rule 144.",
+				"correct": true
+			},
+			{
+				"answer": "Common stock listed on the New York Stock Exchange.",
+				"correct": false
+			},
+			{
+				"answer": "Cumulative preferred stock.",
+				"correct": false
+			},
+			{
+				"answer": "American Depositary Receipts (ADRs).",
+				"correct": false
+			}
+		],
+		"explanation": "Typically, stock subject to Rule 144 cannot be immediately resold, which is why it is referred to as restricted stock. U12LO4"
+	},
+    {
+		"question": "How can high-frequency trading (HFT) be best defined?",
+		"answers": [
+			{
+				"answer": "The trading behavior of individuals who engage in day trading.",
+				"correct": false
+			},
+			{
+				"answer": "The trading behavior of individuals who average at least 5 trades per week.",
+				"correct": false
+			},
+			{
+				"answer": "The use of advanced computers programmed with algorithms to automatically buy and sell stock positions within very short time frames.",
+				"correct": true
+			},
+			{
+				"answer": "A trading method that uses satellite technology to send orders to exchanges from any location worldwide.",
+				"correct": false
+			}
+		],
+		"explanation": "HFT is conducted by computers programmed to execute hundreds, if not thousands, of trades in extremely short time intervals, often buying and selling the same security in less than one second to capitalize on very small price fluctuations."
+	},
+	{
+		"question": "For a technician who values volume, which scenario would suggest bullish sentiment?",
+		"answers": [
+			{
+				"answer": "Prices rise on high volume.",
+				"correct": true
+			},
+			{
+				"answer": "Prices fall on high volume.",
+				"correct": false
+			},
+			{
+				"answer": "Prices fall on low volume.",
+				"correct": false
+			},
+			{
+				"answer": "Prices rise on low volume.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Technicians analyze changes in volume alongside price movements to gauge shifts in supply and demand. An increase in price accompanied by heavy volume compared to the stock's typical trading volume is seen as a sign of bullish activity.<br /><br />U12LO6</span>"
+	},
+	{
+		"question": "\"Stock prices quickly adjust to the release of all new public information.\" This statement reflects which of the following concepts?",
+		"answers": [
+			{
+				"answer": "Arbitrage pricing theory",
+				"correct": false
+			},
+			{
+				"answer": "Efficient market hypothesis",
+				"correct": true
+			},
+			{
+				"answer": "Odd-lot theory",
+				"correct": false
+			},
+			{
+				"answer": "Tactical allocation",
+				"correct": false
+			}
+		],
+		"explanation": "In an efficient market, all participants have equal access to information, which means stock prices adjust to reflect that information almost immediately."
+	},
+    {
+		"question": "Which of the following statements is true for GNMA securities but NOT for CMOs?",
+		"answers": [
+			{
+				"answer": "They are backed by the full faith and credit of the U.S. government.",
+				"correct": true
+			},
+			{
+				"answer": "They are collateralized by mortgages.",
+				"correct": false
+			},
+			{
+				"answer": "They yield more than T-bonds.",
+				"correct": false
+			},
+			{
+				"answer": "They are pass-through securities.",
+				"correct": false
+			}
+		],
+		"explanation": "CMOs do not have the backing of the full faith and credit of the U.S. government. However, both Ginnie Maes and CMOs are collateralized by mortgages, typically yield more than T-bonds, and are classified as pass-through securities."
+	},
+	{
+		"question": "When creating an investment portfolio for a new client, what is one of the first things to determine?",
+		"answers": [
+			{
+				"answer": "The client's home address.",
+				"correct": false
+			},
+			{
+				"answer": "The client's Social Security or tax ID number.",
+				"correct": false
+			},
+			{
+				"answer": "The client's risk tolerance.",
+				"correct": true
+			},
+			{
+				"answer": "The client's beneficiary.",
+				"correct": false
+			}
+		],
+		"explanation": "Understanding the client's risk tolerance is essential for making appropriate investment recommendations. While the home address and Social Security number are necessary for account setup, they do not influence portfolio design. Knowing the beneficiary for IRAs or qualified plans is important, but it is not directly related to the nature of investment recommendations."
+	},
+	{
+		"question": "Generally, which type of security offers the highest level of safety to an investor?",
+		"answers": [
+			{
+				"answer": "Common stock.",
+				"correct": false
+			},
+			{
+				"answer": "Debentures.",
+				"correct": false
+			},
+			{
+				"answer": "Mortgage bonds.",
+				"correct": true
+			},
+			{
+				"answer": "Preferred stock.",
+				"correct": false
+			}
+		],
+		"explanation": "Debt securities are typically viewed as safer than equity securities because they represent an obligation of the issuer. Among these debt obligations, mortgage bonds are the only ones secured by pledged assets."
+	},
+    {
+		"question": "According to ERISA, a fiduciary must act in all of the following ways EXCEPT:",
+		"answers": [
+			{
+				"answer": "Exclusively in the interest of plan participants and beneficiaries.",
+				"correct": false
+			},
+			{
+				"answer": "With care, skill, prudence, and caution that a prudent person familiar with such matters would use in similar circumstances.",
+				"correct": false
+			},
+			{
+				"answer": "In accordance with the governing plan documents, unless they conflict with ERISA.",
+				"correct": false
+			},
+			{
+				"answer": "Limiting investments to only those most likely to achieve growth.",
+				"correct": true
+			}
+		],
+		"explanation": "Under ERISA, a fiduciary is not restricted to only investing in options that are most likely to yield growth. Instead, the fiduciary must diversify investments to minimize the risk of losses, unless such diversification is clearly imprudent under the circumstances."
+	},
+	{
+		"question": "Most states have transitioned from the Uniform Gifts to Minors Act (UGMA) to the Uniform Transfers to Minors Act (UTMA). What is one of the main advantages of UTMA?",
+		"answers": [
+			{
+				"answer": "Improved tax benefits.",
+				"correct": false
+			},
+			{
+				"answer": "Increased flexibility in investment choices.",
+				"correct": true
+			},
+			{
+				"answer": "Lower fiduciary exposure for the custodian.",
+				"correct": false
+			},
+			{
+				"answer": "The beneficiary can access the account at an earlier age.",
+				"correct": false
+			}
+		],
+		"explanation": "While UGMA only allows gifts of cash and securities, UTMA accounts can hold other types of property, such as real estate and limited partnership interests. Taxation remains the same, as does the fiduciary liability of the custodian. Typically, beneficiaries have access to UTMA accounts at a later age compared to UGMA accounts."
+	},
+	{
+		"question": "What is a key difference between opening an account for a trust and an account for an estate?",
+		"answers": [
+			{
+				"answer": "The standard of prudent investing applies to trusts but not to executors.",
+				"correct": false
+			},
+			{
+				"answer": "Banks can serve as trustees for a trust but not as executors.",
+				"correct": false
+			},
+			{
+				"answer": "Only the estate has beneficiaries.",
+				"correct": false
+			},
+			{
+				"answer": "The trust account typically remains active for a much longer duration.",
+				"correct": true
+			}
+		],
+		"explanation": "Trusts can be established to last for many years, while the executor's responsibilities conclude once the estate has been settled."
+	},
+    {
+		"question": "Which of the following rights does a common stockholder NOT possess?",
+		"answers": [
+			{
+				"answer": "The right to receive dividends, if declared by the board of directors.",
+				"correct": false
+			},
+			{
+				"answer": "The right to elect the board of directors.",
+				"correct": false
+			},
+			{
+				"answer": "The right to determine the par value of the stock.",
+				"correct": true
+			},
+			{
+				"answer": "Preemptive rights.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Par value is an accounting decision made by the company at the time the stock is initially issued and is not subject to a vote by shareholders. Common stockholders are the owners of a corporation, which grants them various privileges, including the ability to transfer ownership, inspect company records, vote on corporate matters, and claim any residual assets in the event of liquidation.<br /><br />U12LO2</span>"
+	},
+	{
+		"question": "For a trust account that is not aiming for appreciation, which investment option would be most suitable?",
+		"answers": [
+			{
+				"answer": "Large-cap common and preferred stocks.",
+				"correct": false
+			},
+			{
+				"answer": "Common stock, preferred stock, and debentures.",
+				"correct": false
+			},
+			{
+				"answer": "Highly rated, fixed-income securities.",
+				"correct": true
+			},
+			{
+				"answer": "Common stock in small, highly profitable companies.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The only prudent choice that does not focus on appreciation is investing in highly rated, fixed-income securities.<br /><br />U19LO6</span>"
+	},
+	{
+		"question": "Which of the following options positions are considered bearish? <br><br>I. Long call <br>II. Short call <br>III. Long put <br>IV. Short put",
+		"answers": [
+			{
+				"answer": "II and III.",
+				"correct": true
+			},
+			{
+				"answer": "I and IV.",
+				"correct": false
+			},
+			{
+				"answer": "I and III.",
+				"correct": false
+			},
+			{
+				"answer": "II and IV.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+    {
+		"question": "Which types of life insurance always provide some guaranteed death benefit?",
+		"answers": [
+			{
+				"answer": "Whole, Universal, and Variable life.",
+				"correct": true
+			},
+			{
+				"answer": "Whole life.",
+				"correct": false
+			},
+			{
+				"answer": "Variable and Universal life.",
+				"correct": false
+			},
+			{
+				"answer": "Whole and Variable life.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "What is the maximum amount that can be contributed to a Coverdell Education Savings Account (ESA) in one year?",
+		"answers": [
+			{
+				"answer": "$500 per parent.",
+				"correct": false
+			},
+			{
+				"answer": "$2,000 per child.",
+				"correct": true
+			},
+			{
+				"answer": "$500 per couple.",
+				"correct": false
+			},
+			{
+				"answer": "$2,000 per couple.",
+				"correct": false
+			}
+		],
+		"explanation": "The contribution limit for each child's ESA is $2,000 per year. Therefore, if a couple has three children, they can contribute a total of $6,000, or $2,000 for each child, annually."
+	},
+	{
+		"question": "What determines an annuitant's interest in the insurer's separate account before distributions from the annuity commence?",
+		"answers": [
+			{
+				"answer": "Accumulation unit.",
+				"correct": true
+			},
+			{
+				"answer": "Joint and last survivor annuity.",
+				"correct": false
+			},
+			{
+				"answer": "Deferred annuity.",
+				"correct": false
+			},
+			{
+				"answer": "Variable annuity.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+    {
+		"question": "According to the Securities Exchange Act of 1934, which of the following would be considered a municipal security?",
+		"answers": [
+			{
+				"answer": "A City of Chicago school district bond.",
+				"correct": true
+			},
+			{
+				"answer": "50-year bonds issued by the Tennessee Valley Authority.",
+				"correct": false
+			},
+			{
+				"answer": "A U.S. Treasury bill.",
+				"correct": false
+			},
+			{
+				"answer": "A Province of Ontario library construction bond.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Under federal law, municipal bonds are those issued by any domestic political body or subdivision from the state level down. Treasury bills and TVA bonds are classified as government securities, not municipal securities. Additionally, Canadian cities or provinces do not qualify as municipal securities under federal law.<br /><br />U13LO5</span>"
+	},
+	{
+		"question": "If the U.S. dollar is appreciating against foreign currencies, which of the following statements is NOT true?",
+		"answers": [
+			{
+				"answer": "The U.S. dollar buys more of foreign currencies.",
+				"correct": false
+			},
+			{
+				"answer": "U.S. goods become more expensive in foreign countries.",
+				"correct": false
+			},
+			{
+				"answer": "Foreign goods become cheaper in the United States.",
+				"correct": false
+			},
+			{
+				"answer": "U.S. exports become more competitive.",
+				"correct": true
+			}
+		],
+		"explanation": "<span>As the U.S. dollar appreciates, U.S. exports will cost more for foreign buyers, making them less competitive. The stronger dollar allows for purchasing more foreign goods per dollar, but it does not enhance the competitiveness of U.S. exports.<br /><br />U8LO1</span>"
+	},
+	{
+		"question": "An 83-year-old widower expresses that he is risk-averse and seeks an investment focused on capital preservation. Which option would you recommend?",
+		"answers": [
+			{
+				"answer": "An index fund.",
+				"correct": false
+			},
+			{
+				"answer": "Bank-insured CDs.",
+				"correct": true
+			},
+			{
+				"answer": "Long-term U.S. government bonds.",
+				"correct": false
+			},
+			{
+				"answer": "Preferred stock.",
+				"correct": false
+			}
+		],
+		"explanation": "For capital preservation, the best option is a bank-insured CD, which is considered very safe. A money market fund is also a suitable choice, but you won't find both options in the same question."
+	},
+    {
+		"question": "If a bond is trading at a premium over its par value, then its:",
+		"answers": [
+			{
+				"answer": "Current yield is less than its nominal yield.",
+				"correct": true
+			},
+			{
+				"answer": "Nominal yield is less than its current yield.",
+				"correct": false
+			},
+			{
+				"answer": "Yield to maturity is greater than its current yield.",
+				"correct": false
+			},
+			{
+				"answer": "None of the above.",
+				"correct": false
+			}
+		],
+		"explanation": "A bond selling at a premium will yield less than its coupon rate (nominal yield). Conversely, a bond trading at a discount will yield more. There is an inverse relationship between bond prices and bond yields."
+	},
+	{
+		"question": "Which of the following is NOT considered a leading economic indicator?",
+		"answers": [
+			{
+				"answer": "Orders for durable goods.",
+				"correct": false
+			},
+			{
+				"answer": "New housing permits.",
+				"correct": false
+			},
+			{
+				"answer": "Duration of unemployment.",
+				"correct": true
+			},
+			{
+				"answer": "Money supply.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The average duration it takes for an unemployed person to find a new job is a lagging indicator, not a leading one. Employment typically improves last as the economy begins to expand, and layoffs are often one of the final measures companies take during economic downturns.<br /><br />U8LO3</span>"
+	},
+	{
+		"question": "An Administrator can deny an individual's application for registration as an investment adviser representative for all of the following reasons EXCEPT:",
+		"answers": [
+			{
+				"answer": "Lack of experience.",
+				"correct": true
+			},
+			{
+				"answer": "Conviction for a securities-related misdemeanor within the past 10 years.",
+				"correct": false
+			},
+			{
+				"answer": "Failure to pass a written exam.",
+				"correct": false
+			},
+			{
+				"answer": "Submitting an incomplete application.",
+				"correct": false
+			}
+		],
+		"explanation": "A lack of experience alone is not sufficient grounds for denying registration."
+	},
+    {
+		"question": "At what age are minimum distributions from a Tax-Sheltered Annuity (TSA) required for a retired participant?",
+		"answers": [
+			{
+				"answer": "59 1/2.",
+				"correct": false
+			},
+			{
+				"answer": "70 1/2.",
+				"correct": true
+			},
+			{
+				"answer": "85.",
+				"correct": false
+			},
+			{
+				"answer": "There is no minimum distribution rule applicable to TSAs.",
+				"correct": false
+			}
+		],
+		"explanation": "Minimum distributions from TSAs must begin by April 1 of the year following the year in which the participant turns 70 1/2."
+	},
+	{
+		"question": "To assess the change in GDP from one year to another, both years' GDP should be expressed in:",
+		"answers": [
+			{
+				"answer": "The exchange value of the dollar compared to major foreign currencies.",
+				"correct": false
+			},
+			{
+				"answer": "The current dollar price of gold bullion.",
+				"correct": false
+			},
+			{
+				"answer": "International depositary receipts.",
+				"correct": false
+			},
+			{
+				"answer": "Constant dollars.",
+				"correct": true
+			}
+		],
+		"explanation": "<span>To accurately compare GDP between years and assess actual economic activity, economists use constant dollars to remove the effects of inflation.<br /><br />U8LO2</span>"
+	},
+	{
+		"question": "Where is the cost of goods sold reported?",
+		"answers": [
+			{
+				"answer": "Balance sheet.",
+				"correct": false
+			},
+			{
+				"answer": "Income statement.",
+				"correct": true
+			},
+			{
+				"answer": "Both.",
+				"correct": false
+			},
+			{
+				"answer": "Neither.",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+    {
+		"question": "Which of the following is classified as a security under the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "A guaranteed, lump-sum payment to a beneficiary under a modified endowment policy.",
+				"correct": false
+			},
+			{
+				"answer": "Fixed, guaranteed payments made for life or for a specified period under an annuity contract.",
+				"correct": false
+			},
+			{
+				"answer": "Commodity futures contracts.",
+				"correct": false
+			},
+			{
+				"answer": "An investment contract.",
+				"correct": true
+			}
+		],
+		"explanation": "Investment contracts are defined as securities under the Uniform Securities Act and are often used synonymously with the term 'security.' A guaranteed lump-sum payment to a beneficiary is considered an endowment policy, which is excluded from the definition of a security. Fixed payments from annuity contracts are also not classified as securities. Commodity futures contracts and the commodities themselves do not fall under the definition of securities."
+	},
+	{
+		"question": "What is a taxpayer's marginal tax rate?",
+		"answers": [
+			{
+				"answer": "The rate of tax paid on margin account interest.",
+				"correct": false
+			},
+			{
+				"answer": "Generally lower than the effective tax rate.",
+				"correct": false
+			},
+			{
+				"answer": "The rate of taxation on any additional taxable income received.",
+				"correct": true
+			},
+			{
+				"answer": "The rate of tax paid on total taxable income.",
+				"correct": false
+			}
+		],
+		"explanation": "The marginal tax rate refers to the rate of taxation applied to any additional taxable income received. It is often described as the tax on the 'next' dollar or the 'last' dollar of income. The effective tax rate, on the other hand, is the overall rate paid on total taxable income."
+	},
+	{
+		"question": "Which of the following individuals is required to register as an investment adviser under the Uniform Securities Act?",
+		"answers": [
+			{
+				"answer": "An investment adviser who only serves institutional clients and whose only office is in this state.",
+				"correct": true
+			},
+			{
+				"answer": "An accountant who does not claim to provide investment advisory services but gives incidental advice to clients as part of accounting services.",
+				"correct": false
+			},
+			{
+				"answer": "An investment adviser representative with no place of business in the state who has dealt with 7 retail clients in the past 12 months.",
+				"correct": false
+			},
+			{
+				"answer": "An investment adviser whose advice is limited to securities issued or guaranteed by the U.S. government and who has 3 places of business in the state.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>The Uniform Securities Act mandates that individuals defined as investment advisers register with the state. Accountants are exempt when their advice is incidental to their profession and no extra compensation is charged. Advisers whose advice pertains only to securities issued or guaranteed by the government are excluded from the definition of investment adviser under the Investment Advisers Act of 1940, making them federal covered investment advisers not required to register with the Administrator, even if they have offices in the state. If an adviser has an office in the state, they must register unless they are federal covered. The investment adviser representative has exceeded the de minimis limits and must register in the state, but as an IAR, not as an IA.<br /><br />U1LO3</span>"
+	},
+    {
+		"question": "Tamika is an investment adviser representative with Financial Engineers, LLC, a covered investment adviser. The firm utilizes an investment policy statement (IPS) to assist in designing financial plans for clients. One of Tamika's clients intends to purchase a new boat in 7 months. In the context of the IPS, this situation would be classified as:",
+		"answers": [
+			{
+				"answer": "A capital need.",
+				"correct": false
+			},
+			{
+				"answer": "An investment goal.",
+				"correct": false
+			},
+			{
+				"answer": "An investment constraint.",
+				"correct": true
+			},
+			{
+				"answer": "A financial objective.",
+				"correct": false
+			}
+		],
+		"explanation": "<span>Investment constraints are limitations or restrictions that must be addressed to achieve objectives. In this case, it represents a liquidity constraint, as cash will be required in 7 months to complete the purchase.<br /><br />U19LO5</span>"
+	},
+	{
+		"question": "What is the best way for an American investor to gain exposure to foreign stocks?",
+		"answers": [
+			{
+				"answer": "Warrants.",
+				"correct": false
+			},
+			{
+				"answer": "REITs.",
+				"correct": false
+			},
+			{
+				"answer": "ADRs.",
+				"correct": true
+			},
+			{
+				"answer": "Preferred stocks.",
+				"correct": false
+			}
+		],
+		"explanation": "<p><strong>American Depository Receipts (ADRs) are the simplest method for investing in foreign stocks. They alleviate some concerns associated with investing in countries that have less stringent regulations.</strong></p>"
+	},
+	{
+		"question": "Susan is enrolled in a Section 401(k) plan at her workplace that allows loans. She has recently started college and is asking about the implications of borrowing from the plan to help finance her education. As her financial planner, what advice would you give her?",
+		"answers": [
+			{
+				"answer": "The loan will be treated as a taxable distribution from the plan by law.",
+				"correct": false
+			},
+			{
+				"answer": "The loan must be repaid within 5 years at a reasonable interest rate.",
+				"correct": true
+			},
+			{
+				"answer": "The 401(k) plan needs to be revised since loans are only available from qualified plans.",
+				"correct": false
+			},
+			{
+				"answer": "The loan cannot be taken as it is not for an unforeseeable emergency.",
+				"correct": false
+			}
+		],
+		"explanation": "To avoid being classified as a taxable distribution, a loan must be repayable within 5 years at a reasonable interest rate. The requirements for unforeseeable emergencies apply to Section 457 Plans."
+	},
+    {
+		"question": "If a client wants the assets in her account to be transferred directly to specific beneficiaries upon her death, how should her account be titled?",
+		"answers": [
+			{
+				"answer": "TIC",
+				"correct": false
+			},
+			{
+				"answer": "testamentary account",
+				"correct": false
+			},
+			{
+				"answer": "JTWROS",
+				"correct": false
+			},
+			{
+				"answer": "TOD",
+				"correct": true
+			}
+		],
+		"explanation": "A TOD (transfer on death) designation ensures that, upon the account holder's death, the assets are transferred to the named beneficiary or beneficiaries without the need for probate."
+	},
+	{
+		"question": "Which type of analysis primarily uses financial statements?",
+		"answers": [
+			{
+				"answer": "Technical analysis",
+				"correct": false
+			},
+			{
+				"answer": "Fundamental analysis",
+				"correct": true
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			},
+			{
+				"answer": "Null",
+				"correct": false
+			}
+		],
+		"explanation": ""
+	},
+	{
+		"question": "What is the calculation used to compare the actual rate of return to the internal rate of return?",
+		"answers": [
+			{
+				"answer": "active rate of return",
+				"correct": false
+			},
+			{
+				"answer": "real rate of return",
+				"correct": false
+			},
+			{
+				"answer": "standard deviation",
+				"correct": false
+			},
+			{
+				"answer": "net present value",
+				"correct": true
+			}
+		],
+		"explanation": "Net present value (NPV) measures the actual rate of return against the required or internal rate of return. This calculation helps investors determine if they are earning more or less than necessary to convert their present value into future value."
+	}
+]
